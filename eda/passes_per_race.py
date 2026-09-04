@@ -6,7 +6,7 @@ import pandas as pd
 import seaborn as sns
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from contants import F1_RED, INDY_BLUE, NASCAR_ORANGE
+from constants import F1_RED, INDY_BLUE, NASCAR_ORANGE
 
 REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
