@@ -1,0 +1,27 @@
+race_id,name,date,track,track_miles,scheduled_laps,scheduled_miles,actual_laps,actual_miles,points_race,caution_laps
+5619,2026 Cup Series Brickyard 400 presented by PPG,2026-07-26T14:00:00-07:00,Indianapolis Motor Speedway,2.50,160,400,160,400,True,27
+5618,2026 Cup Series Window World 450,2026-07-19T19:00:00-07:00,North Wilkesboro Speedway,0.63,450,281,450,281,True,43
+5615,2026 Cup Series Quaker State 400 Available at Walmart,2026-07-12T19:00:00-07:00,Atlanta Motor Speedway,1.54,260,400,263,405,True,49
+5616,2026 Cup Series eero 400,2026-07-05T17:00:00-07:00,Chicagoland Speedway,1.50,267,400,267,400,True,43
+5617,2026 Cup Series Toyota / Save Mart 350,2026-06-28T15:30:00-07:00,Sonoma Raceway,1.99,110,218,110,218,True,8
+5613,2026 Cup Series Anduril 250,2026-06-21T16:00:00-07:00,San Diego Street Course,3.40,75,255,75,255,True,11
+5614,2026 Cup Series Great American Getaway 400 presented by VISITPA,2026-06-14T15:00:00-07:00,Pocono Raceway,2.50,160,400,160,400,True,23
+5612,2026 Cup Series FireKeepers Casino 400,2026-06-07T15:00:00-07:00,Michigan International Speedway,2.00,200,400,200,400,True,54
+5611,2026 Cup Series Cracker Barrel 400,2026-05-31T19:00:00-07:00,Nashville Superspeedway,1.33,300,399,300,399,True,77
+5610,2026 Cup Series Coca-Cola 600,2026-05-24T18:00:00-07:00,Charlotte Motor Speedway,1.50,400,600,373,559,True,75
+5609,2026 Cup Series NASCAR All-Star Race,2026-05-17T13:00:00-07:00,Dover Motor Speedway,1.00,350,350,200,200,True,14
+5621,2026 Cup Series Go Bowling at The Glen,2026-05-10T15:00:00-07:00,Watkins Glen International,2.45,100,245,100,245,True,12
+5606,2026 Cup Series Würth 400 presented by LIQUI MOLY,2026-05-03T15:30:00-07:00,Texas Motor Speedway,1.50,267,400,267,400,True,40
+5605,2026 Cup Series Jack Link's 500,2026-04-26T15:00:00-07:00,Talladega Superspeedway,2.66,188,500,188,500,True,30
+5607,2026 Cup Series AdventHealth 400,2026-04-19T13:00:00-07:00,Kansas Speedway,1.50,267,400,274,411,True,20
+5604,2026 Cup Series Food City 500,2026-04-12T15:00:00-07:00,Bristol Motor Speedway,0.53,500,266,505,269,True,72
+5602,2026 Cup Series Cook Out 400,2026-03-29T15:30:00-07:00,Martinsville Speedway,0.53,400,210,400,210,True,54
+5603,2026 Cup Series Goodyear 400,2026-03-22T15:00:00-07:00,Darlington Raceway,1.37,293,400,293,400,True,26
+5600,2026 Cup Series Pennzoil 400 presented by Jiffy Lube,2026-03-15T16:00:00-07:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,20
+5599,2026 Cup Series Straight Talk Wireless 500,2026-03-08T15:30:00-07:00,Phoenix Raceway,1.00,312,312,312,312,True,86
+5598,2026 Cup Series DuraMAX Texas Grand Prix Powered by RelaDyne,2026-03-01T15:30:00-08:00,Circuit of The Americas,2.40,95,228,95,228,True,10
+5597,2026 Cup Series Autotrader 400,2026-02-22T15:00:00-08:00,Atlanta Motor Speedway,1.54,260,400,271,417,True,67
+5596,2026 Cup Series DAYTONA 500,2026-02-15T14:30:00-08:00,Daytona International Speedway,2.50,200,500,200,500,True,32
+5595,2026 Cup Series America 250 Florida Duel at DAYTONA,2026-02-12T20:45:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,0
+5594,2026 Cup Series America 250 Florida Duel at DAYTONA,2026-02-12T19:00:00-08:00,Daytona International Speedway,2.50,60,150,63,157,True,9
+5593,2026 Cup Series Cook Out Clash at Bowman Gray,2026-02-04T18:00:00-08:00,Bowman Gray Stadium,0.25,200,50,200,50,True,17

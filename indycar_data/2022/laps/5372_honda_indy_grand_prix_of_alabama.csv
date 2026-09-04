@@ -1,0 +1,2360 @@
+driver_name,car_number,team,lap_number,position,lap_time,lap_speed,on_pit_road
+Rinus VeeKay,21,ECR,1,1,113.9058,72.692,0
+Pato O'Ward,5,Arrow McLaren,1,2,113.7168,72.812,0
+Alex Palou,10,Chip Ganassi Racing,1,3,113.6322,72.867,0
+Scott McLaughlin,3,Team Penske,1,4,113.1923,73.15,0
+Alexander Rossi,27,Andretti Autosport,1,5,112.8955,73.342,0
+Felix Rosenqvist,7,Arrow McLaren,1,6,112.7464,73.439,0
+Josef Newgarden,2,Team Penske,1,7,112.2951,73.734,0
+Romain Grosjean,28,Andretti Autosport,1,8,111.9101,73.988,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,1,9,111.7714,74.08,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,1,10,111.4653,74.283,0
+Marcus Ericsson,8,Chip Ganassi Racing,1,11,110.0474,75.24,0
+Callum Ilott,77,Juncos Hollinger Racing,1,12,111.4126,74.318,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,1,13,108.8819,76.046,0
+Scott Dixon,9,Chip Ganassi Racing,1,14,109.726,75.461,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,1,15,108.5984,76.244,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,1,16,108.0718,76.616,0
+Takuma Sato,51,Dale Coyne Racing with RWR,1,17,107.1889,77.247,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,1,18,105.3069,78.627,0
+Will Power,12,Team Penske,1,19,106.0369,78.086,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,1,20,106.8674,77.479,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,1,21,104.5321,79.21,0
+Conor Daly,20,ECR,1,22,103.9204,79.676,0
+Dalton Kellett,4,A.J. Foyt Enterprises,1,23,103.263,80.184,0
+Simon Pagenaud,60,Meyer Shank Racing,1,24,102.449,80.821,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,1,25,101.9345,81.229,0
+Jimmie Johnson,48,Chip Ganassi Racing,1,26,100.5729,82.328,0
+Rinus VeeKay,21,ECR,2,1,70.5455,117.371,0
+Pato O'Ward,5,Arrow McLaren,2,2,71.2475,116.215,0
+Scott McLaughlin,3,Team Penske,2,3,71.7105,115.464,0
+Alex Palou,10,Chip Ganassi Racing,2,4,72.175,114.721,0
+Alexander Rossi,27,Andretti Autosport,2,5,72.6589,113.957,0
+Felix Rosenqvist,7,Arrow McLaren,2,6,73.1564,113.182,0
+Romain Grosjean,28,Andretti Autosport,2,7,73.4527,112.726,0
+Callum Ilott,77,Juncos Hollinger Racing,2,8,73.3696,112.853,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,2,9,74.0405,111.831,0
+Josef Newgarden,2,Team Penske,2,10,74.7528,110.765,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,2,11,74.8766,110.582,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,2,12,74.6533,110.913,0
+Marcus Ericsson,8,Chip Ganassi Racing,2,13,75.3613,109.871,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,2,14,75.6084,109.512,0
+Scott Dixon,9,Chip Ganassi Racing,2,15,75.9704,108.99,0
+Takuma Sato,51,Dale Coyne Racing with RWR,2,16,76.1359,108.753,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,2,17,76.6555,108.016,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,2,18,76.7805,107.84,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,2,19,77.0608,107.448,0
+Will Power,12,Team Penske,2,20,77.3332,107.069,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,2,21,77.6844,106.585,0
+Dalton Kellett,4,A.J. Foyt Enterprises,2,22,77.6821,106.588,0
+Simon Pagenaud,60,Meyer Shank Racing,2,23,77.5934,106.71,0
+Conor Daly,20,ECR,2,24,78.4041,105.607,0
+Jimmie Johnson,48,Chip Ganassi Racing,2,25,78.0658,106.064,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,2,26,78.7746,105.11,0
+Rinus VeeKay,21,ECR,3,1,69.7408,118.725,0
+Pato O'Ward,5,Arrow McLaren,3,2,69.8657,118.513,0
+Scott McLaughlin,3,Team Penske,3,3,69.9859,118.31,0
+Alex Palou,10,Chip Ganassi Racing,3,4,69.9839,118.313,0
+Alexander Rossi,27,Andretti Autosport,3,5,70.2127,117.927,0
+Felix Rosenqvist,7,Arrow McLaren,3,6,70.4211,117.578,0
+Romain Grosjean,28,Andretti Autosport,3,7,71.0852,116.48,0
+Callum Ilott,77,Juncos Hollinger Racing,3,8,71.459,115.871,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,3,9,71.6317,115.591,0
+Josef Newgarden,2,Team Penske,3,10,71.5906,115.658,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,3,11,71.6187,115.612,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,3,12,71.7616,115.382,0
+Marcus Ericsson,8,Chip Ganassi Racing,3,13,71.8447,115.249,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,3,14,71.9302,115.112,0
+Scott Dixon,9,Chip Ganassi Racing,3,15,71.9486,115.082,0
+Takuma Sato,51,Dale Coyne Racing with RWR,3,16,72.0177,114.972,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,3,17,72.031,114.951,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,3,18,72.0918,114.854,0
+Will Power,12,Team Penske,3,19,72.0797,114.873,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,3,20,72.5268,114.165,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,3,21,72.1789,114.715,0
+Simon Pagenaud,60,Meyer Shank Racing,3,22,72.5766,114.086,0
+Dalton Kellett,4,A.J. Foyt Enterprises,3,23,73.3342,112.908,0
+Conor Daly,20,ECR,3,24,73.0601,113.331,0
+Jimmie Johnson,48,Chip Ganassi Racing,3,25,73.4498,112.73,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,3,26,73.8549,112.112,0
+Rinus VeeKay,21,ECR,4,1,69.5959,118.973,0
+Pato O'Ward,5,Arrow McLaren,4,2,69.8237,118.584,0
+Scott McLaughlin,3,Team Penske,4,3,69.7884,118.644,0
+Alex Palou,10,Chip Ganassi Racing,4,4,69.8695,118.507,0
+Alexander Rossi,27,Andretti Autosport,4,5,69.998,118.289,0
+Felix Rosenqvist,7,Arrow McLaren,4,6,70.0097,118.269,0
+Romain Grosjean,28,Andretti Autosport,4,7,70.1728,117.994,0
+Callum Ilott,77,Juncos Hollinger Racing,4,8,70.4648,117.505,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,4,9,70.5415,117.378,0
+Josef Newgarden,2,Team Penske,4,10,70.6871,117.136,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,4,11,70.7136,117.092,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,4,12,70.9016,116.782,0
+Marcus Ericsson,8,Chip Ganassi Racing,4,13,70.9365,116.724,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,4,14,70.7551,117.023,0
+Scott Dixon,9,Chip Ganassi Racing,4,15,70.8772,116.822,0
+Takuma Sato,51,Dale Coyne Racing with RWR,4,16,71.0199,116.587,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,4,17,71.2484,116.213,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,4,18,71.3569,116.036,0
+Will Power,12,Team Penske,4,19,71.2621,116.191,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,4,20,71.5503,115.723,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,4,21,71.6725,115.525,0
+Simon Pagenaud,60,Meyer Shank Racing,4,22,71.3955,115.974,0
+Dalton Kellett,4,A.J. Foyt Enterprises,4,23,71.579,115.676,0
+Conor Daly,20,ECR,4,24,71.6379,115.581,0
+Jimmie Johnson,48,Chip Ganassi Racing,4,25,71.6603,115.545,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,4,26,72.4351,114.309,0
+Rinus VeeKay,21,ECR,5,1,69.8602,118.522,0
+Pato O'Ward,5,Arrow McLaren,5,2,69.8511,118.538,0
+Scott McLaughlin,3,Team Penske,5,3,69.9693,118.338,0
+Alex Palou,10,Chip Ganassi Racing,5,4,69.9335,118.398,0
+Alexander Rossi,27,Andretti Autosport,5,5,70.2133,117.926,0
+Felix Rosenqvist,7,Arrow McLaren,5,6,70.0862,118.14,0
+Romain Grosjean,28,Andretti Autosport,5,7,70.2024,117.945,0
+Callum Ilott,77,Juncos Hollinger Racing,5,8,70.489,117.465,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,5,9,70.3886,117.633,0
+Josef Newgarden,2,Team Penske,5,10,70.4575,117.518,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,5,11,70.4853,117.471,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,5,12,70.5153,117.421,0
+Marcus Ericsson,8,Chip Ganassi Racing,5,13,70.5219,117.41,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,5,14,70.7579,117.019,0
+Scott Dixon,9,Chip Ganassi Racing,5,15,70.7736,116.993,0
+Takuma Sato,51,Dale Coyne Racing with RWR,5,16,70.6825,117.144,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,5,17,70.6183,117.25,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,5,18,70.7081,117.101,0
+Will Power,12,Team Penske,5,19,70.8826,116.813,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,5,20,70.8394,116.884,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,5,21,70.8909,116.799,0
+Simon Pagenaud,60,Meyer Shank Racing,5,22,70.9291,116.736,0
+Dalton Kellett,4,A.J. Foyt Enterprises,5,23,71.1325,116.402,0
+Conor Daly,20,ECR,5,24,71.3302,116.08,0
+Jimmie Johnson,48,Chip Ganassi Racing,5,25,71.4088,115.952,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,5,26,71.8581,115.227,0
+Rinus VeeKay,21,ECR,6,1,69.8516,118.537,0
+Pato O'Ward,5,Arrow McLaren,6,2,69.9586,118.356,0
+Scott McLaughlin,3,Team Penske,6,3,69.8803,118.488,0
+Alex Palou,10,Chip Ganassi Racing,6,4,69.9895,118.303,0
+Alexander Rossi,27,Andretti Autosport,6,5,69.8156,118.598,0
+Felix Rosenqvist,7,Arrow McLaren,6,6,69.8958,118.462,0
+Romain Grosjean,28,Andretti Autosport,6,7,69.9164,118.427,0
+Callum Ilott,77,Juncos Hollinger Racing,6,8,70.0766,118.156,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,6,9,70.1744,117.992,0
+Josef Newgarden,2,Team Penske,6,10,70.2685,117.834,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,6,11,70.299,117.783,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,6,12,70.3028,117.776,0
+Marcus Ericsson,8,Chip Ganassi Racing,6,13,70.349,117.699,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,6,14,70.4384,117.55,0
+Scott Dixon,9,Chip Ganassi Racing,6,15,70.4754,117.488,0
+Takuma Sato,51,Dale Coyne Racing with RWR,6,16,70.5237,117.407,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,6,17,70.6839,117.141,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,6,18,70.6429,117.209,0
+Will Power,12,Team Penske,6,19,70.8017,116.946,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,6,20,70.7956,116.956,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,6,21,70.66,117.181,0
+Simon Pagenaud,60,Meyer Shank Racing,6,22,70.8131,116.928,0
+Dalton Kellett,4,A.J. Foyt Enterprises,6,23,71.1989,116.294,0
+Conor Daly,20,ECR,6,24,70.9298,116.735,0
+Jimmie Johnson,48,Chip Ganassi Racing,6,25,70.7835,116.976,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,6,26,71.8355,115.263,0
+Rinus VeeKay,21,ECR,7,1,69.7684,118.678,0
+Pato O'Ward,5,Arrow McLaren,7,2,69.8988,118.457,0
+Scott McLaughlin,3,Team Penske,7,3,69.9753,118.327,0
+Alex Palou,10,Chip Ganassi Racing,7,4,69.7874,118.646,0
+Alexander Rossi,27,Andretti Autosport,7,5,69.5967,118.971,0
+Felix Rosenqvist,7,Arrow McLaren,7,6,69.6136,118.942,0
+Romain Grosjean,28,Andretti Autosport,7,7,69.5137,119.113,0
+Callum Ilott,77,Juncos Hollinger Racing,7,8,69.9165,118.427,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,7,9,69.88,118.489,0
+Josef Newgarden,2,Team Penske,7,10,69.9772,118.324,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,7,11,70.1846,117.975,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,7,12,70.0956,118.124,0
+Marcus Ericsson,8,Chip Ganassi Racing,7,13,70.0809,118.149,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,7,14,70.1059,118.107,0
+Scott Dixon,9,Chip Ganassi Racing,7,15,70.0662,118.174,0
+Takuma Sato,51,Dale Coyne Racing with RWR,7,16,70.0454,118.209,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,7,17,70.3676,117.668,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,7,18,70.4669,117.502,0
+Will Power,12,Team Penske,7,19,70.4094,117.598,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,7,20,70.3852,117.638,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,7,21,70.6292,117.232,0
+Simon Pagenaud,60,Meyer Shank Racing,7,22,70.6198,117.248,0
+Dalton Kellett,4,A.J. Foyt Enterprises,7,23,70.8338,116.893,0
+Conor Daly,20,ECR,7,24,70.988,116.639,0
+Jimmie Johnson,48,Chip Ganassi Racing,7,25,70.8838,116.811,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,7,26,71.5029,115.799,0
+Rinus VeeKay,21,ECR,8,1,69.9191,118.423,0
+Pato O'Ward,5,Arrow McLaren,8,2,69.8864,118.478,0
+Scott McLaughlin,3,Team Penske,8,3,69.9091,118.44,0
+Alex Palou,10,Chip Ganassi Racing,8,4,70.0748,118.159,0
+Alexander Rossi,27,Andretti Autosport,8,5,69.8859,118.479,0
+Felix Rosenqvist,7,Arrow McLaren,8,6,69.8454,118.548,0
+Romain Grosjean,28,Andretti Autosport,8,7,69.3107,119.462,0
+Callum Ilott,77,Juncos Hollinger Racing,8,8,69.6667,118.852,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,8,9,69.8462,118.546,0
+Josef Newgarden,2,Team Penske,8,10,70.0273,118.24,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,8,11,69.9195,118.422,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,8,12,70.0259,118.242,0
+Marcus Ericsson,8,Chip Ganassi Racing,8,13,69.9519,118.367,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,8,14,70.0246,118.244,0
+Scott Dixon,9,Chip Ganassi Racing,8,15,70.1905,117.965,0
+Takuma Sato,51,Dale Coyne Racing with RWR,8,16,70.1958,117.956,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,8,17,70.4437,117.541,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,8,18,70.4562,117.52,0
+Will Power,12,Team Penske,8,19,70.3495,117.698,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,8,20,70.403,117.609,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,8,21,70.4636,117.507,0
+Simon Pagenaud,60,Meyer Shank Racing,8,22,70.5655,117.338,0
+Dalton Kellett,4,A.J. Foyt Enterprises,8,23,70.9446,116.711,0
+Conor Daly,20,ECR,8,24,70.8938,116.794,0
+Jimmie Johnson,48,Chip Ganassi Racing,8,25,70.7892,116.967,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,8,26,70.8872,116.805,0
+Rinus VeeKay,21,ECR,9,1,70.1487,118.035,0
+Pato O'Ward,5,Arrow McLaren,9,2,70.121,118.082,0
+Scott McLaughlin,3,Team Penske,9,3,70.0931,118.129,0
+Alex Palou,10,Chip Ganassi Racing,9,4,69.9807,118.318,0
+Alexander Rossi,27,Andretti Autosport,9,5,69.9055,118.446,0
+Felix Rosenqvist,7,Arrow McLaren,9,6,69.8088,118.61,0
+Romain Grosjean,28,Andretti Autosport,9,7,70.0964,118.123,0
+Callum Ilott,77,Juncos Hollinger Racing,9,8,69.8358,118.564,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,9,9,69.7949,118.633,0
+Josef Newgarden,2,Team Penske,9,10,69.8812,118.487,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,9,11,69.8772,118.494,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,9,12,70.0223,118.248,0
+Marcus Ericsson,8,Chip Ganassi Racing,9,13,70.1213,118.081,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,9,14,70.1049,118.109,0
+Scott Dixon,9,Chip Ganassi Racing,9,15,69.9729,118.332,0
+Takuma Sato,51,Dale Coyne Racing with RWR,9,16,69.8732,118.5,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,9,17,69.9282,118.407,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,9,18,70.0816,118.148,0
+Will Power,12,Team Penske,9,19,70.2771,117.819,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,9,20,70.3864,117.636,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,9,21,70.3059,117.771,0
+Simon Pagenaud,60,Meyer Shank Racing,9,22,70.3253,117.739,0
+Dalton Kellett,4,A.J. Foyt Enterprises,9,23,70.7285,117.067,0
+Conor Daly,20,ECR,9,24,70.8052,116.941,0
+Jimmie Johnson,48,Chip Ganassi Racing,9,25,71.1639,116.351,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,9,26,71.2596,116.195,0
+Rinus VeeKay,21,ECR,10,1,70.0324,118.231,0
+Pato O'Ward,5,Arrow McLaren,10,2,70.3994,117.615,0
+Scott McLaughlin,3,Team Penske,10,3,70.2314,117.896,0
+Alex Palou,10,Chip Ganassi Racing,10,4,70.3327,117.726,0
+Alexander Rossi,27,Andretti Autosport,10,5,70.214,117.925,0
+Felix Rosenqvist,7,Arrow McLaren,10,6,70.2257,117.906,0
+Romain Grosjean,28,Andretti Autosport,10,7,69.9098,118.438,0
+Callum Ilott,77,Juncos Hollinger Racing,10,8,70.2596,117.849,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,10,9,70.1688,118.001,0
+Josef Newgarden,2,Team Penske,10,10,70.1746,117.991,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,10,11,70.2414,117.879,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,10,12,70.1266,118.072,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,10,13,70.0848,118.143,0
+Scott Dixon,9,Chip Ganassi Racing,10,14,70.1483,118.036,0
+Takuma Sato,51,Dale Coyne Racing with RWR,10,15,70.1949,117.957,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,10,16,70.0425,118.214,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,10,17,70.1062,118.107,0
+Will Power,12,Team Penske,10,18,70.2898,117.798,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,10,19,70.2437,117.875,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,10,20,70.4058,117.604,0
+Simon Pagenaud,60,Meyer Shank Racing,10,21,70.4325,117.559,0
+Dalton Kellett,4,A.J. Foyt Enterprises,10,22,70.9074,116.772,0
+Conor Daly,20,ECR,10,23,70.7564,117.021,0
+Jimmie Johnson,48,Chip Ganassi Racing,10,24,70.6959,117.121,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,10,25,71.3165,116.102,0
+Marcus Ericsson,8,Chip Ganassi Racing,10,26,90.6628,91.327,1
+Rinus VeeKay,21,ECR,11,1,70.2206,117.914,0
+Pato O'Ward,5,Arrow McLaren,11,2,70.0319,118.232,0
+Scott McLaughlin,3,Team Penske,11,3,70.1799,117.982,0
+Alex Palou,10,Chip Ganassi Racing,11,4,70.2727,117.827,0
+Alexander Rossi,27,Andretti Autosport,11,5,70.2432,117.876,0
+Felix Rosenqvist,7,Arrow McLaren,11,6,70.1993,117.95,0
+Romain Grosjean,28,Andretti Autosport,11,7,70.2852,117.806,0
+Callum Ilott,77,Juncos Hollinger Racing,11,8,70.0517,118.198,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,11,9,70.0275,118.239,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,11,10,69.9585,118.356,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,11,11,69.8105,118.607,0
+Scott Dixon,9,Chip Ganassi Racing,11,12,69.8453,118.548,0
+Takuma Sato,51,Dale Coyne Racing with RWR,11,13,69.8392,118.558,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,11,14,69.8064,118.614,0
+Will Power,12,Team Penske,11,15,70.2762,117.821,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,11,16,70.2947,117.79,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,11,17,70.5969,117.286,0
+Simon Pagenaud,60,Meyer Shank Racing,11,18,70.5528,117.359,0
+Josef Newgarden,2,Team Penske,11,19,80.7411,102.55,1
+Dalton Kellett,4,A.J. Foyt Enterprises,11,20,70.9424,116.714,0
+Conor Daly,20,ECR,11,21,70.9614,116.683,0
+Jimmie Johnson,48,Chip Ganassi Racing,11,22,70.9744,116.662,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,11,23,71.125,116.415,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,11,24,91.4306,90.56,1
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,11,25,91.3285,90.662,1
+Marcus Ericsson,8,Chip Ganassi Racing,11,26,78.0244,106.121,0
+Rinus VeeKay,21,ECR,12,1,69.9984,118.288,0
+Pato O'Ward,5,Arrow McLaren,12,2,70.172,117.996,0
+Scott McLaughlin,3,Team Penske,12,3,70.1593,118.017,0
+Alex Palou,10,Chip Ganassi Racing,12,4,70.1482,118.036,0
+Alexander Rossi,27,Andretti Autosport,12,5,70.2384,117.884,0
+Felix Rosenqvist,7,Arrow McLaren,12,6,70.3222,117.744,0
+Romain Grosjean,28,Andretti Autosport,12,7,70.1553,118.024,0
+Callum Ilott,77,Juncos Hollinger Racing,12,8,69.9988,118.288,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,12,9,69.8949,118.464,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,12,10,69.5498,119.051,0
+Scott Dixon,9,Chip Ganassi Racing,12,11,69.5148,119.111,0
+Takuma Sato,51,Dale Coyne Racing with RWR,12,12,69.6935,118.806,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,12,13,69.6674,118.85,0
+Will Power,12,Team Penske,12,14,70.332,117.727,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,12,15,70.3373,117.718,0
+Simon Pagenaud,60,Meyer Shank Racing,12,16,70.0922,118.13,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,12,17,80.2054,103.235,1
+Dalton Kellett,4,A.J. Foyt Enterprises,12,18,70.6699,117.164,0
+Jimmie Johnson,48,Chip Ganassi Racing,12,19,70.7037,117.108,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,12,20,71.1009,116.454,0
+Josef Newgarden,2,Team Penske,12,21,84.2554,98.273,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,12,22,77.3644,107.026,0
+Marcus Ericsson,8,Chip Ganassi Racing,12,23,70.3415,117.711,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,12,24,77.1066,107.384,0
+Conor Daly,20,ECR,12,25,92.0011,89.999,1
+Kyle Kirkwood,14,A.J. Foyt Enterprises,12,26,119.5749,69.245,1
+Rinus VeeKay,21,ECR,13,1,70.2159,117.922,0
+Pato O'Ward,5,Arrow McLaren,13,2,70.1903,117.965,0
+Scott McLaughlin,3,Team Penske,13,3,70.2222,117.911,0
+Alex Palou,10,Chip Ganassi Racing,13,4,70.1596,118.017,0
+Alexander Rossi,27,Andretti Autosport,13,5,70.1788,117.984,0
+Felix Rosenqvist,7,Arrow McLaren,13,6,70.1362,118.056,0
+Callum Ilott,77,Juncos Hollinger Racing,13,7,69.8336,118.568,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,13,8,70.2491,117.866,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,13,9,69.5491,119.053,0
+Scott Dixon,9,Chip Ganassi Racing,13,10,69.6612,118.861,0
+Takuma Sato,51,Dale Coyne Racing with RWR,13,11,69.6938,118.805,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,13,12,69.8753,118.497,0
+Romain Grosjean,28,Andretti Autosport,13,13,80.7882,102.49,1
+Will Power,12,Team Penske,13,14,69.8866,118.478,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,13,15,70.0164,118.258,0
+Simon Pagenaud,60,Meyer Shank Racing,13,16,69.6263,118.921,0
+Dalton Kellett,4,A.J. Foyt Enterprises,13,17,70.8969,116.789,0
+Jimmie Johnson,48,Chip Ganassi Racing,13,18,70.3107,117.763,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,13,19,70.8178,116.92,0
+Josef Newgarden,2,Team Penske,13,20,68.6247,120.656,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,13,21,85.6863,96.632,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,13,22,69.6746,118.838,0
+Marcus Ericsson,8,Chip Ganassi Racing,13,23,70.171,117.997,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,13,24,69.7818,118.656,0
+Conor Daly,20,ECR,13,25,78.1815,105.907,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,13,26,78.7409,105.155,0
+Rinus VeeKay,21,ECR,14,1,69.0515,119.911,0
+Pato O'Ward,5,Arrow McLaren,14,2,69.9219,118.418,0
+Scott McLaughlin,3,Team Penske,14,3,70.0445,118.211,0
+Alex Palou,10,Chip Ganassi Racing,14,4,70.1971,117.954,0
+Alexander Rossi,27,Andretti Autosport,14,5,70.2238,117.909,0
+Felix Rosenqvist,7,Arrow McLaren,14,6,70.0895,118.135,0
+Callum Ilott,77,Juncos Hollinger Racing,14,7,70.1906,117.965,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,14,8,70.1368,118.055,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,14,9,69.7826,118.654,0
+Scott Dixon,9,Chip Ganassi Racing,14,10,69.7105,118.777,0
+Takuma Sato,51,Dale Coyne Racing with RWR,14,11,69.5959,118.973,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,14,12,69.4355,119.247,0
+Will Power,12,Team Penske,14,13,69.9995,118.287,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,14,14,70.1163,118.09,0
+Simon Pagenaud,60,Meyer Shank Racing,14,15,69.6364,118.903,0
+Dalton Kellett,4,A.J. Foyt Enterprises,14,16,70.3605,117.68,0
+Jimmie Johnson,48,Chip Ganassi Racing,14,17,70.3818,117.644,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,14,18,70.861,116.848,0
+Josef Newgarden,2,Team Penske,14,19,69.3884,119.328,0
+Romain Grosjean,28,Andretti Autosport,14,20,88.5084,93.55,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,14,21,69.2045,119.645,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,14,22,69.3182,119.449,0
+Marcus Ericsson,8,Chip Ganassi Racing,14,23,69.4622,119.202,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,14,24,69.2502,119.566,0
+Conor Daly,20,ECR,14,25,69.5617,119.031,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,14,26,69.752,118.706,0
+Rinus VeeKay,21,ECR,15,1,69.4731,119.183,0
+Pato O'Ward,5,Arrow McLaren,15,2,69.8191,118.592,0
+Scott McLaughlin,3,Team Penske,15,3,70.0157,118.259,0
+Alex Palou,10,Chip Ganassi Racing,15,4,70.0231,118.247,0
+Alexander Rossi,27,Andretti Autosport,15,5,70.2314,117.896,0
+Felix Rosenqvist,7,Arrow McLaren,15,6,70.347,117.702,0
+Callum Ilott,77,Juncos Hollinger Racing,15,7,70.1436,118.044,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,15,8,69.9965,118.292,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,15,9,69.7653,118.684,0
+Scott Dixon,9,Chip Ganassi Racing,15,10,69.8396,118.557,0
+Takuma Sato,51,Dale Coyne Racing with RWR,15,11,69.8611,118.521,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,15,12,69.8381,118.56,0
+Will Power,12,Team Penske,15,13,69.9657,118.344,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,15,14,70.0714,118.165,0
+Simon Pagenaud,60,Meyer Shank Racing,15,15,70.0213,118.25,0
+Dalton Kellett,4,A.J. Foyt Enterprises,15,16,70.1412,118.048,0
+Jimmie Johnson,48,Chip Ganassi Racing,15,17,70.0566,118.19,0
+Josef Newgarden,2,Team Penske,15,18,69.4757,119.178,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,15,19,72.0176,114.972,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,15,20,71.6293,115.595,0
+Romain Grosjean,28,Andretti Autosport,15,21,72.5467,114.133,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,15,22,69.7946,118.634,0
+Marcus Ericsson,8,Chip Ganassi Racing,15,23,69.8372,118.561,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,15,24,69.5824,118.996,0
+Conor Daly,20,ECR,15,25,69.1448,119.749,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,15,26,69.7638,118.686,0
+Rinus VeeKay,21,ECR,16,1,69.7431,118.721,0
+Pato O'Ward,5,Arrow McLaren,16,2,69.7315,118.741,0
+Scott McLaughlin,3,Team Penske,16,3,70.001,118.284,0
+Alex Palou,10,Chip Ganassi Racing,16,4,70.2035,117.943,0
+Alexander Rossi,27,Andretti Autosport,16,5,70.03,118.235,0
+Felix Rosenqvist,7,Arrow McLaren,16,6,69.8567,118.528,0
+Callum Ilott,77,Juncos Hollinger Racing,16,7,69.9859,118.31,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,16,8,70.058,118.188,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,16,9,69.8491,118.541,0
+Scott Dixon,9,Chip Ganassi Racing,16,10,69.8375,118.561,0
+Takuma Sato,51,Dale Coyne Racing with RWR,16,11,69.9811,118.318,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,16,12,69.7809,118.657,0
+Will Power,12,Team Penske,16,13,69.9148,118.43,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,16,14,70.1149,118.092,0
+Simon Pagenaud,60,Meyer Shank Racing,16,15,70.0786,118.153,0
+Dalton Kellett,4,A.J. Foyt Enterprises,16,16,70.0285,118.238,0
+Jimmie Johnson,48,Chip Ganassi Racing,16,17,70.1432,118.044,0
+Josef Newgarden,2,Team Penske,16,18,69.1661,119.712,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,16,19,71.1198,116.423,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,16,20,68.7702,120.401,0
+Romain Grosjean,28,Andretti Autosport,16,21,70.1951,117.957,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,16,22,69.8127,118.603,0
+Marcus Ericsson,8,Chip Ganassi Racing,16,23,69.8626,118.518,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,16,24,69.2354,119.592,0
+Conor Daly,20,ECR,16,25,69.2284,119.604,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,16,26,70.6808,117.146,0
+Rinus VeeKay,21,ECR,17,1,69.8641,118.516,0
+Pato O'Ward,5,Arrow McLaren,17,2,69.6963,118.801,0
+Scott McLaughlin,3,Team Penske,17,3,70.0446,118.21,0
+Alex Palou,10,Chip Ganassi Racing,17,4,69.9376,118.391,0
+Alexander Rossi,27,Andretti Autosport,17,5,70.0591,118.186,0
+Felix Rosenqvist,7,Arrow McLaren,17,6,70.3388,117.716,0
+Callum Ilott,77,Juncos Hollinger Racing,17,7,70.0751,118.159,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,17,8,70.3111,117.762,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,17,9,69.901,118.453,0
+Scott Dixon,9,Chip Ganassi Racing,17,10,69.8634,118.517,0
+Takuma Sato,51,Dale Coyne Racing with RWR,17,11,69.765,118.684,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,17,12,69.957,118.358,0
+Will Power,12,Team Penske,17,13,70.3161,117.754,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,17,14,69.9389,118.389,0
+Simon Pagenaud,60,Meyer Shank Racing,17,15,70.0438,118.212,0
+Dalton Kellett,4,A.J. Foyt Enterprises,17,16,69.8565,118.529,0
+Jimmie Johnson,48,Chip Ganassi Racing,17,17,70.2065,117.938,0
+Josef Newgarden,2,Team Penske,17,18,68.991,120.016,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,17,19,69.7782,118.662,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,17,20,72.2829,114.55,0
+Romain Grosjean,28,Andretti Autosport,17,21,69.8605,118.522,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,17,22,69.8339,118.567,0
+Marcus Ericsson,8,Chip Ganassi Racing,17,23,69.5928,118.978,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,17,24,69.5185,119.105,0
+Conor Daly,20,ECR,17,25,69.0946,119.836,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,17,26,69.9431,118.382,0
+Rinus VeeKay,21,ECR,18,1,69.7433,118.721,0
+Pato O'Ward,5,Arrow McLaren,18,2,69.5162,119.109,0
+Scott McLaughlin,3,Team Penske,18,3,69.6675,118.85,0
+Alex Palou,10,Chip Ganassi Racing,18,4,69.8317,118.571,0
+Alexander Rossi,27,Andretti Autosport,18,5,69.8516,118.537,0
+Felix Rosenqvist,7,Arrow McLaren,18,6,69.7112,118.776,0
+Callum Ilott,77,Juncos Hollinger Racing,18,7,70.0837,118.144,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,18,8,70.3059,117.771,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,18,9,70.0171,118.257,0
+Scott Dixon,9,Chip Ganassi Racing,18,10,70.0558,118.191,0
+Takuma Sato,51,Dale Coyne Racing with RWR,18,11,69.9469,118.376,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,18,12,69.6076,118.953,0
+Will Power,12,Team Penske,18,13,69.8753,118.497,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,18,14,69.9493,118.371,0
+Simon Pagenaud,60,Meyer Shank Racing,18,15,70.1696,118.0,0
+Jimmie Johnson,48,Chip Ganassi Racing,18,16,70.0471,118.206,0
+Josef Newgarden,2,Team Penske,18,17,69.1431,119.752,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,18,18,68.8285,120.299,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,18,19,71.1739,116.335,0
+Romain Grosjean,28,Andretti Autosport,18,20,70.3655,117.671,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,18,21,70.3762,117.653,0
+Marcus Ericsson,8,Chip Ganassi Racing,18,22,69.9061,118.445,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,18,23,69.8748,118.498,0
+Dalton Kellett,4,A.J. Foyt Enterprises,18,24,91.4711,90.52,1
+Conor Daly,20,ECR,18,25,69.6811,118.827,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,18,26,70.0878,118.138,0
+Rinus VeeKay,21,ECR,19,1,69.8749,118.497,0
+Pato O'Ward,5,Arrow McLaren,19,2,69.7834,118.653,0
+Scott McLaughlin,3,Team Penske,19,3,69.7153,118.769,0
+Alex Palou,10,Chip Ganassi Racing,19,4,69.8104,118.607,0
+Alexander Rossi,27,Andretti Autosport,19,5,69.8553,118.531,0
+Felix Rosenqvist,7,Arrow McLaren,19,6,69.8882,118.475,0
+Callum Ilott,77,Juncos Hollinger Racing,19,7,69.8319,118.57,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,19,8,69.8763,118.495,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,19,9,70.0536,118.195,0
+Scott Dixon,9,Chip Ganassi Racing,19,10,69.9512,118.368,0
+Takuma Sato,51,Dale Coyne Racing with RWR,19,11,70.0605,118.184,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,19,12,70.1503,118.032,0
+Will Power,12,Team Penske,19,13,70.1208,118.082,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,19,14,70.0016,118.283,0
+Simon Pagenaud,60,Meyer Shank Racing,19,15,70.1866,117.971,0
+Jimmie Johnson,48,Chip Ganassi Racing,19,16,69.7021,118.791,0
+Josef Newgarden,2,Team Penske,19,17,69.1127,119.804,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,19,18,68.7454,120.444,0
+Romain Grosjean,28,Andretti Autosport,19,19,69.6007,118.964,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,19,20,71.6822,115.51,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,19,21,71.2375,116.231,0
+Marcus Ericsson,8,Chip Ganassi Racing,19,22,70.8336,116.894,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,19,23,70.6635,117.175,0
+Conor Daly,20,ECR,19,24,69.7663,118.682,0
+Dalton Kellett,4,A.J. Foyt Enterprises,19,25,78.4449,105.552,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,19,26,69.873,118.501,0
+Rinus VeeKay,21,ECR,20,1,69.8247,118.583,0
+Pato O'Ward,5,Arrow McLaren,20,2,69.6303,118.914,0
+Scott McLaughlin,3,Team Penske,20,3,69.7285,118.746,0
+Alex Palou,10,Chip Ganassi Racing,20,4,70.0514,118.199,0
+Alexander Rossi,27,Andretti Autosport,20,5,69.908,118.441,0
+Felix Rosenqvist,7,Arrow McLaren,20,6,69.9659,118.343,0
+Callum Ilott,77,Juncos Hollinger Racing,20,7,70.2287,117.901,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,20,8,70.0283,118.238,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,20,9,69.8875,118.476,0
+Scott Dixon,9,Chip Ganassi Racing,20,10,69.8514,118.537,0
+Takuma Sato,51,Dale Coyne Racing with RWR,20,11,69.8838,118.482,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,20,12,69.8391,118.558,0
+Will Power,12,Team Penske,20,13,69.9705,118.336,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,20,14,70.1356,118.057,0
+Simon Pagenaud,60,Meyer Shank Racing,20,15,70.0522,118.198,0
+Jimmie Johnson,48,Chip Ganassi Racing,20,16,69.9555,118.361,0
+Josef Newgarden,2,Team Penske,20,17,69.0046,119.992,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,20,18,68.6012,120.698,0
+Romain Grosjean,28,Andretti Autosport,20,19,69.0098,119.983,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,20,20,69.3441,119.405,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,20,21,71.3404,116.063,0
+Marcus Ericsson,8,Chip Ganassi Racing,20,22,71.0295,116.571,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,20,23,70.4749,117.489,0
+Conor Daly,20,ECR,20,24,69.3048,119.472,0
+Dalton Kellett,4,A.J. Foyt Enterprises,20,25,69.9123,118.434,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,20,26,70.057,118.189,0
+Rinus VeeKay,21,ECR,21,1,69.9552,118.361,0
+Pato O'Ward,5,Arrow McLaren,21,2,69.5512,119.049,0
+Scott McLaughlin,3,Team Penske,21,3,69.8513,118.538,0
+Alex Palou,10,Chip Ganassi Racing,21,4,69.6159,118.938,0
+Alexander Rossi,27,Andretti Autosport,21,5,69.7707,118.674,0
+Felix Rosenqvist,7,Arrow McLaren,21,6,69.6638,118.857,0
+Callum Ilott,77,Juncos Hollinger Racing,21,7,70.0627,118.18,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,21,8,69.7988,118.627,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,21,9,70.0115,118.266,0
+Scott Dixon,9,Chip Ganassi Racing,21,10,70.0623,118.181,0
+Takuma Sato,51,Dale Coyne Racing with RWR,21,11,69.8101,118.607,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,21,12,69.8999,118.455,0
+Will Power,12,Team Penske,21,13,70.0116,118.266,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,21,14,69.9901,118.302,0
+Simon Pagenaud,60,Meyer Shank Racing,21,15,69.9568,118.359,0
+Jimmie Johnson,48,Chip Ganassi Racing,21,16,69.5177,119.106,0
+Josef Newgarden,2,Team Penske,21,17,68.9774,120.039,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,21,18,68.6531,120.606,0
+Romain Grosjean,28,Andretti Autosport,21,19,69.2159,119.626,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,21,20,69.0788,119.863,0
+Marcus Ericsson,8,Chip Ganassi Racing,21,21,69.5876,118.987,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,21,22,71.7043,115.474,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,21,23,71.4409,115.9,0
+Conor Daly,20,ECR,21,24,69.6835,118.823,0
+Dalton Kellett,4,A.J. Foyt Enterprises,21,25,69.6719,118.843,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,21,26,70.0547,118.193,0
+Rinus VeeKay,21,ECR,22,1,69.6218,118.928,0
+Pato O'Ward,5,Arrow McLaren,22,2,69.7355,118.734,0
+Scott McLaughlin,3,Team Penske,22,3,69.7623,118.689,0
+Alex Palou,10,Chip Ganassi Racing,22,4,69.74,118.727,0
+Alexander Rossi,27,Andretti Autosport,22,5,69.7367,118.732,0
+Felix Rosenqvist,7,Arrow McLaren,22,6,69.7252,118.752,0
+Callum Ilott,77,Juncos Hollinger Racing,22,7,69.8421,118.553,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,22,8,69.8229,118.586,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,22,9,69.8579,118.526,0
+Scott Dixon,9,Chip Ganassi Racing,22,10,69.8379,118.56,0
+Takuma Sato,51,Dale Coyne Racing with RWR,22,11,70.0986,118.119,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,22,12,69.8594,118.524,0
+Will Power,12,Team Penske,22,13,70.0337,118.229,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,22,14,70.2281,117.902,0
+Simon Pagenaud,60,Meyer Shank Racing,22,15,70.0487,118.203,0
+Jimmie Johnson,48,Chip Ganassi Racing,22,16,69.754,118.703,0
+Josef Newgarden,2,Team Penske,22,17,69.1249,119.783,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,22,18,68.4374,120.986,0
+Romain Grosjean,28,Andretti Autosport,22,19,69.2357,119.591,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,22,20,69.2055,119.644,0
+Marcus Ericsson,8,Chip Ganassi Racing,22,21,69.1249,119.783,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,22,22,69.5031,119.131,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,22,23,71.6907,115.496,0
+Conor Daly,20,ECR,22,24,69.8952,118.463,0
+Dalton Kellett,4,A.J. Foyt Enterprises,22,25,69.5418,119.065,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,22,26,69.7039,118.788,0
+Rinus VeeKay,21,ECR,23,1,69.7261,118.75,0
+Pato O'Ward,5,Arrow McLaren,23,2,69.8416,118.554,0
+Scott McLaughlin,3,Team Penske,23,3,69.65,118.88,0
+Alex Palou,10,Chip Ganassi Racing,23,4,69.7296,118.744,0
+Alexander Rossi,27,Andretti Autosport,23,5,69.6094,118.949,0
+Felix Rosenqvist,7,Arrow McLaren,23,6,69.7911,118.64,0
+Callum Ilott,77,Juncos Hollinger Racing,23,7,69.9506,118.369,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,23,8,69.7931,118.636,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,23,9,69.8024,118.621,0
+Scott Dixon,9,Chip Ganassi Racing,23,10,69.8677,118.51,0
+Takuma Sato,51,Dale Coyne Racing with RWR,23,11,69.7857,118.649,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,23,12,69.8397,118.557,0
+Will Power,12,Team Penske,23,13,69.6978,118.799,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,23,14,70.0145,118.261,0
+Simon Pagenaud,60,Meyer Shank Racing,23,15,70.1421,118.046,0
+Jimmie Johnson,48,Chip Ganassi Racing,23,16,69.6527,118.876,0
+Josef Newgarden,2,Team Penske,23,17,69.2565,119.556,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,23,18,68.6914,120.539,0
+Romain Grosjean,28,Andretti Autosport,23,19,69.2258,119.609,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,23,20,69.3992,119.31,0
+Marcus Ericsson,8,Chip Ganassi Racing,23,21,69.3536,119.388,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,23,22,69.0764,119.867,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,23,23,71.0309,116.569,0
+Conor Daly,20,ECR,23,24,69.6103,118.948,0
+Dalton Kellett,4,A.J. Foyt Enterprises,23,25,69.6228,118.927,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,23,26,69.8242,118.584,0
+Rinus VeeKay,21,ECR,24,1,69.8778,118.493,0
+Pato O'Ward,5,Arrow McLaren,24,2,69.8625,118.519,0
+Scott McLaughlin,3,Team Penske,24,3,69.7924,118.638,0
+Alex Palou,10,Chip Ganassi Racing,24,4,69.7871,118.647,0
+Alexander Rossi,27,Andretti Autosport,24,5,69.6606,118.862,0
+Felix Rosenqvist,7,Arrow McLaren,24,6,69.6442,118.89,0
+Callum Ilott,77,Juncos Hollinger Racing,24,7,69.7417,118.724,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,24,8,69.9496,118.371,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,24,9,69.9098,118.438,0
+Scott Dixon,9,Chip Ganassi Racing,24,10,69.9632,118.348,0
+Takuma Sato,51,Dale Coyne Racing with RWR,24,11,69.9289,118.406,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,24,12,69.7875,118.646,0
+Will Power,12,Team Penske,24,13,70.1825,117.978,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,24,14,70.1356,118.057,0
+Simon Pagenaud,60,Meyer Shank Racing,24,15,70.1273,118.071,0
+Josef Newgarden,2,Team Penske,24,16,69.0128,119.978,0
+Jimmie Johnson,48,Chip Ganassi Racing,24,17,70.2788,117.816,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,24,18,68.5885,120.72,0
+Romain Grosjean,28,Andretti Autosport,24,19,69.0526,119.909,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,24,20,69.204,119.646,0
+Marcus Ericsson,8,Chip Ganassi Racing,24,21,69.0831,119.856,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,24,22,69.0237,119.959,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,24,23,71.1825,116.321,0
+Conor Daly,20,ECR,24,24,69.5957,118.973,0
+Dalton Kellett,4,A.J. Foyt Enterprises,24,25,69.5916,118.98,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,24,26,70.064,118.178,0
+Rinus VeeKay,21,ECR,25,1,69.8597,118.523,0
+Pato O'Ward,5,Arrow McLaren,25,2,69.6647,118.855,0
+Scott McLaughlin,3,Team Penske,25,3,69.7895,118.642,0
+Alex Palou,10,Chip Ganassi Racing,25,4,69.8662,118.512,0
+Alexander Rossi,27,Andretti Autosport,25,5,69.8885,118.474,0
+Felix Rosenqvist,7,Arrow McLaren,25,6,69.8588,118.525,0
+Callum Ilott,77,Juncos Hollinger Racing,25,7,69.9542,118.363,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,25,8,69.9644,118.346,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,25,9,69.959,118.355,0
+Scott Dixon,9,Chip Ganassi Racing,25,10,69.9518,118.367,0
+Takuma Sato,51,Dale Coyne Racing with RWR,25,11,69.8989,118.457,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,25,12,69.8415,118.554,0
+Will Power,12,Team Penske,25,13,69.5866,118.988,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,25,14,69.9727,118.332,0
+Simon Pagenaud,60,Meyer Shank Racing,25,15,70.2845,117.807,0
+Josef Newgarden,2,Team Penske,25,16,69.3806,119.342,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,25,17,69.0729,119.873,0
+Jimmie Johnson,48,Chip Ganassi Racing,25,18,71.4423,115.898,0
+Romain Grosjean,28,Andretti Autosport,25,19,69.1634,119.716,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,25,20,69.162,119.719,0
+Marcus Ericsson,8,Chip Ganassi Racing,25,21,69.179,119.69,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,25,22,69.1641,119.715,0
+Conor Daly,20,ECR,25,23,70.1732,117.994,0
+Dalton Kellett,4,A.J. Foyt Enterprises,25,24,69.8987,118.457,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,25,25,97.8523,84.617,1
+Kyle Kirkwood,14,A.J. Foyt Enterprises,25,26,69.9417,118.384,0
+Rinus VeeKay,21,ECR,26,1,69.5589,119.036,0
+Pato O'Ward,5,Arrow McLaren,26,2,69.8064,118.614,0
+Scott McLaughlin,3,Team Penske,26,3,69.9925,118.298,0
+Alex Palou,10,Chip Ganassi Racing,26,4,69.8693,118.507,0
+Alexander Rossi,27,Andretti Autosport,26,5,70.0884,118.137,0
+Felix Rosenqvist,7,Arrow McLaren,26,6,70.05,118.201,0
+Callum Ilott,77,Juncos Hollinger Racing,26,7,69.939,118.389,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,26,8,69.9921,118.299,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,26,9,69.9511,118.368,0
+Scott Dixon,9,Chip Ganassi Racing,26,10,70.0885,118.136,0
+Takuma Sato,51,Dale Coyne Racing with RWR,26,11,70.112,118.097,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,26,12,69.8317,118.571,0
+Will Power,12,Team Penske,26,13,69.5583,119.037,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,26,14,69.9478,118.374,0
+Simon Pagenaud,60,Meyer Shank Racing,26,15,70.0807,118.15,0
+Josef Newgarden,2,Team Penske,26,16,69.1681,119.708,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,26,17,68.754,120.429,0
+Romain Grosjean,28,Andretti Autosport,26,18,69.2354,119.592,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,26,19,69.1607,119.721,0
+Marcus Ericsson,8,Chip Ganassi Racing,26,20,69.1663,119.711,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,26,21,68.9916,120.015,0
+Conor Daly,20,ECR,26,22,69.4982,119.14,0
+Jimmie Johnson,48,Chip Ganassi Racing,26,23,92.0061,89.994,1
+Dalton Kellett,4,A.J. Foyt Enterprises,26,24,70.0506,118.2,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,26,25,69.6757,118.836,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,26,26,81.1494,102.034,0
+Rinus VeeKay,21,ECR,27,1,69.7216,118.758,0
+Pato O'Ward,5,Arrow McLaren,27,2,69.7442,118.72,0
+Scott McLaughlin,3,Team Penske,27,3,69.9757,118.327,0
+Alex Palou,10,Chip Ganassi Racing,27,4,69.7339,118.737,0
+Alexander Rossi,27,Andretti Autosport,27,5,69.677,118.834,0
+Felix Rosenqvist,7,Arrow McLaren,27,6,69.7971,118.63,0
+Callum Ilott,77,Juncos Hollinger Racing,27,7,69.8304,118.573,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,27,8,70.0296,118.236,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,27,9,69.868,118.509,0
+Scott Dixon,9,Chip Ganassi Racing,27,10,69.9703,118.336,0
+Takuma Sato,51,Dale Coyne Racing with RWR,27,11,70.1519,118.03,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,27,12,70.2768,117.82,0
+Will Power,12,Team Penske,27,13,69.881,118.487,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,27,14,69.9601,118.353,0
+Simon Pagenaud,60,Meyer Shank Racing,27,15,70.4041,117.607,0
+Josef Newgarden,2,Team Penske,27,16,69.3102,119.463,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,27,17,69.1332,119.769,0
+Romain Grosjean,28,Andretti Autosport,27,18,69.3993,119.31,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,27,19,69.149,119.741,0
+Marcus Ericsson,8,Chip Ganassi Racing,27,20,69.317,119.451,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,27,21,69.0763,119.867,0
+Conor Daly,20,ECR,27,22,69.9414,118.385,0
+Dalton Kellett,4,A.J. Foyt Enterprises,27,23,69.8751,118.497,0
+Jimmie Johnson,48,Chip Ganassi Racing,27,24,79.8478,103.697,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,27,25,69.2759,119.522,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,27,26,72.6538,113.965,0
+Rinus VeeKay,21,ECR,28,1,69.733,118.739,0
+Pato O'Ward,5,Arrow McLaren,28,2,69.7489,118.712,0
+Scott McLaughlin,3,Team Penske,28,3,69.6413,118.895,0
+Alex Palou,10,Chip Ganassi Racing,28,4,69.6265,118.92,0
+Alexander Rossi,27,Andretti Autosport,28,5,69.6829,118.824,0
+Callum Ilott,77,Juncos Hollinger Racing,28,6,69.745,118.718,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,28,7,69.8472,118.544,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,28,8,69.7894,118.643,0
+Scott Dixon,9,Chip Ganassi Racing,28,9,69.7599,118.693,0
+Takuma Sato,51,Dale Coyne Racing with RWR,28,10,69.8329,118.569,0
+Felix Rosenqvist,7,Arrow McLaren,28,11,81.0395,102.172,1
+Will Power,12,Team Penske,28,12,70.0171,118.257,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,28,13,70.1118,118.097,0
+Simon Pagenaud,60,Meyer Shank Racing,28,14,70.2856,117.805,0
+Josef Newgarden,2,Team Penske,28,15,69.4944,119.146,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,28,16,69.0994,119.827,0
+Romain Grosjean,28,Andretti Autosport,28,17,69.0958,119.834,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,28,18,69.1218,119.789,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,28,19,91.0988,90.89,1
+Marcus Ericsson,8,Chip Ganassi Racing,28,20,68.9966,120.006,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,28,21,68.7969,120.354,0
+Conor Daly,20,ECR,28,22,69.3204,119.445,0
+Dalton Kellett,4,A.J. Foyt Enterprises,28,23,69.822,118.587,0
+Jimmie Johnson,48,Chip Ganassi Racing,28,24,70.6986,117.117,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,28,25,69.2592,119.551,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,28,26,70.8236,116.91,0
+Rinus VeeKay,21,ECR,29,1,69.4605,119.204,0
+Scott McLaughlin,3,Team Penske,29,2,69.8095,118.608,0
+Alex Palou,10,Chip Ganassi Racing,29,3,69.6121,118.945,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,29,4,69.7783,118.662,0
+Scott Dixon,9,Chip Ganassi Racing,29,5,69.4412,119.238,0
+Alexander Rossi,27,Andretti Autosport,29,6,80.6621,102.65,1
+Will Power,12,Team Penske,29,7,69.4394,119.241,0
+Pato O'Ward,5,Arrow McLaren,29,8,90.5035,91.488,1
+Josef Newgarden,2,Team Penske,29,9,69.7314,118.741,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,29,10,69.4955,119.144,0
+Callum Ilott,77,Juncos Hollinger Racing,29,11,90.4322,91.56,1
+Romain Grosjean,28,Andretti Autosport,29,12,68.7626,120.414,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,29,13,68.7989,120.351,0
+Takuma Sato,51,Dale Coyne Racing with RWR,29,14,91.6266,90.367,1
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,29,15,94.3825,87.728,1
+Felix Rosenqvist,7,Arrow McLaren,29,16,89.0019,93.032,0
+Marcus Ericsson,8,Chip Ganassi Racing,29,17,69.5725,119.013,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,29,18,69.0912,119.842,0
+Simon Pagenaud,60,Meyer Shank Racing,29,19,92.8783,89.149,1
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,29,20,79.7302,103.85,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,29,21,95.6722,86.546,1
+Conor Daly,20,ECR,29,22,69.332,119.425,0
+Dalton Kellett,4,A.J. Foyt Enterprises,29,23,69.725,118.752,0
+Jimmie Johnson,48,Chip Ganassi Racing,29,24,70.1563,118.022,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,29,25,69.1939,119.664,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,29,26,70.8491,116.868,0
+Alex Palou,10,Chip Ganassi Racing,30,1,80.4458,102.926,1
+Rinus VeeKay,21,ECR,30,2,90.5141,91.477,1
+Josef Newgarden,2,Team Penske,30,3,69.146,119.747,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,30,4,68.952,120.084,0
+Scott McLaughlin,3,Team Penske,30,5,89.9296,92.072,1
+Will Power,12,Team Penske,30,6,80.0925,103.38,1
+Pato O'Ward,5,Arrow McLaren,30,7,78.0633,106.068,0
+Romain Grosjean,28,Andretti Autosport,30,8,69.145,119.748,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,30,9,90.6487,91.342,1
+Jack Harvey,45,Rahal Letterman Lanigan Racing,30,10,69.0078,119.986,0
+Scott Dixon,9,Chip Ganassi Racing,30,11,91.4666,90.525,1
+Alexander Rossi,27,Andretti Autosport,30,12,89.9785,92.022,0
+Marcus Ericsson,8,Chip Ganassi Racing,30,13,70.4304,117.563,0
+Felix Rosenqvist,7,Arrow McLaren,30,14,71.7736,115.363,0
+Callum Ilott,77,Juncos Hollinger Racing,30,15,78.9056,104.936,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,30,16,71.231,116.242,0
+Takuma Sato,51,Dale Coyne Racing with RWR,30,17,78.19,105.896,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,30,18,79.3283,104.376,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,30,19,72.2176,114.653,0
+Conor Daly,20,ECR,30,20,70.2236,117.909,0
+Simon Pagenaud,60,Meyer Shank Racing,30,21,77.4415,106.919,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,30,22,79.2133,104.528,0
+Dalton Kellett,4,A.J. Foyt Enterprises,30,23,71.5434,115.734,0
+Jimmie Johnson,48,Chip Ganassi Racing,30,24,70.0298,118.235,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,30,25,69.1272,119.779,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,30,26,72.0328,114.948,0
+Josef Newgarden,2,Team Penske,31,1,69.091,119.842,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,31,2,69.2132,119.63,0
+Rinus VeeKay,21,ECR,31,3,78.6461,105.282,0
+Pato O'Ward,5,Arrow McLaren,31,4,70.2625,117.844,0
+Romain Grosjean,28,Andretti Autosport,31,5,69.7746,118.668,0
+Scott McLaughlin,3,Team Penske,31,6,78.5757,105.376,0
+Alex Palou,10,Chip Ganassi Racing,31,7,88.557,93.499,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,31,8,70.4129,117.592,0
+Alexander Rossi,27,Andretti Autosport,31,9,70.68,117.148,0
+Marcus Ericsson,8,Chip Ganassi Racing,31,10,69.7788,118.661,0
+Felix Rosenqvist,7,Arrow McLaren,31,11,71.1158,116.43,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,31,12,79.1845,104.566,0
+Callum Ilott,77,Juncos Hollinger Racing,31,13,71.9858,115.023,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,31,14,71.8547,115.233,0
+Scott Dixon,9,Chip Ganassi Racing,31,15,77.8056,106.419,0
+Takuma Sato,51,Dale Coyne Racing with RWR,31,16,70.7662,117.005,0
+Will Power,12,Team Penske,31,17,88.1529,93.928,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,31,18,71.5707,115.69,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,31,19,72.2002,114.681,0
+Conor Daly,20,ECR,31,20,72.3268,114.48,0
+Simon Pagenaud,60,Meyer Shank Racing,31,21,70.3897,117.631,0
+Dalton Kellett,4,A.J. Foyt Enterprises,31,22,70.6843,117.141,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,31,23,72.0617,114.902,0
+Jimmie Johnson,48,Chip Ganassi Racing,31,24,70.1107,118.099,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,31,25,69.0619,119.892,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,31,26,71.3505,116.047,0
+Josef Newgarden,2,Team Penske,32,1,68.8368,120.284,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,32,2,69.093,119.838,0
+Rinus VeeKay,21,ECR,32,3,71.8263,115.278,0
+Romain Grosjean,28,Andretti Autosport,32,4,69.649,118.882,0
+Pato O'Ward,5,Arrow McLaren,32,5,72.688,113.912,0
+Scott McLaughlin,3,Team Penske,32,6,71.9361,115.102,0
+Alex Palou,10,Chip Ganassi Racing,32,7,72.8996,113.581,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,32,8,73.9924,111.903,0
+Alexander Rossi,27,Andretti Autosport,32,9,73.4172,112.78,0
+Marcus Ericsson,8,Chip Ganassi Racing,32,10,74.1741,111.629,0
+Felix Rosenqvist,7,Arrow McLaren,32,11,74.6983,110.846,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,32,12,74.0887,111.758,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,32,13,74.7124,110.825,0
+Scott Dixon,9,Chip Ganassi Racing,32,14,74.7193,110.815,0
+Takuma Sato,51,Dale Coyne Racing with RWR,32,15,75.3584,109.875,0
+Will Power,12,Team Penske,32,16,77.1433,107.333,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,32,17,77.2991,107.116,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,32,18,76.2118,108.645,0
+Conor Daly,20,ECR,32,19,77.286,107.135,0
+Simon Pagenaud,60,Meyer Shank Racing,32,20,75.2692,110.005,0
+Dalton Kellett,4,A.J. Foyt Enterprises,32,21,76.8504,107.742,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,32,22,78.0372,106.103,0
+Jimmie Johnson,48,Chip Ganassi Racing,32,23,76.4639,108.286,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,32,24,76.8229,107.78,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,32,25,114.8531,72.092,0
+Callum Ilott,77,Juncos Hollinger Racing,32,26,336.2335,24.626,1
+Rinus VeeKay,21,ECR,33,1,112.0667,73.885,0
+Pato O'Ward,5,Arrow McLaren,33,2,109.8149,75.4,0
+Scott McLaughlin,3,Team Penske,33,3,109.3934,75.69,0
+Alex Palou,10,Chip Ganassi Racing,33,4,107.9243,76.72,0
+Josef Newgarden,2,Team Penske,33,5,123.5862,66.998,1
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,33,6,123.239,67.187,1
+Alexander Rossi,27,Andretti Autosport,33,7,104.6732,79.103,0
+Felix Rosenqvist,7,Arrow McLaren,33,8,101.276,81.757,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,33,9,100.9816,81.995,0
+Scott Dixon,9,Chip Ganassi Racing,33,10,99.913,82.872,0
+Romain Grosjean,28,Andretti Autosport,33,11,116.524,71.058,1
+Takuma Sato,51,Dale Coyne Racing with RWR,33,12,97.506,84.918,0
+Will Power,12,Team Penske,33,13,95.9065,86.334,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,33,14,95.21,86.966,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,33,15,93.584,88.477,0
+Simon Pagenaud,60,Meyer Shank Racing,33,16,92.5193,89.495,0
+Dalton Kellett,4,A.J. Foyt Enterprises,33,17,89.4697,92.545,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,33,18,87.7064,94.406,0
+Jimmie Johnson,48,Chip Ganassi Racing,33,19,88.0516,94.036,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,33,20,122.8855,67.38,1
+Marcus Ericsson,8,Chip Ganassi Racing,33,21,120.1525,68.912,1
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,33,22,117.8768,70.243,1
+Conor Daly,20,ECR,33,23,112.0735,73.88,1
+Kyle Kirkwood,14,A.J. Foyt Enterprises,33,24,97.8921,84.583,1
+Tatiana Calderon,11,A.J. Foyt Enterprises,33,25,120.4426,68.746,0
+Callum Ilott,77,Juncos Hollinger Racing,33,26,82.6319,100.203,0
+Rinus VeeKay,21,ECR,34,1,120.3736,68.786,0
+Pato O'Ward,5,Arrow McLaren,34,2,120.7569,68.568,0
+Scott McLaughlin,3,Team Penske,34,3,120.7178,68.59,0
+Alex Palou,10,Chip Ganassi Racing,34,4,120.6522,68.627,0
+Alexander Rossi,27,Andretti Autosport,34,5,121.1537,68.343,0
+Felix Rosenqvist,7,Arrow McLaren,34,6,121.3567,68.229,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,34,7,121.791,67.985,0
+Scott Dixon,9,Chip Ganassi Racing,34,8,121.7024,68.035,0
+Takuma Sato,51,Dale Coyne Racing with RWR,34,9,121.9162,67.916,0
+Will Power,12,Team Penske,34,10,120.912,68.48,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,34,11,121.5218,68.136,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,34,12,121.76,68.003,0
+Simon Pagenaud,60,Meyer Shank Racing,34,13,121.6974,68.038,0
+Dalton Kellett,4,A.J. Foyt Enterprises,34,14,120.6857,68.608,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,34,15,121.6705,68.053,0
+Jimmie Johnson,48,Chip Ganassi Racing,34,16,120.7251,68.586,0
+Josef Newgarden,2,Team Penske,34,17,132.7232,62.385,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,34,18,133.5196,62.013,0
+Romain Grosjean,28,Andretti Autosport,34,19,131.9239,62.763,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,34,20,119.4765,69.302,0
+Marcus Ericsson,8,Chip Ganassi Racing,34,21,119.7951,69.118,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,34,22,118.81,69.691,0
+Conor Daly,20,ECR,34,23,113.708,72.818,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,34,24,105.3698,78.58,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,34,25,103.8952,79.696,0
+Callum Ilott,77,Juncos Hollinger Racing,34,26,71.5521,115.72,0
+Rinus VeeKay,21,ECR,35,1,115.4754,71.704,0
+Pato O'Ward,5,Arrow McLaren,35,2,114.6756,72.204,0
+Scott McLaughlin,3,Team Penske,35,3,114.4056,72.374,0
+Alex Palou,10,Chip Ganassi Racing,35,4,114.0415,72.605,0
+Alexander Rossi,27,Andretti Autosport,35,5,112.8857,73.349,0
+Felix Rosenqvist,7,Arrow McLaren,35,6,112.5004,73.6,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,35,7,112.1614,73.822,0
+Scott Dixon,9,Chip Ganassi Racing,35,8,112.0367,73.904,0
+Takuma Sato,51,Dale Coyne Racing with RWR,35,9,111.933,73.973,0
+Will Power,12,Team Penske,35,10,110.8744,74.679,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,35,11,110.1049,75.201,0
+Simon Pagenaud,60,Meyer Shank Racing,35,12,108.6815,76.186,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,35,13,110.1451,75.174,0
+Dalton Kellett,4,A.J. Foyt Enterprises,35,14,108.7659,76.127,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,35,15,107.6233,76.935,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,35,16,105.0982,78.783,0
+Jimmie Johnson,48,Chip Ganassi Racing,35,17,107.3564,77.126,0
+Josef Newgarden,2,Team Penske,35,18,106.774,77.547,0
+Romain Grosjean,28,Andretti Autosport,35,19,105.0811,78.796,0
+Marcus Ericsson,8,Chip Ganassi Racing,35,20,102.9812,80.403,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,35,21,104.9203,78.917,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,35,22,102.2611,80.969,0
+Conor Daly,20,ECR,35,23,102.5526,80.739,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,35,24,103.0957,80.314,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,35,25,71.5957,115.649,0
+Callum Ilott,77,Juncos Hollinger Racing,35,26,72.3069,114.512,0
+Rinus VeeKay,21,ECR,36,1,71.4198,115.934,0
+Pato O'Ward,5,Arrow McLaren,36,2,71.9463,115.086,0
+Scott McLaughlin,3,Team Penske,36,3,71.9542,115.073,0
+Alexander Rossi,27,Andretti Autosport,36,4,72.0406,114.935,0
+Alex Palou,10,Chip Ganassi Racing,36,5,72.7978,113.74,0
+Felix Rosenqvist,7,Arrow McLaren,36,6,72.7878,113.755,0
+Scott Dixon,9,Chip Ganassi Racing,36,7,72.2986,114.525,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,36,8,73.3058,112.951,0
+Will Power,12,Team Penske,36,9,72.1538,114.755,0
+Takuma Sato,51,Dale Coyne Racing with RWR,36,10,72.6566,113.961,0
+Simon Pagenaud,60,Meyer Shank Racing,36,11,72.0775,114.876,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,36,12,73.2206,113.083,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,36,13,73.5991,112.501,0
+Dalton Kellett,4,A.J. Foyt Enterprises,36,14,73.6575,112.412,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,36,15,73.51,112.638,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,36,16,74.3668,111.34,0
+Josef Newgarden,2,Team Penske,36,17,73.7511,112.27,0
+Romain Grosjean,28,Andretti Autosport,36,18,73.701,112.346,0
+Marcus Ericsson,8,Chip Ganassi Racing,36,19,73.7353,112.294,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,36,20,73.9881,111.91,0
+Jimmie Johnson,48,Chip Ganassi Racing,36,21,75.3586,109.875,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,36,22,74.6026,110.988,0
+Conor Daly,20,ECR,36,23,73.2229,113.079,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,36,24,77.8561,106.35,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,36,25,71.2634,116.189,0
+Callum Ilott,77,Juncos Hollinger Racing,36,26,72.5201,114.175,0
+Rinus VeeKay,21,ECR,37,1,70.5232,117.408,0
+Pato O'Ward,5,Arrow McLaren,37,2,70.9693,116.67,0
+Scott McLaughlin,3,Team Penske,37,3,71.0169,116.592,0
+Alexander Rossi,27,Andretti Autosport,37,4,70.9756,116.66,0
+Alex Palou,10,Chip Ganassi Racing,37,5,70.9516,116.699,0
+Felix Rosenqvist,7,Arrow McLaren,37,6,71.1148,116.431,0
+Scott Dixon,9,Chip Ganassi Racing,37,7,71.405,115.958,0
+Will Power,12,Team Penske,37,8,70.9359,116.725,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,37,9,71.694,115.491,0
+Simon Pagenaud,60,Meyer Shank Racing,37,10,71.1687,116.343,0
+Takuma Sato,51,Dale Coyne Racing with RWR,37,11,72.0593,114.905,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,37,12,71.8935,115.17,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,37,13,70.8061,116.939,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,37,14,73.0632,113.327,0
+Dalton Kellett,4,A.J. Foyt Enterprises,37,15,73.0721,113.313,0
+Josef Newgarden,2,Team Penske,37,16,72.059,114.906,0
+Romain Grosjean,28,Andretti Autosport,37,17,72.2263,114.64,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,37,18,72.9058,113.571,0
+Marcus Ericsson,8,Chip Ganassi Racing,37,19,72.3489,114.445,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,37,20,72.7836,113.762,0
+Conor Daly,20,ECR,37,21,73.3506,112.883,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,37,22,75.253,110.029,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,37,23,72.0116,114.981,0
+Jimmie Johnson,48,Chip Ganassi Racing,37,24,84.5149,97.971,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,37,25,70.6973,117.119,0
+Callum Ilott,77,Juncos Hollinger Racing,37,26,71.0724,116.501,0
+Rinus VeeKay,21,ECR,38,1,70.4637,117.507,0
+Pato O'Ward,5,Arrow McLaren,38,2,70.5494,117.365,0
+Scott McLaughlin,3,Team Penske,38,3,70.6063,117.27,0
+Alexander Rossi,27,Andretti Autosport,38,4,70.7576,117.019,0
+Alex Palou,10,Chip Ganassi Racing,38,5,70.7054,117.106,0
+Felix Rosenqvist,7,Arrow McLaren,38,6,70.9146,116.76,0
+Scott Dixon,9,Chip Ganassi Racing,38,7,70.8619,116.847,0
+Will Power,12,Team Penske,38,8,70.9194,116.752,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,38,9,71.1957,116.299,0
+Simon Pagenaud,60,Meyer Shank Racing,38,10,71.4004,115.966,0
+Takuma Sato,51,Dale Coyne Racing with RWR,38,11,71.2747,116.17,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,38,12,70.9597,116.686,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,38,13,70.2615,117.845,0
+Dalton Kellett,4,A.J. Foyt Enterprises,38,14,71.1809,116.323,0
+Josef Newgarden,2,Team Penske,38,15,71.8101,115.304,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,38,16,72.889,113.597,0
+Romain Grosjean,28,Andretti Autosport,38,17,72.2019,114.678,0
+Marcus Ericsson,8,Chip Ganassi Racing,38,18,71.8714,115.206,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,38,19,72.4654,114.261,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,38,20,71.8373,115.26,0
+Conor Daly,20,ECR,38,21,70.4838,117.474,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,38,22,70.8494,116.868,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,38,23,70.7865,116.971,0
+Jimmie Johnson,48,Chip Ganassi Racing,38,24,70.8539,116.86,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,38,25,70.8077,116.936,0
+Callum Ilott,77,Juncos Hollinger Racing,38,26,71.0382,116.557,0
+Rinus VeeKay,21,ECR,39,1,70.1967,117.954,0
+Pato O'Ward,5,Arrow McLaren,39,2,70.4628,117.509,0
+Scott McLaughlin,3,Team Penske,39,3,70.7152,117.089,0
+Alexander Rossi,27,Andretti Autosport,39,4,71.0049,116.612,0
+Alex Palou,10,Chip Ganassi Racing,39,5,70.832,116.896,0
+Scott Dixon,9,Chip Ganassi Racing,39,6,69.976,118.326,0
+Felix Rosenqvist,7,Arrow McLaren,39,7,71.4847,115.829,0
+Will Power,12,Team Penske,39,8,70.7471,117.037,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,39,9,70.6247,117.239,0
+Simon Pagenaud,60,Meyer Shank Racing,39,10,70.7836,116.976,0
+Takuma Sato,51,Dale Coyne Racing with RWR,39,11,71.0308,116.569,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,39,12,71.0513,116.536,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,39,13,71.1738,116.335,0
+Dalton Kellett,4,A.J. Foyt Enterprises,39,14,70.3245,117.74,0
+Josef Newgarden,2,Team Penske,39,15,69.939,118.389,0
+Romain Grosjean,28,Andretti Autosport,39,16,70.0725,118.163,0
+Marcus Ericsson,8,Chip Ganassi Racing,39,17,70.8833,116.812,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,39,18,72.4445,114.294,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,39,19,72.2251,114.642,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,39,20,71.9318,115.109,0
+Conor Daly,20,ECR,39,21,72.0946,114.849,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,39,22,71.0438,116.548,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,39,23,70.6065,117.27,0
+Jimmie Johnson,48,Chip Ganassi Racing,39,24,70.4309,117.562,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,39,25,70.7977,116.953,0
+Callum Ilott,77,Juncos Hollinger Racing,39,26,72.257,114.591,0
+Rinus VeeKay,21,ECR,40,1,70.0397,118.219,0
+Pato O'Ward,5,Arrow McLaren,40,2,70.2383,117.884,0
+Scott McLaughlin,3,Team Penske,40,3,70.4494,117.531,0
+Alexander Rossi,27,Andretti Autosport,40,4,70.3009,117.779,0
+Alex Palou,10,Chip Ganassi Racing,40,5,70.5249,117.405,0
+Scott Dixon,9,Chip Ganassi Racing,40,6,70.5689,117.332,0
+Will Power,12,Team Penske,40,7,70.4313,117.561,0
+Felix Rosenqvist,7,Arrow McLaren,40,8,71.4179,115.937,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,40,9,70.7912,116.964,0
+Simon Pagenaud,60,Meyer Shank Racing,40,10,70.7324,117.061,0
+Takuma Sato,51,Dale Coyne Racing with RWR,40,11,70.5731,117.325,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,40,12,71.0823,116.485,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,40,13,70.9778,116.656,0
+Dalton Kellett,4,A.J. Foyt Enterprises,40,14,70.338,117.717,0
+Josef Newgarden,2,Team Penske,40,15,70.2438,117.875,0
+Romain Grosjean,28,Andretti Autosport,40,16,69.8616,118.52,0
+Marcus Ericsson,8,Chip Ganassi Racing,40,17,69.9525,118.366,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,40,18,70.9118,116.765,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,40,19,70.8953,116.792,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,40,20,71.9903,115.015,0
+Conor Daly,20,ECR,40,21,71.46,115.869,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,40,22,71.297,116.134,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,40,23,70.406,117.604,0
+Jimmie Johnson,48,Chip Ganassi Racing,40,24,69.8232,118.585,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,40,25,70.8038,116.943,0
+Callum Ilott,77,Juncos Hollinger Racing,40,26,71.3836,115.993,0
+Rinus VeeKay,21,ECR,41,1,69.889,118.474,0
+Pato O'Ward,5,Arrow McLaren,41,2,70.0932,118.128,0
+Scott McLaughlin,3,Team Penske,41,3,70.1067,118.106,0
+Alexander Rossi,27,Andretti Autosport,41,4,70.178,117.986,0
+Alex Palou,10,Chip Ganassi Racing,41,5,70.2112,117.93,0
+Scott Dixon,9,Chip Ganassi Racing,41,6,70.1744,117.992,0
+Will Power,12,Team Penske,41,7,70.1044,118.11,0
+Felix Rosenqvist,7,Arrow McLaren,41,8,70.4969,117.452,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,41,9,70.7806,116.981,0
+Simon Pagenaud,60,Meyer Shank Racing,41,10,70.507,117.435,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,41,11,69.3829,119.338,0
+Takuma Sato,51,Dale Coyne Racing with RWR,41,12,71.1412,116.388,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,41,13,70.761,117.014,0
+Josef Newgarden,2,Team Penske,41,14,70.119,118.085,0
+Romain Grosjean,28,Andretti Autosport,41,15,70.1857,117.973,0
+Dalton Kellett,4,A.J. Foyt Enterprises,41,16,71.5784,115.677,0
+Marcus Ericsson,8,Chip Ganassi Racing,41,17,70.2112,117.93,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,41,18,70.4368,117.552,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,41,19,70.3585,117.683,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,41,20,70.7884,116.968,0
+Conor Daly,20,ECR,41,21,70.9023,116.78,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,41,22,71.0592,116.523,0
+Jimmie Johnson,48,Chip Ganassi Racing,41,23,69.9633,118.348,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,41,24,78.1361,105.969,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,41,25,70.6473,117.202,0
+Callum Ilott,77,Juncos Hollinger Racing,41,26,70.094,118.127,0
+Rinus VeeKay,21,ECR,42,1,69.9436,118.381,0
+Pato O'Ward,5,Arrow McLaren,42,2,70.2723,117.827,0
+Scott McLaughlin,3,Team Penske,42,3,70.3315,117.728,0
+Alexander Rossi,27,Andretti Autosport,42,4,70.269,117.833,0
+Alex Palou,10,Chip Ganassi Racing,42,5,70.1687,118.001,0
+Scott Dixon,9,Chip Ganassi Racing,42,6,69.9215,118.419,0
+Will Power,12,Team Penske,42,7,69.9051,118.446,0
+Felix Rosenqvist,7,Arrow McLaren,42,8,70.2832,117.809,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,42,9,70.0944,118.126,0
+Simon Pagenaud,60,Meyer Shank Racing,42,10,70.3648,117.672,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,42,11,69.9483,118.373,0
+Takuma Sato,51,Dale Coyne Racing with RWR,42,12,70.3263,117.737,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,42,13,70.3781,117.65,0
+Josef Newgarden,2,Team Penske,42,14,69.7853,118.65,0
+Romain Grosjean,28,Andretti Autosport,42,15,69.864,118.516,0
+Marcus Ericsson,8,Chip Ganassi Racing,42,16,70.1704,117.998,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,42,17,70.7084,117.101,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,42,18,70.5026,117.442,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,42,19,70.7556,117.023,0
+Conor Daly,20,ECR,42,20,70.9041,116.777,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,42,21,70.2319,117.895,0
+Jimmie Johnson,48,Chip Ganassi Racing,42,22,70.1928,117.961,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,42,23,70.2107,117.931,0
+Dalton Kellett,4,A.J. Foyt Enterprises,42,24,93.2708,88.774,1
+Tatiana Calderon,11,A.J. Foyt Enterprises,42,25,70.5498,117.364,0
+Callum Ilott,77,Juncos Hollinger Racing,42,26,70.1889,117.967,0
+Rinus VeeKay,21,ECR,43,1,69.7773,118.663,0
+Pato O'Ward,5,Arrow McLaren,43,2,69.9626,118.349,0
+Scott McLaughlin,3,Team Penske,43,3,70.1977,117.953,0
+Alexander Rossi,27,Andretti Autosport,43,4,70.1494,118.034,0
+Alex Palou,10,Chip Ganassi Racing,43,5,70.1826,117.978,0
+Scott Dixon,9,Chip Ganassi Racing,43,6,70.5073,117.435,0
+Will Power,12,Team Penske,43,7,70.1333,118.061,0
+Felix Rosenqvist,7,Arrow McLaren,43,8,70.5009,117.445,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,43,9,70.7067,117.103,0
+Simon Pagenaud,60,Meyer Shank Racing,43,10,70.5855,117.305,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,43,11,70.5638,117.341,0
+Takuma Sato,51,Dale Coyne Racing with RWR,43,12,70.4499,117.53,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,43,13,70.4772,117.485,0
+Josef Newgarden,2,Team Penske,43,14,70.161,118.014,0
+Romain Grosjean,28,Andretti Autosport,43,15,70.1144,118.093,0
+Marcus Ericsson,8,Chip Ganassi Racing,43,16,69.7225,118.756,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,43,17,70.3721,117.66,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,43,18,70.3292,117.732,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,43,19,70.4998,117.447,0
+Conor Daly,20,ECR,43,20,70.5249,117.405,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,43,21,70.0174,118.256,0
+Jimmie Johnson,48,Chip Ganassi Racing,43,22,69.9924,118.299,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,43,23,70.4409,117.545,0
+Dalton Kellett,4,A.J. Foyt Enterprises,43,24,79.8125,103.743,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,43,25,70.5293,117.398,0
+Callum Ilott,77,Juncos Hollinger Racing,43,26,69.9658,118.344,0
+Rinus VeeKay,21,ECR,44,1,70.1307,118.065,0
+Pato O'Ward,5,Arrow McLaren,44,2,69.8176,118.595,0
+Scott McLaughlin,3,Team Penske,44,3,69.972,118.333,0
+Alexander Rossi,27,Andretti Autosport,44,4,69.9883,118.305,0
+Alex Palou,10,Chip Ganassi Racing,44,5,70.1447,118.042,0
+Scott Dixon,9,Chip Ganassi Racing,44,6,70.2498,117.865,0
+Will Power,12,Team Penske,44,7,70.2552,117.856,0
+Felix Rosenqvist,7,Arrow McLaren,44,8,70.107,118.105,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,44,9,70.1255,118.074,0
+Simon Pagenaud,60,Meyer Shank Racing,44,10,70.4209,117.579,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,44,11,70.4032,117.608,0
+Takuma Sato,51,Dale Coyne Racing with RWR,44,12,70.4369,117.552,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,44,13,70.4556,117.521,0
+Josef Newgarden,2,Team Penske,44,14,70.5347,117.389,0
+Romain Grosjean,28,Andretti Autosport,44,15,70.4056,117.604,0
+Marcus Ericsson,8,Chip Ganassi Racing,44,16,70.0305,118.234,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,44,17,70.1157,118.091,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,44,18,70.4725,117.493,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,44,19,70.2875,117.802,0
+Conor Daly,20,ECR,44,20,70.2125,117.928,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,44,21,70.0627,118.18,0
+Jimmie Johnson,48,Chip Ganassi Racing,44,22,69.934,118.397,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,44,23,69.6217,118.928,0
+Dalton Kellett,4,A.J. Foyt Enterprises,44,24,71.1185,116.425,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,44,25,70.2632,117.843,0
+Callum Ilott,77,Juncos Hollinger Racing,44,26,69.9711,118.335,0
+Rinus VeeKay,21,ECR,45,1,69.7986,118.627,0
+Pato O'Ward,5,Arrow McLaren,45,2,69.7831,118.653,0
+Scott McLaughlin,3,Team Penske,45,3,69.8887,118.474,0
+Alexander Rossi,27,Andretti Autosport,45,4,69.9446,118.379,0
+Alex Palou,10,Chip Ganassi Racing,45,5,69.9621,118.35,0
+Scott Dixon,9,Chip Ganassi Racing,45,6,70.0386,118.221,0
+Will Power,12,Team Penske,45,7,69.9796,118.32,0
+Felix Rosenqvist,7,Arrow McLaren,45,8,70.0658,118.175,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,45,9,69.9146,118.43,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,45,10,69.1895,119.671,0
+Simon Pagenaud,60,Meyer Shank Racing,45,11,70.7143,117.091,0
+Takuma Sato,51,Dale Coyne Racing with RWR,45,12,70.2698,117.832,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,45,13,70.2416,117.879,0
+Josef Newgarden,2,Team Penske,45,14,70.2296,117.899,0
+Romain Grosjean,28,Andretti Autosport,45,15,70.2594,117.849,0
+Marcus Ericsson,8,Chip Ganassi Racing,45,16,70.2692,117.833,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,45,17,70.1071,118.105,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,45,18,70.2303,117.898,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,45,19,70.278,117.818,0
+Conor Daly,20,ECR,45,20,70.2455,117.872,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,45,21,70.0045,118.278,0
+Jimmie Johnson,48,Chip Ganassi Racing,45,22,69.8221,118.587,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,45,23,69.6981,118.798,0
+Dalton Kellett,4,A.J. Foyt Enterprises,45,24,70.4575,117.518,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,45,25,70.3454,117.705,0
+Callum Ilott,77,Juncos Hollinger Racing,45,26,70.4476,117.534,0
+Rinus VeeKay,21,ECR,46,1,69.6675,118.85,0
+Pato O'Ward,5,Arrow McLaren,46,2,69.5787,119.002,0
+Scott McLaughlin,3,Team Penske,46,3,69.8707,118.505,0
+Alexander Rossi,27,Andretti Autosport,46,4,69.9632,118.348,0
+Alex Palou,10,Chip Ganassi Racing,46,5,70.0785,118.153,0
+Scott Dixon,9,Chip Ganassi Racing,46,6,69.9576,118.357,0
+Will Power,12,Team Penske,46,7,70.0111,118.267,0
+Felix Rosenqvist,7,Arrow McLaren,46,8,70.2469,117.87,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,46,9,70.2191,117.917,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,46,10,70.1531,118.028,0
+Simon Pagenaud,60,Meyer Shank Racing,46,11,70.1643,118.009,0
+Takuma Sato,51,Dale Coyne Racing with RWR,46,12,70.3391,117.715,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,46,13,70.2329,117.893,0
+Josef Newgarden,2,Team Penske,46,14,70.2771,117.819,0
+Romain Grosjean,28,Andretti Autosport,46,15,70.2344,117.891,0
+Marcus Ericsson,8,Chip Ganassi Racing,46,16,70.3368,117.719,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,46,17,70.1973,117.953,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,46,18,70.3385,117.716,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,46,19,70.4841,117.473,0
+Conor Daly,20,ECR,46,20,70.5558,117.354,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,46,21,70.4954,117.454,0
+Jimmie Johnson,48,Chip Ganassi Racing,46,22,69.9813,118.317,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,46,23,69.8071,118.613,0
+Dalton Kellett,4,A.J. Foyt Enterprises,46,24,70.5921,117.294,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,46,25,70.4403,117.546,0
+Callum Ilott,77,Juncos Hollinger Racing,46,26,70.6479,117.201,0
+Rinus VeeKay,21,ECR,47,1,69.7372,118.731,0
+Pato O'Ward,5,Arrow McLaren,47,2,69.7373,118.731,0
+Scott McLaughlin,3,Team Penske,47,3,69.9198,118.421,0
+Alexander Rossi,27,Andretti Autosport,47,4,69.8622,118.519,0
+Alex Palou,10,Chip Ganassi Racing,47,5,69.9793,118.321,0
+Scott Dixon,9,Chip Ganassi Racing,47,6,69.9351,118.395,0
+Will Power,12,Team Penske,47,7,69.9781,118.323,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,47,8,69.5344,119.078,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,47,9,70.3529,117.692,0
+Felix Rosenqvist,7,Arrow McLaren,47,10,71.6316,115.591,0
+Simon Pagenaud,60,Meyer Shank Racing,47,11,70.2371,117.886,0
+Takuma Sato,51,Dale Coyne Racing with RWR,47,12,70.4157,117.587,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,47,13,70.4985,117.449,0
+Josef Newgarden,2,Team Penske,47,14,70.7633,117.01,0
+Romain Grosjean,28,Andretti Autosport,47,15,71.392,115.979,0
+Marcus Ericsson,8,Chip Ganassi Racing,47,16,71.0207,116.586,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,47,17,70.447,117.535,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,47,18,70.6002,117.28,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,47,19,70.5558,117.354,0
+Conor Daly,20,ECR,47,20,70.6244,117.24,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,47,21,70.4703,117.496,0
+Jimmie Johnson,48,Chip Ganassi Racing,47,22,70.2882,117.801,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,47,23,69.8982,118.458,0
+Dalton Kellett,4,A.J. Foyt Enterprises,47,24,70.1989,117.951,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,47,25,70.3897,117.631,0
+Callum Ilott,77,Juncos Hollinger Racing,47,26,70.2386,117.884,0
+Rinus VeeKay,21,ECR,48,1,70.1074,118.105,0
+Pato O'Ward,5,Arrow McLaren,48,2,69.5356,119.076,0
+Scott McLaughlin,3,Team Penske,48,3,69.7612,118.691,0
+Alexander Rossi,27,Andretti Autosport,48,4,69.8628,118.518,0
+Alex Palou,10,Chip Ganassi Racing,48,5,69.7626,118.688,0
+Scott Dixon,9,Chip Ganassi Racing,48,6,69.8131,118.602,0
+Will Power,12,Team Penske,48,7,69.8112,118.606,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,48,8,69.6609,118.862,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,48,9,69.1996,119.654,0
+Felix Rosenqvist,7,Arrow McLaren,48,10,70.6043,117.273,0
+Simon Pagenaud,60,Meyer Shank Racing,48,11,70.3361,117.72,0
+Takuma Sato,51,Dale Coyne Racing with RWR,48,12,70.0767,118.156,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,48,13,70.0824,118.147,0
+Josef Newgarden,2,Team Penske,48,14,69.9433,118.382,0
+Romain Grosjean,28,Andretti Autosport,48,15,69.4984,119.139,0
+Marcus Ericsson,8,Chip Ganassi Racing,48,16,69.9596,118.354,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,48,17,70.1922,117.962,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,48,18,70.1048,118.109,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,48,19,70.2461,117.871,0
+Conor Daly,20,ECR,48,20,70.3447,117.706,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,48,21,70.4324,117.56,0
+Jimmie Johnson,48,Chip Ganassi Racing,48,22,69.821,118.589,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,48,23,69.7077,118.782,0
+Dalton Kellett,4,A.J. Foyt Enterprises,48,24,70.2228,117.91,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,48,25,70.547,117.369,0
+Callum Ilott,77,Juncos Hollinger Racing,48,26,74.0737,111.781,0
+Rinus VeeKay,21,ECR,49,1,69.6872,118.817,0
+Pato O'Ward,5,Arrow McLaren,49,2,69.7763,118.665,0
+Scott McLaughlin,3,Team Penske,49,3,69.7179,118.764,0
+Alexander Rossi,27,Andretti Autosport,49,4,69.8616,118.52,0
+Alex Palou,10,Chip Ganassi Racing,49,5,69.8178,118.594,0
+Scott Dixon,9,Chip Ganassi Racing,49,6,69.9239,118.414,0
+Will Power,12,Team Penske,49,7,69.9625,118.349,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,49,8,69.6492,118.881,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,49,9,69.4151,119.282,0
+Simon Pagenaud,60,Meyer Shank Racing,49,10,69.5667,119.022,0
+Felix Rosenqvist,7,Arrow McLaren,49,11,70.9903,116.636,0
+Takuma Sato,51,Dale Coyne Racing with RWR,49,12,70.4551,117.522,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,49,13,70.3729,117.659,0
+Josef Newgarden,2,Team Penske,49,14,70.2501,117.865,0
+Romain Grosjean,28,Andretti Autosport,49,15,70.0936,118.128,0
+Marcus Ericsson,8,Chip Ganassi Racing,49,16,70.0616,118.182,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,49,17,70.1965,117.955,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,49,18,70.3052,117.772,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,49,19,70.2597,117.848,0
+Conor Daly,20,ECR,49,20,70.3629,117.676,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,49,21,70.5313,117.395,0
+Jimmie Johnson,48,Chip Ganassi Racing,49,22,69.9361,118.394,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,49,23,70.4126,117.593,0
+Dalton Kellett,4,A.J. Foyt Enterprises,49,24,70.3431,117.709,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,49,25,70.7936,116.96,0
+Callum Ilott,77,Juncos Hollinger Racing,49,26,70.112,118.097,0
+Rinus VeeKay,21,ECR,50,1,70.0057,118.276,0
+Pato O'Ward,5,Arrow McLaren,50,2,69.7968,118.63,0
+Scott McLaughlin,3,Team Penske,50,3,69.8056,118.615,0
+Alexander Rossi,27,Andretti Autosport,50,4,69.7421,118.723,0
+Alex Palou,10,Chip Ganassi Racing,50,5,69.8663,118.512,0
+Scott Dixon,9,Chip Ganassi Racing,50,6,69.8296,118.574,0
+Will Power,12,Team Penske,50,7,70.154,118.026,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,50,8,69.6238,118.925,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,50,9,69.8232,118.585,0
+Simon Pagenaud,60,Meyer Shank Racing,50,10,69.6899,118.812,0
+Felix Rosenqvist,7,Arrow McLaren,50,11,70.4904,117.463,0
+Takuma Sato,51,Dale Coyne Racing with RWR,50,12,70.4352,117.555,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,50,13,70.4297,117.564,0
+Josef Newgarden,2,Team Penske,50,14,70.3394,117.715,0
+Romain Grosjean,28,Andretti Autosport,50,15,70.3761,117.654,0
+Marcus Ericsson,8,Chip Ganassi Racing,50,16,70.1813,117.98,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,50,17,70.4251,117.572,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,50,18,70.1959,117.956,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,50,19,70.3865,117.636,0
+Conor Daly,20,ECR,50,20,70.3283,117.734,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,50,21,70.3776,117.651,0
+Jimmie Johnson,48,Chip Ganassi Racing,50,22,70.9176,116.755,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,50,23,70.6353,117.222,0
+Dalton Kellett,4,A.J. Foyt Enterprises,50,24,70.4461,117.537,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,50,25,70.2769,117.82,0
+Callum Ilott,77,Juncos Hollinger Racing,50,26,69.9469,118.376,0
+Rinus VeeKay,21,ECR,51,1,69.961,118.352,0
+Pato O'Ward,5,Arrow McLaren,51,2,69.8592,118.524,0
+Scott McLaughlin,3,Team Penske,51,3,69.8615,118.52,0
+Alexander Rossi,27,Andretti Autosport,51,4,69.8003,118.624,0
+Alex Palou,10,Chip Ganassi Racing,51,5,69.7383,118.73,0
+Scott Dixon,9,Chip Ganassi Racing,51,6,69.7589,118.695,0
+Will Power,12,Team Penske,51,7,69.6895,118.813,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,51,8,69.4876,119.158,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,51,9,69.63,118.914,0
+Simon Pagenaud,60,Meyer Shank Racing,51,10,69.5208,119.101,0
+Felix Rosenqvist,7,Arrow McLaren,51,11,70.3652,117.672,0
+Takuma Sato,51,Dale Coyne Racing with RWR,51,12,70.3096,117.765,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,51,13,70.4254,117.571,0
+Josef Newgarden,2,Team Penske,51,14,70.5918,117.294,0
+Romain Grosjean,28,Andretti Autosport,51,15,70.4968,117.452,0
+Marcus Ericsson,8,Chip Ganassi Racing,51,16,70.3761,117.654,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,51,17,70.2151,117.923,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,51,18,70.2716,117.829,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,51,19,70.2098,117.932,0
+Conor Daly,20,ECR,51,20,70.1761,117.989,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,51,21,70.2187,117.917,0
+Jimmie Johnson,48,Chip Ganassi Racing,51,22,69.7648,118.684,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,51,23,69.9994,118.287,0
+Dalton Kellett,4,A.J. Foyt Enterprises,51,24,70.9769,116.658,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,51,25,70.8432,116.878,0
+Callum Ilott,77,Juncos Hollinger Racing,51,26,69.7877,118.646,0
+Rinus VeeKay,21,ECR,52,1,69.9502,118.37,0
+Pato O'Ward,5,Arrow McLaren,52,2,69.8665,118.512,0
+Scott McLaughlin,3,Team Penske,52,3,69.6745,118.838,0
+Alexander Rossi,27,Andretti Autosport,52,4,69.7129,118.773,0
+Alex Palou,10,Chip Ganassi Racing,52,5,69.9817,118.317,0
+Scott Dixon,9,Chip Ganassi Racing,52,6,70.0133,118.263,0
+Will Power,12,Team Penske,52,7,69.7361,118.733,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,52,8,69.8263,118.58,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,52,9,69.6245,118.924,0
+Simon Pagenaud,60,Meyer Shank Racing,52,10,69.4348,119.249,0
+Felix Rosenqvist,7,Arrow McLaren,52,11,70.1458,118.04,0
+Takuma Sato,51,Dale Coyne Racing with RWR,52,12,70.2584,117.851,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,52,13,70.3097,117.765,0
+Josef Newgarden,2,Team Penske,52,14,70.3867,117.636,0
+Romain Grosjean,28,Andretti Autosport,52,15,70.3902,117.63,0
+Marcus Ericsson,8,Chip Ganassi Racing,52,16,70.4367,117.552,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,52,17,70.1908,117.964,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,52,18,70.1085,118.103,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,52,19,70.1781,117.986,0
+Conor Daly,20,ECR,52,20,70.2551,117.856,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,52,21,70.2486,117.867,0
+Jimmie Johnson,48,Chip Ganassi Racing,52,22,69.9356,118.395,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,52,23,69.9741,118.329,0
+Dalton Kellett,4,A.J. Foyt Enterprises,52,24,70.1686,118.001,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,52,25,70.4966,117.452,0
+Callum Ilott,77,Juncos Hollinger Racing,52,26,70.1737,117.993,0
+Rinus VeeKay,21,ECR,53,1,69.7026,118.79,0
+Pato O'Ward,5,Arrow McLaren,53,2,69.5836,118.994,0
+Scott McLaughlin,3,Team Penske,53,3,69.5992,118.967,0
+Alexander Rossi,27,Andretti Autosport,53,4,69.6501,118.88,0
+Alex Palou,10,Chip Ganassi Racing,53,5,69.727,118.749,0
+Scott Dixon,9,Chip Ganassi Racing,53,6,69.6121,118.945,0
+Will Power,12,Team Penske,53,7,69.8152,118.599,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,53,8,69.8926,118.467,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,53,9,69.8479,118.543,0
+Simon Pagenaud,60,Meyer Shank Racing,53,10,69.3161,119.453,0
+Felix Rosenqvist,7,Arrow McLaren,53,11,69.8909,118.47,0
+Takuma Sato,51,Dale Coyne Racing with RWR,53,12,70.0757,118.158,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,53,13,70.1525,118.029,0
+Josef Newgarden,2,Team Penske,53,14,70.0585,118.187,0
+Romain Grosjean,28,Andretti Autosport,53,15,70.0159,118.259,0
+Marcus Ericsson,8,Chip Ganassi Racing,53,16,70.215,117.924,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,53,17,70.2188,117.917,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,53,18,70.1882,117.969,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,53,19,70.3042,117.774,0
+Conor Daly,20,ECR,53,20,70.2807,117.813,0
+Jimmie Johnson,48,Chip Ganassi Racing,53,21,69.8184,118.593,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,53,22,70.0081,118.272,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,53,23,91.2707,90.719,1
+Dalton Kellett,4,A.J. Foyt Enterprises,53,24,70.2179,117.919,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,53,25,94.6545,87.476,1
+Callum Ilott,77,Juncos Hollinger Racing,53,26,70.1242,118.076,0
+Rinus VeeKay,21,ECR,54,1,69.6947,118.804,0
+Pato O'Ward,5,Arrow McLaren,54,2,69.8704,118.505,0
+Scott McLaughlin,3,Team Penske,54,3,69.7629,118.688,0
+Alexander Rossi,27,Andretti Autosport,54,4,69.6961,118.801,0
+Alex Palou,10,Chip Ganassi Racing,54,5,69.8655,118.513,0
+Scott Dixon,9,Chip Ganassi Racing,54,6,69.8827,118.484,0
+Will Power,12,Team Penske,54,7,69.6856,118.819,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,54,8,69.9395,118.388,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,54,9,70.0389,118.22,0
+Simon Pagenaud,60,Meyer Shank Racing,54,10,69.6268,118.92,0
+Felix Rosenqvist,7,Arrow McLaren,54,11,70.2321,117.895,0
+Takuma Sato,51,Dale Coyne Racing with RWR,54,12,70.0284,118.238,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,54,13,70.0192,118.253,0
+Josef Newgarden,2,Team Penske,54,14,70.166,118.006,0
+Romain Grosjean,28,Andretti Autosport,54,15,70.1953,117.957,0
+Marcus Ericsson,8,Chip Ganassi Racing,54,16,70.3651,117.672,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,54,17,70.4184,117.583,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,54,18,70.2235,117.909,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,54,19,70.4223,117.576,0
+Conor Daly,20,ECR,54,20,70.5861,117.304,0
+Jimmie Johnson,48,Chip Ganassi Racing,54,21,69.843,118.552,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,54,22,70.2599,117.848,0
+Dalton Kellett,4,A.J. Foyt Enterprises,54,23,70.3464,117.703,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,54,24,79.8885,103.644,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,54,25,80.008,103.49,0
+Callum Ilott,77,Juncos Hollinger Racing,54,26,69.6127,118.944,0
+Rinus VeeKay,21,ECR,55,1,69.5346,119.077,0
+Pato O'Ward,5,Arrow McLaren,55,2,69.8084,118.61,0
+Scott McLaughlin,3,Team Penske,55,3,69.7233,118.755,0
+Alexander Rossi,27,Andretti Autosport,55,4,69.7697,118.676,0
+Alex Palou,10,Chip Ganassi Racing,55,5,69.7387,118.729,0
+Scott Dixon,9,Chip Ganassi Racing,55,6,69.7963,118.631,0
+Will Power,12,Team Penske,55,7,69.8348,118.566,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,55,8,69.9318,118.401,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,55,9,70.0491,118.203,0
+Simon Pagenaud,60,Meyer Shank Racing,55,10,69.8177,118.595,0
+Felix Rosenqvist,7,Arrow McLaren,55,11,70.1442,118.043,0
+Takuma Sato,51,Dale Coyne Racing with RWR,55,12,70.2517,117.862,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,55,13,70.417,117.585,0
+Romain Grosjean,28,Andretti Autosport,55,14,69.7823,118.655,0
+Josef Newgarden,2,Team Penske,55,15,70.8122,116.929,0
+Marcus Ericsson,8,Chip Ganassi Racing,55,16,70.1892,117.967,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,55,17,69.9313,118.402,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,55,18,70.2055,117.939,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,55,19,70.3648,117.672,0
+Conor Daly,20,ECR,55,20,70.2841,117.808,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,55,21,69.9286,118.406,0
+Jimmie Johnson,48,Chip Ganassi Racing,55,22,92.0464,89.955,1
+Dalton Kellett,4,A.J. Foyt Enterprises,55,23,70.4119,117.594,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,55,24,71.0132,116.598,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,55,25,71.6073,115.631,0
+Callum Ilott,77,Juncos Hollinger Racing,55,26,69.8626,118.518,0
+Rinus VeeKay,21,ECR,56,1,69.3514,119.392,0
+Pato O'Ward,5,Arrow McLaren,56,2,69.5001,119.137,0
+Scott McLaughlin,3,Team Penske,56,3,69.4843,119.164,0
+Alexander Rossi,27,Andretti Autosport,56,4,69.6606,118.862,0
+Alex Palou,10,Chip Ganassi Racing,56,5,69.5031,119.131,0
+Scott Dixon,9,Chip Ganassi Racing,56,6,69.4869,119.159,0
+Will Power,12,Team Penske,56,7,69.6671,118.851,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,56,8,69.878,118.492,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,56,9,69.7613,118.69,0
+Simon Pagenaud,60,Meyer Shank Racing,56,10,69.6415,118.895,0
+Felix Rosenqvist,7,Arrow McLaren,56,11,70.0921,118.13,0
+Takuma Sato,51,Dale Coyne Racing with RWR,56,12,70.1272,118.071,0
+Romain Grosjean,28,Andretti Autosport,56,13,69.3056,119.471,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,56,14,70.5188,117.415,0
+Josef Newgarden,2,Team Penske,56,15,69.8595,118.524,0
+Marcus Ericsson,8,Chip Ganassi Racing,56,16,70.0343,118.228,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,56,17,70.2219,117.912,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,56,18,70.1971,117.954,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,56,19,70.3819,117.644,0
+Conor Daly,20,ECR,56,20,70.3194,117.748,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,56,21,69.519,119.104,0
+Dalton Kellett,4,A.J. Foyt Enterprises,56,22,70.6485,117.2,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,56,23,72.3345,114.468,0
+Jimmie Johnson,48,Chip Ganassi Racing,56,24,81.4585,101.647,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,56,25,71.0373,116.558,0
+Callum Ilott,77,Juncos Hollinger Racing,56,26,69.5594,119.035,0
+Rinus VeeKay,21,ECR,57,1,69.6646,118.855,0
+Pato O'Ward,5,Arrow McLaren,57,2,69.6344,118.907,0
+Scott McLaughlin,3,Team Penske,57,3,69.8251,118.582,0
+Alexander Rossi,27,Andretti Autosport,57,4,69.6835,118.823,0
+Alex Palou,10,Chip Ganassi Racing,57,5,69.3922,119.322,0
+Scott Dixon,9,Chip Ganassi Racing,57,6,69.4131,119.286,0
+Will Power,12,Team Penske,57,7,69.5673,119.021,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,57,8,69.6682,118.849,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,57,9,69.8201,118.59,0
+Simon Pagenaud,60,Meyer Shank Racing,57,10,69.9726,118.332,0
+Felix Rosenqvist,7,Arrow McLaren,57,11,70.0859,118.141,0
+Romain Grosjean,28,Andretti Autosport,57,12,69.4869,119.159,0
+Takuma Sato,51,Dale Coyne Racing with RWR,57,13,70.6743,117.157,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,57,14,70.103,118.112,0
+Josef Newgarden,2,Team Penske,57,15,70.3228,117.743,0
+Marcus Ericsson,8,Chip Ganassi Racing,57,16,70.1778,117.986,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,57,17,70.3234,117.742,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,57,18,70.3182,117.75,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,57,19,70.4252,117.572,0
+Conor Daly,20,ECR,57,20,70.547,117.369,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,57,21,69.7556,118.7,0
+Dalton Kellett,4,A.J. Foyt Enterprises,57,22,70.4896,117.464,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,57,23,70.4568,117.519,0
+Jimmie Johnson,48,Chip Ganassi Racing,57,24,72.8652,113.634,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,57,25,70.8287,116.902,0
+Callum Ilott,77,Juncos Hollinger Racing,57,26,69.9251,118.412,0
+Rinus VeeKay,21,ECR,58,1,69.3368,119.417,0
+Pato O'Ward,5,Arrow McLaren,58,2,69.5353,119.076,0
+Scott McLaughlin,3,Team Penske,58,3,69.4425,119.235,0
+Alexander Rossi,27,Andretti Autosport,58,4,69.5806,118.999,0
+Alex Palou,10,Chip Ganassi Racing,58,5,69.5311,119.083,0
+Scott Dixon,9,Chip Ganassi Racing,58,6,69.4214,119.272,0
+Will Power,12,Team Penske,58,7,69.3444,119.404,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,58,8,69.554,119.044,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,58,9,69.6073,118.953,0
+Simon Pagenaud,60,Meyer Shank Racing,58,10,69.7903,118.641,0
+Romain Grosjean,28,Andretti Autosport,58,11,68.8967,120.18,0
+Felix Rosenqvist,7,Arrow McLaren,58,12,70.6813,117.146,0
+Takuma Sato,51,Dale Coyne Racing with RWR,58,13,70.0465,118.207,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,58,14,69.9969,118.291,0
+Josef Newgarden,2,Team Penske,58,15,70.1807,117.981,0
+Marcus Ericsson,8,Chip Ganassi Racing,58,16,70.1324,118.062,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,58,17,70.236,117.888,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,58,18,70.2258,117.905,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,58,19,70.4037,117.607,0
+Conor Daly,20,ECR,58,20,70.3183,117.75,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,58,21,69.9746,118.329,0
+Dalton Kellett,4,A.J. Foyt Enterprises,58,22,70.473,117.492,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,58,23,70.1027,118.112,0
+Jimmie Johnson,48,Chip Ganassi Racing,58,24,71.2909,116.144,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,58,25,70.9463,116.708,0
+Callum Ilott,77,Juncos Hollinger Racing,58,26,70.2161,117.922,0
+Rinus VeeKay,21,ECR,59,1,69.4175,119.278,0
+Pato O'Ward,5,Arrow McLaren,59,2,69.619,118.933,0
+Scott McLaughlin,3,Team Penske,59,3,69.5724,119.013,0
+Alexander Rossi,27,Andretti Autosport,59,4,69.6917,118.809,0
+Alex Palou,10,Chip Ganassi Racing,59,5,69.6971,118.8,0
+Scott Dixon,9,Chip Ganassi Racing,59,6,69.6575,118.867,0
+Will Power,12,Team Penske,59,7,69.4277,119.261,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,59,8,69.7437,118.72,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,59,9,69.4737,119.182,0
+Simon Pagenaud,60,Meyer Shank Racing,59,10,69.5232,119.097,0
+Romain Grosjean,28,Andretti Autosport,59,11,68.6177,120.669,0
+Felix Rosenqvist,7,Arrow McLaren,59,12,69.9351,118.395,0
+Takuma Sato,51,Dale Coyne Racing with RWR,59,13,70.0426,118.214,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,59,14,70.0276,118.239,0
+Josef Newgarden,2,Team Penske,59,15,70.0983,118.12,0
+Marcus Ericsson,8,Chip Ganassi Racing,59,16,70.1132,118.095,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,59,17,70.265,117.84,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,59,18,70.2955,117.788,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,59,19,70.2236,117.909,0
+Conor Daly,20,ECR,59,20,70.4598,117.514,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,59,21,70.143,118.045,0
+Dalton Kellett,4,A.J. Foyt Enterprises,59,22,70.512,117.427,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,59,23,69.7344,118.736,0
+Jimmie Johnson,48,Chip Ganassi Racing,59,24,71.1677,116.345,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,59,25,70.9058,116.775,0
+Callum Ilott,77,Juncos Hollinger Racing,59,26,69.9704,118.336,0
+Rinus VeeKay,21,ECR,60,1,69.5908,118.981,0
+Pato O'Ward,5,Arrow McLaren,60,2,69.3936,119.319,0
+Scott McLaughlin,3,Team Penske,60,3,69.3705,119.359,0
+Alex Palou,10,Chip Ganassi Racing,60,4,69.2719,119.529,0
+Scott Dixon,9,Chip Ganassi Racing,60,5,69.4589,119.207,0
+Will Power,12,Team Penske,60,6,69.3963,119.315,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,60,7,69.1687,119.707,0
+Romain Grosjean,28,Andretti Autosport,60,8,68.4621,120.943,0
+Alexander Rossi,27,Andretti Autosport,60,9,80.2838,103.134,1
+Takuma Sato,51,Dale Coyne Racing with RWR,60,10,69.5504,119.05,0
+Josef Newgarden,2,Team Penske,60,11,69.4908,119.152,0
+Marcus Ericsson,8,Chip Ganassi Racing,60,12,69.7627,118.688,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,60,13,70.0746,118.16,0
+Felix Rosenqvist,7,Arrow McLaren,60,14,81.1724,102.005,1
+Conor Daly,20,ECR,60,15,69.9768,118.325,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,60,16,90.6157,91.375,1
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,60,17,70.1736,117.993,0
+Simon Pagenaud,60,Meyer Shank Racing,60,18,90.309,91.685,1
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,60,19,92.9028,89.125,1
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,60,20,91.3784,90.612,1
+Jack Harvey,45,Rahal Letterman Lanigan Racing,60,21,91.6693,90.325,1
+Dalton Kellett,4,A.J. Foyt Enterprises,60,22,70.4168,117.586,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,60,23,69.6875,118.816,0
+Jimmie Johnson,48,Chip Ganassi Racing,60,24,70.9252,116.743,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,60,25,71.2091,116.277,0
+Callum Ilott,77,Juncos Hollinger Racing,60,26,94.1991,87.899,1
+Alex Palou,10,Chip Ganassi Racing,61,1,68.7255,120.479,0
+Scott Dixon,9,Chip Ganassi Racing,61,2,69.1566,119.728,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,61,3,68.91,120.157,0
+Romain Grosjean,28,Andretti Autosport,61,4,68.3012,121.228,0
+Will Power,12,Team Penske,61,5,80.045,103.442,1
+Josef Newgarden,2,Team Penske,61,6,68.9697,120.053,0
+Marcus Ericsson,8,Chip Ganassi Racing,61,7,69.0407,119.929,0
+Rinus VeeKay,21,ECR,61,8,91.2087,90.781,1
+Pato O'Ward,5,Arrow McLaren,61,9,89.678,92.33,1
+Scott McLaughlin,3,Team Penske,61,10,89.5942,92.417,1
+Conor Daly,20,ECR,61,11,69.6866,118.818,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,61,12,69.8865,118.478,0
+Alexander Rossi,27,Andretti Autosport,61,13,89.3699,92.649,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,61,14,77.0049,107.526,0
+Simon Pagenaud,60,Meyer Shank Racing,61,15,76.8902,107.686,0
+Takuma Sato,51,Dale Coyne Racing with RWR,61,16,91.9734,90.026,1
+Felix Rosenqvist,7,Arrow McLaren,61,17,87.7483,94.361,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,61,18,77.4155,106.955,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,61,19,93.2187,88.823,1
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,61,20,77.4824,106.863,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,61,21,79.1204,104.651,0
+Dalton Kellett,4,A.J. Foyt Enterprises,61,22,70.9378,116.722,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,61,23,69.9694,118.337,0
+Jimmie Johnson,48,Chip Ganassi Racing,61,24,70.7635,117.009,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,61,25,71.457,115.874,0
+Callum Ilott,77,Juncos Hollinger Racing,61,26,80.3663,103.028,0
+Alex Palou,10,Chip Ganassi Racing,62,1,68.1541,121.489,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,62,2,79.8321,103.718,1
+Marcus Ericsson,8,Chip Ganassi Racing,62,3,68.6955,120.532,0
+Romain Grosjean,28,Andretti Autosport,62,4,79.63,103.981,1
+Scott Dixon,9,Chip Ganassi Racing,62,5,88.5726,93.483,1
+Josef Newgarden,2,Team Penske,62,6,79.2587,104.468,1
+Pato O'Ward,5,Arrow McLaren,62,7,77.2368,107.203,0
+Rinus VeeKay,21,ECR,62,8,78.5902,105.357,0
+Scott McLaughlin,3,Team Penske,62,9,77.8604,106.344,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,62,10,70.8257,116.907,0
+Will Power,12,Team Penske,62,11,87.9992,94.092,0
+Alexander Rossi,27,Andretti Autosport,62,12,71.0968,116.461,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,62,13,69.9666,118.342,0
+Simon Pagenaud,60,Meyer Shank Racing,62,14,70.0836,118.145,0
+Felix Rosenqvist,7,Arrow McLaren,62,15,70.3694,117.665,0
+Takuma Sato,51,Dale Coyne Racing with RWR,62,16,78.4926,105.488,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,62,17,69.9072,118.443,0
+Conor Daly,20,ECR,62,18,92.6818,89.338,1
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,62,19,70.945,116.71,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,62,20,71.8074,115.308,0
+Dalton Kellett,4,A.J. Foyt Enterprises,62,21,71.2139,116.269,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,62,22,79.2811,104.439,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,62,23,71.3139,116.106,0
+Jimmie Johnson,48,Chip Ganassi Racing,62,24,71.9198,115.128,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,62,25,71.5337,115.75,0
+Callum Ilott,77,Juncos Hollinger Racing,62,26,71.0942,116.465,0
+Alex Palou,10,Chip Ganassi Racing,63,1,80.364,103.031,1
+Marcus Ericsson,8,Chip Ganassi Racing,63,2,68.9538,120.08,0
+Pato O'Ward,5,Arrow McLaren,63,3,70.7364,117.054,0
+Rinus VeeKay,21,ECR,63,4,70.9865,116.642,0
+Scott Dixon,9,Chip Ganassi Racing,63,5,79.1245,104.645,0
+Scott McLaughlin,3,Team Penske,63,6,72.7934,113.747,0
+Will Power,12,Team Penske,63,7,70.3812,117.645,0
+Alexander Rossi,27,Andretti Autosport,63,8,70.6492,117.199,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,63,9,69.6612,118.861,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,63,10,89.5795,92.432,0
+Simon Pagenaud,60,Meyer Shank Racing,63,11,72.2203,114.649,0
+Romain Grosjean,28,Andretti Autosport,63,12,91.0355,90.954,0
+Josef Newgarden,2,Team Penske,63,13,88.8514,93.189,0
+Felix Rosenqvist,7,Arrow McLaren,63,14,70.4139,117.59,0
+Takuma Sato,51,Dale Coyne Racing with RWR,63,15,70.8712,116.832,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,63,16,70.7367,117.054,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,63,17,70.5094,117.431,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,63,18,94.4392,87.675,1
+Jack Harvey,45,Rahal Letterman Lanigan Racing,63,19,71.3766,116.004,0
+Conor Daly,20,ECR,63,20,79.7419,103.835,0
+Dalton Kellett,4,A.J. Foyt Enterprises,63,21,71.8373,115.26,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,63,22,71.5208,115.771,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,63,23,70.7435,117.043,0
+Jimmie Johnson,48,Chip Ganassi Racing,63,24,71.3653,116.023,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,63,25,71.3298,116.081,0
+Callum Ilott,77,Juncos Hollinger Racing,63,26,72.4,114.365,0
+Pato O'Ward,5,Arrow McLaren,64,1,70.0753,118.159,0
+Alex Palou,10,Chip Ganassi Racing,64,2,87.8358,94.267,0
+Rinus VeeKay,21,ECR,64,3,70.9663,116.675,0
+Scott Dixon,9,Chip Ganassi Racing,64,4,71.1649,116.349,0
+Scott McLaughlin,3,Team Penske,64,5,71.1369,116.395,0
+Will Power,12,Team Penske,64,6,70.433,117.559,0
+Alexander Rossi,27,Andretti Autosport,64,7,70.1366,118.055,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,64,8,70.2226,117.911,0
+Marcus Ericsson,8,Chip Ganassi Racing,64,9,89.4838,92.531,1
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,64,10,69.8346,118.566,0
+Simon Pagenaud,60,Meyer Shank Racing,64,11,69.6138,118.942,0
+Romain Grosjean,28,Andretti Autosport,64,12,69.8215,118.588,0
+Josef Newgarden,2,Team Penske,64,13,70.0384,118.221,0
+Felix Rosenqvist,7,Arrow McLaren,64,14,70.4561,117.52,0
+Takuma Sato,51,Dale Coyne Racing with RWR,64,15,69.9732,118.331,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,64,16,69.7713,118.673,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,64,17,70.1956,117.956,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,64,18,70.992,116.633,0
+Conor Daly,20,ECR,64,19,71.2459,116.217,0
+Dalton Kellett,4,A.J. Foyt Enterprises,64,20,71.582,115.672,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,64,21,71.4577,115.873,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,64,22,79.6931,103.899,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,64,23,71.3422,116.06,0
+Jimmie Johnson,48,Chip Ganassi Racing,64,24,93.8267,88.248,1
+Tatiana Calderon,11,A.J. Foyt Enterprises,64,25,95.5699,86.638,1
+Callum Ilott,77,Juncos Hollinger Racing,64,26,70.6071,117.269,0
+Pato O'Ward,5,Arrow McLaren,65,1,70.0192,118.253,0
+Alex Palou,10,Chip Ganassi Racing,65,2,70.0935,118.128,0
+Rinus VeeKay,21,ECR,65,3,70.4103,117.596,0
+Scott Dixon,9,Chip Ganassi Racing,65,4,70.3045,117.773,0
+Scott McLaughlin,3,Team Penske,65,5,70.6195,117.248,0
+Will Power,12,Team Penske,65,6,70.1624,118.012,0
+Alexander Rossi,27,Andretti Autosport,65,7,70.3598,117.681,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,65,8,70.2777,117.818,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,65,9,70.081,118.149,0
+Simon Pagenaud,60,Meyer Shank Racing,65,10,69.6168,118.937,0
+Romain Grosjean,28,Andretti Autosport,65,11,69.3468,119.4,0
+Marcus Ericsson,8,Chip Ganassi Racing,65,12,77.6219,106.671,0
+Josef Newgarden,2,Team Penske,65,13,69.9989,118.288,0
+Felix Rosenqvist,7,Arrow McLaren,65,14,70.5766,117.319,0
+Takuma Sato,51,Dale Coyne Racing with RWR,65,15,69.9537,118.364,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,65,16,70.0437,118.212,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,65,17,70.0591,118.186,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,65,18,71.1086,116.442,0
+Conor Daly,20,ECR,65,19,70.9082,116.771,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,65,20,70.7112,117.096,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,65,21,71.5853,115.666,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,65,22,71.7911,115.335,0
+Dalton Kellett,4,A.J. Foyt Enterprises,65,23,96.5392,85.768,1
+Jimmie Johnson,48,Chip Ganassi Racing,65,24,81.5459,101.538,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,65,25,81.3113,101.831,0
+Callum Ilott,77,Juncos Hollinger Racing,65,26,70.5218,117.411,0
+Pato O'Ward,5,Arrow McLaren,66,1,69.8637,118.516,0
+Alex Palou,10,Chip Ganassi Racing,66,2,69.9651,118.345,0
+Rinus VeeKay,21,ECR,66,3,70.2483,117.868,0
+Scott Dixon,9,Chip Ganassi Racing,66,4,70.6631,117.176,0
+Scott McLaughlin,3,Team Penske,66,5,71.2393,116.228,0
+Will Power,12,Team Penske,66,6,71.4641,115.862,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,66,7,70.8119,116.929,0
+Alexander Rossi,27,Andretti Autosport,66,8,71.602,115.639,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,66,9,71.2103,116.275,0
+Simon Pagenaud,60,Meyer Shank Racing,66,10,70.259,117.85,0
+Romain Grosjean,28,Andretti Autosport,66,11,69.4386,119.242,0
+Marcus Ericsson,8,Chip Ganassi Racing,66,12,69.8286,118.576,0
+Josef Newgarden,2,Team Penske,66,13,70.2149,117.924,0
+Felix Rosenqvist,7,Arrow McLaren,66,14,70.0194,118.253,0
+Takuma Sato,51,Dale Coyne Racing with RWR,66,15,69.8062,118.614,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,66,16,69.9095,118.439,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,66,17,69.9863,118.309,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,66,18,70.9267,116.74,0
+Conor Daly,20,ECR,66,19,70.6719,117.161,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,66,20,70.7299,117.065,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,66,21,70.4244,117.573,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,66,22,70.9546,116.694,0
+Dalton Kellett,4,A.J. Foyt Enterprises,66,23,80.2066,103.233,0
+Jimmie Johnson,48,Chip Ganassi Racing,66,24,74.5012,111.139,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,66,25,73.2618,113.019,0
+Callum Ilott,77,Juncos Hollinger Racing,66,26,70.4808,117.479,0
+Pato O'Ward,5,Arrow McLaren,67,1,70.1229,118.078,0
+Alex Palou,10,Chip Ganassi Racing,67,2,70.0511,118.199,0
+Rinus VeeKay,21,ECR,67,3,69.9658,118.344,0
+Scott Dixon,9,Chip Ganassi Racing,67,4,70.2878,117.801,0
+Scott McLaughlin,3,Team Penske,67,5,70.3726,117.659,0
+Will Power,12,Team Penske,67,6,69.9076,118.442,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,67,7,70.7544,117.025,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,67,8,71.053,116.533,0
+Alexander Rossi,27,Andretti Autosport,67,9,72.6008,114.048,0
+Simon Pagenaud,60,Meyer Shank Racing,67,10,71.2669,116.183,0
+Romain Grosjean,28,Andretti Autosport,67,11,70.5452,117.372,0
+Marcus Ericsson,8,Chip Ganassi Racing,67,12,69.7594,118.694,0
+Josef Newgarden,2,Team Penske,67,13,69.6763,118.835,0
+Felix Rosenqvist,7,Arrow McLaren,67,14,70.0546,118.194,0
+Takuma Sato,51,Dale Coyne Racing with RWR,67,15,69.9,118.455,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,67,16,70.0539,118.195,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,67,17,70.0082,118.272,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,67,18,70.6396,117.215,0
+Conor Daly,20,ECR,67,19,70.705,117.106,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,67,20,70.5212,117.412,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,67,21,70.2717,117.828,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,67,22,70.6164,117.253,0
+Dalton Kellett,4,A.J. Foyt Enterprises,67,23,71.5293,115.757,0
+Jimmie Johnson,48,Chip Ganassi Racing,67,24,71.1416,116.388,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,67,25,72.4491,114.287,0
+Callum Ilott,77,Juncos Hollinger Racing,67,26,70.3753,117.655,0
+Pato O'Ward,5,Arrow McLaren,68,1,69.8215,118.588,0
+Alex Palou,10,Chip Ganassi Racing,68,2,69.907,118.443,0
+Rinus VeeKay,21,ECR,68,3,70.5514,117.361,0
+Scott Dixon,9,Chip Ganassi Racing,68,4,69.8924,118.468,0
+Will Power,12,Team Penske,68,5,69.5999,118.966,0
+Scott McLaughlin,3,Team Penske,68,6,70.7569,117.02,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,68,7,69.8711,118.504,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,68,8,69.3628,119.372,0
+Alexander Rossi,27,Andretti Autosport,68,9,70.4436,117.541,0
+Simon Pagenaud,60,Meyer Shank Racing,68,10,70.7209,117.08,0
+Romain Grosjean,28,Andretti Autosport,68,11,70.5618,117.344,0
+Marcus Ericsson,8,Chip Ganassi Racing,68,12,69.7849,118.65,0
+Josef Newgarden,2,Team Penske,68,13,69.7039,118.788,0
+Felix Rosenqvist,7,Arrow McLaren,68,14,70.3012,117.779,0
+Takuma Sato,51,Dale Coyne Racing with RWR,68,15,70.2338,117.892,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,68,16,69.9404,118.387,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,68,17,69.9491,118.372,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,68,18,70.6431,117.209,0
+Conor Daly,20,ECR,68,19,70.8491,116.868,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,68,20,70.7774,116.986,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,68,21,70.2661,117.838,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,68,22,70.5348,117.389,0
+Dalton Kellett,4,A.J. Foyt Enterprises,68,23,70.5174,117.418,0
+Jimmie Johnson,48,Chip Ganassi Racing,68,24,71.718,115.452,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,68,25,71.9027,115.156,0
+Callum Ilott,77,Juncos Hollinger Racing,68,26,70.3018,117.778,0
+Pato O'Ward,5,Arrow McLaren,69,1,69.4639,119.199,0
+Alex Palou,10,Chip Ganassi Racing,69,2,69.2669,119.538,0
+Rinus VeeKay,21,ECR,69,3,70.478,117.483,0
+Scott Dixon,9,Chip Ganassi Racing,69,4,69.8559,118.53,0
+Will Power,12,Team Penske,69,5,69.8829,118.484,0
+Scott McLaughlin,3,Team Penske,69,6,70.2858,117.805,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,69,7,69.6965,118.801,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,69,8,69.6016,118.963,0
+Alexander Rossi,27,Andretti Autosport,69,9,70.2347,117.89,0
+Simon Pagenaud,60,Meyer Shank Racing,69,10,70.1534,118.027,0
+Romain Grosjean,28,Andretti Autosport,69,11,70.1588,118.018,0
+Marcus Ericsson,8,Chip Ganassi Racing,69,12,70.1375,118.054,0
+Josef Newgarden,2,Team Penske,69,13,69.7843,118.651,0
+Felix Rosenqvist,7,Arrow McLaren,69,14,70.1255,118.074,0
+Takuma Sato,51,Dale Coyne Racing with RWR,69,15,70.106,118.107,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,69,16,70.4048,117.606,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,69,17,70.1266,118.072,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,69,18,70.7689,117.001,0
+Conor Daly,20,ECR,69,19,70.4872,117.468,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,69,20,70.4806,117.479,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,69,21,70.3276,117.735,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,69,22,70.3678,117.667,0
+Dalton Kellett,4,A.J. Foyt Enterprises,69,23,70.2672,117.836,0
+Jimmie Johnson,48,Chip Ganassi Racing,69,24,70.3737,117.658,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,69,25,71.7376,115.421,0
+Callum Ilott,77,Juncos Hollinger Racing,69,26,70.3011,117.779,0
+Pato O'Ward,5,Arrow McLaren,70,1,69.3627,119.373,0
+Alex Palou,10,Chip Ganassi Racing,70,2,69.6058,118.956,0
+Rinus VeeKay,21,ECR,70,3,70.4359,117.554,0
+Scott Dixon,9,Chip Ganassi Racing,70,4,70.0419,118.215,0
+Will Power,12,Team Penske,70,5,69.7944,118.634,0
+Scott McLaughlin,3,Team Penske,70,6,70.0335,118.229,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,70,7,69.3433,119.406,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,70,8,70.4762,117.486,0
+Alexander Rossi,27,Andretti Autosport,70,9,70.273,117.826,0
+Romain Grosjean,28,Andretti Autosport,70,10,69.8139,118.601,0
+Simon Pagenaud,60,Meyer Shank Racing,70,11,71.0284,116.573,0
+Marcus Ericsson,8,Chip Ganassi Racing,70,12,69.9468,118.376,0
+Josef Newgarden,2,Team Penske,70,13,69.9422,118.383,0
+Takuma Sato,51,Dale Coyne Racing with RWR,70,14,69.8326,118.569,0
+Felix Rosenqvist,7,Arrow McLaren,70,15,71.3949,115.975,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,70,16,70.487,117.468,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,70,17,69.9854,118.31,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,70,18,70.7624,117.011,0
+Conor Daly,20,ECR,70,19,70.7813,116.98,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,70,20,70.6407,117.213,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,70,21,70.5449,117.372,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,70,22,70.3299,117.731,0
+Dalton Kellett,4,A.J. Foyt Enterprises,70,23,72.0394,114.937,0
+Jimmie Johnson,48,Chip Ganassi Racing,70,24,69.9798,118.32,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,70,25,71.3655,116.022,0
+Callum Ilott,77,Juncos Hollinger Racing,70,26,70.2339,117.892,0
+Pato O'Ward,5,Arrow McLaren,71,1,69.4165,119.28,0
+Alex Palou,10,Chip Ganassi Racing,71,2,69.3065,119.469,0
+Rinus VeeKay,21,ECR,71,3,69.9479,118.374,0
+Scott Dixon,9,Chip Ganassi Racing,71,4,70.2703,117.831,0
+Will Power,12,Team Penske,71,5,69.8445,118.549,0
+Scott McLaughlin,3,Team Penske,71,6,69.8696,118.506,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,71,7,69.7226,118.756,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,71,8,70.0385,118.221,0
+Alexander Rossi,27,Andretti Autosport,71,9,70.5538,117.357,0
+Romain Grosjean,28,Andretti Autosport,71,10,70.4808,117.479,0
+Simon Pagenaud,60,Meyer Shank Racing,71,11,70.1829,117.977,0
+Marcus Ericsson,8,Chip Ganassi Racing,71,12,70.019,118.254,0
+Josef Newgarden,2,Team Penske,71,13,69.9598,118.354,0
+Takuma Sato,51,Dale Coyne Racing with RWR,71,14,69.5316,119.083,0
+Felix Rosenqvist,7,Arrow McLaren,71,15,70.1335,118.061,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,71,16,70.2054,117.94,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,71,17,69.3938,119.319,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,71,18,70.5918,117.294,0
+Conor Daly,20,ECR,71,19,70.3872,117.635,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,71,20,70.5267,117.402,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,71,21,70.452,117.527,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,71,22,70.3586,117.683,0
+Dalton Kellett,4,A.J. Foyt Enterprises,71,23,69.9952,118.294,0
+Jimmie Johnson,48,Chip Ganassi Racing,71,24,71.8658,115.215,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,71,25,72.4063,114.355,0
+Callum Ilott,77,Juncos Hollinger Racing,71,26,70.4197,117.581,0
+Pato O'Ward,5,Arrow McLaren,72,1,69.4002,119.308,0
+Alex Palou,10,Chip Ganassi Racing,72,2,69.1993,119.654,0
+Rinus VeeKay,21,ECR,72,3,69.0607,119.895,0
+Scott Dixon,9,Chip Ganassi Racing,72,4,69.9267,118.41,0
+Will Power,12,Team Penske,72,5,69.5138,119.113,0
+Scott McLaughlin,3,Team Penske,72,6,69.9445,118.38,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,72,7,69.9972,118.29,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,72,8,69.9009,118.453,0
+Romain Grosjean,28,Andretti Autosport,72,9,70.0559,118.191,0
+Alexander Rossi,27,Andretti Autosport,72,10,70.6495,117.198,0
+Simon Pagenaud,60,Meyer Shank Racing,72,11,70.21,117.932,0
+Marcus Ericsson,8,Chip Ganassi Racing,72,12,70.1012,118.115,0
+Josef Newgarden,2,Team Penske,72,13,69.7484,118.712,0
+Takuma Sato,51,Dale Coyne Racing with RWR,72,14,69.698,118.798,0
+Felix Rosenqvist,7,Arrow McLaren,72,15,70.1994,117.95,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,72,16,70.2249,117.907,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,72,17,69.9011,118.453,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,72,18,70.5481,117.367,0
+Conor Daly,20,ECR,72,19,70.3783,117.65,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,72,20,70.3881,117.634,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,72,21,70.2844,117.807,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,72,22,70.2011,117.947,0
+Dalton Kellett,4,A.J. Foyt Enterprises,72,23,69.8689,118.508,0
+Jimmie Johnson,48,Chip Ganassi Racing,72,24,70.4318,117.561,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,72,25,73.0365,113.368,0
+Callum Ilott,77,Juncos Hollinger Racing,72,26,70.0266,118.241,0
+Pato O'Ward,5,Arrow McLaren,73,1,69.5412,119.066,0
+Alex Palou,10,Chip Ganassi Racing,73,2,69.2302,119.601,0
+Rinus VeeKay,21,ECR,73,3,69.1582,119.725,0
+Scott Dixon,9,Chip Ganassi Racing,73,4,69.7892,118.643,0
+Will Power,12,Team Penske,73,5,69.8379,118.56,0
+Scott McLaughlin,3,Team Penske,73,6,69.6805,118.828,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,73,7,69.6383,118.9,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,73,8,69.7825,118.654,0
+Romain Grosjean,28,Andretti Autosport,73,9,68.9269,120.127,0
+Alexander Rossi,27,Andretti Autosport,73,10,71.1636,116.352,0
+Simon Pagenaud,60,Meyer Shank Racing,73,11,71.1986,116.294,0
+Marcus Ericsson,8,Chip Ganassi Racing,73,12,71.2894,116.146,0
+Josef Newgarden,2,Team Penske,73,13,70.1567,118.022,0
+Takuma Sato,51,Dale Coyne Racing with RWR,73,14,69.9336,118.398,0
+Felix Rosenqvist,7,Arrow McLaren,73,15,70.0833,118.145,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,73,16,70.1987,117.951,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,73,17,70.1199,118.083,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,73,18,70.2886,117.8,0
+Conor Daly,20,ECR,73,19,70.4687,117.499,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,73,20,70.4253,117.571,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,73,21,70.4966,117.452,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,73,22,70.3928,117.626,0
+Dalton Kellett,4,A.J. Foyt Enterprises,73,23,70.1176,118.087,0
+Jimmie Johnson,48,Chip Ganassi Racing,73,24,70.3281,117.734,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,73,25,73.8335,112.144,0
+Callum Ilott,77,Juncos Hollinger Racing,73,26,70.2158,117.922,0
+Pato O'Ward,5,Arrow McLaren,74,1,69.2487,119.569,0
+Alex Palou,10,Chip Ganassi Racing,74,2,69.7304,118.743,0
+Rinus VeeKay,21,ECR,74,3,69.838,118.56,0
+Scott Dixon,9,Chip Ganassi Racing,74,4,70.1295,118.067,0
+Will Power,12,Team Penske,74,5,70.026,118.242,0
+Scott McLaughlin,3,Team Penske,74,6,69.8529,118.535,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,74,7,69.8772,118.494,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,74,8,69.7261,118.75,0
+Romain Grosjean,28,Andretti Autosport,74,9,68.8959,120.181,0
+Alexander Rossi,27,Andretti Autosport,74,10,70.0056,118.276,0
+Simon Pagenaud,60,Meyer Shank Racing,74,11,70.0308,118.234,0
+Marcus Ericsson,8,Chip Ganassi Racing,74,12,70.0335,118.229,0
+Josef Newgarden,2,Team Penske,74,13,70.0702,118.167,0
+Takuma Sato,51,Dale Coyne Racing with RWR,74,14,70.0274,118.239,0
+Felix Rosenqvist,7,Arrow McLaren,74,15,70.0029,118.281,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,74,16,69.9522,118.367,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,74,17,69.8467,118.545,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,74,18,70.4248,117.572,0
+Conor Daly,20,ECR,74,19,70.4763,117.486,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,74,20,70.4099,117.597,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,74,21,70.6611,117.179,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,74,22,70.4064,117.603,0
+Dalton Kellett,4,A.J. Foyt Enterprises,74,23,70.3093,117.765,0
+Jimmie Johnson,48,Chip Ganassi Racing,74,24,70.4367,117.552,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,74,25,72.1181,114.812,0
+Callum Ilott,77,Juncos Hollinger Racing,74,26,70.4801,117.48,0
+Pato O'Ward,5,Arrow McLaren,75,1,69.2266,119.607,0
+Alex Palou,10,Chip Ganassi Racing,75,2,69.3903,119.325,0
+Rinus VeeKay,21,ECR,75,3,70.069,118.169,0
+Will Power,12,Team Penske,75,4,69.7481,118.713,0
+Scott Dixon,9,Chip Ganassi Racing,75,5,70.9664,116.675,0
+Scott McLaughlin,3,Team Penske,75,6,70.4992,117.448,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,75,7,69.9159,118.428,0
+Romain Grosjean,28,Andretti Autosport,75,8,69.002,119.997,0
+Alexander Rossi,27,Andretti Autosport,75,9,70.7539,117.025,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,75,10,78.1843,105.904,0
+Simon Pagenaud,60,Meyer Shank Racing,75,11,70.9037,116.778,0
+Marcus Ericsson,8,Chip Ganassi Racing,75,12,70.7946,116.958,0
+Josef Newgarden,2,Team Penske,75,13,70.5206,117.413,0
+Takuma Sato,51,Dale Coyne Racing with RWR,75,14,70.3406,117.713,0
+Felix Rosenqvist,7,Arrow McLaren,75,15,70.0912,118.132,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,75,16,69.8068,118.613,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,75,17,69.7989,118.627,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,75,18,70.7331,117.06,0
+Conor Daly,20,ECR,75,19,70.4702,117.496,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,75,20,70.5773,117.318,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,75,21,70.4854,117.471,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,75,22,70.2766,117.82,0
+Dalton Kellett,4,A.J. Foyt Enterprises,75,23,70.9662,116.675,0
+Jimmie Johnson,48,Chip Ganassi Racing,75,24,71.6362,115.584,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,75,25,77.5702,106.742,0
+Callum Ilott,77,Juncos Hollinger Racing,75,26,70.6255,117.238,0
+Pato O'Ward,5,Arrow McLaren,76,1,69.4609,119.204,0
+Alex Palou,10,Chip Ganassi Racing,76,2,69.619,118.933,0
+Rinus VeeKay,21,ECR,76,3,70.0285,118.238,0
+Will Power,12,Team Penske,76,4,70.6891,117.133,0
+Scott Dixon,9,Chip Ganassi Racing,76,5,70.5798,117.314,0
+Scott McLaughlin,3,Team Penske,76,6,69.9715,118.334,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,76,7,69.6651,118.854,0
+Romain Grosjean,28,Andretti Autosport,76,8,69.2029,119.648,0
+Alexander Rossi,27,Andretti Autosport,76,9,70.0255,118.243,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,76,10,70.0481,118.204,0
+Simon Pagenaud,60,Meyer Shank Racing,76,11,70.3118,117.761,0
+Marcus Ericsson,8,Chip Ganassi Racing,76,12,70.4029,117.609,0
+Josef Newgarden,2,Team Penske,76,13,70.6787,117.15,0
+Takuma Sato,51,Dale Coyne Racing with RWR,76,14,70.1869,117.971,0
+Felix Rosenqvist,7,Arrow McLaren,76,15,70.5037,117.441,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,76,16,70.6491,117.199,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,76,17,70.4248,117.572,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,76,18,70.4332,117.558,0
+Conor Daly,20,ECR,76,19,70.2987,117.783,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,76,20,70.2339,117.892,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,76,21,70.1356,118.057,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,76,22,70.2381,117.885,0
+Dalton Kellett,4,A.J. Foyt Enterprises,76,23,73.9265,112.003,0
+Jimmie Johnson,48,Chip Ganassi Racing,76,24,70.6658,117.171,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,76,25,72.6519,113.968,0
+Callum Ilott,77,Juncos Hollinger Racing,76,26,70.4045,117.606,0
+Pato O'Ward,5,Arrow McLaren,77,1,69.362,119.374,0
+Alex Palou,10,Chip Ganassi Racing,77,2,69.6013,118.963,0
+Rinus VeeKay,21,ECR,77,3,69.8822,118.485,0
+Will Power,12,Team Penske,77,4,70.007,118.274,0
+Scott Dixon,9,Chip Ganassi Racing,77,5,70.4631,117.508,0
+Scott McLaughlin,3,Team Penske,77,6,70.3481,117.7,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,77,7,70.7011,117.113,0
+Romain Grosjean,28,Andretti Autosport,77,8,70.8811,116.815,0
+Alexander Rossi,27,Andretti Autosport,77,9,70.0888,118.136,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,77,10,70.0665,118.173,0
+Simon Pagenaud,60,Meyer Shank Racing,77,11,70.1299,118.067,0
+Marcus Ericsson,8,Chip Ganassi Racing,77,12,70.091,118.132,0
+Josef Newgarden,2,Team Penske,77,13,70.316,117.754,0
+Takuma Sato,51,Dale Coyne Racing with RWR,77,14,69.6867,118.818,0
+Felix Rosenqvist,7,Arrow McLaren,77,15,70.2883,117.801,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,77,16,70.1186,118.086,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,77,17,70.1565,118.022,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,77,18,70.7993,116.95,0
+Conor Daly,20,ECR,77,19,70.3254,117.738,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,77,20,70.3544,117.69,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,77,21,70.9167,116.757,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,77,22,70.5049,117.439,0
+Dalton Kellett,4,A.J. Foyt Enterprises,77,23,71.4891,115.822,0
+Jimmie Johnson,48,Chip Ganassi Racing,77,24,70.0333,118.229,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,77,25,83.1538,99.575,0
+Callum Ilott,77,Juncos Hollinger Racing,77,26,70.3793,117.648,0
+Pato O'Ward,5,Arrow McLaren,78,1,69.2678,119.536,0
+Alex Palou,10,Chip Ganassi Racing,78,2,69.4222,119.27,0
+Rinus VeeKay,21,ECR,78,3,69.3775,119.347,0
+Will Power,12,Team Penske,78,4,69.4648,119.197,0
+Scott Dixon,9,Chip Ganassi Racing,78,5,69.8239,118.584,0
+Scott McLaughlin,3,Team Penske,78,6,69.9265,118.41,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,78,7,69.715,118.769,0
+Romain Grosjean,28,Andretti Autosport,78,8,69.4456,119.23,0
+Alexander Rossi,27,Andretti Autosport,78,9,70.2638,117.842,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,78,10,70.3413,117.712,0
+Simon Pagenaud,60,Meyer Shank Racing,78,11,70.3424,117.71,0
+Marcus Ericsson,8,Chip Ganassi Racing,78,12,70.3453,117.705,0
+Josef Newgarden,2,Team Penske,78,13,70.2959,117.788,0
+Takuma Sato,51,Dale Coyne Racing with RWR,78,14,69.7621,118.689,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,78,15,69.7082,118.781,0
+Felix Rosenqvist,7,Arrow McLaren,78,16,71.2251,116.251,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,78,17,70.2054,117.94,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,78,18,70.8778,116.821,0
+Conor Daly,20,ECR,78,19,70.9117,116.765,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,78,20,70.7603,117.015,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,78,21,70.2781,117.818,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,78,22,70.7318,117.062,0
+Dalton Kellett,4,A.J. Foyt Enterprises,78,23,70.2286,117.901,0
+Jimmie Johnson,48,Chip Ganassi Racing,78,24,71.3364,116.07,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,78,25,73.3213,112.928,0
+Callum Ilott,77,Juncos Hollinger Racing,78,26,70.2469,117.87,0
+Pato O'Ward,5,Arrow McLaren,79,1,69.5702,119.016,0
+Alex Palou,10,Chip Ganassi Racing,79,2,69.5732,119.011,0
+Rinus VeeKay,21,ECR,79,3,69.6502,118.88,0
+Will Power,12,Team Penske,79,4,69.4785,119.174,0
+Scott Dixon,9,Chip Ganassi Racing,79,5,70.0988,118.119,0
+Scott McLaughlin,3,Team Penske,79,6,70.1432,118.044,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,79,7,70.1851,117.974,0
+Romain Grosjean,28,Andretti Autosport,79,8,69.5466,119.057,0
+Alexander Rossi,27,Andretti Autosport,79,9,69.9117,118.435,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,79,10,69.8638,118.516,0
+Simon Pagenaud,60,Meyer Shank Racing,79,11,70.2652,117.839,0
+Marcus Ericsson,8,Chip Ganassi Racing,79,12,70.3676,117.668,0
+Josef Newgarden,2,Team Penske,79,13,70.2095,117.933,0
+Takuma Sato,51,Dale Coyne Racing with RWR,79,14,69.8963,118.461,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,79,15,69.9791,118.321,0
+Felix Rosenqvist,7,Arrow McLaren,79,16,70.6592,117.182,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,79,17,70.6658,117.171,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,79,18,70.5354,117.388,0
+Conor Daly,20,ECR,79,19,70.646,117.204,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,79,20,70.6544,117.19,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,79,21,70.4832,117.475,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,79,22,70.5319,117.394,0
+Dalton Kellett,4,A.J. Foyt Enterprises,79,23,70.4179,117.584,0
+Jimmie Johnson,48,Chip Ganassi Racing,79,24,70.5151,117.422,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,79,25,71.6969,115.486,0
+Callum Ilott,77,Juncos Hollinger Racing,79,26,69.8839,118.482,0
+Pato O'Ward,5,Arrow McLaren,80,1,69.415,119.283,0
+Alex Palou,10,Chip Ganassi Racing,80,2,69.4935,119.148,0
+Rinus VeeKay,21,ECR,80,3,69.7531,118.704,0
+Will Power,12,Team Penske,80,4,69.5756,119.007,0
+Scott Dixon,9,Chip Ganassi Racing,80,5,69.7852,118.65,0
+Scott McLaughlin,3,Team Penske,80,6,70.1817,117.979,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,80,7,70.155,118.024,0
+Romain Grosjean,28,Andretti Autosport,80,8,70.084,118.144,0
+Alexander Rossi,27,Andretti Autosport,80,9,69.9976,118.29,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,80,10,70.0811,118.149,0
+Simon Pagenaud,60,Meyer Shank Racing,80,11,69.8144,118.6,0
+Marcus Ericsson,8,Chip Ganassi Racing,80,12,69.8452,118.548,0
+Josef Newgarden,2,Team Penske,80,13,69.8566,118.529,0
+Takuma Sato,51,Dale Coyne Racing with RWR,80,14,70.0667,118.173,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,80,15,69.2275,119.606,0
+Felix Rosenqvist,7,Arrow McLaren,80,16,70.5041,117.44,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,80,17,69.8993,118.456,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,80,18,70.3693,117.665,0
+Conor Daly,20,ECR,80,19,70.7291,117.066,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,80,20,70.7118,117.095,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,80,21,70.5561,117.353,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,80,22,92.8235,89.202,1
+Dalton Kellett,4,A.J. Foyt Enterprises,80,23,70.2886,117.8,0
+Jimmie Johnson,48,Chip Ganassi Racing,80,24,70.0243,118.245,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,80,25,71.4239,115.928,0
+Callum Ilott,77,Juncos Hollinger Racing,80,26,70.1448,118.042,0
+Pato O'Ward,5,Arrow McLaren,81,1,69.4068,119.297,0
+Alex Palou,10,Chip Ganassi Racing,81,2,69.3401,119.411,0
+Rinus VeeKay,21,ECR,81,3,69.8683,118.509,0
+Will Power,12,Team Penske,81,4,69.3062,119.47,0
+Scott Dixon,9,Chip Ganassi Racing,81,5,69.801,118.623,0
+Scott McLaughlin,3,Team Penske,81,6,69.7023,118.791,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,81,7,69.7664,118.682,0
+Romain Grosjean,28,Andretti Autosport,81,8,69.8164,118.597,0
+Alexander Rossi,27,Andretti Autosport,81,9,69.7381,118.73,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,81,10,69.8384,118.559,0
+Simon Pagenaud,60,Meyer Shank Racing,81,11,69.9216,118.418,0
+Marcus Ericsson,8,Chip Ganassi Racing,81,12,69.849,118.541,0
+Josef Newgarden,2,Team Penske,81,13,69.7655,118.683,0
+Takuma Sato,51,Dale Coyne Racing with RWR,81,14,69.8966,118.461,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,81,15,69.2976,119.485,0
+Felix Rosenqvist,7,Arrow McLaren,81,16,70.0819,118.147,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,81,17,69.9332,118.399,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,81,18,70.1775,117.987,0
+Conor Daly,20,ECR,81,19,70.2175,117.919,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,81,20,70.2824,117.81,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,81,21,70.3808,117.646,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,81,22,78.7971,105.08,0
+Dalton Kellett,4,A.J. Foyt Enterprises,81,23,70.1523,118.029,0
+Jimmie Johnson,48,Chip Ganassi Racing,81,24,69.9526,118.366,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,81,25,71.9075,115.148,0
+Callum Ilott,77,Juncos Hollinger Racing,81,26,70.3803,117.647,0
+Pato O'Ward,5,Arrow McLaren,82,1,69.1104,119.808,0
+Alex Palou,10,Chip Ganassi Racing,82,2,69.0204,119.965,0
+Rinus VeeKay,21,ECR,82,3,69.4309,119.255,0
+Will Power,12,Team Penske,82,4,69.556,119.041,0
+Scott Dixon,9,Chip Ganassi Racing,82,5,70.0198,118.252,0
+Scott McLaughlin,3,Team Penske,82,6,69.6452,118.888,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,82,7,69.5978,118.969,0
+Romain Grosjean,28,Andretti Autosport,82,8,69.608,118.952,0
+Alexander Rossi,27,Andretti Autosport,82,9,69.809,118.609,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,82,10,69.844,118.55,0
+Simon Pagenaud,60,Meyer Shank Racing,82,11,69.7298,118.744,0
+Marcus Ericsson,8,Chip Ganassi Racing,82,12,69.6559,118.87,0
+Josef Newgarden,2,Team Penske,82,13,69.8297,118.574,0
+Takuma Sato,51,Dale Coyne Racing with RWR,82,14,69.5218,119.099,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,82,15,69.2798,119.515,0
+Felix Rosenqvist,7,Arrow McLaren,82,16,69.9271,118.409,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,82,17,69.8777,118.493,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,82,18,70.113,118.095,0
+Conor Daly,20,ECR,82,19,70.2852,117.806,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,82,20,70.1762,117.989,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,82,21,70.2427,117.877,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,82,22,70.0917,118.131,0
+Dalton Kellett,4,A.J. Foyt Enterprises,82,23,70.3069,117.769,0
+Jimmie Johnson,48,Chip Ganassi Racing,82,24,69.7596,118.693,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,82,25,71.7358,115.424,0
+Callum Ilott,77,Juncos Hollinger Racing,82,26,70.4818,117.477,0
+Pato O'Ward,5,Arrow McLaren,83,1,69.1035,119.82,0
+Alex Palou,10,Chip Ganassi Racing,83,2,68.6243,120.657,0
+Rinus VeeKay,21,ECR,83,3,69.525,119.094,0
+Will Power,12,Team Penske,83,4,69.2748,119.524,0
+Scott Dixon,9,Chip Ganassi Racing,83,5,69.9483,118.373,0
+Scott McLaughlin,3,Team Penske,83,6,69.8087,118.61,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,83,7,69.7592,118.694,0
+Romain Grosjean,28,Andretti Autosport,83,8,69.6844,118.821,0
+Alexander Rossi,27,Andretti Autosport,83,9,69.6169,118.937,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,83,10,69.82,118.591,0
+Simon Pagenaud,60,Meyer Shank Racing,83,11,69.6828,118.824,0
+Marcus Ericsson,8,Chip Ganassi Racing,83,12,69.7794,118.66,0
+Josef Newgarden,2,Team Penske,83,13,69.7359,118.734,0
+Takuma Sato,51,Dale Coyne Racing with RWR,83,14,69.9031,118.45,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,83,15,69.4442,119.232,0
+Felix Rosenqvist,7,Arrow McLaren,83,16,69.9886,118.305,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,83,17,69.8754,118.497,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,83,18,70.2958,117.788,0
+Conor Daly,20,ECR,83,19,70.1788,117.984,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,83,20,70.2561,117.855,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,83,21,70.2369,117.887,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,83,22,69.7559,118.7,0
+Dalton Kellett,4,A.J. Foyt Enterprises,83,23,70.9521,116.698,0
+Jimmie Johnson,48,Chip Ganassi Racing,83,24,69.7678,118.679,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,83,25,71.617,115.615,0
+Callum Ilott,77,Juncos Hollinger Racing,83,26,70.5292,117.398,0
+Pato O'Ward,5,Arrow McLaren,84,1,69.0184,119.968,0
+Alex Palou,10,Chip Ganassi Racing,84,2,69.0505,119.912,0
+Rinus VeeKay,21,ECR,84,3,69.7842,118.651,0
+Will Power,12,Team Penske,84,4,69.2965,119.487,0
+Scott Dixon,9,Chip Ganassi Racing,84,5,69.8424,118.553,0
+Scott McLaughlin,3,Team Penske,84,6,70.0533,118.196,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,84,7,70.0612,118.182,0
+Romain Grosjean,28,Andretti Autosport,84,8,69.9694,118.337,0
+Alexander Rossi,27,Andretti Autosport,84,9,69.8776,118.493,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,84,10,69.7824,118.655,0
+Simon Pagenaud,60,Meyer Shank Racing,84,11,70.0494,118.202,0
+Marcus Ericsson,8,Chip Ganassi Racing,84,12,69.8382,118.56,0
+Josef Newgarden,2,Team Penske,84,13,69.7234,118.755,0
+Takuma Sato,51,Dale Coyne Racing with RWR,84,14,69.5648,119.026,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,84,15,69.3837,119.336,0
+Felix Rosenqvist,7,Arrow McLaren,84,16,69.6756,118.836,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,84,17,69.9791,118.321,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,84,18,70.4752,117.488,0
+Conor Daly,20,ECR,84,19,70.4903,117.463,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,84,20,70.3371,117.719,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,84,21,70.4923,117.46,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,84,22,69.7551,118.701,0
+Dalton Kellett,4,A.J. Foyt Enterprises,84,23,70.5567,117.352,0
+Jimmie Johnson,48,Chip Ganassi Racing,84,24,69.9032,118.45,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,84,25,71.6738,115.523,0
+Callum Ilott,77,Juncos Hollinger Racing,84,26,71.0611,116.519,0
+Pato O'Ward,5,Arrow McLaren,85,1,68.9811,120.033,0
+Alex Palou,10,Chip Ganassi Racing,85,2,68.8744,120.219,0
+Rinus VeeKay,21,ECR,85,3,69.8916,118.469,0
+Will Power,12,Team Penske,85,4,69.1759,119.695,0
+Scott Dixon,9,Chip Ganassi Racing,85,5,69.8372,118.561,0
+Scott McLaughlin,3,Team Penske,85,6,69.7939,118.635,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,85,7,69.8738,118.499,0
+Romain Grosjean,28,Andretti Autosport,85,8,69.9655,118.344,0
+Alexander Rossi,27,Andretti Autosport,85,9,69.9989,118.288,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,85,10,69.9766,118.325,0
+Simon Pagenaud,60,Meyer Shank Racing,85,11,69.9033,118.449,0
+Marcus Ericsson,8,Chip Ganassi Racing,85,12,70.0836,118.145,0
+Takuma Sato,51,Dale Coyne Racing with RWR,85,13,69.5602,119.034,0
+Josef Newgarden,2,Team Penske,85,14,70.658,117.184,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,85,15,70.0601,118.184,0
+Felix Rosenqvist,7,Arrow McLaren,85,16,70.178,117.986,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,85,17,69.8908,118.471,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,85,18,70.5058,117.437,0
+Conor Daly,20,ECR,85,19,70.2234,117.909,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,85,20,70.4983,117.45,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,85,21,70.2731,117.826,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,85,22,69.881,118.487,0
+Dalton Kellett,4,A.J. Foyt Enterprises,85,23,69.9898,118.303,0
+Jimmie Johnson,48,Chip Ganassi Racing,85,24,69.7621,118.689,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,85,25,71.5735,115.685,0
+Callum Ilott,77,Juncos Hollinger Racing,85,26,70.7328,117.06,0
+Pato O'Ward,5,Arrow McLaren,86,1,69.0732,119.873,0
+Alex Palou,10,Chip Ganassi Racing,86,2,69.0617,119.893,0
+Rinus VeeKay,21,ECR,86,3,69.6731,118.841,0
+Will Power,12,Team Penske,86,4,69.2067,119.642,0
+Scott Dixon,9,Chip Ganassi Racing,86,5,69.8706,118.505,0
+Scott McLaughlin,3,Team Penske,86,6,69.9328,118.399,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,86,7,69.8377,118.561,0
+Romain Grosjean,28,Andretti Autosport,86,8,69.7838,118.652,0
+Alexander Rossi,27,Andretti Autosport,86,9,70.1307,118.065,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,86,10,70.1983,117.952,0
+Simon Pagenaud,60,Meyer Shank Racing,86,11,70.0834,118.145,0
+Marcus Ericsson,8,Chip Ganassi Racing,86,12,69.9165,118.427,0
+Takuma Sato,51,Dale Coyne Racing with RWR,86,13,69.7871,118.647,0
+Josef Newgarden,2,Team Penske,86,14,69.9478,118.374,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,86,15,69.8568,118.528,0
+Felix Rosenqvist,7,Arrow McLaren,86,16,69.8125,118.603,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,86,17,69.9588,118.355,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,86,18,70.2925,117.794,0
+Conor Daly,20,ECR,86,19,70.4763,117.486,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,86,20,70.5029,117.442,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,86,21,71.6104,115.626,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,86,22,69.686,118.819,0
+Dalton Kellett,4,A.J. Foyt Enterprises,86,23,69.84,118.557,0
+Jimmie Johnson,48,Chip Ganassi Racing,86,24,69.9038,118.448,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,86,25,74.8217,110.663,0
+Callum Ilott,77,Juncos Hollinger Racing,86,26,70.7526,117.028,0
+Pato O'Ward,5,Arrow McLaren,87,1,69.1531,119.734,0
+Alex Palou,10,Chip Ganassi Racing,87,2,69.4615,119.203,0
+Rinus VeeKay,21,ECR,87,3,69.5105,119.119,0
+Will Power,12,Team Penske,87,4,69.2435,119.578,0
+Scott Dixon,9,Chip Ganassi Racing,87,5,69.8541,118.533,0
+Scott McLaughlin,3,Team Penske,87,6,69.9566,118.359,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,87,7,70.0991,118.118,0
+Romain Grosjean,28,Andretti Autosport,87,8,70.1066,118.106,0
+Alexander Rossi,27,Andretti Autosport,87,9,70.2898,117.798,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,87,10,70.0991,118.118,0
+Simon Pagenaud,60,Meyer Shank Racing,87,11,70.2301,117.898,0
+Marcus Ericsson,8,Chip Ganassi Racing,87,12,70.3093,117.765,0
+Takuma Sato,51,Dale Coyne Racing with RWR,87,13,70.4519,117.527,0
+Josef Newgarden,2,Team Penske,87,14,70.2992,117.782,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,87,15,69.9657,118.344,0
+Felix Rosenqvist,7,Arrow McLaren,87,16,69.8347,118.566,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,87,17,69.9128,118.433,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,87,18,71.186,116.315,0
+Conor Daly,20,ECR,87,19,70.7279,117.068,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,87,20,70.3839,117.641,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,87,21,69.6177,118.935,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,87,22,69.832,118.57,0
+Dalton Kellett,4,A.J. Foyt Enterprises,87,23,70.2061,117.938,0
+Jimmie Johnson,48,Chip Ganassi Racing,87,24,69.983,118.314,0
+Callum Ilott,77,Juncos Hollinger Racing,87,25,71.3635,116.026,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,87,26,73.7733,112.236,0
+Pato O'Ward,5,Arrow McLaren,88,1,69.3756,119.35,0
+Alex Palou,10,Chip Ganassi Racing,88,2,69.4568,119.211,0
+Rinus VeeKay,21,ECR,88,3,69.5328,119.08,0
+Will Power,12,Team Penske,88,4,69.257,119.555,0
+Scott Dixon,9,Chip Ganassi Racing,88,5,69.826,118.58,0
+Scott McLaughlin,3,Team Penske,88,6,69.884,118.482,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,88,7,69.8457,118.547,0
+Romain Grosjean,28,Andretti Autosport,88,8,69.9447,118.379,0
+Alexander Rossi,27,Andretti Autosport,88,9,70.3359,117.721,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,88,10,70.3452,117.705,0
+Simon Pagenaud,60,Meyer Shank Racing,88,11,70.1694,118.0,0
+Marcus Ericsson,8,Chip Ganassi Racing,88,12,70.1252,118.075,0
+Takuma Sato,51,Dale Coyne Racing with RWR,88,13,70.2635,117.842,0
+Josef Newgarden,2,Team Penske,88,14,70.1828,117.978,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,88,15,70.1037,118.111,0
+Felix Rosenqvist,7,Arrow McLaren,88,16,70.0387,118.22,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,88,17,69.9266,118.41,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,88,18,70.7528,117.027,0
+Conor Daly,20,ECR,88,19,71.0214,116.585,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,88,20,71.1777,116.329,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,88,21,71.8381,115.259,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,88,22,69.8261,118.58,0
+Dalton Kellett,4,A.J. Foyt Enterprises,88,23,70.1303,118.066,0
+Jimmie Johnson,48,Chip Ganassi Racing,88,24,69.9284,118.407,0
+Callum Ilott,77,Juncos Hollinger Racing,88,25,72.027,114.957,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,88,26,73.2434,113.048,0
+Pato O'Ward,5,Arrow McLaren,89,1,69.2838,119.508,0
+Alex Palou,10,Chip Ganassi Racing,89,2,68.7926,120.362,0
+Rinus VeeKay,21,ECR,89,3,69.803,118.62,0
+Will Power,12,Team Penske,89,4,69.4105,119.29,0
+Scott Dixon,9,Chip Ganassi Racing,89,5,69.9853,118.311,0
+Scott McLaughlin,3,Team Penske,89,6,70.1054,118.108,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,89,7,70.199,117.95,0
+Romain Grosjean,28,Andretti Autosport,89,8,70.086,118.141,0
+Alexander Rossi,27,Andretti Autosport,89,9,70.2221,117.912,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,89,10,70.1637,118.01,0
+Simon Pagenaud,60,Meyer Shank Racing,89,11,70.1425,118.045,0
+Marcus Ericsson,8,Chip Ganassi Racing,89,12,70.1268,118.072,0
+Takuma Sato,51,Dale Coyne Racing with RWR,89,13,69.9357,118.394,0
+Josef Newgarden,2,Team Penske,89,14,70.065,118.176,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,89,15,70.1865,117.971,0
+Felix Rosenqvist,7,Arrow McLaren,89,16,70.095,118.125,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,89,17,70.108,118.103,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,89,18,70.2918,117.795,0
+Conor Daly,20,ECR,89,19,70.1941,117.959,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,89,20,70.2475,117.869,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,89,21,69.7303,118.743,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,89,22,70.0312,118.233,0
+Dalton Kellett,4,A.J. Foyt Enterprises,89,23,71.9075,115.148,0
+Jimmie Johnson,48,Chip Ganassi Racing,89,24,71.1176,116.427,0
+Tatiana Calderon,11,A.J. Foyt Enterprises,89,,,,0
+Callum Ilott,77,Juncos Hollinger Racing,89,,,,0
+Pato O'Ward,5,Arrow McLaren,90,1,69.1676,119.709,0
+Alex Palou,10,Chip Ganassi Racing,90,2,68.7974,120.353,0
+Rinus VeeKay,21,ECR,90,3,68.9063,120.163,0
+Will Power,12,Team Penske,90,4,70.0839,118.144,0
+Scott Dixon,9,Chip Ganassi Racing,90,5,70.0895,118.135,0
+Scott McLaughlin,3,Team Penske,90,6,70.2103,117.931,0
+Romain Grosjean,28,Andretti Autosport,90,7,69.6787,118.831,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,90,8,77.4338,106.93,0
+Alexander Rossi,27,Andretti Autosport,90,9,70.8862,116.807,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,90,10,70.6532,117.192,0
+Simon Pagenaud,60,Meyer Shank Racing,90,11,70.266,117.838,0
+Marcus Ericsson,8,Chip Ganassi Racing,90,12,70.6127,117.259,0
+Takuma Sato,51,Dale Coyne Racing with RWR,90,13,70.5082,117.433,0
+Josef Newgarden,2,Team Penske,90,14,70.6378,117.218,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,90,15,71.49,115.82,0
+Felix Rosenqvist,7,Arrow McLaren,90,16,70.8333,116.894,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,90,17,70.7755,116.99,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,90,18,70.4823,117.476,0
+Conor Daly,20,ECR,90,19,70.4571,117.518,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,90,20,70.3491,117.699,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,90,21,70.0617,118.182,0
+Kyle Kirkwood,14,A.J. Foyt Enterprises,90,,,,0
+Dalton Kellett,4,A.J. Foyt Enterprises,90,,,,0
+Jimmie Johnson,48,Chip Ganassi Racing,90,,,,0
+Alex Palou,10,Chip Ganassi Racing,91,,,,0
+Will Power,12,Team Penske,91,,,,0
+Graham Rahal,15,Rahal Letterman Lanigan Racing,91,,,,0
+David Malukas,18,Dale Coyne Racing with HMD Motorsports,91,,,,0
+Josef Newgarden,2,Team Penske,91,,,,0
+Conor Daly,20,ECR,91,,,,0
+Rinus VeeKay,21,ECR,91,,,,0
+Colton Herta,26,Andretti Global w/ Curb-Agajanian,91,,,,0
+Alexander Rossi,27,Andretti Autosport,91,,,,0
+Romain Grosjean,28,Andretti Autosport,91,,,,0
+Devlin DeFrancesco,29,Andretti Steinbrenner Autosport,91,,,,0
+Scott McLaughlin,3,Team Penske,91,,,,0
+Christian Lundgaard,30,Rahal Letterman Lanigan Racing,91,,,,0
+Jack Harvey,45,Rahal Letterman Lanigan Racing,91,,,,0
+Pato O'Ward,5,Arrow McLaren,91,,,,0
+Takuma Sato,51,Dale Coyne Racing with RWR,91,,,,0
+Helio Castroneves,6,Meyer Shank w/ Curb-Agajanian,91,,,,0
+Simon Pagenaud,60,Meyer Shank Racing,91,,,,0
+Felix Rosenqvist,7,Arrow McLaren,91,,,,0
+Marcus Ericsson,8,Chip Ganassi Racing,91,,,,0
+Scott Dixon,9,Chip Ganassi Racing,91,,,,0

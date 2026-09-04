@@ -1,0 +1,42 @@
+race_id,name,date,track,track_miles,scheduled_laps,scheduled_miles,actual_laps,actual_miles,points_race,caution_laps
+5087,2021 Cup Series NASCAR Cup Series Championship,2021-11-07T15:00:00-08:00,Phoenix Raceway,1.00,312,312,312,312,True,51
+5060,2021 Cup Series Xfinity 500,2021-10-31T14:00:00-07:00,Martinsville Speedway,0.53,500,263,501,263,True,91
+5084,2021 Cup Series Hollywood Casino 400,2021-10-24T14:00:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,33
+5044,2021 Cup Series Autotrader EchoPark Automotive 500,2021-10-17T13:00:00-07:00,Texas Motor Speedway,1.50,334,501,334,501,True,55
+5083,2021 Cup Series Bank of America ROVAL 400,2021-10-10T14:00:00-07:00,Charlotte Motor Speedway Road Course,2.32,109,252,109,252,True,18
+5082,2021 Cup Series YellaWood 500,2021-10-04T12:00:00-07:00,Talladega Superspeedway,2.66,188,500,117,311,True,27
+5081,2021 Cup Series South Point 400,2021-09-26T16:00:00-07:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,21
+5039,2021 Cup Series Bass Pro Shops Night Race,2021-09-18T19:30:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,71
+5079,2021 Cup Series Federated Auto Parts 400 Salute to First Responders,2021-09-11T19:30:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,30
+5078,2021 Cup Series Cook Out Southern 500,2021-09-05T18:00:00-07:00,Darlington Raceway,1.37,367,501,367,501,True,52
+5036,2021 Cup Series Coke Zero Sugar 400,2021-08-28T19:00:00-07:00,Daytona International Speedway,2.50,160,400,165,412,True,31
+5031,2021 Cup Series FireKeepers Casino 400,2021-08-22T15:00:00-07:00,Michigan International Speedway,2.00,200,400,200,400,True,29
+5074,2021 Cup Series Verizon 200 at the Brickyard,2021-08-15T13:00:00-07:00,Indianapolis Motor Speedway Road Course,2.44,82,200,95,231,True,25
+5071,2021 Cup Series Go Bowling at The Glen,2021-08-08T15:00:00-07:00,Watkins Glen International,2.45,90,220,90,220,True,6
+5030,2021 Cup Series Foxwoods Resort Casino 301,2021-07-18T15:00:00-07:00,New Hampshire Motor Speedway,1.06,301,318,293,309,True,47
+5018,2021 Cup Series Quaker State 400 presented by Walmart,2021-07-11T15:30:00-07:00,Atlanta Motor Speedway,1.54,260,400,260,400,True,21
+5054,2021 Cup Series Jockey Made in America 250 Presented by Kwik Trip,2021-07-04T13:30:00-07:00,Road America,4.03,62,250,62,250,True,9
+5023,2021 Cup Series Explore the Pocono Mountains 350,2021-06-27T15:30:00-07:00,Pocono Raceway,2.50,140,350,140,350,True,15
+5022,2021 Cup Series Pocono Organics CBD 325,2021-06-26T15:00:00-07:00,Pocono Raceway,2.50,130,325,130,325,True,25
+5035,2021 Cup Series Ally 400,2021-06-20T15:30:00-07:00,Nashville Superspeedway,1.33,300,399,300,399,True,60
+5068,2021 Cup Series NASCAR All-Star Race,2021-06-13T19:00:00-07:00,Texas Motor Speedway,1.50,100,150,100,150,True,7
+5067,2021 Cup Series NASCAR All-Star Open,2021-06-13T17:00:00-07:00,Texas Motor Speedway,1.50,50,75,50,75,True,13
+5042,2021 Cup Series Toyota / Save Mart 350,2021-06-06T13:00:00-07:00,Sonoma Raceway,2.52,90,226,92,231,True,18
+5015,2021 Cup Series Coca-Cola 600,2021-05-30T18:00:00-07:00,Charlotte Motor Speedway,1.50,400,600,400,600,True,26
+5033,2021 Cup Series EchoPark Texas Grand Prix,2021-05-23T14:30:00-07:00,Circuit of The Americas,3.40,68,231,54,185,True,14
+5034,2021 Cup Series Drydene 400,2021-05-16T14:00:00-07:00,Dover International Speedway,1.00,400,400,400,400,True,41
+5014,2021 Cup Series Goodyear 400,2021-05-09T15:30:00-07:00,Darlington Raceway,1.37,293,400,293,400,True,36
+5029,2021 Cup Series Buschy McBusch Race 400,2021-05-02T14:00:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,36
+5021,2021 Cup Series GEICO 500,2021-04-25T13:00:00-07:00,Talladega Superspeedway,2.66,188,500,191,508,True,34
+5038,2021 Cup Series TOYOTA OWNERS 400,2021-04-18T15:00:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,39
+5019,2021 Cup Series Blue-Emu Maximum Pain Relief 500,2021-04-10T19:30:00-07:00,Martinsville Speedway,0.53,500,263,500,263,True,102
+5017,2021 Cup Series Food City Dirt Race,2021-03-29T16:00:00-07:00,Bristol Motor Speedway Dirt,0.50,250,125,253,126,True,39
+5013,2021 Cup Series Folds of Honor QuikTrip 500,2021-03-21T15:00:00-07:00,Atlanta Motor Speedway,1.54,325,500,325,500,True,25
+5012,2021 Cup Series Instacart 500,2021-03-14T12:30:00-07:00,Phoenix Raceway,1.00,312,312,312,312,True,45
+5010,2021 Cup Series Pennzoil 400 presented by Jiffy Lube,2021-03-07T12:30:00-08:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,30
+5011,2021 Cup Series Dixie Vodka 400,2021-02-28T15:30:00-08:00,Homestead-Miami Speedway,1.50,267,400,267,400,True,36
+5020,2021 Cup Series O’Reilly Auto Parts 253 At DAYTONA,2021-02-21T15:00:00-08:00,DAYTONA Road Course,3.61,70,253,70,252,True,12
+5009,2021 Cup Series DAYTONA 500,2021-02-14T14:30:00-08:00,Daytona International Speedway,2.50,200,500,200,500,True,40
+5007,2021 Cup Series Bluegreen Vacations Duel 1 at DAYTONA,2021-02-11T19:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,0
+5008,2021 Cup Series Bluegreen Vacations Duel 2 at DAYTONA,2021-02-11T19:00:00-08:00,Daytona International Speedway,2.50,60,150,63,157,True,8
+5006,2021 Cup Series Busch Clash at DAYTONA,2021-02-09T19:00:00-08:00,DAYTONA Road Course,3.61,35,126,35,124,True,8

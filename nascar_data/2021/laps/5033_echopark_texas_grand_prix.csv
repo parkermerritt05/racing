@@ -1,0 +1,1928 @@
+driver_name,driver_id,manufacturer,car_number,lap_number,running_position,lap_speed,lap_time,team,playoffs,points_ineligible,starting_position,finish_position,statuses
+Chase Elliott,4062,Chv,9,3,15,79.047,155.300,Hendrick Motorsports,False,False,8,1,green
+Joey Logano,3859,Frd,22,3,13,78.998,155.397,Team Penske,False,False,6,3,green
+Chase Elliott,4062,Chv,9,43,23,78.948,155.495,Hendrick Motorsports,False,False,8,1,green
+AJ Allmendinger,3774,Chv,16,4,12,78.937,155.516,Kaulig Racing,False,True,7,5,green
+Kyle Busch,454,Tyt,18,6,6,78.909,155.571,Joe Gibbs Racing,False,False,4,10,green
+Kyle Busch,454,Tyt,18,5,7,78.903,155.583,Joe Gibbs Racing,False,False,4,10,green
+Chase Elliott,4062,Chv,9,4,11,78.886,155.617,Hendrick Motorsports,False,False,8,1,green
+Kyle Busch,454,Tyt,18,43,19,78.872,155.644,Joe Gibbs Racing,False,False,4,10,green
+Ross Chastain,4001,Chv,42,42,3,78.802,155.782,Chip Ganassi Racing,False,False,20,4,green
+Austin Cindric,4180,Frd,33,3,1,78.798,155.790,Team Penske,False,True,3,25,green
+Kurt Busch,453,Chv,1,42,4,78.798,155.791,Chip Ganassi Racing,False,False,13,27,green
+William Byron,4184,Chv,24,3,11,78.776,155.834,Hendrick Motorsports,False,False,5,11,green
+Chase Elliott,4062,Chv,9,45,11,78.774,155.838,Hendrick Motorsports,False,False,8,1,green
+Kyle Larson,4030,Chv,5,5,13,78.747,155.891,Hendrick Motorsports,False,False,2,2,green
+Chase Elliott,4062,Chv,9,44,14,78.746,155.893,Hendrick Motorsports,False,False,8,1,green
+Kyle Busch,454,Tyt,18,15,9,78.734,155.917,Joe Gibbs Racing,False,False,4,10,green
+Michael McDowell,3832,Frd,34,3,4,78.726,155.933,Front Row Motorsports,False,False,23,7,green
+Kyle Busch,454,Tyt,18,31,1,78.722,155.942,Joe Gibbs Racing,False,False,4,10,green
+Chase Elliott,4062,Chv,9,31,3,78.630,156.124,Hendrick Motorsports,False,False,8,1,green
+Austin Cindric,4180,Frd,33,44,24,78.604,156.175,Team Penske,False,True,3,25,green
+Kyle Larson,4030,Chv,5,39,2,78.580,156.222,Hendrick Motorsports,False,False,2,2,green
+Kyle Larson,4030,Chv,5,47,5,78.560,156.263,Hendrick Motorsports,False,False,2,2,green
+Cole Custer,4104,Frd,41,3,18,78.548,156.287,Stewart-Haas Racing,False,False,14,36,green
+Bubba Wallace,4025,Tyt,23,3,2,78.533,156.317,23XI Racing,False,False,18,39,green
+Matt DiBenedetto,3916,Frd,21,5,19,78.520,156.342,Wood Brothers Racing,False,False,21,23,green
+Corey LaJoie,4096,Chv,7,3,20,78.507,156.369,Spire Motorsports,False,False,25,20,green
+Ross Chastain,4001,Chv,42,44,2,78.500,156.382,Chip Ganassi Racing,False,False,20,4,green
+Chase Elliott,4062,Chv,9,49,2,78.489,156.405,Hendrick Motorsports,False,False,8,1,green
+Chase Elliott,4062,Chv,9,46,6,78.461,156.460,Hendrick Motorsports,False,False,8,1,green
+Kyle Busch,454,Tyt,18,2,2,78.451,156.479,Joe Gibbs Racing,False,False,4,10,pitting in
+Ricky Stenhouse Jr.,3888,Chv,47,29,32,78.448,156.486,JTG Daugherty Racing,False,False,22,22,restart
+Chase Elliott,4062,Chv,9,48,2,78.441,156.499,Hendrick Motorsports,False,False,8,1,green
+Chase Elliott,4062,Chv,9,32,2,78.392,156.597,Hendrick Motorsports,False,False,8,1,green
+Joey Logano,3859,Frd,22,31,14,78.371,156.640,Team Penske,False,False,6,3,green
+Kyle Busch,454,Tyt,18,30,1,78.361,156.660,Joe Gibbs Racing,False,False,4,10,green
+Kurt Busch,453,Chv,1,4,18,78.341,156.699,Chip Ganassi Racing,False,False,13,27,green
+Austin Cindric,4180,Frd,33,2,1,78.333,156.715,Team Penske,False,True,3,25,green
+Joey Logano,3859,Frd,22,40,3,78.284,156.814,Team Penske,False,False,6,3,green
+Tyler Reddick,4065,Chv,8,31,4,78.269,156.844,Richard Childress Racing,False,False,1,9,green
+Austin Cindric,4180,Frd,33,30,2,78.267,156.848,Team Penske,False,True,3,25,green
+Tyler Reddick,4065,Chv,8,46,21,78.264,156.853,Richard Childress Racing,False,False,1,9,green
+Ross Chastain,4001,Chv,42,43,2,78.256,156.869,Chip Ganassi Racing,False,False,20,4,green
+Chase Briscoe,4228,Frd,14,5,20,78.252,156.877,Stewart-Haas Racing,False,False,27,6,green
+Kurt Busch,453,Chv,1,43,4,78.247,156.888,Chip Ganassi Racing,False,False,13,27,green
+Chase Briscoe,4228,Frd,14,3,24,78.247,156.887,Stewart-Haas Racing,False,False,27,6,green
+Brad Keselowski,1816,Frd,2,3,23,78.237,156.908,Team Penske,False,False,24,19,green
+Kyle Busch,454,Tyt,18,37,1,78.237,156.907,Joe Gibbs Racing,False,False,4,10,green
+Kyle Larson,4030,Chv,5,40,2,78.235,156.912,Hendrick Motorsports,False,False,2,2,green
+Kurt Busch,453,Chv,1,40,7,78.227,156.927,Chip Ganassi Racing,False,False,13,27,green
+Kyle Busch,454,Tyt,18,32,1,78.212,156.959,Joe Gibbs Racing,False,False,4,10,green
+Martin Truex Jr.,3368,Tyt,19,5,1,78.208,156.966,Joe Gibbs Racing,False,False,17,35,green
+Kurt Busch,453,Chv,1,37,11,78.204,156.974,Chip Ganassi Racing,False,False,13,27,green
+Kyle Larson,4030,Chv,5,48,4,78.201,156.981,Hendrick Motorsports,False,False,2,2,green
+Chase Elliott,4062,Chv,9,51,1,78.198,156.987,Hendrick Motorsports,False,False,8,1,green
+Christopher Bell,4153,Tyt,20,7,13,78.181,157.021,Joe Gibbs Racing,False,False,10,38,pitting in
+Erik Jones,4059,Chv,43,31,23,78.176,157.030,Richard Petty Motorsports,False,False,29,16,green
+AJ Allmendinger,3774,Chv,16,5,11,78.175,157.032,Kaulig Racing,False,True,7,5,green
+Joey Logano,3859,Frd,22,6,8,78.175,157.032,Team Penske,False,False,6,3,green
+Tyler Reddick,4065,Chv,8,32,3,78.173,157.037,Richard Childress Racing,False,False,1,9,green
+Michael McDowell,3832,Frd,34,5,2,78.160,157.062,Front Row Motorsports,False,False,23,7,green
+Chase Elliott,4062,Chv,9,30,3,78.140,157.102,Hendrick Motorsports,False,False,8,1,green
+Kyle Busch,454,Tyt,18,7,4,78.137,157.109,Joe Gibbs Racing,False,False,4,10,pitting in
+Corey LaJoie,4096,Chv,7,46,27,78.120,157.143,Spire Motorsports,False,False,25,20,green
+Joey Logano,3859,Frd,22,49,6,78.120,157.142,Team Penske,False,False,6,3,green
+Ricky Stenhouse Jr.,3888,Chv,47,2,8,78.114,157.155,JTG Daugherty Racing,False,False,22,22,green
+Kyle Busch,454,Tyt,18,36,1,78.111,157.160,Joe Gibbs Racing,False,False,4,10,restart
+Chase Briscoe,4228,Frd,14,4,20,78.108,157.166,Stewart-Haas Racing,False,False,27,6,green
+Joey Logano,3859,Frd,22,32,12,78.095,157.194,Team Penske,False,False,6,3,green
+Martin Truex Jr.,3368,Tyt,19,4,2,78.095,157.193,Joe Gibbs Racing,False,False,17,35,green
+Kyle Larson,4030,Chv,5,31,9,78.092,157.200,Hendrick Motorsports,False,False,2,2,green
+Kyle Busch,454,Tyt,18,45,8,78.078,157.228,Joe Gibbs Racing,False,False,4,10,green
+Michael McDowell,3832,Frd,34,37,12,78.062,157.260,Front Row Motorsports,False,False,23,7,green
+Kyle Larson,4030,Chv,5,41,1,78.060,157.264,Hendrick Motorsports,False,False,2,2,green
+Corey LaJoie,4096,Chv,7,31,5,78.047,157.289,Spire Motorsports,False,False,25,20,green
+Kyle Larson,4030,Chv,5,42,1,78.043,157.298,Hendrick Motorsports,False,False,2,2,green
+Chris Buescher,3989,Frd,17,48,18,78.043,157.298,Roush Fenway Racing,False,False,28,13,green
+Joey Logano,3859,Frd,22,48,6,78.042,157.300,Team Penske,False,False,6,3,green
+Kyle Larson,4030,Chv,5,7,12,78.033,157.319,Hendrick Motorsports,False,False,2,2,green
+Kyle Busch,454,Tyt,18,14,10,78.030,157.324,Joe Gibbs Racing,False,False,4,10,green
+Corey LaJoie,4096,Chv,7,4,15,78.027,157.331,Spire Motorsports,False,False,25,20,green
+Michael McDowell,3832,Frd,34,38,9,78.024,157.336,Front Row Motorsports,False,False,23,7,green
+Chase Elliott,4062,Chv,9,6,10,78.020,157.345,Hendrick Motorsports,False,False,8,1,green
+Kurt Busch,453,Chv,1,5,16,78.019,157.347,Chip Ganassi Racing,False,False,13,27,green
+Joey Logano,3859,Frd,22,39,3,77.989,157.407,Team Penske,False,False,6,3,green
+Michael McDowell,3832,Frd,34,6,2,77.976,157.433,Front Row Motorsports,False,False,23,7,green
+Chase Elliott,4062,Chv,9,47,3,77.972,157.441,Hendrick Motorsports,False,False,8,1,green
+AJ Allmendinger,3774,Chv,16,30,12,77.960,157.465,Kaulig Racing,False,True,7,5,green
+Ross Chastain,4001,Chv,42,31,18,77.958,157.469,Chip Ganassi Racing,False,False,20,4,green
+Austin Dillon,3873,Chv,3,3,22,77.956,157.474,Richard Childress Racing,False,False,16,12,green
+Michael McDowell,3832,Frd,34,47,11,77.950,157.486,Front Row Motorsports,False,False,23,7,green
+Ricky Stenhouse Jr.,3888,Chv,47,3,5,77.947,157.491,JTG Daugherty Racing,False,False,22,22,green
+Alex Bowman,4045,Chv,48,43,8,77.941,157.504,Hendrick Motorsports,False,False,12,8,green
+Brad Keselowski,1816,Frd,2,31,13,77.939,157.508,Team Penske,False,False,24,19,green
+Ryan Blaney,4023,Frd,12,3,32,77.935,157.516,Team Penske,False,False,9,17,green
+Bubba Wallace,4025,Tyt,23,2,5,77.934,157.517,23XI Racing,False,False,18,39,green
+James Davison,4211,Chv,15,30,33,77.931,157.524,Rick Ware Racing,False,False,32,29,green
+Kyle Larson,4030,Chv,5,6,12,77.931,157.524,Hendrick Motorsports,False,False,2,2,green
+Chris Buescher,3989,Frd,17,31,16,77.923,157.541,Roush Fenway Racing,False,False,28,13,green
+Tyler Reddick,4065,Chv,8,30,4,77.916,157.554,Richard Childress Racing,False,False,1,9,green
+Ryan Newman,2394,Frd,6,44,29,77.907,157.573,Roush Fenway Racing,False,False,34,24,green
+AJ Allmendinger,3774,Chv,16,40,5,77.905,157.576,Kaulig Racing,False,True,7,5,green
+Ross Chastain,4001,Chv,42,40,6,77.902,157.582,Chip Ganassi Racing,False,False,20,4,green
+Joey Logano,3859,Frd,22,37,6,77.900,157.587,Team Penske,False,False,6,3,green
+James Davison,4211,Chv,15,36,30,77.898,157.591,Rick Ware Racing,False,False,32,29,restart
+AJ Allmendinger,3774,Chv,16,37,8,77.891,157.605,Kaulig Racing,False,True,7,5,green
+AJ Allmendinger,3774,Chv,16,32,8,77.889,157.608,Kaulig Racing,False,True,7,5,green
+Kurt Busch,453,Chv,1,44,3,77.885,157.618,Chip Ganassi Racing,False,False,13,27,pitting in
+Chase Briscoe,4228,Frd,14,6,20,77.884,157.620,Stewart-Haas Racing,False,False,27,6,green
+Ross Chastain,4001,Chv,42,37,7,77.882,157.624,Chip Ganassi Racing,False,False,20,4,green
+Kyle Busch,454,Tyt,18,44,13,77.856,157.676,Joe Gibbs Racing,False,False,4,10,green
+Austin Cindric,4180,Frd,33,4,1,77.855,157.678,Team Penske,False,True,3,25,pitting in
+Kyle Larson,4030,Chv,5,43,1,77.841,157.707,Hendrick Motorsports,False,False,2,2,green
+Joey Logano,3859,Frd,22,41,2,77.836,157.716,Team Penske,False,False,6,3,green
+Kyle Larson,4030,Chv,5,49,4,77.834,157.720,Hendrick Motorsports,False,False,2,2,green
+Kurt Busch,453,Chv,1,7,14,77.821,157.746,Chip Ganassi Racing,False,False,13,27,green
+Martin Truex Jr.,3368,Tyt,19,3,3,77.820,157.749,Joe Gibbs Racing,False,False,17,35,green
+Christopher Bell,4153,Tyt,20,5,14,77.819,157.751,Joe Gibbs Racing,False,False,10,38,green
+Kyle Busch,454,Tyt,18,46,5,77.815,157.759,Joe Gibbs Racing,False,False,4,10,green
+Kurt Busch,453,Chv,1,6,15,77.811,157.766,Chip Ganassi Racing,False,False,13,27,green
+Erik Jones,4059,Chv,43,32,21,77.810,157.768,Richard Petty Motorsports,False,False,29,16,green
+Kyle Busch,454,Tyt,18,40,1,77.809,157.770,Joe Gibbs Racing,False,False,4,10,pitting in
+AJ Allmendinger,3774,Chv,16,31,12,77.797,157.795,Kaulig Racing,False,True,7,5,green
+Chase Briscoe,4228,Frd,14,32,9,77.791,157.808,Stewart-Haas Racing,False,False,27,6,green
+Michael McDowell,3832,Frd,34,30,18,77.791,157.808,Front Row Motorsports,False,False,23,7,green
+Daniel Suarez,4113,Chv,99,3,26,77.789,157.811,TrackHouse Racing,False,False,15,33,green
+Kyle Busch,454,Tyt,18,38,1,77.785,157.820,Joe Gibbs Racing,False,False,4,10,green
+Ross Chastain,4001,Chv,42,45,1,77.785,157.820,Chip Ganassi Racing,False,False,20,4,green
+Austin Dillon,3873,Chv,3,38,27,77.779,157.832,Richard Childress Racing,False,False,16,12,green
+Chase Elliott,4062,Chv,9,40,4,77.779,157.832,Hendrick Motorsports,False,False,8,1,pitting in
+AJ Allmendinger,3774,Chv,16,6,11,77.777,157.836,Kaulig Racing,False,True,7,5,green
+Christopher Bell,4153,Tyt,20,6,13,77.777,157.835,Joe Gibbs Racing,False,False,10,38,green
+Matt DiBenedetto,3916,Frd,21,6,19,77.771,157.848,Wood Brothers Racing,False,False,21,23,green
+Michael McDowell,3832,Frd,34,31,17,77.770,157.850,Front Row Motorsports,False,False,23,7,green
+Chase Briscoe,4228,Frd,14,31,11,77.762,157.867,Stewart-Haas Racing,False,False,27,6,green
+Tyler Reddick,4065,Chv,8,47,18,77.760,157.870,Richard Childress Racing,False,False,1,9,green
+Austin Cindric,4180,Frd,33,31,2,77.753,157.885,Team Penske,False,True,3,25,green
+Kyle Larson,4030,Chv,5,2,3,77.746,157.898,Hendrick Motorsports,False,False,2,2,pitting in
+Kyle Larson,4030,Chv,5,32,6,77.746,157.899,Hendrick Motorsports,False,False,2,2,green
+Corey LaJoie,4096,Chv,7,5,15,77.740,157.911,Spire Motorsports,False,False,25,20,green
+Ryan Blaney,4023,Frd,12,31,15,77.740,157.910,Team Penske,False,False,9,17,green
+Ryan Blaney,4023,Frd,12,46,25,77.734,157.924,Team Penske,False,False,9,17,green
+Chase Briscoe,4228,Frd,14,40,9,77.725,157.942,Stewart-Haas Racing,False,False,27,6,green
+Brad Keselowski,1816,Frd,2,48,27,77.724,157.943,Team Penske,False,False,24,19,green
+Joey Logano,3859,Frd,22,42,2,77.716,157.960,Team Penske,False,False,6,3,green
+Chase Elliott,4062,Chv,9,50,1,77.714,157.964,Hendrick Motorsports,False,False,8,1,green
+Ross Chastain,4001,Chv,42,32,15,77.711,157.970,Chip Ganassi Racing,False,False,20,4,green
+Corey LaJoie,4096,Chv,7,37,15,77.687,158.018,Spire Motorsports,False,False,25,20,green
+Martin Truex Jr.,3368,Tyt,19,2,4,77.684,158.025,Joe Gibbs Racing,False,False,17,35,green
+Denny Hamlin,1361,Tyt,11,4,24,77.684,158.025,Joe Gibbs Racing,False,False,19,14,green
+Daniel Suarez,4113,Chv,99,4,25,77.675,158.044,TrackHouse Racing,False,False,15,33,green
+Matt DiBenedetto,3916,Frd,21,38,16,77.675,158.043,Wood Brothers Racing,False,False,21,23,green
+Kyle Larson,4030,Chv,5,44,1,77.673,158.048,Hendrick Motorsports,False,False,2,2,pitting in
+Justin Haley,4172,Chv,77,4,28,77.672,158.049,Spire Motorsports,False,True,30,40,green
+Michael McDowell,3832,Frd,34,41,4,77.667,158.059,Front Row Motorsports,False,False,23,7,green
+Ross Chastain,4001,Chv,42,49,7,77.667,158.060,Chip Ganassi Racing,False,False,20,4,green
+Chase Briscoe,4228,Frd,14,42,7,77.660,158.073,Stewart-Haas Racing,False,False,27,6,green
+Alex Bowman,4045,Chv,48,44,6,77.656,158.081,Hendrick Motorsports,False,False,12,8,green
+Joey Logano,3859,Frd,22,5,9,77.656,158.082,Team Penske,False,False,6,3,green
+Corey LaJoie,4096,Chv,7,32,5,77.656,158.082,Spire Motorsports,False,False,25,20,pitting in
+Kyle Busch,454,Tyt,18,29,1,77.648,158.099,Joe Gibbs Racing,False,False,4,10,restart
+Joey Logano,3859,Frd,22,47,8,77.644,158.106,Team Penske,False,False,6,3,green
+Ryan Preece,4070,Chv,37,2,10,77.644,158.107,JTG Daugherty Racing,False,False,36,15,green
+AJ Allmendinger,3774,Chv,16,42,6,77.643,158.109,Kaulig Racing,False,True,7,5,green
+Martin Truex Jr.,3368,Tyt,19,6,1,77.638,158.119,Joe Gibbs Racing,False,False,17,35,green
+Austin Dillon,3873,Chv,3,6,21,77.627,158.141,Richard Childress Racing,False,False,16,12,green
+AJ Allmendinger,3774,Chv,16,47,12,77.615,158.165,Kaulig Racing,False,True,7,5,green
+Ryan Newman,2394,Frd,6,31,19,77.609,158.178,Roush Fenway Racing,False,False,34,24,green
+Ross Chastain,4001,Chv,42,41,3,77.608,158.179,Chip Ganassi Racing,False,False,20,4,green
+Bubba Wallace,4025,Tyt,23,6,3,77.607,158.182,23XI Racing,False,False,18,39,green
+Denny Hamlin,1361,Tyt,11,31,8,77.607,158.181,Joe Gibbs Racing,False,False,19,14,green
+Tyler Reddick,4065,Chv,8,40,21,77.601,158.194,Richard Childress Racing,False,False,1,9,green
+Kevin Harvick,1416,Frd,4,4,26,77.599,158.197,Stewart-Haas Racing,False,False,11,37,green
+Matt DiBenedetto,3916,Frd,21,31,10,77.596,158.205,Wood Brothers Racing,False,False,21,23,green
+Michael McDowell,3832,Frd,34,7,2,77.594,158.208,Front Row Motorsports,False,False,23,7,green
+Michael McDowell,3832,Frd,34,46,12,77.590,158.216,Front Row Motorsports,False,False,23,7,green
+Kevin Harvick,1416,Frd,4,3,27,77.589,158.219,Stewart-Haas Racing,False,False,11,37,green
+Denny Hamlin,1361,Tyt,11,3,25,77.579,158.239,Joe Gibbs Racing,False,False,19,14,green
+Chase Briscoe,4228,Frd,14,43,6,77.575,158.246,Stewart-Haas Racing,False,False,27,6,green
+Austin Cindric,4180,Frd,33,45,21,77.571,158.255,Team Penske,False,True,3,25,green
+Denny Hamlin,1361,Tyt,11,40,11,77.569,158.259,Joe Gibbs Racing,False,False,19,14,green
+Joey Logano,3859,Frd,22,4,9,77.563,158.272,Team Penske,False,False,6,3,green
+AJ Allmendinger,3774,Chv,16,43,5,77.553,158.291,Kaulig Racing,False,True,7,5,pitting in
+Chase Elliott,4062,Chv,9,52,1,77.552,158.294,Hendrick Motorsports,False,False,8,1,green
+Chase Briscoe,4228,Frd,14,39,9,77.552,158.293,Stewart-Haas Racing,False,False,27,6,green
+Alex Bowman,4045,Chv,48,4,27,77.551,158.296,Hendrick Motorsports,False,False,12,8,green
+Alex Bowman,4045,Chv,48,31,7,77.550,158.297,Hendrick Motorsports,False,False,12,8,green
+Ryan Preece,4070,Chv,37,37,10,77.547,158.305,JTG Daugherty Racing,False,False,36,15,green
+Justin Haley,4172,Chv,77,3,29,77.547,158.305,Spire Motorsports,False,True,30,40,green
+Tyler Reddick,4065,Chv,8,6,18,77.546,158.307,Richard Childress Racing,False,False,1,9,green
+Daniel Suarez,4113,Chv,99,5,23,77.540,158.319,TrackHouse Racing,False,False,15,33,green
+Michael McDowell,3832,Frd,34,36,15,77.539,158.321,Front Row Motorsports,False,False,23,7,restart
+Alex Bowman,4045,Chv,48,3,28,77.528,158.343,Hendrick Motorsports,False,False,12,8,green
+Kurt Busch,453,Chv,1,38,10,77.527,158.344,Chip Ganassi Racing,False,False,13,27,green
+Michael McDowell,3832,Frd,34,40,8,77.526,158.347,Front Row Motorsports,False,False,23,7,green
+Joey Logano,3859,Frd,22,11,1,77.520,158.359,Team Penske,False,False,6,3,green
+Chase Briscoe,4228,Frd,14,41,7,77.516,158.367,Stewart-Haas Racing,False,False,27,6,green
+Joey Logano,3859,Frd,22,14,1,77.512,158.375,Team Penske,False,False,6,3,green
+Tyler Reddick,4065,Chv,8,48,16,77.509,158.382,Richard Childress Racing,False,False,1,9,green
+Austin Cindric,4180,Frd,33,1,1,77.506,158.388,Team Penske,False,True,3,25,start
+Chris Buescher,3989,Frd,17,4,29,77.497,158.407,Roush Fenway Racing,False,False,28,13,green
+Alex Bowman,4045,Chv,48,38,17,77.490,158.421,Hendrick Motorsports,False,False,12,8,green
+Matt DiBenedetto,3916,Frd,21,37,18,77.483,158.434,Wood Brothers Racing,False,False,21,23,green
+Ricky Stenhouse Jr.,3888,Chv,47,39,31,77.480,158.440,JTG Daugherty Racing,False,False,22,22,green
+Austin Cindric,4180,Frd,33,29,2,77.476,158.450,Team Penske,False,True,3,25,restart
+Chase Elliott,4062,Chv,9,53,1,77.473,158.455,Hendrick Motorsports,False,False,8,1,green
+Ricky Stenhouse Jr.,3888,Chv,47,42,25,77.473,158.456,JTG Daugherty Racing,False,False,22,22,green
+Corey LaJoie,4096,Chv,7,30,6,77.471,158.460,Spire Motorsports,False,False,25,20,green
+Chris Buescher,3989,Frd,17,32,14,77.470,158.461,Roush Fenway Racing,False,False,28,13,green
+Cole Custer,4104,Frd,41,5,17,77.470,158.462,Stewart-Haas Racing,False,False,14,36,green
+Ross Chastain,4001,Chv,42,12,10,77.444,158.514,Chip Ganassi Racing,False,False,20,4,green
+AJ Allmendinger,3774,Chv,16,48,12,77.438,158.526,Kaulig Racing,False,True,7,5,green
+Joey Logano,3859,Frd,22,43,3,77.431,158.541,Team Penske,False,False,6,3,green
+Kyle Larson,4030,Chv,5,37,4,77.431,158.541,Hendrick Motorsports,False,False,2,2,green
+Denny Hamlin,1361,Tyt,11,38,15,77.422,158.560,Joe Gibbs Racing,False,False,19,14,green
+Austin Cindric,4180,Frd,33,7,7,77.409,158.586,Team Penske,False,True,3,25,green
+William Byron,4184,Chv,24,4,7,77.404,158.596,Hendrick Motorsports,False,False,5,11,green
+Bubba Wallace,4025,Tyt,23,4,3,77.403,158.599,23XI Racing,False,False,18,39,green
+Corey LaJoie,4096,Chv,7,47,26,77.402,158.600,Spire Motorsports,False,False,25,20,green
+Ross Chastain,4001,Chv,42,39,6,77.400,158.604,Chip Ganassi Racing,False,False,20,4,green
+Cole Custer,4104,Frd,41,4,16,77.398,158.608,Stewart-Haas Racing,False,False,14,36,green
+Alex Bowman,4045,Chv,48,41,10,77.398,158.608,Hendrick Motorsports,False,False,12,8,green
+Chris Buescher,3989,Frd,17,3,31,77.397,158.610,Roush Fenway Racing,False,False,28,13,green
+Erik Jones,4059,Chv,43,3,30,77.393,158.618,Richard Petty Motorsports,False,False,29,16,green
+Joey Logano,3859,Frd,22,12,1,77.390,158.625,Team Penske,False,False,6,3,green
+Chase Elliott,4062,Chv,9,37,3,77.389,158.628,Hendrick Motorsports,False,False,8,1,green
+Kyle Busch,454,Tyt,18,49,3,77.387,158.632,Joe Gibbs Racing,False,False,4,10,green
+Kyle Busch,454,Tyt,18,48,3,77.385,158.636,Joe Gibbs Racing,False,False,4,10,green
+Alex Bowman,4045,Chv,48,40,12,77.385,158.635,Hendrick Motorsports,False,False,12,8,green
+Bubba Wallace,4025,Tyt,23,5,3,77.381,158.643,23XI Racing,False,False,18,39,green
+Ryan Preece,4070,Chv,37,48,20,77.371,158.665,JTG Daugherty Racing,False,False,36,15,green
+Michael McDowell,3832,Frd,34,42,5,77.368,158.671,Front Row Motorsports,False,False,23,7,green
+Michael McDowell,3832,Frd,34,4,4,77.364,158.678,Front Row Motorsports,False,False,23,7,green
+Austin Dillon,3873,Chv,3,5,21,77.361,158.685,Richard Childress Racing,False,False,16,12,green
+Chris Buescher,3989,Frd,17,41,11,77.360,158.687,Roush Fenway Racing,False,False,28,13,green
+Kyle Busch,454,Tyt,18,47,2,77.359,158.688,Joe Gibbs Racing,False,False,4,10,green
+William Byron,4184,Chv,24,39,15,77.352,158.704,Hendrick Motorsports,False,False,5,11,green
+Kyle Larson,4030,Chv,5,30,11,77.352,158.703,Hendrick Motorsports,False,False,2,2,green
+Kyle Busch,454,Tyt,18,39,1,77.349,158.710,Joe Gibbs Racing,False,False,4,10,green
+AJ Allmendinger,3774,Chv,16,39,5,77.348,158.711,Kaulig Racing,False,True,7,5,green
+Ross Chastain,4001,Chv,42,6,31,77.346,158.716,Chip Ganassi Racing,False,False,20,4,green
+Ryan Blaney,4023,Frd,12,30,14,77.337,158.734,Team Penske,False,False,9,17,green
+Tyler Reddick,4065,Chv,8,49,14,77.335,158.738,Richard Childress Racing,False,False,1,9,green
+William Byron,4184,Chv,24,7,9,77.324,158.760,Hendrick Motorsports,False,False,5,11,green
+Kyle Larson,4030,Chv,5,14,5,77.323,158.763,Hendrick Motorsports,False,False,2,2,green
+AJ Allmendinger,3774,Chv,16,46,14,77.317,158.774,Kaulig Racing,False,True,7,5,green
+Michael McDowell,3832,Frd,34,39,7,77.312,158.785,Front Row Motorsports,False,False,23,7,green
+Daniel Suarez,4113,Chv,99,36,34,77.311,158.788,TrackHouse Racing,False,False,15,33,restart
+Chase Briscoe,4228,Frd,14,44,5,77.308,158.793,Stewart-Haas Racing,False,False,27,6,pitting in
+Matt DiBenedetto,3916,Frd,21,43,13,77.308,158.794,Wood Brothers Racing,False,False,21,23,pitting in
+Denny Hamlin,1361,Tyt,11,39,12,77.307,158.796,Joe Gibbs Racing,False,False,19,14,green
+Joey Logano,3859,Frd,22,30,15,77.306,158.797,Team Penske,False,False,6,3,green
+Alex Bowman,4045,Chv,48,46,2,77.302,158.806,Hendrick Motorsports,False,False,12,8,green
+Matt DiBenedetto,3916,Frd,21,30,9,77.300,158.810,Wood Brothers Racing,False,False,21,23,green
+Tyler Reddick,4065,Chv,8,43,14,77.300,158.810,Richard Childress Racing,False,False,1,9,pitting in
+William Byron,4184,Chv,24,41,13,77.298,158.813,Hendrick Motorsports,False,False,5,11,green
+Ross Chastain,4001,Chv,42,13,10,77.297,158.817,Chip Ganassi Racing,False,False,20,4,green
+Tyler Reddick,4065,Chv,8,41,18,77.297,158.817,Richard Childress Racing,False,False,1,9,green
+Brad Keselowski,1816,Frd,2,47,28,77.296,158.818,Team Penske,False,False,24,19,green
+Ryan Preece,4070,Chv,37,40,10,77.294,158.823,JTG Daugherty Racing,False,False,36,15,green
+Alex Bowman,4045,Chv,48,39,13,77.292,158.826,Hendrick Motorsports,False,False,12,8,green
+Erik Jones,4059,Chv,43,43,17,77.280,158.851,Richard Petty Motorsports,False,False,29,16,green
+Chase Elliott,4062,Chv,9,7,10,77.276,158.860,Hendrick Motorsports,False,False,8,1,pitting in
+Ross Chastain,4001,Chv,42,46,1,77.275,158.861,Chip Ganassi Racing,False,False,20,4,pitting in
+Kyle Larson,4030,Chv,5,12,8,77.274,158.864,Hendrick Motorsports,False,False,2,2,green
+Ryan Blaney,4023,Frd,12,4,31,77.271,158.869,Team Penske,False,False,9,17,green
+Ricky Stenhouse Jr.,3888,Chv,47,30,31,77.270,158.871,JTG Daugherty Racing,False,False,22,22,green
+Chase Elliott,4062,Chv,9,39,4,77.264,158.883,Hendrick Motorsports,False,False,8,1,green
+Ryan Newman,2394,Frd,6,30,20,77.256,158.900,Roush Fenway Racing,False,False,34,24,green
+James Davison,4211,Chv,15,31,32,77.256,158.901,Rick Ware Racing,False,False,32,29,green
+Alex Bowman,4045,Chv,48,30,7,77.250,158.912,Hendrick Motorsports,False,False,12,8,green
+Daniel Suarez,4113,Chv,99,34,34,77.249,158.914,TrackHouse Racing,False,False,15,33,caution
+Ricky Stenhouse Jr.,3888,Chv,47,40,30,77.245,158.923,JTG Daugherty Racing,False,False,22,22,green
+Denny Hamlin,1361,Tyt,11,41,9,77.244,158.925,Joe Gibbs Racing,False,False,19,14,green
+Brad Keselowski,1816,Frd,2,30,13,77.243,158.926,Team Penske,False,False,24,19,green
+Matt DiBenedetto,3916,Frd,21,42,13,77.242,158.930,Wood Brothers Racing,False,False,21,23,green
+William Byron,4184,Chv,24,5,8,77.236,158.942,Hendrick Motorsports,False,False,5,11,green
+Alex Bowman,4045,Chv,48,45,3,77.234,158.946,Hendrick Motorsports,False,False,12,8,green
+Chris Buescher,3989,Frd,17,5,28,77.232,158.949,Roush Fenway Racing,False,False,28,13,green
+Kyle Larson,4030,Chv,5,50,2,77.231,158.951,Hendrick Motorsports,False,False,2,2,green
+Austin Cindric,4180,Frd,33,37,2,77.229,158.955,Team Penske,False,True,3,25,green
+Chris Buescher,3989,Frd,17,30,17,77.225,158.964,Roush Fenway Racing,False,False,28,13,green
+Ryan Preece,4070,Chv,37,41,8,77.221,158.972,JTG Daugherty Racing,False,False,36,15,green
+Alex Bowman,4045,Chv,48,37,17,77.219,158.976,Hendrick Motorsports,False,False,12,8,green
+Denny Hamlin,1361,Tyt,11,37,16,77.216,158.983,Joe Gibbs Racing,False,False,19,14,green
+Erik Jones,4059,Chv,43,5,29,77.214,158.986,Richard Petty Motorsports,False,False,29,16,green
+Aric Almirola,40,Frd,10,31,21,77.213,158.988,Stewart-Haas Racing,False,False,26,26,green
+Kyle Busch,454,Tyt,18,13,16,77.209,158.998,Joe Gibbs Racing,False,False,4,10,green
+Denny Hamlin,1361,Tyt,11,42,8,77.193,159.029,Joe Gibbs Racing,False,False,19,14,green
+Martin Truex Jr.,3368,Tyt,19,7,1,77.192,159.031,Joe Gibbs Racing,False,False,17,35,pitting in
+Joey Logano,3859,Frd,22,7,8,77.191,159.034,Team Penske,False,False,6,3,green
+Tyler Reddick,4065,Chv,8,4,17,77.191,159.035,Richard Childress Racing,False,False,1,9,green
+Ryan Blaney,4023,Frd,12,5,30,77.189,159.039,Team Penske,False,False,9,17,green
+Chris Buescher,3989,Frd,17,13,9,77.187,159.043,Roush Fenway Racing,False,False,28,13,green
+Austin Dillon,3873,Chv,3,4,22,77.186,159.045,Richard Childress Racing,False,False,16,12,green
+Austin Dillon,3873,Chv,3,45,13,77.184,159.048,Richard Childress Racing,False,False,16,12,green
+Kyle Larson,4030,Chv,5,38,2,77.177,159.062,Hendrick Motorsports,False,False,2,2,green
+William Byron,4184,Chv,24,31,22,77.176,159.064,Hendrick Motorsports,False,False,5,11,green
+Chase Elliott,4062,Chv,9,5,10,77.165,159.088,Hendrick Motorsports,False,False,8,1,green
+Ryan Preece,4070,Chv,37,30,5,77.164,159.090,JTG Daugherty Racing,False,False,36,15,green
+Tyler Reddick,4065,Chv,8,7,16,77.162,159.094,Richard Childress Racing,False,False,1,9,pitting in
+William Byron,4184,Chv,24,32,22,77.162,159.094,Hendrick Motorsports,False,False,5,11,green
+Brad Keselowski,1816,Frd,2,5,22,77.158,159.103,Team Penske,False,False,24,19,green
+Kurt Busch,453,Chv,1,41,5,77.158,159.103,Chip Ganassi Racing,False,False,13,27,green
+Ryan Blaney,4023,Frd,12,14,19,77.158,159.102,Team Penske,False,False,9,17,green
+Chase Briscoe,4228,Frd,14,7,19,77.156,159.106,Stewart-Haas Racing,False,False,27,6,green
+Austin Cindric,4180,Frd,33,36,2,77.153,159.112,Team Penske,False,True,3,25,restart
+Denny Hamlin,1361,Tyt,11,30,8,77.150,159.118,Joe Gibbs Racing,False,False,19,14,green
+William Byron,4184,Chv,24,11,4,77.150,159.118,Hendrick Motorsports,False,False,5,11,green
+Chris Buescher,3989,Frd,17,37,9,77.144,159.131,Roush Fenway Racing,False,False,28,13,green
+Ryan Preece,4070,Chv,37,3,6,77.137,159.145,JTG Daugherty Racing,False,False,36,15,green
+Chase Briscoe,4228,Frd,14,48,13,77.132,159.155,Stewart-Haas Racing,False,False,27,6,green
+Kyle Larson,4030,Chv,5,13,7,77.131,159.157,Hendrick Motorsports,False,False,2,2,green
+Chase Briscoe,4228,Frd,14,38,13,77.130,159.160,Stewart-Haas Racing,False,False,27,6,green
+Ross Chastain,4001,Chv,42,3,7,77.129,159.162,Chip Ganassi Racing,False,False,20,4,pitting in
+William Byron,4184,Chv,24,40,14,77.128,159.165,Hendrick Motorsports,False,False,5,11,green
+Aric Almirola,40,Frd,10,42,19,77.126,159.168,Stewart-Haas Racing,False,False,26,26,green
+Ryan Blaney,4023,Frd,12,38,14,77.126,159.169,Team Penske,False,False,9,17,green
+Chris Buescher,3989,Frd,17,12,9,77.124,159.173,Roush Fenway Racing,False,False,28,13,green
+Ryan Newman,2394,Frd,6,6,33,77.118,159.185,Roush Fenway Racing,False,False,34,24,green
+Tyler Reddick,4065,Chv,8,37,5,77.110,159.202,Richard Childress Racing,False,False,1,9,green
+Daniel Suarez,4113,Chv,99,21,36,77.106,159.210,TrackHouse Racing,False,False,15,33,caution
+Austin Dillon,3873,Chv,3,36,32,77.106,159.210,Richard Childress Racing,False,False,16,12,restart
+James Davison,4211,Chv,15,48,32,77.105,159.212,Rick Ware Racing,False,False,32,29,green
+Alex Bowman,4045,Chv,48,42,9,77.104,159.213,Hendrick Motorsports,False,False,12,8,green
+Chris Buescher,3989,Frd,17,44,10,77.101,159.219,Roush Fenway Racing,False,False,28,13,green
+Denny Hamlin,1361,Tyt,11,32,11,77.099,159.223,Joe Gibbs Racing,False,False,19,14,pitting in
+Kevin Harvick,1416,Frd,4,5,25,77.099,159.224,Stewart-Haas Racing,False,False,11,37,green
+AJ Allmendinger,3774,Chv,16,7,11,77.096,159.231,Kaulig Racing,False,True,7,5,pitting in
+Kurt Busch,453,Chv,1,39,8,77.096,159.231,Chip Ganassi Racing,False,False,13,27,green
+Chris Buescher,3989,Frd,17,15,6,77.092,159.238,Roush Fenway Racing,False,False,28,13,green
+Kurt Busch,453,Chv,1,12,5,77.092,159.239,Chip Ganassi Racing,False,False,13,27,green
+Matt DiBenedetto,3916,Frd,21,40,18,77.091,159.240,Wood Brothers Racing,False,False,21,23,green
+Erik Jones,4059,Chv,43,38,23,77.085,159.252,Richard Petty Motorsports,False,False,29,16,green
+William Byron,4184,Chv,24,43,10,77.083,159.257,Hendrick Motorsports,False,False,5,11,green
+Tyler Reddick,4065,Chv,8,42,15,77.082,159.258,Richard Childress Racing,False,False,1,9,green
+William Byron,4184,Chv,24,42,12,77.076,159.272,Hendrick Motorsports,False,False,5,11,green
+Daniel Suarez,4113,Chv,99,24,36,77.075,159.273,TrackHouse Racing,False,False,15,33,caution
+Michael McDowell,3832,Frd,34,2,7,77.073,159.278,Front Row Motorsports,False,False,23,7,green
+Chase Elliott,4062,Chv,9,38,3,77.062,159.301,Hendrick Motorsports,False,False,8,1,green
+Ryan Blaney,4023,Frd,12,47,24,77.061,159.303,Team Penske,False,False,9,17,green
+Ryan Blaney,4023,Frd,12,37,14,77.060,159.305,Team Penske,False,False,9,17,green
+Matt DiBenedetto,3916,Frd,21,12,6,77.051,159.323,Wood Brothers Racing,False,False,21,23,green
+Brad Keselowski,1816,Frd,2,4,23,77.049,159.327,Team Penske,False,False,24,19,green
+Alex Bowman,4045,Chv,48,47,1,77.042,159.341,Hendrick Motorsports,False,False,12,8,green
+Austin Dillon,3873,Chv,3,42,21,77.040,159.346,Richard Childress Racing,False,False,16,12,green
+Chris Buescher,3989,Frd,17,42,11,77.039,159.348,Roush Fenway Racing,False,False,28,13,green
+Ryan Preece,4070,Chv,37,38,11,77.033,159.360,JTG Daugherty Racing,False,False,36,15,green
+Bubba Wallace,4025,Tyt,23,7,3,77.032,159.362,23XI Racing,False,False,18,39,green
+Ryan Newman,2394,Frd,6,32,18,77.031,159.364,Roush Fenway Racing,False,False,34,24,green
+Brad Keselowski,1816,Frd,2,39,29,77.030,159.366,Team Penske,False,False,24,19,green
+Michael McDowell,3832,Frd,34,13,2,77.029,159.369,Front Row Motorsports,False,False,23,7,green
+Brad Keselowski,1816,Frd,2,6,22,77.023,159.380,Team Penske,False,False,24,19,green
+Erik Jones,4059,Chv,43,4,30,77.022,159.384,Richard Petty Motorsports,False,False,29,16,green
+AJ Allmendinger,3774,Chv,16,38,7,77.018,159.392,Kaulig Racing,False,True,7,5,green
+Ty Dillon,4013,Tyt,96,37,21,77.017,159.393,Gaunt Brothers Racing,False,True,33,21,green
+Christopher Bell,4153,Tyt,20,13,17,77.016,159.396,Joe Gibbs Racing,False,False,10,38,green
+Ricky Stenhouse Jr.,3888,Chv,47,41,29,77.015,159.397,JTG Daugherty Racing,False,False,22,22,green
+Brad Keselowski,1816,Frd,2,37,33,77.010,159.408,Team Penske,False,False,24,19,green
+Chris Buescher,3989,Frd,17,40,13,77.009,159.410,Roush Fenway Racing,False,False,28,13,green
+Ryan Newman,2394,Frd,6,5,36,77.003,159.422,Roush Fenway Racing,False,False,34,24,green
+Ross Chastain,4001,Chv,42,30,19,76.999,159.431,Chip Ganassi Racing,False,False,20,4,green
+Joey Logano,3859,Frd,22,15,1,76.994,159.442,Team Penske,False,False,6,3,green
+Matt DiBenedetto,3916,Frd,21,41,15,76.991,159.448,Wood Brothers Racing,False,False,21,23,green
+Kyle Larson,4030,Chv,5,15,4,76.988,159.453,Hendrick Motorsports,False,False,2,2,green
+Erik Jones,4059,Chv,43,44,12,76.980,159.471,Richard Petty Motorsports,False,False,29,16,green
+Cole Custer,4104,Frd,41,6,17,76.976,159.478,Stewart-Haas Racing,False,False,14,36,green
+Justin Haley,4172,Chv,77,5,27,76.976,159.478,Spire Motorsports,False,True,30,40,green
+Brad Keselowski,1816,Frd,2,38,29,76.972,159.486,Team Penske,False,False,24,19,green
+Ryan Blaney,4023,Frd,12,6,30,76.970,159.490,Team Penske,False,False,9,17,green
+Brad Keselowski,1816,Frd,2,32,13,76.966,159.498,Team Penske,False,False,24,19,green
+Austin Dillon,3873,Chv,3,37,31,76.962,159.508,Richard Childress Racing,False,False,16,12,green
+Anthony Alfredo,4301,Frd,38,44,11,76.951,159.531,Front Row Motorsports,False,False,37,18,green
+Alex Bowman,4045,Chv,48,5,26,76.945,159.542,Hendrick Motorsports,False,False,12,8,green
+Ty Dillon,4013,Tyt,96,38,20,76.942,159.549,Gaunt Brothers Racing,False,True,33,21,green
+Ryan Newman,2394,Frd,6,45,25,76.939,159.555,Roush Fenway Racing,False,False,34,24,green
+William Byron,4184,Chv,24,49,17,76.939,159.556,Hendrick Motorsports,False,False,5,11,green
+Michael McDowell,3832,Frd,34,32,17,76.939,159.554,Front Row Motorsports,False,False,23,7,pitting in
+Michael McDowell,3832,Frd,34,10,1,76.937,159.560,Front Row Motorsports,False,False,23,7,restart
+Kurt Busch,453,Chv,1,11,5,76.937,159.559,Chip Ganassi Racing,False,False,13,27,green
+Joey Logano,3859,Frd,22,10,2,76.923,159.588,Team Penske,False,False,6,3,restart
+Chris Buescher,3989,Frd,17,49,16,76.921,159.593,Roush Fenway Racing,False,False,28,13,green
+Denny Hamlin,1361,Tyt,11,5,24,76.918,159.599,Joe Gibbs Racing,False,False,19,14,green
+Chase Briscoe,4228,Frd,14,49,12,76.916,159.603,Stewart-Haas Racing,False,False,27,6,green
+Michael McDowell,3832,Frd,34,12,2,76.910,159.616,Front Row Motorsports,False,False,23,7,green
+Tyler Reddick,4065,Chv,8,50,14,76.908,159.619,Richard Childress Racing,False,False,1,9,green
+Ryan Preece,4070,Chv,37,36,11,76.906,159.624,JTG Daugherty Racing,False,False,36,15,restart
+Aric Almirola,40,Frd,10,38,25,76.903,159.630,Stewart-Haas Racing,False,False,26,26,green
+Denny Hamlin,1361,Tyt,11,6,24,76.901,159.634,Joe Gibbs Racing,False,False,19,14,green
+Chase Briscoe,4228,Frd,14,47,14,76.900,159.636,Stewart-Haas Racing,False,False,27,6,green
+Joey Logano,3859,Frd,22,44,4,76.891,159.655,Team Penske,False,False,6,3,pitting in
+Anthony Alfredo,4301,Frd,38,32,24,76.888,159.660,Front Row Motorsports,False,False,37,18,green
+Anthony Alfredo,4301,Frd,38,37,20,76.885,159.666,Front Row Motorsports,False,False,37,18,green
+Ross Chastain,4001,Chv,42,2,11,76.885,159.667,Chip Ganassi Racing,False,False,20,4,green
+Anthony Alfredo,4301,Frd,38,39,17,76.884,159.669,Front Row Motorsports,False,False,37,18,green
+Anthony Alfredo,4301,Frd,38,40,17,76.878,159.682,Front Row Motorsports,False,False,37,18,green
+Austin Cindric,4180,Frd,33,46,18,76.875,159.688,Team Penske,False,True,3,25,green
+Tyler Reddick,4065,Chv,8,29,5,76.873,159.692,Richard Childress Racing,False,False,1,9,restart
+James Davison,4211,Chv,15,29,33,76.872,159.695,Rick Ware Racing,False,False,32,29,restart
+Michael McDowell,3832,Frd,34,11,2,76.872,159.694,Front Row Motorsports,False,False,23,7,green
+Daniel Suarez,4113,Chv,99,6,23,76.871,159.697,TrackHouse Racing,False,False,15,33,pitting in
+Kyle Larson,4030,Chv,5,36,5,76.870,159.699,Hendrick Motorsports,False,False,2,2,restart
+Ryan Blaney,4023,Frd,12,48,24,76.867,159.704,Team Penske,False,False,9,17,green
+Bubba Wallace,4025,Tyt,23,14,33,76.861,159.716,23XI Racing,False,False,18,39,green
+Austin Dillon,3873,Chv,3,40,25,76.859,159.721,Richard Childress Racing,False,False,16,12,green
+Joey Logano,3859,Frd,22,38,4,76.858,159.724,Team Penske,False,False,6,3,green
+Ricky Stenhouse Jr.,3888,Chv,47,44,18,76.857,159.725,JTG Daugherty Racing,False,False,22,22,green
+Chase Elliott,4062,Chv,9,15,12,76.853,159.733,Hendrick Motorsports,False,False,8,1,green
+Michael McDowell,3832,Frd,34,14,2,76.853,159.734,Front Row Motorsports,False,False,23,7,green
+Brad Keselowski,1816,Frd,2,13,12,76.850,159.740,Team Penske,False,False,24,19,green
+Chris Buescher,3989,Frd,17,6,27,76.847,159.746,Roush Fenway Racing,False,False,28,13,green
+Anthony Alfredo,4301,Frd,38,38,19,76.845,159.751,Front Row Motorsports,False,False,37,18,green
+Corey LaJoie,4096,Chv,7,29,6,76.845,159.751,Spire Motorsports,False,False,25,20,restart
+Ross Chastain,4001,Chv,42,50,5,76.841,159.758,Chip Ganassi Racing,False,False,20,4,green
+Kurt Busch,453,Chv,1,15,3,76.837,159.767,Chip Ganassi Racing,False,False,13,27,green
+Aric Almirola,40,Frd,10,41,22,76.834,159.774,Stewart-Haas Racing,False,False,26,26,green
+Kurt Busch,453,Chv,1,47,10,76.833,159.775,Chip Ganassi Racing,False,False,13,27,green
+Christopher Bell,4153,Tyt,20,2,6,76.831,159.780,Joe Gibbs Racing,False,False,10,38,pitting in
+Erik Jones,4059,Chv,43,6,29,76.827,159.788,Richard Petty Motorsports,False,False,29,16,green
+Alex Bowman,4045,Chv,48,32,10,76.822,159.797,Hendrick Motorsports,False,False,12,8,pitting in
+Ryan Preece,4070,Chv,37,31,6,76.819,159.805,JTG Daugherty Racing,False,False,36,15,green
+Ty Dillon,4013,Tyt,96,48,28,76.819,159.805,Gaunt Brothers Racing,False,True,33,21,green
+William Byron,4184,Chv,24,38,18,76.817,159.808,Hendrick Motorsports,False,False,5,11,green
+Michael McDowell,3832,Frd,34,48,11,76.814,159.815,Front Row Motorsports,False,False,23,7,green
+Chase Briscoe,4228,Frd,14,30,10,76.810,159.823,Stewart-Haas Racing,False,False,27,6,green
+Austin Cindric,4180,Frd,33,32,4,76.806,159.832,Team Penske,False,True,3,25,green
+Austin Cindric,4180,Frd,33,11,3,76.800,159.843,Team Penske,False,True,3,25,green
+Corey LaJoie,4096,Chv,7,48,26,76.798,159.847,Spire Motorsports,False,False,25,20,green
+Chase Briscoe,4228,Frd,14,12,7,76.797,159.850,Stewart-Haas Racing,False,False,27,6,green
+Daniel Suarez,4113,Chv,99,35,34,76.795,159.855,TrackHouse Racing,False,False,15,33,caution
+Kurt Busch,453,Chv,1,32,20,76.786,159.873,Chip Ganassi Racing,False,False,13,27,pitting in
+Tyler Reddick,4065,Chv,8,38,5,76.785,159.876,Richard Childress Racing,False,False,1,9,green
+Joey Logano,3859,Frd,22,50,4,76.784,159.878,Team Penske,False,False,6,3,green
+Tyler Reddick,4065,Chv,8,36,3,76.782,159.882,Richard Childress Racing,False,False,1,9,restart
+Daniel Suarez,4113,Chv,99,32,34,76.778,159.889,TrackHouse Racing,False,False,15,33,green
+AJ Allmendinger,3774,Chv,16,14,20,76.773,159.900,Kaulig Racing,False,True,7,5,green
+William Byron,4184,Chv,24,44,8,76.770,159.907,Hendrick Motorsports,False,False,5,11,green
+Cody Ware,4125,Chv,51,3,36,76.766,159.914,Petty Ware Racing,False,True,35,32,green
+Erik Jones,4059,Chv,43,37,24,76.761,159.924,Richard Petty Motorsports,False,False,29,16,green
+Cody Ware,4125,Chv,51,38,26,76.759,159.930,Petty Ware Racing,False,True,35,32,green
+AJ Allmendinger,3774,Chv,16,49,11,76.754,159.940,Kaulig Racing,False,True,7,5,green
+Joey Logano,3859,Frd,22,13,1,76.746,159.956,Team Penske,False,False,6,3,green
+Erik Jones,4059,Chv,43,15,11,76.741,159.966,Richard Petty Motorsports,False,False,29,16,pitting in
+Ryan Newman,2394,Frd,6,13,14,76.736,159.978,Roush Fenway Racing,False,False,34,24,green
+Matt DiBenedetto,3916,Frd,21,2,9,76.726,159.998,Wood Brothers Racing,False,False,21,23,pitting in
+Erik Jones,4059,Chv,43,48,23,76.721,160.009,Richard Petty Motorsports,False,False,29,16,green
+Chase Elliott,4062,Chv,9,13,18,76.721,160.008,Hendrick Motorsports,False,False,8,1,green
+Tyler Reddick,4065,Chv,8,5,18,76.719,160.012,Richard Childress Racing,False,False,1,9,green
+Chris Buescher,3989,Frd,17,38,12,76.713,160.026,Roush Fenway Racing,False,False,28,13,green
+Aric Almirola,40,Frd,10,39,23,76.713,160.026,Stewart-Haas Racing,False,False,26,26,green
+James Davison,4211,Chv,15,11,39,76.710,160.031,Rick Ware Racing,False,False,32,29,green
+Kyle Larson,4030,Chv,5,51,2,76.709,160.034,Hendrick Motorsports,False,False,2,2,green
+Matt DiBenedetto,3916,Frd,21,13,6,76.707,160.037,Wood Brothers Racing,False,False,21,23,green
+Daniel Suarez,4113,Chv,99,19,37,76.705,160.041,TrackHouse Racing,False,False,15,33,restart
+Chase Elliott,4062,Chv,9,29,3,76.701,160.051,Hendrick Motorsports,False,False,8,1,restart
+Quin Houff,4229,Chv,00,30,26,76.694,160.065,StarCom Racing,False,False,40,34,green
+Michael McDowell,3832,Frd,34,15,2,76.688,160.077,Front Row Motorsports,False,False,23,7,green
+Kurt Busch,453,Chv,1,13,4,76.686,160.081,Chip Ganassi Racing,False,False,13,27,green
+Chase Briscoe,4228,Frd,14,37,13,76.683,160.088,Stewart-Haas Racing,False,False,27,6,green
+Anthony Alfredo,4301,Frd,38,31,24,76.680,160.093,Front Row Motorsports,False,False,37,18,green
+Brad Keselowski,1816,Frd,2,46,29,76.679,160.096,Team Penske,False,False,24,19,green
+Chase Briscoe,4228,Frd,14,15,7,76.679,160.096,Stewart-Haas Racing,False,False,27,6,pitting in
+William Byron,4184,Chv,24,12,4,76.678,160.098,Hendrick Motorsports,False,False,5,11,green
+Austin Dillon,3873,Chv,3,41,24,76.677,160.101,Richard Childress Racing,False,False,16,12,green
+Daniel Suarez,4113,Chv,99,42,33,76.671,160.113,TrackHouse Racing,False,False,15,33,green
+Ryan Preece,4070,Chv,37,39,10,76.666,160.123,JTG Daugherty Racing,False,False,36,15,green
+Ross Chastain,4001,Chv,42,38,8,76.650,160.157,Chip Ganassi Racing,False,False,20,4,green
+Ty Dillon,4013,Tyt,96,39,18,76.649,160.159,Gaunt Brothers Racing,False,True,33,21,green
+Ty Dillon,4013,Tyt,96,47,30,76.645,160.168,Gaunt Brothers Racing,False,True,33,21,green
+Matt DiBenedetto,3916,Frd,21,7,20,76.645,160.168,Wood Brothers Racing,False,False,21,23,green
+Ryan Blaney,4023,Frd,12,41,14,76.635,160.188,Team Penske,False,False,9,17,green
+Ryan Preece,4070,Chv,37,49,19,76.620,160.219,JTG Daugherty Racing,False,False,36,15,green
+James Davison,4211,Chv,15,5,32,76.620,160.219,Rick Ware Racing,False,False,32,29,green
+Matt DiBenedetto,3916,Frd,21,11,6,76.619,160.222,Wood Brothers Racing,False,False,21,23,green
+Erik Jones,4059,Chv,43,42,18,76.612,160.237,Richard Petty Motorsports,False,False,29,16,green
+Michael McDowell,3832,Frd,34,29,23,76.608,160.245,Front Row Motorsports,False,False,23,7,restart
+Aric Almirola,40,Frd,10,37,25,76.605,160.251,Stewart-Haas Racing,False,False,26,26,green
+Erik Jones,4059,Chv,43,41,20,76.604,160.253,Richard Petty Motorsports,False,False,29,16,green
+Erik Jones,4059,Chv,43,40,22,76.603,160.254,Richard Petty Motorsports,False,False,29,16,green
+Garrett Smithley,4142,Frd,53,37,23,76.602,160.257,Rick Ware Racing,False,True,38,28,green
+Corey LaJoie,4096,Chv,7,6,16,76.600,160.262,Spire Motorsports,False,False,25,20,green
+Daniel Suarez,4113,Chv,99,31,34,76.599,160.264,TrackHouse Racing,False,False,15,33,green
+William Byron,4184,Chv,24,2,18,76.598,160.265,Hendrick Motorsports,False,False,5,11,green
+Ricky Stenhouse Jr.,3888,Chv,47,37,28,76.590,160.282,JTG Daugherty Racing,False,False,22,22,green
+Ryan Blaney,4023,Frd,12,40,16,76.589,160.285,Team Penske,False,False,9,17,green
+Austin Dillon,3873,Chv,3,46,9,76.579,160.306,Richard Childress Racing,False,False,16,12,green
+Corey LaJoie,4096,Chv,7,39,19,76.579,160.304,Spire Motorsports,False,False,25,20,green
+Chase Elliott,4062,Chv,9,36,4,76.573,160.317,Hendrick Motorsports,False,False,8,1,restart
+Kurt Busch,453,Chv,1,14,3,76.572,160.319,Chip Ganassi Racing,False,False,13,27,green
+William Byron,4184,Chv,24,30,23,76.572,160.319,Hendrick Motorsports,False,False,5,11,green
+Alex Bowman,4045,Chv,48,6,26,76.571,160.322,Hendrick Motorsports,False,False,12,8,green
+Martin Truex Jr.,3368,Tyt,19,13,15,76.568,160.329,Joe Gibbs Racing,False,False,17,35,green
+Chase Elliott,4062,Chv,9,14,14,76.563,160.338,Hendrick Motorsports,False,False,8,1,green
+Ross Chastain,4001,Chv,42,36,7,76.560,160.345,Chip Ganassi Racing,False,False,20,4,restart
+AJ Allmendinger,3774,Chv,16,41,6,76.557,160.351,Kaulig Racing,False,True,7,5,green
+Ricky Stenhouse Jr.,3888,Chv,47,45,16,76.557,160.352,JTG Daugherty Racing,False,False,22,22,green
+Corey LaJoie,4096,Chv,7,7,17,76.554,160.358,Spire Motorsports,False,False,25,20,green
+Denny Hamlin,1361,Tyt,11,13,28,76.554,160.357,Joe Gibbs Racing,False,False,19,14,green
+Ryan Newman,2394,Frd,6,38,22,76.548,160.371,Roush Fenway Racing,False,False,34,24,green
+Erik Jones,4059,Chv,43,39,22,76.547,160.372,Richard Petty Motorsports,False,False,29,16,green
+Kyle Larson,4030,Chv,5,52,2,76.545,160.377,Hendrick Motorsports,False,False,2,2,green
+William Byron,4184,Chv,24,46,3,76.541,160.384,Hendrick Motorsports,False,False,5,11,pitting in
+Chris Buescher,3989,Frd,17,45,7,76.537,160.392,Roush Fenway Racing,False,False,28,13,pitting in
+James Davison,4211,Chv,15,12,38,76.536,160.396,Rick Ware Racing,False,False,32,29,green
+William Byron,4184,Chv,24,50,16,76.533,160.402,Hendrick Motorsports,False,False,5,11,green
+Cody Ware,4125,Chv,51,39,25,76.526,160.416,Petty Ware Racing,False,True,35,32,green
+Kyle Larson,4030,Chv,5,11,8,76.522,160.425,Hendrick Motorsports,False,False,2,2,green
+Ryan Preece,4070,Chv,37,4,6,76.514,160.441,JTG Daugherty Racing,False,False,36,15,green
+Kevin Harvick,1416,Frd,4,6,25,76.508,160.454,Stewart-Haas Racing,False,False,11,37,green
+Aric Almirola,40,Frd,10,43,18,76.502,160.467,Stewart-Haas Racing,False,False,26,26,pitting in
+Ryan Preece,4070,Chv,37,32,7,76.501,160.469,JTG Daugherty Racing,False,False,36,15,pitting in
+Austin Dillon,3873,Chv,3,39,26,76.500,160.471,Richard Childress Racing,False,False,16,12,green
+William Byron,4184,Chv,24,45,5,76.499,160.473,Hendrick Motorsports,False,False,5,11,green
+Josh Bilicki,4213,Frd,52,39,28,76.487,160.497,Rick Ware Racing,False,False,31,30,green
+Josh Bilicki,4213,Frd,52,5,40,76.482,160.508,Rick Ware Racing,False,False,31,30,green
+Ricky Stenhouse Jr.,3888,Chv,47,43,24,76.477,160.518,JTG Daugherty Racing,False,False,22,22,green
+Joey Logano,3859,Frd,22,36,6,76.475,160.522,Team Penske,False,False,6,3,restart
+William Byron,4184,Chv,24,37,19,76.474,160.525,Hendrick Motorsports,False,False,5,11,green
+Austin Cindric,4180,Frd,33,12,3,76.470,160.534,Team Penske,False,True,3,25,green
+Garrett Smithley,4142,Frd,53,6,37,76.464,160.547,Rick Ware Racing,False,True,38,28,green
+Matt DiBenedetto,3916,Frd,21,48,15,76.460,160.555,Wood Brothers Racing,False,False,21,23,green
+Ryan Preece,4070,Chv,37,13,20,76.455,160.566,JTG Daugherty Racing,False,False,36,15,green
+Denny Hamlin,1361,Tyt,11,45,4,76.455,160.565,Joe Gibbs Racing,False,False,19,14,green
+Denny Hamlin,1361,Tyt,11,43,9,76.455,160.565,Joe Gibbs Racing,False,False,19,14,green
+Kyle Larson,4030,Chv,5,53,2,76.451,160.574,Hendrick Motorsports,False,False,2,2,green
+James Davison,4211,Chv,15,6,32,76.451,160.574,Rick Ware Racing,False,False,32,29,green
+Denny Hamlin,1361,Tyt,11,15,24,76.450,160.575,Joe Gibbs Racing,False,False,19,14,green
+Garrett Smithley,4142,Frd,53,4,38,76.449,160.577,Rick Ware Racing,False,True,38,28,green
+Justin Haley,4172,Chv,77,6,28,76.447,160.581,Spire Motorsports,False,True,30,40,green
+Ryan Preece,4070,Chv,37,14,18,76.447,160.581,JTG Daugherty Racing,False,False,36,15,green
+Ty Dillon,4013,Tyt,96,49,27,76.443,160.590,Gaunt Brothers Racing,False,True,33,21,green
+Austin Dillon,3873,Chv,3,43,21,76.435,160.608,Richard Childress Racing,False,False,16,12,green
+Corey LaJoie,4096,Chv,7,42,17,76.430,160.617,Spire Motorsports,False,False,25,20,green
+Chris Buescher,3989,Frd,17,14,6,76.422,160.634,Roush Fenway Racing,False,False,28,13,green
+Cody Ware,4125,Chv,51,37,26,76.421,160.636,Petty Ware Racing,False,True,35,32,green
+Ricky Stenhouse Jr.,3888,Chv,47,4,5,76.419,160.640,JTG Daugherty Racing,False,False,22,22,green
+Aric Almirola,40,Frd,10,30,22,76.417,160.645,Stewart-Haas Racing,False,False,26,26,green
+AJ Allmendinger,3774,Chv,16,1,2,76.415,160.650,Kaulig Racing,False,True,7,5,pitting in
+Ty Dillon,4013,Tyt,96,36,22,76.415,160.650,Gaunt Brothers Racing,False,True,33,21,restart
+Anthony Alfredo,4301,Frd,38,45,9,76.414,160.651,Front Row Motorsports,False,False,37,18,green
+Ryan Newman,2394,Frd,6,15,13,76.409,160.662,Roush Fenway Racing,False,False,34,24,green
+Chris Buescher,3989,Frd,17,36,8,76.393,160.695,Roush Fenway Racing,False,False,28,13,restart
+Garrett Smithley,4142,Frd,53,5,38,76.386,160.711,Rick Ware Racing,False,True,38,28,green
+Kurt Busch,453,Chv,1,48,10,76.381,160.721,Chip Ganassi Racing,False,False,13,27,green
+James Davison,4211,Chv,15,37,30,76.380,160.722,Rick Ware Racing,False,False,32,29,green
+Cole Custer,4104,Frd,41,14,17,76.378,160.727,Stewart-Haas Racing,False,False,14,36,green
+Corey LaJoie,4096,Chv,7,41,19,76.378,160.726,Spire Motorsports,False,False,25,20,green
+Michael McDowell,3832,Frd,34,50,8,76.372,160.739,Front Row Motorsports,False,False,23,7,green
+Chase Briscoe,4228,Frd,14,11,7,76.358,160.769,Stewart-Haas Racing,False,False,27,6,green
+Michael McDowell,3832,Frd,34,43,7,76.349,160.788,Front Row Motorsports,False,False,23,7,pitting in
+Tyler Reddick,4065,Chv,8,51,12,76.347,160.792,Richard Childress Racing,False,False,1,9,green
+Alex Bowman,4045,Chv,48,48,1,76.347,160.793,Hendrick Motorsports,False,False,12,8,green
+William Byron,4184,Chv,24,6,9,76.342,160.802,Hendrick Motorsports,False,False,5,11,green
+Brad Keselowski,1816,Frd,2,49,26,76.342,160.802,Team Penske,False,False,24,19,green
+Anthony Alfredo,4301,Frd,38,42,16,76.342,160.803,Front Row Motorsports,False,False,37,18,green
+Austin Cindric,4180,Frd,33,10,3,76.339,160.810,Team Penske,False,True,3,25,restart
+Alex Bowman,4045,Chv,48,49,1,76.339,160.810,Hendrick Motorsports,False,False,12,8,pitting in
+Joey Logano,3859,Frd,22,51,4,76.337,160.814,Team Penske,False,False,6,3,green
+Cole Custer,4104,Frd,41,13,19,76.332,160.824,Stewart-Haas Racing,False,False,14,36,green
+Garrett Smithley,4142,Frd,53,30,25,76.330,160.829,Rick Ware Racing,False,True,38,28,green
+Daniel Suarez,4113,Chv,99,38,34,76.329,160.831,TrackHouse Racing,False,False,15,33,pitting in
+Ryan Preece,4070,Chv,37,29,4,76.329,160.831,JTG Daugherty Racing,False,False,36,15,restart
+Ryan Preece,4070,Chv,37,43,11,76.328,160.832,JTG Daugherty Racing,False,False,36,15,green
+James Davison,4211,Chv,15,2,12,76.327,160.834,Rick Ware Racing,False,False,32,29,pitting in
+Austin Cindric,4180,Frd,33,38,6,76.327,160.834,Team Penske,False,True,3,25,green
+James Davison,4211,Chv,15,10,39,76.321,160.847,Rick Ware Racing,False,False,32,29,restart
+Erik Jones,4059,Chv,43,12,12,76.293,160.905,Richard Petty Motorsports,False,False,29,16,green
+Aric Almirola,40,Frd,10,32,23,76.287,160.919,Stewart-Haas Racing,False,False,26,26,pitting in
+Ryan Blaney,4023,Frd,12,11,28,76.283,160.927,Team Penske,False,False,9,17,green
+Kurt Busch,453,Chv,1,36,13,76.274,160.946,Chip Ganassi Racing,False,False,13,27,restart
+Brad Keselowski,1816,Frd,2,15,22,76.269,160.957,Team Penske,False,False,24,19,green
+Anthony Alfredo,4301,Frd,38,43,16,76.269,160.957,Front Row Motorsports,False,False,37,18,green
+Austin Dillon,3873,Chv,3,47,9,76.264,160.967,Richard Childress Racing,False,False,16,12,green
+Chase Elliott,4062,Chv,9,11,25,76.264,160.968,Hendrick Motorsports,False,False,8,1,green
+Cole Custer,4104,Frd,41,7,18,76.246,161.005,Stewart-Haas Racing,False,False,14,36,pitting in
+Aric Almirola,40,Frd,10,4,10,76.241,161.015,Stewart-Haas Racing,False,False,26,26,green
+Ryan Preece,4070,Chv,37,45,6,76.240,161.018,JTG Daugherty Racing,False,False,36,15,pitting in
+Quin Houff,4229,Chv,00,37,27,76.240,161.018,StarCom Racing,False,False,40,34,pitting in
+Chase Briscoe,4228,Frd,14,50,12,76.240,161.017,Stewart-Haas Racing,False,False,27,6,green
+Erik Jones,4059,Chv,43,45,10,76.238,161.023,Richard Petty Motorsports,False,False,29,16,pitting in
+Ryan Blaney,4023,Frd,12,49,23,76.231,161.037,Team Penske,False,False,9,17,green
+James Davison,4211,Chv,15,13,38,76.220,161.060,Rick Ware Racing,False,False,32,29,green
+Kyle Busch,454,Tyt,18,50,3,76.215,161.070,Joe Gibbs Racing,False,False,4,10,green
+Ricky Stenhouse Jr.,3888,Chv,47,6,4,76.209,161.083,JTG Daugherty Racing,False,False,22,22,green
+Denny Hamlin,1361,Tyt,11,12,29,76.206,161.090,Joe Gibbs Racing,False,False,19,14,green
+Garrett Smithley,4142,Frd,53,36,23,76.198,161.106,Rick Ware Racing,False,True,38,28,restart
+Brad Keselowski,1816,Frd,2,12,14,76.197,161.109,Team Penske,False,False,24,19,green
+Austin Dillon,3873,Chv,3,7,21,76.191,161.122,Richard Childress Racing,False,False,16,12,pitting in
+Josh Bilicki,4213,Frd,52,6,39,76.189,161.126,Rick Ware Racing,False,False,31,30,green
+Kurt Busch,453,Chv,1,30,16,76.183,161.139,Chip Ganassi Racing,False,False,13,27,green
+Ryan Preece,4070,Chv,37,44,9,76.179,161.146,JTG Daugherty Racing,False,False,36,15,green
+Corey LaJoie,4096,Chv,7,36,18,76.178,161.148,Spire Motorsports,False,False,25,20,restart
+AJ Allmendinger,3774,Chv,16,50,10,76.173,161.160,Kaulig Racing,False,True,7,5,green
+Austin Dillon,3873,Chv,3,12,26,76.173,161.160,Richard Childress Racing,False,False,16,12,green
+James Davison,4211,Chv,15,7,31,76.170,161.166,Rick Ware Racing,False,False,32,29,pitting in
+Austin Cindric,4180,Frd,33,43,30,76.168,161.169,Team Penske,False,True,3,25,green
+Ryan Newman,2394,Frd,6,46,24,76.166,161.175,Roush Fenway Racing,False,False,34,24,green
+Brad Keselowski,1816,Frd,2,41,28,76.165,161.177,Team Penske,False,False,24,19,green
+Austin Cindric,4180,Frd,33,47,17,76.155,161.198,Team Penske,False,True,3,25,green
+Aric Almirola,40,Frd,10,40,24,76.140,161.230,Stewart-Haas Racing,False,False,26,26,green
+Ryan Blaney,4023,Frd,12,13,21,76.134,161.241,Team Penske,False,False,9,17,green
+Ryan Blaney,4023,Frd,12,42,14,76.130,161.251,Team Penske,False,False,9,17,green
+Denny Hamlin,1361,Tyt,11,14,26,76.127,161.256,Joe Gibbs Racing,False,False,19,14,green
+Denny Hamlin,1361,Tyt,11,48,5,76.123,161.265,Joe Gibbs Racing,False,False,19,14,green
+Ryan Blaney,4023,Frd,12,12,24,76.122,161.267,Team Penske,False,False,9,17,green
+Ryan Blaney,4023,Frd,12,15,16,76.122,161.268,Team Penske,False,False,9,17,green
+Ross Chastain,4001,Chv,42,14,8,76.121,161.270,Chip Ganassi Racing,False,False,20,4,green
+Josh Bilicki,4213,Frd,52,14,29,76.118,161.275,Rick Ware Racing,False,False,31,30,green
+Aric Almirola,40,Frd,10,7,15,76.117,161.277,Stewart-Haas Racing,False,False,26,26,pitting in
+Cole Custer,4104,Frd,41,15,15,76.115,161.283,Stewart-Haas Racing,False,False,14,36,pitting in
+Anthony Alfredo,4301,Frd,38,46,7,76.114,161.285,Front Row Motorsports,False,False,37,18,green
+Josh Bilicki,4213,Frd,52,42,24,76.111,161.290,Rick Ware Racing,False,False,31,30,green
+Ryan Newman,2394,Frd,6,39,21,76.103,161.308,Roush Fenway Racing,False,False,34,24,green
+Matt DiBenedetto,3916,Frd,21,36,20,76.096,161.323,Wood Brothers Racing,False,False,21,23,restart
+Corey LaJoie,4096,Chv,7,2,26,76.090,161.336,Spire Motorsports,False,False,25,20,green
+Daniel Suarez,4113,Chv,99,37,34,76.087,161.342,TrackHouse Racing,False,False,15,33,green
+Austin Dillon,3873,Chv,3,49,8,76.070,161.377,Richard Childress Racing,False,False,16,12,green
+Josh Bilicki,4213,Frd,52,40,27,76.064,161.390,Rick Ware Racing,False,False,31,30,green
+Matt DiBenedetto,3916,Frd,21,47,16,76.061,161.396,Wood Brothers Racing,False,False,21,23,green
+Josh Bilicki,4213,Frd,52,38,28,76.050,161.421,Rick Ware Racing,False,False,31,30,green
+Cody Ware,4125,Chv,51,14,30,76.047,161.426,Petty Ware Racing,False,True,35,32,green
+Ty Dillon,4013,Tyt,96,42,20,76.047,161.426,Gaunt Brothers Racing,False,True,33,21,green
+Ryan Preece,4070,Chv,37,5,5,76.045,161.430,JTG Daugherty Racing,False,False,36,15,green
+Erik Jones,4059,Chv,43,50,20,76.037,161.448,Richard Petty Motorsports,False,False,29,16,green
+Chase Briscoe,4228,Frd,14,13,8,76.036,161.449,Stewart-Haas Racing,False,False,27,6,green
+Michael McDowell,3832,Frd,34,49,9,76.033,161.456,Front Row Motorsports,False,False,23,7,green
+Ross Chastain,4001,Chv,42,15,8,76.032,161.459,Chip Ganassi Racing,False,False,20,4,green
+Erik Jones,4059,Chv,43,49,22,76.031,161.460,Richard Petty Motorsports,False,False,29,16,green
+Christopher Bell,4153,Tyt,20,15,14,76.027,161.468,Joe Gibbs Racing,False,False,10,38,green
+Austin Dillon,3873,Chv,3,44,15,76.027,161.470,Richard Childress Racing,False,False,16,12,green
+Justin Haley,4172,Chv,77,11,14,76.023,161.478,Spire Motorsports,False,True,30,40,pitting in
+Denny Hamlin,1361,Tyt,11,44,7,76.021,161.482,Joe Gibbs Racing,False,False,19,14,green
+AJ Allmendinger,3774,Chv,16,15,19,76.019,161.485,Kaulig Racing,False,True,7,5,green
+Kyle Busch,454,Tyt,18,51,3,76.015,161.495,Joe Gibbs Racing,False,False,4,10,pitting in
+Anthony Alfredo,4301,Frd,38,41,17,76.012,161.500,Front Row Motorsports,False,False,37,18,green
+Brad Keselowski,1816,Frd,2,11,19,76.012,161.501,Team Penske,False,False,24,19,green
+Tyler Reddick,4065,Chv,8,11,22,76.010,161.506,Richard Childress Racing,False,False,1,9,green
+Brad Keselowski,1816,Frd,2,43,27,76.010,161.505,Team Penske,False,False,24,19,pitting in
+Chris Buescher,3989,Frd,17,50,15,76.008,161.509,Roush Fenway Racing,False,False,28,13,green
+Anthony Alfredo,4301,Frd,38,48,7,76.005,161.516,Front Row Motorsports,False,False,37,18,pitting in
+Cody Ware,4125,Chv,51,40,26,75.997,161.533,Petty Ware Racing,False,True,35,32,green
+Corey LaJoie,4096,Chv,7,45,30,75.996,161.535,Spire Motorsports,False,False,25,20,green
+AJ Allmendinger,3774,Chv,16,53,5,75.981,161.566,Kaulig Racing,False,True,7,5,green
+Austin Dillon,3873,Chv,3,48,9,75.979,161.570,Richard Childress Racing,False,False,16,12,green
+Austin Cindric,4180,Frd,33,48,17,75.977,161.576,Team Penske,False,True,3,25,green
+Corey LaJoie,4096,Chv,7,40,20,75.971,161.587,Spire Motorsports,False,False,25,20,green
+Tyler Reddick,4065,Chv,8,15,21,75.968,161.594,Richard Childress Racing,False,False,1,9,pitting in
+Chase Briscoe,4228,Frd,14,14,7,75.963,161.606,Stewart-Haas Racing,False,False,27,6,green
+Alex Bowman,4045,Chv,48,29,8,75.963,161.605,Hendrick Motorsports,False,False,12,8,restart
+Alex Bowman,4045,Chv,48,11,27,75.957,161.617,Hendrick Motorsports,False,False,12,8,green
+Aric Almirola,40,Frd,10,2,16,75.955,161.622,Stewart-Haas Racing,False,False,26,26,green
+Anthony Alfredo,4301,Frd,38,6,35,75.951,161.630,Front Row Motorsports,False,False,37,18,green
+Josh Bilicki,4213,Frd,52,13,30,75.948,161.636,Rick Ware Racing,False,False,31,30,green
+Kyle Busch,454,Tyt,18,12,18,75.948,161.636,Joe Gibbs Racing,False,False,4,10,green
+Garrett Smithley,4142,Frd,53,38,24,75.947,161.639,Rick Ware Racing,False,True,38,28,green
+Ross Chastain,4001,Chv,42,51,5,75.946,161.641,Chip Ganassi Racing,False,False,20,4,green
+Matt DiBenedetto,3916,Frd,21,46,16,75.930,161.676,Wood Brothers Racing,False,False,21,23,green
+Alex Bowman,4045,Chv,48,14,22,75.915,161.707,Hendrick Motorsports,False,False,12,8,green
+Cole Custer,4104,Frd,41,11,21,75.909,161.720,Stewart-Haas Racing,False,False,14,36,green
+Anthony Alfredo,4301,Frd,38,12,27,75.898,161.743,Front Row Motorsports,False,False,37,18,green
+Ryan Preece,4070,Chv,37,42,10,75.896,161.748,JTG Daugherty Racing,False,False,36,15,green
+AJ Allmendinger,3774,Chv,16,36,9,75.895,161.749,Kaulig Racing,False,True,7,5,restart
+Denny Hamlin,1361,Tyt,11,11,34,75.895,161.749,Joe Gibbs Racing,False,False,19,14,green
+Joey Logano,3859,Frd,22,2,19,75.889,161.763,Team Penske,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,49,5,75.886,161.770,Joe Gibbs Racing,False,False,19,14,pitting in
+Kurt Busch,453,Chv,1,49,10,75.886,161.768,Chip Ganassi Racing,False,False,13,27,green
+Chase Elliott,4062,Chv,9,12,21,75.883,161.775,Hendrick Motorsports,False,False,8,1,green
+Ricky Stenhouse Jr.,3888,Chv,47,46,13,75.882,161.778,JTG Daugherty Racing,False,False,22,22,green
+Ty Dillon,4013,Tyt,96,40,19,75.879,161.784,Gaunt Brothers Racing,False,True,33,21,green
+Kevin Harvick,1416,Frd,4,14,28,75.878,161.785,Stewart-Haas Racing,False,False,11,37,green
+Ryan Preece,4070,Chv,37,50,18,75.871,161.801,JTG Daugherty Racing,False,False,36,15,green
+Ty Dillon,4013,Tyt,96,3,9,75.870,161.803,Gaunt Brothers Racing,False,True,33,21,pitting in
+Brad Keselowski,1816,Frd,2,42,27,75.870,161.804,Team Penske,False,False,24,19,green
+Tyler Reddick,4065,Chv,8,14,21,75.851,161.844,Richard Childress Racing,False,False,1,9,green
+Cody Ware,4125,Chv,51,5,34,75.849,161.848,Petty Ware Racing,False,True,35,32,green
+Austin Cindric,4180,Frd,33,13,3,75.847,161.853,Team Penske,False,True,3,25,green
+Austin Dillon,3873,Chv,3,15,25,75.837,161.873,Richard Childress Racing,False,False,16,12,green
+AJ Allmendinger,3774,Chv,16,12,23,75.833,161.881,Kaulig Racing,False,True,7,5,green
+Kurt Busch,453,Chv,1,31,20,75.833,161.882,Chip Ganassi Racing,False,False,13,27,green
+Kyle Tilley,4389,Frd,78,32,26,75.830,161.889,Live Fast Motorsports,False,False,39,31,pitting in
+Aric Almirola,40,Frd,10,14,31,75.825,161.899,Stewart-Haas Racing,False,False,26,26,green
+Denny Hamlin,1361,Tyt,11,47,4,75.816,161.918,Joe Gibbs Racing,False,False,19,14,green
+Anthony Alfredo,4301,Frd,38,13,27,75.809,161.934,Front Row Motorsports,False,False,37,18,green
+Daniel Suarez,4113,Chv,99,44,33,75.799,161.955,TrackHouse Racing,False,False,15,33,green
+Aric Almirola,40,Frd,10,46,22,75.795,161.963,Stewart-Haas Racing,False,False,26,26,green
+Ricky Stenhouse Jr.,3888,Chv,47,5,4,75.787,161.980,JTG Daugherty Racing,False,False,22,22,green
+Ryan Newman,2394,Frd,6,36,12,75.784,161.987,Roush Fenway Racing,False,False,34,24,restart
+Ty Dillon,4013,Tyt,96,44,16,75.784,161.986,Gaunt Brothers Racing,False,True,33,21,pitting in
+James Davison,4211,Chv,15,14,36,75.780,161.995,Rick Ware Racing,False,False,32,29,green
+Corey LaJoie,4096,Chv,7,49,24,75.777,162.002,Spire Motorsports,False,False,25,20,green
+Ross Chastain,4001,Chv,42,11,12,75.761,162.035,Chip Ganassi Racing,False,False,20,4,green
+Christopher Bell,4153,Tyt,20,14,15,75.760,162.039,Joe Gibbs Racing,False,False,10,38,green
+Garrett Smithley,4142,Frd,53,31,25,75.755,162.048,Rick Ware Racing,False,True,38,28,green
+Anthony Alfredo,4301,Frd,38,5,35,75.754,162.050,Front Row Motorsports,False,False,37,18,green
+Kyle Tilley,4389,Frd,78,37,32,75.750,162.060,Live Fast Motorsports,False,False,39,31,green
+Chase Briscoe,4228,Frd,14,29,10,75.742,162.076,Stewart-Haas Racing,False,False,27,6,restart
+Austin Dillon,3873,Chv,3,13,26,75.738,162.086,Richard Childress Racing,False,False,16,12,green
+Ryan Blaney,4023,Frd,12,32,19,75.737,162.088,Team Penske,False,False,9,17,green
+Matt DiBenedetto,3916,Frd,21,49,15,75.732,162.097,Wood Brothers Racing,False,False,21,23,green
+Ty Dillon,4013,Tyt,96,2,13,75.721,162.122,Gaunt Brothers Racing,False,True,33,21,green
+Ricky Stenhouse Jr.,3888,Chv,47,47,13,75.719,162.125,JTG Daugherty Racing,False,False,22,22,green
+Daniel Suarez,4113,Chv,99,23,36,75.716,162.133,TrackHouse Racing,False,False,15,33,caution
+Ryan Newman,2394,Frd,6,40,23,75.716,162.133,Roush Fenway Racing,False,False,34,24,green
+Ryan Preece,4070,Chv,37,6,5,75.714,162.136,JTG Daugherty Racing,False,False,36,15,green
+Ty Dillon,4013,Tyt,96,50,27,75.714,162.136,Gaunt Brothers Racing,False,True,33,21,green
+Garrett Smithley,4142,Frd,53,32,25,75.709,162.148,Rick Ware Racing,False,True,38,28,pitting in
+Kyle Tilley,4389,Frd,78,30,28,75.705,162.155,Live Fast Motorsports,False,False,39,31,green
+Aric Almirola,40,Frd,10,3,12,75.705,162.155,Stewart-Haas Racing,False,False,26,26,green
+Chase Briscoe,4228,Frd,14,36,10,75.703,162.160,Stewart-Haas Racing,False,False,27,6,restart
+James Davison,4211,Chv,15,32,32,75.687,162.195,Rick Ware Racing,False,False,32,29,pitting in
+Brad Keselowski,1816,Frd,2,40,29,75.678,162.213,Team Penske,False,False,24,19,green
+Chase Briscoe,4228,Frd,14,53,6,75.676,162.217,Stewart-Haas Racing,False,False,27,6,green
+Kevin Harvick,1416,Frd,4,13,29,75.675,162.221,Stewart-Haas Racing,False,False,11,37,green
+James Davison,4211,Chv,15,49,32,75.671,162.229,Rick Ware Racing,False,False,32,29,green
+Alex Bowman,4045,Chv,48,36,19,75.667,162.238,Hendrick Motorsports,False,False,12,8,restart
+Josh Bilicki,4213,Frd,52,43,26,75.667,162.238,Rick Ware Racing,False,False,31,30,green
+Quin Houff,4229,Chv,00,32,33,75.666,162.239,StarCom Racing,False,False,40,34,pitting in
+Aric Almirola,40,Frd,10,6,14,75.660,162.253,Stewart-Haas Racing,False,False,26,26,green
+Kyle Tilley,4389,Frd,78,41,31,75.650,162.273,Live Fast Motorsports,False,False,39,31,green
+Quin Houff,4229,Chv,00,36,28,75.648,162.277,StarCom Racing,False,False,40,34,restart
+Joey Logano,3859,Frd,22,52,3,75.648,162.277,Team Penske,False,False,6,3,green
+Ryan Blaney,4023,Frd,12,43,15,75.646,162.283,Team Penske,False,False,9,17,pitting in
+Austin Cindric,4180,Frd,33,14,4,75.645,162.284,Team Penske,False,True,3,25,green
+Denny Hamlin,1361,Tyt,11,52,16,75.638,162.300,Joe Gibbs Racing,False,False,19,14,green
+Josh Bilicki,4213,Frd,52,41,27,75.637,162.301,Rick Ware Racing,False,False,31,30,green
+Josh Bilicki,4213,Frd,52,44,22,75.637,162.302,Rick Ware Racing,False,False,31,30,pitting in
+Tyler Reddick,4065,Chv,8,53,9,75.637,162.302,Richard Childress Racing,False,False,1,9,green
+Ryan Blaney,4023,Frd,12,39,16,75.635,162.305,Team Penske,False,False,9,17,green
+Daniel Suarez,4113,Chv,99,20,36,75.634,162.308,TrackHouse Racing,False,False,15,33,caution
+Alex Bowman,4045,Chv,48,15,23,75.633,162.310,Hendrick Motorsports,False,False,12,8,green
+Cody Ware,4125,Chv,51,42,23,75.621,162.336,Petty Ware Racing,False,True,35,32,green
+Alex Bowman,4045,Chv,48,13,25,75.620,162.337,Hendrick Motorsports,False,False,12,8,green
+Chris Buescher,3989,Frd,17,7,25,75.619,162.340,Roush Fenway Racing,False,False,28,13,green
+Brad Keselowski,1816,Frd,2,7,22,75.614,162.351,Team Penske,False,False,24,19,pitting in
+Kyle Tilley,4389,Frd,78,5,37,75.611,162.357,Live Fast Motorsports,False,False,39,31,green
+Daniel Suarez,4113,Chv,99,33,34,75.600,162.380,TrackHouse Racing,False,False,15,33,green
+Cody Ware,4125,Chv,51,44,21,75.600,162.381,Petty Ware Racing,False,True,35,32,green
+Ricky Stenhouse Jr.,3888,Chv,47,49,13,75.597,162.388,JTG Daugherty Racing,False,False,22,22,green
+Austin Dillon,3873,Chv,3,29,7,75.594,162.393,Richard Childress Racing,False,False,16,12,pitting in
+Joey Logano,3859,Frd,22,53,3,75.594,162.394,Team Penske,False,False,6,3,green
+Kyle Tilley,4389,Frd,78,31,27,75.591,162.401,Live Fast Motorsports,False,False,39,31,green
+Aric Almirola,40,Frd,10,49,21,75.588,162.406,Stewart-Haas Racing,False,False,26,26,green
+Ryan Newman,2394,Frd,6,48,25,75.588,162.407,Roush Fenway Racing,False,False,34,24,green
+Brad Keselowski,1816,Frd,2,50,25,75.576,162.432,Team Penske,False,False,24,19,green
+William Byron,4184,Chv,24,52,13,75.566,162.455,Hendrick Motorsports,False,False,5,11,green
+Matt DiBenedetto,3916,Frd,21,29,11,75.565,162.456,Wood Brothers Racing,False,False,21,23,restart
+Kyle Tilley,4389,Frd,78,39,30,75.565,162.457,Live Fast Motorsports,False,False,39,31,green
+Erik Jones,4059,Chv,43,11,15,75.564,162.459,Richard Petty Motorsports,False,False,29,16,green
+Aric Almirola,40,Frd,10,5,12,75.560,162.467,Stewart-Haas Racing,False,False,26,26,green
+Kurt Busch,453,Chv,1,3,21,75.558,162.472,Chip Ganassi Racing,False,False,13,27,green
+Ross Chastain,4001,Chv,42,52,4,75.548,162.492,Chip Ganassi Racing,False,False,20,4,green
+Chris Buescher,3989,Frd,17,39,14,75.543,162.504,Roush Fenway Racing,False,False,28,13,green
+William Byron,4184,Chv,24,10,4,75.540,162.511,Hendrick Motorsports,False,False,5,11,restart
+Aric Almirola,40,Frd,10,47,22,75.538,162.514,Stewart-Haas Racing,False,False,26,26,green
+Aric Almirola,40,Frd,10,48,22,75.538,162.515,Stewart-Haas Racing,False,False,26,26,green
+Ryan Preece,4070,Chv,37,7,6,75.536,162.519,JTG Daugherty Racing,False,False,36,15,pitting in
+Kyle Tilley,4389,Frd,78,38,30,75.533,162.526,Live Fast Motorsports,False,False,39,31,green
+Chase Briscoe,4228,Frd,14,51,9,75.529,162.533,Stewart-Haas Racing,False,False,27,6,green
+Austin Dillon,3873,Chv,3,32,29,75.526,162.540,Richard Childress Racing,False,False,16,12,pitting in
+Aric Almirola,40,Frd,10,15,30,75.524,162.544,Stewart-Haas Racing,False,False,26,26,pitting in
+Josh Bilicki,4213,Frd,52,30,30,75.520,162.553,Rick Ware Racing,False,False,31,30,green
+Corey LaJoie,4096,Chv,7,43,20,75.517,162.559,Spire Motorsports,False,False,25,20,pitting in
+Austin Cindric,4180,Frd,33,15,5,75.510,162.574,Team Penske,False,True,3,25,pitting in
+Cody Ware,4125,Chv,51,13,31,75.508,162.578,Petty Ware Racing,False,True,35,32,green
+Ross Chastain,4001,Chv,42,53,4,75.503,162.589,Chip Ganassi Racing,False,False,20,4,green
+Chris Buescher,3989,Frd,17,11,10,75.503,162.589,Roush Fenway Racing,False,False,28,13,green
+Ricky Stenhouse Jr.,3888,Chv,47,48,14,75.502,162.592,JTG Daugherty Racing,False,False,22,22,green
+William Byron,4184,Chv,24,51,14,75.502,162.591,Hendrick Motorsports,False,False,5,11,green
+Denny Hamlin,1361,Tyt,11,53,14,75.500,162.595,Joe Gibbs Racing,False,False,19,14,green
+Erik Jones,4059,Chv,43,13,13,75.498,162.600,Richard Petty Motorsports,False,False,29,16,green
+Ryan Blaney,4023,Frd,12,50,22,75.498,162.601,Team Penske,False,False,9,17,green
+Alex Bowman,4045,Chv,48,12,25,75.496,162.604,Hendrick Motorsports,False,False,12,8,green
+Anthony Alfredo,4301,Frd,38,11,30,75.495,162.607,Front Row Motorsports,False,False,37,18,green
+Garrett Smithley,4142,Frd,53,48,31,75.494,162.608,Rick Ware Racing,False,True,38,28,green
+Cody Ware,4125,Chv,51,36,27,75.490,162.617,Petty Ware Racing,False,True,35,32,restart
+William Byron,4184,Chv,24,53,11,75.490,162.617,Hendrick Motorsports,False,False,5,11,green
+Austin Cindric,4180,Frd,33,6,7,75.488,162.621,Team Penske,False,True,3,25,green
+Austin Cindric,4180,Frd,33,41,16,75.483,162.632,Team Penske,False,True,3,25,pitting in
+Ty Dillon,4013,Tyt,96,11,16,75.482,162.634,Gaunt Brothers Racing,False,True,33,21,pitting in
+Aric Almirola,40,Frd,10,12,32,75.476,162.647,Stewart-Haas Racing,False,False,26,26,green
+Corey LaJoie,4096,Chv,7,14,24,75.474,162.652,Spire Motorsports,False,False,25,20,green
+AJ Allmendinger,3774,Chv,16,3,16,75.469,162.662,Kaulig Racing,False,True,7,5,green
+Ty Dillon,4013,Tyt,96,6,34,75.466,162.669,Gaunt Brothers Racing,False,True,33,21,green
+Kyle Tilley,4389,Frd,78,43,29,75.464,162.673,Live Fast Motorsports,False,False,39,31,green
+Ricky Stenhouse Jr.,3888,Chv,47,13,11,75.462,162.677,JTG Daugherty Racing,False,False,22,22,green
+Austin Dillon,3873,Chv,3,14,25,75.452,162.700,Richard Childress Racing,False,False,16,12,green
+Josh Bilicki,4213,Frd,52,37,29,75.445,162.714,Rick Ware Racing,False,False,31,30,green
+Christopher Bell,4153,Tyt,20,4,13,75.444,162.716,Joe Gibbs Racing,False,False,10,38,green
+Ricky Stenhouse Jr.,3888,Chv,47,12,11,75.443,162.718,JTG Daugherty Racing,False,False,22,22,green
+Kyle Busch,454,Tyt,18,4,8,75.437,162.732,Joe Gibbs Racing,False,False,4,10,green
+Daniel Suarez,4113,Chv,99,29,34,75.437,162.731,TrackHouse Racing,False,False,15,33,restart
+Ty Dillon,4013,Tyt,96,43,22,75.436,162.735,Gaunt Brothers Racing,False,True,33,21,green
+Martin Truex Jr.,3368,Tyt,19,11,18,75.429,162.749,Joe Gibbs Racing,False,False,17,35,green
+Daniel Suarez,4113,Chv,99,30,34,75.422,162.765,TrackHouse Racing,False,False,15,33,green
+Kyle Larson,4030,Chv,5,29,12,75.421,162.767,Hendrick Motorsports,False,False,2,2,restart
+Denny Hamlin,1361,Tyt,11,7,23,75.413,162.783,Joe Gibbs Racing,False,False,19,14,pitting in
+Ryan Blaney,4023,Frd,12,51,21,75.405,162.801,Team Penske,False,False,9,17,green
+Kevin Harvick,1416,Frd,4,12,28,75.405,162.800,Stewart-Haas Racing,False,False,11,37,green
+Ryan Newman,2394,Frd,6,47,25,75.398,162.817,Roush Fenway Racing,False,False,34,24,green
+AJ Allmendinger,3774,Chv,16,52,5,75.394,162.825,Kaulig Racing,False,True,7,5,green
+Aric Almirola,40,Frd,10,13,32,75.392,162.829,Stewart-Haas Racing,False,False,26,26,green
+Ricky Stenhouse Jr.,3888,Chv,47,36,29,75.381,162.852,JTG Daugherty Racing,False,False,22,22,restart
+Austin Cindric,4180,Frd,33,40,15,75.379,162.856,Team Penske,False,True,3,25,green
+Ryan Newman,2394,Frd,6,12,15,75.372,162.873,Roush Fenway Racing,False,False,34,24,green
+Daniel Suarez,4113,Chv,99,8,40,75.368,162.880,TrackHouse Racing,False,False,15,33,green
+Ryan Newman,2394,Frd,6,11,17,75.367,162.883,Roush Fenway Racing,False,False,34,24,green
+Matt DiBenedetto,3916,Frd,21,15,10,75.366,162.886,Wood Brothers Racing,False,False,21,23,pitting in
+Ryan Blaney,4023,Frd,12,36,14,75.361,162.896,Team Penske,False,False,9,17,restart
+Martin Truex Jr.,3368,Tyt,19,12,16,75.359,162.900,Joe Gibbs Racing,False,False,17,35,green
+William Byron,4184,Chv,24,13,5,75.349,162.921,Hendrick Motorsports,False,False,5,11,pitting in
+Cody Ware,4125,Chv,51,43,25,75.338,162.946,Petty Ware Racing,False,True,35,32,green
+Erik Jones,4059,Chv,43,14,11,75.330,162.963,Richard Petty Motorsports,False,False,29,16,green
+Christopher Bell,4153,Tyt,20,12,17,75.318,162.989,Joe Gibbs Racing,False,False,10,38,green
+Anthony Alfredo,4301,Frd,38,30,24,75.318,162.989,Front Row Motorsports,False,False,37,18,green
+Michael McDowell,3832,Frd,34,45,17,75.306,163.014,Front Row Motorsports,False,False,23,7,green
+Ty Dillon,4013,Tyt,96,41,21,75.304,163.020,Gaunt Brothers Racing,False,True,33,21,green
+Kevin Harvick,1416,Frd,4,7,24,75.301,163.026,Stewart-Haas Racing,False,False,11,37,pitting in
+Austin Dillon,3873,Chv,3,50,7,75.301,163.025,Richard Childress Racing,False,False,16,12,green
+Denny Hamlin,1361,Tyt,11,36,17,75.298,163.032,Joe Gibbs Racing,False,False,19,14,restart
+Tyler Reddick,4065,Chv,8,12,20,75.295,163.039,Richard Childress Racing,False,False,1,9,green
+AJ Allmendinger,3774,Chv,16,11,26,75.273,163.086,Kaulig Racing,False,True,7,5,green
+Cody Ware,4125,Chv,51,4,35,75.261,163.113,Petty Ware Racing,False,True,35,32,green
+Daniel Suarez,4113,Chv,99,22,36,75.260,163.115,TrackHouse Racing,False,False,15,33,caution
+AJ Allmendinger,3774,Chv,16,51,7,75.257,163.120,Kaulig Racing,False,True,7,5,green
+AJ Allmendinger,3774,Chv,16,13,23,75.255,163.126,Kaulig Racing,False,True,7,5,green
+Cody Ware,4125,Chv,51,45,19,75.255,163.126,Petty Ware Racing,False,True,35,32,green
+Garrett Smithley,4142,Frd,53,49,31,75.251,163.134,Rick Ware Racing,False,True,38,28,green
+Denny Hamlin,1361,Tyt,11,46,4,75.251,163.133,Joe Gibbs Racing,False,False,19,14,green
+Alex Bowman,4045,Chv,48,53,8,75.248,163.140,Hendrick Motorsports,False,False,12,8,green
+Anthony Alfredo,4301,Frd,38,14,27,75.242,163.154,Front Row Motorsports,False,False,37,18,green
+Denny Hamlin,1361,Tyt,11,29,9,75.230,163.179,Joe Gibbs Racing,False,False,19,14,restart
+Anthony Alfredo,4301,Frd,38,47,7,75.229,163.182,Front Row Motorsports,False,False,37,18,green
+Corey LaJoie,4096,Chv,7,11,13,75.228,163.183,Spire Motorsports,False,False,25,20,green
+William Byron,4184,Chv,24,36,16,75.221,163.200,Hendrick Motorsports,False,False,5,11,restart
+James Davison,4211,Chv,15,40,32,75.218,163.205,Rick Ware Racing,False,False,32,29,green
+Erik Jones,4059,Chv,43,51,20,75.214,163.215,Richard Petty Motorsports,False,False,29,16,green
+Cole Custer,4104,Frd,41,12,19,75.210,163.224,Stewart-Haas Racing,False,False,14,36,green
+Kyle Tilley,4389,Frd,78,42,29,75.209,163.226,Live Fast Motorsports,False,False,39,31,green
+Martin Truex Jr.,3368,Tyt,19,14,16,75.206,163.232,Joe Gibbs Racing,False,False,17,35,green
+Austin Dillon,3873,Chv,3,11,29,75.205,163.234,Richard Childress Racing,False,False,16,12,green
+Corey LaJoie,4096,Chv,7,50,24,75.204,163.235,Spire Motorsports,False,False,25,20,green
+Joey Logano,3859,Frd,22,29,20,75.202,163.240,Team Penske,False,False,6,3,restart
+Matt DiBenedetto,3916,Frd,21,32,16,75.201,163.242,Wood Brothers Racing,False,False,21,23,pitting in
+Josh Bilicki,4213,Frd,52,47,29,75.181,163.285,Rick Ware Racing,False,False,31,30,green
+Ryan Preece,4070,Chv,37,12,22,75.181,163.286,JTG Daugherty Racing,False,False,36,15,green
+Josh Bilicki,4213,Frd,52,36,26,75.174,163.302,Rick Ware Racing,False,False,31,30,restart
+Chris Buescher,3989,Frd,17,51,15,75.155,163.342,Roush Fenway Racing,False,False,28,13,green
+Martin Truex Jr.,3368,Tyt,19,1,6,75.155,163.342,Joe Gibbs Racing,False,False,17,35,start
+Cody Ware,4125,Chv,51,41,26,75.142,163.370,Petty Ware Racing,False,True,35,32,green
+Ryan Newman,2394,Frd,6,14,13,75.128,163.401,Roush Fenway Racing,False,False,34,24,green
+Quin Houff,4229,Chv,00,5,39,75.125,163.407,StarCom Racing,False,False,40,34,green
+Ty Dillon,4013,Tyt,96,51,26,75.124,163.409,Gaunt Brothers Racing,False,True,33,21,green
+Ross Chastain,4001,Chv,42,29,21,75.106,163.448,Chip Ganassi Racing,False,False,20,4,restart
+Austin Cindric,4180,Frd,33,39,11,75.093,163.477,Team Penske,False,True,3,25,green
+Kyle Tilley,4389,Frd,78,14,32,75.089,163.485,Live Fast Motorsports,False,False,39,31,green
+Kurt Busch,453,Chv,1,29,13,75.079,163.507,Chip Ganassi Racing,False,False,13,27,restart
+Cole Custer,4104,Frd,41,2,25,75.079,163.508,Stewart-Haas Racing,False,False,14,36,green
+Ricky Stenhouse Jr.,3888,Chv,47,32,30,75.075,163.516,JTG Daugherty Racing,False,False,22,22,pitting in
+Christopher Bell,4153,Tyt,20,11,20,75.053,163.565,Joe Gibbs Racing,False,False,10,38,green
+Kyle Busch,454,Tyt,18,42,22,75.029,163.617,Joe Gibbs Racing,False,False,4,10,green
+Michael McDowell,3832,Frd,34,1,8,75.029,163.617,Front Row Motorsports,False,False,23,7,start
+Garrett Smithley,4142,Frd,53,14,35,75.028,163.618,Rick Ware Racing,False,True,38,28,green
+Kyle Tilley,4389,Frd,78,36,31,75.023,163.630,Live Fast Motorsports,False,False,39,31,restart
+Michael McDowell,3832,Frd,34,51,6,75.017,163.643,Front Row Motorsports,False,False,23,7,green
+Josh Bilicki,4213,Frd,52,32,28,75.012,163.653,Rick Ware Racing,False,False,31,30,pitting in
+Anthony Alfredo,4301,Frd,38,15,26,75.001,163.677,Front Row Motorsports,False,False,37,18,green
+Chris Buescher,3989,Frd,17,43,12,74.999,163.683,Roush Fenway Racing,False,False,28,13,green
+Josh Bilicki,4213,Frd,52,15,29,74.997,163.686,Rick Ware Racing,False,False,31,30,pitting in
+Tyler Reddick,4065,Chv,8,52,11,74.995,163.692,Richard Childress Racing,False,False,1,9,green
+Cody Ware,4125,Chv,51,12,31,74.990,163.701,Petty Ware Racing,False,True,35,32,green
+AJ Allmendinger,3774,Chv,16,29,15,74.985,163.712,Kaulig Racing,False,True,7,5,restart
+Kyle Tilley,4389,Frd,78,4,37,74.978,163.728,Live Fast Motorsports,False,False,39,31,green
+Kyle Tilley,4389,Frd,78,13,33,74.967,163.751,Live Fast Motorsports,False,False,39,31,green
+Kyle Tilley,4389,Frd,78,40,31,74.956,163.777,Live Fast Motorsports,False,False,39,31,green
+Chris Buescher,3989,Frd,17,29,19,74.953,163.782,Roush Fenway Racing,False,False,28,13,restart
+James Davison,4211,Chv,15,41,32,74.938,163.816,Rick Ware Racing,False,False,32,29,green
+Erik Jones,4059,Chv,43,52,18,74.934,163.824,Richard Petty Motorsports,False,False,29,16,green
+Ryan Blaney,4023,Frd,12,29,18,74.930,163.832,Team Penske,False,False,9,17,restart
+Kevin Harvick,1416,Frd,4,15,27,74.923,163.848,Stewart-Haas Racing,False,False,11,37,green
+Martin Truex Jr.,3368,Tyt,19,15,17,74.923,163.848,Joe Gibbs Racing,False,False,17,35,green
+Ryan Blaney,4023,Frd,12,53,17,74.916,163.864,Team Penske,False,False,9,17,green
+Garrett Smithley,4142,Frd,53,42,28,74.912,163.872,Rick Ware Racing,False,True,38,28,green
+Bubba Wallace,4025,Tyt,23,15,33,74.904,163.889,23XI Racing,False,False,18,39,green
+Garrett Smithley,4142,Frd,53,39,27,74.898,163.902,Rick Ware Racing,False,True,38,28,green
+Brad Keselowski,1816,Frd,2,52,23,74.898,163.904,Team Penske,False,False,24,19,green
+Corey LaJoie,4096,Chv,7,38,21,74.894,163.911,Spire Motorsports,False,False,25,20,green
+Brad Keselowski,1816,Frd,2,51,25,74.891,163.918,Team Penske,False,False,24,19,green
+Josh Bilicki,4213,Frd,52,31,28,74.889,163.923,Rick Ware Racing,False,False,31,30,green
+Tyler Reddick,4065,Chv,8,13,22,74.886,163.929,Richard Childress Racing,False,False,1,9,green
+Alex Bowman,4045,Chv,48,7,26,74.878,163.947,Hendrick Motorsports,False,False,12,8,pitting in
+Joey Logano,3859,Frd,22,46,10,74.877,163.948,Team Penske,False,False,6,3,green
+Chase Briscoe,4228,Frd,14,52,7,74.877,163.949,Stewart-Haas Racing,False,False,27,6,green
+Ryan Newman,2394,Frd,6,41,25,74.876,163.952,Roush Fenway Racing,False,False,34,24,pitting in
+Kyle Tilley,4389,Frd,78,6,38,74.871,163.961,Live Fast Motorsports,False,False,39,31,green
+Corey LaJoie,4096,Chv,7,12,13,74.864,163.977,Spire Motorsports,False,False,25,20,green
+Cody Ware,4125,Chv,51,6,36,74.857,163.993,Petty Ware Racing,False,True,35,32,green
+James Davison,4211,Chv,15,39,32,74.855,163.996,Rick Ware Racing,False,False,32,29,green
+Brad Keselowski,1816,Frd,2,29,14,74.853,164.001,Team Penske,False,False,24,19,restart
+Ricky Stenhouse Jr.,3888,Chv,47,50,13,74.853,164.001,JTG Daugherty Racing,False,False,22,22,green
+Bubba Wallace,4025,Tyt,23,11,11,74.851,164.005,23XI Racing,False,False,18,39,pitting in
+Austin Cindric,4180,Frd,33,49,18,74.828,164.057,Team Penske,False,True,3,25,green
+Tyler Reddick,4065,Chv,8,3,17,74.803,164.111,Richard Childress Racing,False,False,1,9,green
+Kyle Busch,454,Tyt,18,11,24,74.789,164.141,Joe Gibbs Racing,False,False,4,10,green
+Garrett Smithley,4142,Frd,53,13,36,74.759,164.208,Rick Ware Racing,False,True,38,28,green
+Christopher Bell,4153,Tyt,20,1,7,74.750,164.227,Joe Gibbs Racing,False,False,10,38,start
+Kyle Tilley,4389,Frd,78,15,32,74.748,164.231,Live Fast Motorsports,False,False,39,31,pitting in
+Anthony Alfredo,4301,Frd,38,51,23,74.742,164.244,Front Row Motorsports,False,False,37,18,green
+Matt DiBenedetto,3916,Frd,21,4,19,74.734,164.263,Wood Brothers Racing,False,False,21,23,green
+Ty Dillon,4013,Tyt,96,30,21,74.728,164.275,Gaunt Brothers Racing,False,True,33,21,green
+Quin Houff,4229,Chv,00,4,39,74.727,164.279,StarCom Racing,False,False,40,34,green
+Daniel Suarez,4113,Chv,99,45,33,74.725,164.283,TrackHouse Racing,False,False,15,33,green
+Kyle Tilley,4389,Frd,78,7,37,74.714,164.307,Live Fast Motorsports,False,False,39,31,green
+Kyle Busch,454,Tyt,18,1,4,74.711,164.314,Joe Gibbs Racing,False,False,4,10,start
+Josh Bilicki,4213,Frd,52,11,33,74.708,164.319,Rick Ware Racing,False,False,31,30,green
+Ryan Preece,4070,Chv,37,51,17,74.702,164.332,JTG Daugherty Racing,False,False,36,15,green
+Bubba Wallace,4025,Tyt,23,1,9,74.698,164.342,23XI Racing,False,False,18,39,start
+Ty Dillon,4013,Tyt,96,31,26,74.689,164.361,Gaunt Brothers Racing,False,True,33,21,green
+Daniel Suarez,4113,Chv,99,43,33,74.688,164.363,TrackHouse Racing,False,False,15,33,green
+Ricky Stenhouse Jr.,3888,Chv,47,11,9,74.681,164.379,JTG Daugherty Racing,False,False,22,22,green
+Garrett Smithley,4142,Frd,53,43,28,74.678,164.385,Rick Ware Racing,False,True,38,28,green
+Ryan Blaney,4023,Frd,12,52,19,74.673,164.397,Team Penske,False,False,9,17,green
+Tyler Reddick,4065,Chv,8,1,3,74.663,164.419,Richard Childress Racing,False,False,1,9,pitting in
+Garrett Smithley,4142,Frd,53,50,30,74.663,164.419,Rick Ware Racing,False,True,38,28,green
+Quin Houff,4229,Chv,00,15,34,74.661,164.424,StarCom Racing,False,False,40,34,pitting in
+Kurt Busch,453,Chv,1,50,11,74.658,164.430,Chip Ganassi Racing,False,False,13,27,green
+Cody Ware,4125,Chv,51,31,29,74.655,164.436,Petty Ware Racing,False,True,35,32,green
+Quin Houff,4229,Chv,00,6,40,74.646,164.457,StarCom Racing,False,False,40,34,green
+Erik Jones,4059,Chv,43,7,27,74.645,164.458,Richard Petty Motorsports,False,False,29,16,green
+Ryan Blaney,4023,Frd,12,2,37,74.645,164.459,Team Penske,False,False,9,17,green
+Erik Jones,4059,Chv,43,29,17,74.643,164.463,Richard Petty Motorsports,False,False,29,16,restart
+Alex Bowman,4045,Chv,48,2,33,74.628,164.495,Hendrick Motorsports,False,False,12,8,green
+Erik Jones,4059,Chv,43,2,35,74.627,164.498,Richard Petty Motorsports,False,False,29,16,green
+Garrett Smithley,4142,Frd,53,40,28,74.625,164.503,Rick Ware Racing,False,True,38,28,green
+Chris Buescher,3989,Frd,17,2,36,74.606,164.544,Roush Fenway Racing,False,False,28,13,green
+Chase Briscoe,4228,Frd,14,2,29,74.600,164.558,Stewart-Haas Racing,False,False,27,6,green
+Chris Buescher,3989,Frd,17,52,14,74.599,164.559,Roush Fenway Racing,False,False,28,13,green
+Kyle Larson,4030,Chv,5,1,5,74.595,164.569,Hendrick Motorsports,False,False,2,2,start
+Ty Dillon,4013,Tyt,96,53,21,74.595,164.569,Gaunt Brothers Racing,False,True,33,21,green
+Erik Jones,4059,Chv,43,53,16,74.594,164.571,Richard Petty Motorsports,False,False,29,16,green
+Matt DiBenedetto,3916,Frd,21,39,20,74.587,164.586,Wood Brothers Racing,False,False,21,23,green
+Ryan Preece,4070,Chv,37,15,20,74.587,164.586,JTG Daugherty Racing,False,False,36,15,green
+Ty Dillon,4013,Tyt,96,15,37,74.571,164.622,Gaunt Brothers Racing,False,True,33,21,green
+Josh Bilicki,4213,Frd,52,48,30,74.570,164.623,Rick Ware Racing,False,False,31,30,green
+Ricky Stenhouse Jr.,3888,Chv,47,14,12,74.566,164.632,JTG Daugherty Racing,False,False,22,22,green
+Alex Bowman,4045,Chv,48,52,9,74.562,164.641,Hendrick Motorsports,False,False,12,8,green
+Ricky Stenhouse Jr.,3888,Chv,47,7,5,74.562,164.641,JTG Daugherty Racing,False,False,22,22,green
+Josh Bilicki,4213,Frd,52,12,30,74.529,164.714,Rick Ware Racing,False,False,31,30,green
+Josh Bilicki,4213,Frd,52,7,38,74.529,164.715,Rick Ware Racing,False,False,31,30,green
+James Davison,4211,Chv,15,42,32,74.517,164.740,Rick Ware Racing,False,False,32,29,green
+Kurt Busch,453,Chv,1,10,6,74.516,164.743,Chip Ganassi Racing,False,False,13,27,restart
+Ryan Preece,4070,Chv,37,11,23,74.500,164.779,JTG Daugherty Racing,False,False,36,15,green
+Chris Buescher,3989,Frd,17,47,19,74.492,164.796,Roush Fenway Racing,False,False,28,13,green
+Ryan Newman,2394,Frd,6,43,31,74.480,164.823,Roush Fenway Racing,False,False,34,24,green
+William Byron,4184,Chv,24,18,38,74.463,164.860,Hendrick Motorsports,False,False,5,11,caution
+James Davison,4211,Chv,15,50,31,74.426,164.943,Rick Ware Racing,False,False,32,29,green
+Ross Chastain,4001,Chv,42,48,8,74.422,164.951,Chip Ganassi Racing,False,False,20,4,green
+Matt DiBenedetto,3916,Frd,21,50,17,74.408,164.983,Wood Brothers Racing,False,False,21,23,green
+Anthony Alfredo,4301,Frd,38,36,21,74.407,164.985,Front Row Motorsports,False,False,37,18,restart
+James Davison,4211,Chv,15,44,32,74.407,164.984,Rick Ware Racing,False,False,32,29,green
+Kurt Busch,453,Chv,1,51,10,74.387,165.028,Chip Ganassi Racing,False,False,13,27,green
+Kevin Harvick,1416,Frd,4,11,32,74.379,165.046,Stewart-Haas Racing,False,False,11,37,green
+Chase Briscoe,4228,Frd,14,10,7,74.365,165.077,Stewart-Haas Racing,False,False,27,6,restart
+Austin Dillon,3873,Chv,3,2,27,74.346,165.119,Richard Childress Racing,False,False,16,12,green
+Brad Keselowski,1816,Frd,2,53,19,74.344,165.124,Team Penske,False,False,24,19,green
+Ricky Stenhouse Jr.,3888,Chv,47,10,5,74.338,165.137,JTG Daugherty Racing,False,False,22,22,restart
+Quin Houff,4229,Chv,00,13,34,74.319,165.180,StarCom Racing,False,False,40,34,green
+Anthony Alfredo,4301,Frd,38,53,18,74.319,165.180,Front Row Motorsports,False,False,37,18,green
+Ryan Newman,2394,Frd,6,7,32,74.316,165.187,Roush Fenway Racing,False,False,34,24,green
+Brad Keselowski,1816,Frd,2,2,28,74.298,165.226,Team Penske,False,False,24,19,green
+Aric Almirola,40,Frd,10,36,25,74.296,165.231,Stewart-Haas Racing,False,False,26,26,restart
+Aric Almirola,40,Frd,10,50,21,74.284,165.257,Stewart-Haas Racing,False,False,26,26,green
+Garrett Smithley,4142,Frd,53,7,36,74.265,165.300,Rick Ware Racing,False,True,38,28,green
+James Davison,4211,Chv,15,15,36,74.256,165.320,Rick Ware Racing,False,False,32,29,pitting in
+Tyler Reddick,4065,Chv,8,45,23,74.256,165.319,Richard Childress Racing,False,False,1,9,green
+Matt DiBenedetto,3916,Frd,21,10,8,74.245,165.345,Wood Brothers Racing,False,False,21,23,restart
+Corey LaJoie,4096,Chv,7,51,24,74.215,165.411,Spire Motorsports,False,False,25,20,green
+Cody Ware,4125,Chv,51,11,35,74.210,165.422,Petty Ware Racing,False,True,35,32,green
+Matt DiBenedetto,3916,Frd,21,51,16,74.208,165.427,Wood Brothers Racing,False,False,21,23,green
+Kyle Tilley,4389,Frd,78,12,33,74.199,165.447,Live Fast Motorsports,False,False,39,31,green
+Kyle Tilley,4389,Frd,78,44,27,74.181,165.487,Live Fast Motorsports,False,False,39,31,green
+Ryan Newman,2394,Frd,6,37,22,74.177,165.497,Roush Fenway Racing,False,False,34,24,green
+Ricky Stenhouse Jr.,3888,Chv,47,15,18,74.169,165.515,JTG Daugherty Racing,False,False,22,22,pitting in
+Kurt Busch,453,Chv,1,1,10,74.166,165.520,Chip Ganassi Racing,False,False,13,27,pitting in
+Ty Dillon,4013,Tyt,96,29,16,74.138,165.583,Gaunt Brothers Racing,False,True,33,21,restart
+Anthony Alfredo,4301,Frd,38,2,14,74.136,165.588,Front Row Motorsports,False,False,37,18,pitting in
+Ty Dillon,4013,Tyt,96,52,25,74.115,165.634,Gaunt Brothers Racing,False,True,33,21,green
+Kurt Busch,453,Chv,1,46,11,74.094,165.681,Chip Ganassi Racing,False,False,13,27,green
+James Davison,4211,Chv,15,47,32,74.090,165.690,Rick Ware Racing,False,False,32,29,green
+Austin Cindric,4180,Frd,33,50,19,74.090,165.690,Team Penske,False,True,3,25,green
+Quin Houff,4229,Chv,00,14,34,74.085,165.702,StarCom Racing,False,False,40,34,green
+James Davison,4211,Chv,15,43,32,74.070,165.735,Rick Ware Racing,False,False,32,29,green
+Cody Ware,4125,Chv,51,48,21,74.040,165.803,Petty Ware Racing,False,True,35,32,pitting in
+Garrett Smithley,4142,Frd,53,51,29,74.032,165.821,Rick Ware Racing,False,True,38,28,green
+Matt DiBenedetto,3916,Frd,21,14,9,74.015,165.859,Wood Brothers Racing,False,False,21,23,green
+Michael McDowell,3832,Frd,34,53,7,74.013,165.863,Front Row Motorsports,False,False,23,7,green
+Ricky Stenhouse Jr.,3888,Chv,47,51,13,74.001,165.889,JTG Daugherty Racing,False,False,22,22,pitting in
+Cody Ware,4125,Chv,51,46,17,73.991,165.911,Petty Ware Racing,False,True,35,32,green
+James Davison,4211,Chv,15,52,30,73.987,165.922,Rick Ware Racing,False,False,32,29,green
+Kyle Tilley,4389,Frd,78,52,31,73.984,165.928,Live Fast Motorsports,False,False,39,31,green
+Cody Ware,4125,Chv,51,47,20,73.983,165.931,Petty Ware Racing,False,True,35,32,green
+Aric Almirola,40,Frd,10,11,36,73.953,165.997,Stewart-Haas Racing,False,False,26,26,green
+Garrett Smithley,4142,Frd,53,41,30,73.920,166.071,Rick Ware Racing,False,True,38,28,green
+Ryan Newman,2394,Frd,6,29,24,73.917,166.079,Roush Fenway Racing,False,False,34,24,restart
+Aric Almirola,40,Frd,10,51,22,73.901,166.114,Stewart-Haas Racing,False,False,26,26,green
+Cody Ware,4125,Chv,51,30,32,73.893,166.131,Petty Ware Racing,False,True,35,32,green
+Anthony Alfredo,4301,Frd,38,29,22,73.881,166.159,Front Row Motorsports,False,False,37,18,restart
+Ryan Newman,2394,Frd,6,2,17,73.875,166.172,Roush Fenway Racing,False,False,34,24,pitting in
+Corey LaJoie,4096,Chv,7,52,22,73.869,166.186,Spire Motorsports,False,False,25,20,green
+AJ Allmendinger,3774,Chv,16,45,18,73.865,166.196,Kaulig Racing,False,True,7,5,green
+Ty Dillon,4013,Tyt,96,7,33,73.852,166.224,Gaunt Brothers Racing,False,True,33,21,green
+Michael McDowell,3832,Frd,34,52,6,73.847,166.235,Front Row Motorsports,False,False,23,7,green
+Kyle Tilley,4389,Frd,78,47,27,73.837,166.258,Live Fast Motorsports,False,False,39,31,green
+Justin Haley,4172,Chv,77,7,28,73.831,166.272,Spire Motorsports,False,True,30,40,green
+Brad Keselowski,1816,Frd,2,45,31,73.800,166.341,Team Penske,False,False,24,19,green
+Chris Buescher,3989,Frd,17,10,10,73.774,166.399,Roush Fenway Racing,False,False,28,13,restart
+Ryan Preece,4070,Chv,37,53,15,73.763,166.426,JTG Daugherty Racing,False,False,36,15,green
+Kyle Tilley,4389,Frd,78,45,24,73.737,166.484,Live Fast Motorsports,False,False,39,31,green
+Quin Houff,4229,Chv,00,11,38,73.692,166.585,StarCom Racing,False,False,40,34,green
+Garrett Smithley,4142,Frd,53,15,35,73.686,166.598,Rick Ware Racing,False,True,38,28,pitting in
+Ryan Preece,4070,Chv,37,52,15,73.682,166.607,JTG Daugherty Racing,False,False,36,15,green
+Ryan Blaney,4023,Frd,12,7,29,73.681,166.611,Team Penske,False,False,9,17,pitting in
+Garrett Smithley,4142,Frd,53,52,29,73.676,166.622,Rick Ware Racing,False,True,38,28,green
+Ty Dillon,4013,Tyt,96,32,27,73.670,166.634,Gaunt Brothers Racing,False,True,33,21,pitting in
+Garrett Smithley,4142,Frd,53,44,26,73.664,166.649,Rick Ware Racing,False,True,38,28,green
+Austin Cindric,4180,Frd,33,51,19,73.661,166.655,Team Penske,False,True,3,25,pitting in
+Cody Ware,4125,Chv,51,32,31,73.654,166.672,Petty Ware Racing,False,True,35,32,pitting in
+Matt DiBenedetto,3916,Frd,21,1,11,73.647,166.687,Wood Brothers Racing,False,False,21,23,start
+Anthony Alfredo,4301,Frd,38,7,34,73.643,166.696,Front Row Motorsports,False,False,37,18,pitting in
+Kyle Tilley,4389,Frd,78,46,26,73.639,166.706,Live Fast Motorsports,False,False,39,31,green
+James Davison,4211,Chv,15,45,32,73.625,166.737,Rick Ware Racing,False,False,32,29,pitting in
+Josh Bilicki,4213,Frd,52,2,15,73.622,166.743,Rick Ware Racing,False,False,31,30,pitting in
+Josh Bilicki,4213,Frd,52,29,31,73.619,166.750,Rick Ware Racing,False,False,31,30,restart
+William Byron,4184,Chv,24,29,26,73.604,166.784,Hendrick Motorsports,False,False,5,11,restart
+Ryan Preece,4070,Chv,37,47,21,73.580,166.839,JTG Daugherty Racing,False,False,36,15,green
+Erik Jones,4059,Chv,43,30,27,73.576,166.847,Richard Petty Motorsports,False,False,29,16,green
+Quin Houff,4229,Chv,00,7,39,73.574,166.852,StarCom Racing,False,False,40,34,green
+Garrett Smithley,4142,Frd,53,53,28,73.560,166.884,Rick Ware Racing,False,True,38,28,green
+Aric Almirola,40,Frd,10,45,22,73.553,166.899,Stewart-Haas Racing,False,False,26,26,green
+Ryan Newman,2394,Frd,6,49,25,73.533,166.946,Roush Fenway Racing,False,False,34,24,green
+Ryan Blaney,4023,Frd,12,45,28,73.517,166.982,Team Penske,False,False,9,17,green
+Kyle Tilley,4389,Frd,78,29,28,73.504,167.011,Live Fast Motorsports,False,False,39,31,restart
+Bubba Wallace,4025,Tyt,23,10,9,73.494,167.033,23XI Racing,False,False,18,39,restart
+Joey Logano,3859,Frd,22,19,1,73.472,167.083,Team Penske,False,False,6,3,restart
+Anthony Alfredo,4301,Frd,38,52,20,73.472,167.083,Front Row Motorsports,False,False,37,18,green
+Cody Ware,4125,Chv,51,7,35,73.451,167.131,Petty Ware Racing,False,True,35,32,pitting in
+Ryan Preece,4070,Chv,37,1,14,73.440,167.157,JTG Daugherty Racing,False,False,36,15,start
+Kyle Tilley,4389,Frd,78,48,29,73.421,167.201,Live Fast Motorsports,False,False,39,31,pitting in
+Ryan Newman,2394,Frd,6,50,26,73.421,167.201,Roush Fenway Racing,False,False,34,24,green
+Quin Houff,4229,Chv,00,29,29,73.403,167.241,StarCom Racing,False,False,40,34,restart
+Matt DiBenedetto,3916,Frd,21,45,20,73.401,167.246,Wood Brothers Racing,False,False,21,23,green
+Michael McDowell,3832,Frd,34,28,31,73.378,167.297,Front Row Motorsports,False,False,23,7,caution
+Aric Almirola,40,Frd,10,29,25,73.373,167.310,Stewart-Haas Racing,False,False,26,26,restart
+Austin Dillon,3873,Chv,3,51,8,73.365,167.328,Richard Childress Racing,False,False,16,12,green
+James Davison,4211,Chv,15,35,32,73.359,167.342,Rick Ware Racing,False,False,32,29,caution
+James Davison,4211,Chv,15,51,30,73.353,167.356,Rick Ware Racing,False,False,32,29,green
+Ross Chastain,4001,Chv,42,7,30,73.346,167.372,Chip Ganassi Racing,False,False,20,4,green
+Bubba Wallace,4025,Tyt,23,13,35,73.346,167.370,23XI Racing,False,False,18,39,green
+Ross Chastain,4001,Chv,42,1,12,73.332,167.402,Chip Ganassi Racing,False,False,20,4,start
+Chase Briscoe,4228,Frd,14,46,15,73.323,167.424,Stewart-Haas Racing,False,False,27,6,green
+Kyle Larson,4030,Chv,5,45,2,73.222,167.654,Hendrick Motorsports,False,False,2,2,pitting out
+Chase Elliott,4062,Chv,9,41,12,73.207,167.688,Hendrick Motorsports,False,False,8,1,pitting out
+Garrett Smithley,4142,Frd,53,29,27,73.195,167.716,Rick Ware Racing,False,True,38,28,restart
+Ryan Newman,2394,Frd,6,4,36,73.195,167.716,Roush Fenway Racing,False,False,34,24,green
+Ross Chastain,4001,Chv,42,10,13,73.182,167.746,Chip Ganassi Racing,False,False,20,4,restart
+Corey LaJoie,4096,Chv,7,10,11,73.174,167.765,Spire Motorsports,False,False,25,20,restart
+Ricky Stenhouse Jr.,3888,Chv,47,31,31,73.164,167.788,JTG Daugherty Racing,False,False,22,22,green
+Erik Jones,4059,Chv,43,47,23,73.160,167.797,Richard Petty Motorsports,False,False,29,16,green
+Anthony Alfredo,4301,Frd,38,50,23,73.133,167.859,Front Row Motorsports,False,False,37,18,green
+Ricky Stenhouse Jr.,3888,Chv,47,1,13,73.125,167.877,JTG Daugherty Racing,False,False,22,22,start
+Josh Bilicki,4213,Frd,52,49,28,73.079,167.983,Rick Ware Racing,False,False,31,30,green
+William Byron,4184,Chv,24,48,19,73.031,168.092,Hendrick Motorsports,False,False,5,11,green
+Kyle Tilley,4389,Frd,78,53,31,73.004,168.155,Live Fast Motorsports,False,False,39,31,green
+Chase Elliott,4062,Chv,9,54,1,72.978,168.214,Hendrick Motorsports,False,False,8,1,pitting in
+Cody Ware,4125,Chv,51,29,30,72.967,168.240,Petty Ware Racing,False,True,35,32,restart
+Austin Dillon,3873,Chv,3,35,33,72.964,168.247,Richard Childress Racing,False,False,16,12,caution
+Josh Bilicki,4213,Frd,52,50,28,72.960,168.257,Rick Ware Racing,False,False,31,30,green
+Kyle Larson,4030,Chv,5,10,12,72.954,168.271,Hendrick Motorsports,False,False,2,2,restart
+Ty Dillon,4013,Tyt,96,46,30,72.904,168.385,Gaunt Brothers Racing,False,True,33,21,green
+Kyle Tilley,4389,Frd,78,11,37,72.866,168.473,Live Fast Motorsports,False,False,39,31,green
+Cody Ware,4125,Chv,51,15,31,72.839,168.536,Petty Ware Racing,False,True,35,32,pitting in
+Alex Bowman,4045,Chv,48,51,11,72.823,168.573,Hendrick Motorsports,False,False,12,8,green
+Quin Houff,4229,Chv,00,12,35,72.785,168.660,StarCom Racing,False,False,40,34,green
+Ricky Stenhouse Jr.,3888,Chv,47,53,22,72.750,168.743,JTG Daugherty Racing,False,False,22,22,green
+Aric Almirola,40,Frd,10,52,21,72.702,168.854,Stewart-Haas Racing,False,False,26,26,pitting in
+Garrett Smithley,4142,Frd,53,11,31,72.678,168.910,Rick Ware Racing,False,True,38,28,green
+William Byron,4184,Chv,24,19,33,72.672,168.924,Hendrick Motorsports,False,False,5,11,pitting in
+Justin Haley,4172,Chv,77,10,14,72.640,168.997,Spire Motorsports,False,True,30,40,restart
+Austin Dillon,3873,Chv,3,31,30,72.637,169.005,Richard Childress Racing,False,False,16,12,green
+Cody Ware,4125,Chv,51,2,39,72.606,169.077,Petty Ware Racing,False,True,35,32,green
+Erik Jones,4059,Chv,43,36,24,72.595,169.102,Richard Petty Motorsports,False,False,29,16,restart
+Joey Logano,3859,Frd,22,54,3,72.594,169.105,Team Penske,False,False,6,3,pitting in
+Kyle Busch,454,Tyt,18,53,10,72.588,169.120,Joe Gibbs Racing,False,False,4,10,green
+Corey LaJoie,4096,Chv,7,13,24,72.581,169.136,Spire Motorsports,False,False,25,20,green
+Corey LaJoie,4096,Chv,7,15,28,72.573,169.153,Spire Motorsports,False,False,25,20,pitting in
+Kyle Larson,4030,Chv,5,3,8,72.566,169.171,Hendrick Motorsports,False,False,2,2,pitting out
+Chris Buescher,3989,Frd,17,53,13,72.563,169.176,Roush Fenway Racing,False,False,28,13,green
+Matt DiBenedetto,3916,Frd,21,52,17,72.555,169.195,Wood Brothers Racing,False,False,21,23,pitting in
+Erik Jones,4059,Chv,43,10,15,72.536,169.239,Richard Petty Motorsports,False,False,29,16,restart
+Corey LaJoie,4096,Chv,7,53,20,72.527,169.262,Spire Motorsports,False,False,25,20,green
+Austin Dillon,3873,Chv,3,52,10,72.526,169.263,Richard Childress Racing,False,False,16,12,green
+Garrett Smithley,4142,Frd,53,45,26,72.525,169.266,Rick Ware Racing,False,True,38,28,pitting in
+Ty Dillon,4013,Tyt,96,10,16,72.519,169.280,Gaunt Brothers Racing,False,True,33,21,restart
+James Davison,4211,Chv,15,53,29,72.504,169.315,Rick Ware Racing,False,False,32,29,green
+Ryan Newman,2394,Frd,6,51,27,72.480,169.371,Roush Fenway Racing,False,False,34,24,green
+Austin Dillon,3873,Chv,3,53,12,72.460,169.418,Richard Childress Racing,False,False,16,12,green
+Quin Houff,4229,Chv,00,8,35,72.441,169.462,StarCom Racing,False,False,40,34,green
+Kurt Busch,453,Chv,1,52,12,72.435,169.477,Chip Ganassi Racing,False,False,13,27,pitting in
+Josh Bilicki,4213,Frd,52,51,28,72.410,169.535,Rick Ware Racing,False,False,31,30,green
+Ross Chastain,4001,Chv,42,5,31,72.397,169.566,Chip Ganassi Racing,False,False,20,4,green
+Kurt Busch,453,Chv,1,19,2,72.383,169.597,Chip Ganassi Racing,False,False,13,27,pitting in
+William Byron,4184,Chv,24,15,38,72.326,169.732,Hendrick Motorsports,False,False,5,11,pitting in
+Ryan Newman,2394,Frd,6,10,17,72.314,169.760,Roush Fenway Racing,False,False,34,24,restart
+Ty Dillon,4013,Tyt,96,5,33,72.268,169.868,Gaunt Brothers Racing,False,True,33,21,green
+Josh Bilicki,4213,Frd,52,4,40,72.261,169.884,Rick Ware Racing,False,False,31,30,green
+Martin Truex Jr.,3368,Tyt,19,10,18,72.235,169.946,Joe Gibbs Racing,False,False,17,35,restart
+Josh Bilicki,4213,Frd,52,46,28,72.229,169.960,Rick Ware Racing,False,False,31,30,green
+Brad Keselowski,1816,Frd,2,10,21,72.207,170.012,Team Penske,False,False,24,19,restart
+Ross Chastain,4001,Chv,42,54,4,72.179,170.078,Chip Ganassi Racing,False,False,20,4,pitting in
+Ryan Preece,4070,Chv,37,10,20,72.168,170.104,JTG Daugherty Racing,False,False,36,15,restart
+Matt DiBenedetto,3916,Frd,21,18,37,72.168,170.103,Wood Brothers Racing,False,False,21,23,caution
+James Davison,4211,Chv,15,9,39,72.157,170.129,Rick Ware Racing,False,False,32,29,caution
+Ryan Newman,2394,Frd,6,52,26,72.108,170.244,Roush Fenway Racing,False,False,34,24,green
+Josh Bilicki,4213,Frd,52,8,34,72.107,170.247,Rick Ware Racing,False,False,31,30,green
+James Davison,4211,Chv,15,4,33,72.048,170.386,Rick Ware Racing,False,False,32,29,green
+Christopher Bell,4153,Tyt,20,10,19,72.030,170.430,Joe Gibbs Racing,False,False,10,38,restart
+Josh Bilicki,4213,Frd,52,52,28,71.968,170.576,Rick Ware Racing,False,False,31,30,pitting in
+Kyle Larson,4030,Chv,5,54,2,71.940,170.643,Hendrick Motorsports,False,False,2,2,pitting in
+James Davison,4211,Chv,15,1,16,71.900,170.737,Rick Ware Racing,False,False,32,29,start
+Kyle Tilley,4389,Frd,78,3,37,71.885,170.773,Live Fast Motorsports,False,False,39,31,green
+Ryan Newman,2394,Frd,6,53,24,71.833,170.897,Roush Fenway Racing,False,False,34,24,green
+Anthony Alfredo,4301,Frd,38,1,15,71.773,171.039,Front Row Motorsports,False,False,37,18,start
+Brad Keselowski,1816,Frd,2,14,23,71.765,171.059,Team Penske,False,False,24,19,green
+Anthony Alfredo,4301,Frd,38,4,34,71.638,171.361,Front Row Motorsports,False,False,37,18,green
+Kyle Busch,454,Tyt,18,10,22,71.594,171.467,Joe Gibbs Racing,False,False,4,10,restart
+Cole Custer,4104,Frd,41,10,24,71.533,171.613,Stewart-Haas Racing,False,False,14,36,restart
+Ty Dillon,4013,Tyt,96,1,17,71.533,171.612,Gaunt Brothers Racing,False,True,33,21,start
+AJ Allmendinger,3774,Chv,16,54,5,71.461,171.787,Kaulig Racing,False,True,7,5,pitting in
+Daniel Suarez,4113,Chv,99,26,34,71.456,171.798,TrackHouse Racing,False,False,15,33,pitting out
+Austin Cindric,4180,Frd,33,53,26,71.449,171.815,Team Penske,False,True,3,25,green
+Kyle Busch,454,Tyt,18,19,3,71.426,171.870,Joe Gibbs Racing,False,False,4,10,restart
+Josh Bilicki,4213,Frd,52,1,18,71.308,172.154,Rick Ware Racing,False,False,31,30,start
+Michael McDowell,3832,Frd,34,54,7,71.284,172.212,Front Row Motorsports,False,False,23,7,pitting in
+Tyler Reddick,4065,Chv,8,10,25,71.272,172.242,Richard Childress Racing,False,False,1,9,restart
+Justin Haley,4172,Chv,77,13,39,71.259,172.272,Spire Motorsports,False,True,30,40,green
+Garrett Smithley,4142,Frd,53,10,23,71.132,172.580,Rick Ware Racing,False,True,38,28,restart
+Alex Bowman,4045,Chv,48,10,28,71.033,172.822,Hendrick Motorsports,False,False,12,8,restart
+Ricky Stenhouse Jr.,3888,Chv,47,38,31,70.986,172.935,JTG Daugherty Racing,False,False,22,22,green
+Daniel Suarez,4113,Chv,99,12,40,70.984,172.940,TrackHouse Racing,False,False,15,33,green
+Quin Houff,4229,Chv,00,3,39,70.933,173.065,StarCom Racing,False,False,40,34,green
+Denny Hamlin,1361,Tyt,11,50,6,70.929,173.075,Joe Gibbs Racing,False,False,19,14,pitting out
+Michael McDowell,3832,Frd,34,19,4,70.927,173.079,Front Row Motorsports,False,False,23,7,pitting in
+Austin Dillon,3873,Chv,3,30,29,70.898,173.149,Richard Childress Racing,False,False,16,12,pitting out
+Tyler Reddick,4065,Chv,8,39,24,70.800,173.389,Richard Childress Racing,False,False,1,9,green
+Kyle Tilley,4389,Frd,78,51,31,70.781,173.436,Live Fast Motorsports,False,False,39,31,green
+Tyler Reddick,4065,Chv,8,54,9,70.781,173.437,Richard Childress Racing,False,False,1,9,pitting in
+Alex Bowman,4045,Chv,48,54,8,70.770,173.463,Hendrick Motorsports,False,False,12,8,pitting in
+Ryan Blaney,4023,Frd,12,10,31,70.760,173.488,Team Penske,False,False,9,17,restart
+William Byron,4184,Chv,24,54,11,70.753,173.504,Hendrick Motorsports,False,False,5,11,pitting in
+Chase Briscoe,4228,Frd,14,54,6,70.700,173.634,Stewart-Haas Racing,False,False,27,6,pitting in
+Ross Chastain,4001,Chv,42,19,5,70.651,173.756,Chip Ganassi Racing,False,False,20,4,restart
+AJ Allmendinger,3774,Chv,16,10,26,70.640,173.783,Kaulig Racing,False,True,7,5,restart
+Ty Dillon,4013,Tyt,96,14,37,70.556,173.990,Gaunt Brothers Racing,False,True,33,21,green
+Kevin Harvick,1416,Frd,4,10,30,70.540,174.028,Stewart-Haas Racing,False,False,11,37,restart
+Kyle Tilley,4389,Frd,78,8,33,70.362,174.469,Live Fast Motorsports,False,False,39,31,green
+Anthony Alfredo,4301,Frd,38,10,32,70.323,174.567,Front Row Motorsports,False,False,37,18,restart
+Garrett Smithley,4142,Frd,53,8,31,70.183,174.913,Rick Ware Racing,False,True,38,28,green
+Josh Bilicki,4213,Frd,52,10,33,70.180,174.922,Rick Ware Racing,False,False,31,30,restart
+Chase Elliott,4062,Chv,9,10,27,70.159,174.974,Hendrick Motorsports,False,False,8,1,restart
+Kyle Tilley,4389,Frd,78,1,20,70.065,175.209,Live Fast Motorsports,False,False,39,31,pitting in
+Chase Elliott,4062,Chv,9,1,19,70.011,175.343,Hendrick Motorsports,False,False,8,1,"pitting out,pitting out"
+Kyle Busch,454,Tyt,18,54,10,69.937,175.529,Joe Gibbs Racing,False,False,4,10,pitting in
+Austin Dillon,3873,Chv,3,10,29,69.928,175.553,Richard Childress Racing,False,False,16,12,restart
+Ryan Newman,2394,Frd,6,1,22,69.909,175.600,Roush Fenway Racing,False,False,34,24,start
+Anthony Alfredo,4301,Frd,38,54,18,69.896,175.632,Front Row Motorsports,False,False,37,18,pitting in
+Chase Elliott,4062,Chv,9,19,6,69.793,175.891,Hendrick Motorsports,False,False,8,1,restart
+Cody Ware,4125,Chv,51,10,34,69.597,176.386,Petty Ware Racing,False,True,35,32,restart
+Aric Almirola,40,Frd,10,1,21,69.549,176.508,Stewart-Haas Racing,False,False,26,26,start
+Chris Buescher,3989,Frd,17,54,13,69.338,177.047,Roush Fenway Racing,False,False,28,13,pitting in
+Ty Dillon,4013,Tyt,96,13,37,69.330,177.067,Gaunt Brothers Racing,False,True,33,21,green
+Quin Houff,4229,Chv,00,1,24,69.249,177.274,StarCom Racing,False,False,40,34,pitting in
+James Davison,4211,Chv,15,54,29,69.237,177.304,Rick Ware Racing,False,False,32,29,pitting in
+Quin Houff,4229,Chv,00,31,33,69.233,177.314,StarCom Racing,False,False,40,34,green
+Chris Buescher,3989,Frd,17,19,7,69.221,177.345,Roush Fenway Racing,False,False,28,13,restart
+Ty Dillon,4013,Tyt,96,8,27,69.113,177.622,Gaunt Brothers Racing,False,True,33,21,green
+Cody Ware,4125,Chv,51,50,29,69.059,177.760,Petty Ware Racing,False,True,35,32,pitting in
+Garrett Smithley,4142,Frd,53,1,23,68.967,177.997,Rick Ware Racing,False,True,38,28,pitting in
+Ryan Newman,2394,Frd,6,8,26,68.904,178.162,Roush Fenway Racing,False,False,34,24,green
+AJ Allmendinger,3774,Chv,16,19,9,68.812,178.398,Kaulig Racing,False,True,7,5,pitting in
+Ross Chastain,4001,Chv,42,25,1,68.811,178.402,Chip Ganassi Racing,False,False,20,4,pitting in
+Brad Keselowski,1816,Frd,2,19,10,68.760,178.534,Team Penske,False,False,24,19,pitting in
+Daniel Suarez,4113,Chv,99,13,39,68.697,178.697,TrackHouse Racing,False,False,15,33,green
+Kyle Larson,4030,Chv,5,19,8,68.671,178.766,Hendrick Motorsports,False,False,2,2,pitting in
+Josh Bilicki,4213,Frd,52,54,30,68.627,178.879,Rick Ware Racing,False,False,31,30,pitting in
+Ryan Preece,4070,Chv,37,25,2,68.594,178.965,JTG Daugherty Racing,False,False,36,15,pitting in
+Matt DiBenedetto,3916,Frd,21,44,20,68.508,179.190,Wood Brothers Racing,False,False,21,23,pitting out
+Cody Ware,4125,Chv,51,52,32,68.493,179.229,Petty Ware Racing,False,True,35,32,green
+Ryan Preece,4070,Chv,37,19,11,68.449,179.346,JTG Daugherty Racing,False,False,36,15,restart
+Aric Almirola,40,Frd,10,10,36,68.442,179.363,Stewart-Haas Racing,False,False,26,26,restart
+Erik Jones,4059,Chv,43,54,16,68.426,179.405,Richard Petty Motorsports,False,False,29,16,pitting in
+Austin Cindric,4180,Frd,33,19,14,68.320,179.685,Team Penske,False,True,3,25,restart
+Garrett Smithley,4142,Frd,53,2,24,68.315,179.696,Rick Ware Racing,False,True,38,28,pitting out
+Denny Hamlin,1361,Tyt,11,10,37,68.213,179.966,Joe Gibbs Racing,False,False,19,14,restart
+Ryan Blaney,4023,Frd,12,54,17,68.209,179.975,Team Penske,False,False,9,17,pitting in
+Cody Ware,4125,Chv,51,53,32,68.206,179.985,Petty Ware Racing,False,True,35,32,pitting in
+Daniel Suarez,4113,Chv,99,39,33,68.182,180.048,TrackHouse Racing,False,False,15,33,"pitting in,pitting out"
+Alex Bowman,4045,Chv,48,19,12,68.176,180.063,Hendrick Motorsports,False,False,12,8,restart
+Denny Hamlin,1361,Tyt,11,19,13,68.166,180.091,Joe Gibbs Racing,False,False,19,14,restart
+Cole Custer,4104,Frd,41,17,35,68.153,180.125,Stewart-Haas Racing,False,False,14,36,caution
+Ricky Stenhouse Jr.,3888,Chv,47,54,22,68.116,180.223,JTG Daugherty Racing,False,False,22,22,pitting in
+Brad Keselowski,1816,Frd,2,54,19,68.104,180.253,Team Penske,False,False,24,19,pitting in
+Kyle Busch,454,Tyt,18,25,3,68.083,180.309,Joe Gibbs Racing,False,False,4,10,pitting in
+Brad Keselowski,1816,Frd,2,36,33,68.074,180.333,Team Penske,False,False,24,19,restart
+Ryan Preece,4070,Chv,37,54,15,68.028,180.456,JTG Daugherty Racing,False,False,36,15,pitting in
+Austin Cindric,4180,Frd,33,25,4,68.015,180.489,Team Penske,False,True,3,25,pitting in
+Aric Almirola,40,Frd,10,44,23,68.005,180.517,Stewart-Haas Racing,False,False,26,26,pitting out
+Chase Elliott,4062,Chv,9,2,22,67.967,180.618,Hendrick Motorsports,False,False,8,1,green
+Kyle Busch,454,Tyt,18,3,10,67.889,180.825,Joe Gibbs Racing,False,False,4,10,pitting out
+Garrett Smithley,4142,Frd,53,54,28,67.869,180.879,Rick Ware Racing,False,True,38,28,pitting in
+Quin Houff,4229,Chv,00,10,38,67.830,180.982,StarCom Racing,False,False,40,34,restart
+Martin Truex Jr.,3368,Tyt,19,19,15,67.800,181.062,Joe Gibbs Racing,False,False,17,35,pitting in
+Kyle Tilley,4389,Frd,78,10,35,67.636,181.500,Live Fast Motorsports,False,False,39,31,restart
+Corey LaJoie,4096,Chv,7,54,20,67.608,181.577,Spire Motorsports,False,False,25,20,pitting in
+Chase Elliott,4062,Chv,9,42,26,67.582,181.647,Hendrick Motorsports,False,False,8,1,green
+Justin Haley,4172,Chv,77,8,18,67.539,181.761,Spire Motorsports,False,True,30,40,green
+Matt DiBenedetto,3916,Frd,21,19,32,67.463,181.966,Wood Brothers Racing,False,False,21,23,restart
+Ross Chastain,4001,Chv,42,8,21,67.463,181.967,Chip Ganassi Racing,False,False,20,4,green
+Erik Jones,4059,Chv,43,8,17,67.461,181.971,Richard Petty Motorsports,False,False,29,16,green
+Chase Elliott,4062,Chv,9,25,5,67.395,182.149,Hendrick Motorsports,False,False,8,1,pitting in
+James Davison,4211,Chv,15,38,32,67.292,182.429,Rick Ware Racing,False,False,32,29,green
+Austin Dillon,3873,Chv,3,19,16,67.205,182.664,Richard Childress Racing,False,False,16,12,restart
+Kyle Tilley,4389,Frd,78,50,32,67.165,182.773,Live Fast Motorsports,False,False,39,31,pitting out
+Chris Buescher,3989,Frd,17,8,14,67.139,182.845,Roush Fenway Racing,False,False,28,13,green
+Ty Dillon,4013,Tyt,96,54,21,67.135,182.856,Gaunt Brothers Racing,False,True,33,21,pitting in
+Austin Dillon,3873,Chv,3,25,7,67.119,182.898,Richard Childress Racing,False,False,16,12,pitting in
+Denny Hamlin,1361,Tyt,11,54,14,67.116,182.908,Joe Gibbs Racing,False,False,19,14,pitting in
+Kyle Larson,4030,Chv,5,4,14,67.112,182.918,Hendrick Motorsports,False,False,2,2,green
+Denny Hamlin,1361,Tyt,11,1,27,67.082,183.001,Joe Gibbs Racing,False,False,19,14,pitting out
+Kevin Harvick,1416,Frd,4,1,25,67.078,183.011,Stewart-Haas Racing,False,False,11,37,pitting out
+Joey Logano,3859,Frd,22,25,6,67.012,183.192,Team Penske,False,False,6,3,pitting in
+Kyle Larson,4030,Chv,5,46,8,66.998,183.228,Hendrick Motorsports,False,False,2,2,green
+Daniel Suarez,4113,Chv,99,2,31,66.994,183.240,TrackHouse Racing,False,False,15,33,green
+Justin Haley,4172,Chv,77,1,26,66.872,183.574,Spire Motorsports,False,True,30,40,pitting out
+Tyler Reddick,4065,Chv,8,25,8,66.842,183.658,Richard Childress Racing,False,False,1,9,pitting in
+Denny Hamlin,1361,Tyt,11,2,30,66.790,183.801,Joe Gibbs Racing,False,False,19,14,green
+Chase Briscoe,4228,Frd,14,19,17,66.763,183.874,Stewart-Haas Racing,False,False,27,6,restart
+Matt DiBenedetto,3916,Frd,21,54,23,66.664,184.148,Wood Brothers Racing,False,False,21,23,pitting in
+Corey LaJoie,4096,Chv,7,19,18,66.614,184.285,Spire Motorsports,False,False,25,20,restart
+Austin Dillon,3873,Chv,3,54,12,66.598,184.330,Richard Childress Racing,False,False,16,12,pitting in
+Austin Cindric,4180,Frd,33,54,25,66.586,184.364,Team Penske,False,True,3,25,pitting in
+Daniel Suarez,4113,Chv,99,9,40,66.534,184.508,TrackHouse Racing,False,False,15,33,caution
+Daniel Suarez,4113,Chv,99,1,28,66.436,184.778,TrackHouse Racing,False,False,15,33,pitting out
+Tyler Reddick,4065,Chv,8,19,19,66.363,184.982,Richard Childress Racing,False,False,1,9,restart
+Daniel Suarez,4113,Chv,99,46,33,66.229,185.356,TrackHouse Racing,False,False,15,33,pitting in
+Denny Hamlin,1361,Tyt,11,25,9,66.077,185.784,Joe Gibbs Racing,False,False,19,14,pitting in
+Garrett Smithley,4142,Frd,53,12,36,66.066,185.814,Rick Ware Racing,False,True,38,28,green
+Josh Bilicki,4213,Frd,52,45,27,65.965,186.099,Rick Ware Racing,False,False,31,30,pitting out
+Christopher Bell,4153,Tyt,20,3,14,65.923,186.216,Joe Gibbs Racing,False,False,10,38,pitting out
+Anthony Alfredo,4301,Frd,38,19,20,65.858,186.401,Front Row Motorsports,False,False,37,18,pitting in
+Kyle Busch,454,Tyt,18,41,23,65.805,186.552,Joe Gibbs Racing,False,False,4,10,pitting out
+James Davison,4211,Chv,15,19,23,65.665,186.949,Rick Ware Racing,False,False,32,29,pitting in
+Ty Dillon,4013,Tyt,96,19,21,65.659,186.965,Gaunt Brothers Racing,False,True,33,21,restart
+Justin Haley,4172,Chv,77,2,34,65.621,187.074,Spire Motorsports,False,True,30,40,green
+Alex Bowman,4045,Chv,48,25,10,65.530,187.335,Hendrick Motorsports,False,False,12,8,pitting in
+Erik Jones,4059,Chv,43,19,22,65.508,187.397,Richard Petty Motorsports,False,False,29,16,pitting in
+Joey Logano,3859,Frd,22,45,12,65.499,187.423,Team Penske,False,False,6,3,pitting out
+Kyle Tilley,4389,Frd,78,19,24,65.491,187.445,Live Fast Motorsports,False,False,39,31,restart
+Ryan Newman,2394,Frd,6,54,24,65.402,187.702,Roush Fenway Racing,False,False,34,24,pitting in
+James Davison,4211,Chv,15,28,33,65.288,188.028,Rick Ware Racing,False,False,32,29,caution
+Kevin Harvick,1416,Frd,4,2,32,65.260,188.110,Stewart-Haas Racing,False,False,11,37,green
+William Byron,4184,Chv,24,1,29,65.146,188.437,Hendrick Motorsports,False,False,5,11,"pitting out,pitting out"
+Cody Ware,4125,Chv,51,19,25,65.097,188.581,Petty Ware Racing,False,True,35,32,restart
+Corey LaJoie,4096,Chv,7,25,11,64.965,188.962,Spire Motorsports,False,False,25,20,pitting in
+Kevin Harvick,1416,Frd,4,8,20,64.944,189.024,Stewart-Haas Racing,False,False,11,37,pitting out
+Michael McDowell,3832,Frd,34,44,19,64.941,189.033,Front Row Motorsports,False,False,23,7,pitting out
+Denny Hamlin,1361,Tyt,11,8,19,64.907,189.131,Joe Gibbs Racing,False,False,19,14,pitting out
+Austin Cindric,4180,Frd,33,5,6,64.850,189.297,Team Penske,False,True,3,25,pitting out
+Cole Custer,4104,Frd,41,19,26,64.752,189.586,Stewart-Haas Racing,False,False,14,36,pitting in
+Chase Briscoe,4228,Frd,14,45,15,64.728,189.655,Stewart-Haas Racing,False,False,27,6,pitting out
+Joey Logano,3859,Frd,22,1,30,64.680,189.797,Team Penske,False,False,6,3,"pitting out,pitting out"
+Ty Dillon,4013,Tyt,96,25,12,64.636,189.924,Gaunt Brothers Racing,False,True,33,21,pitting in
+William Byron,4184,Chv,24,47,15,64.608,190.008,Hendrick Motorsports,False,False,5,11,pitting out
+William Byron,4184,Chv,24,17,38,64.598,190.038,Hendrick Motorsports,False,False,5,11,pitting out
+Kurt Busch,453,Chv,1,45,14,64.582,190.083,Chip Ganassi Racing,False,False,13,27,pitting out
+Kyle Busch,454,Tyt,18,52,8,64.579,190.093,Joe Gibbs Racing,False,False,4,10,pitting out
+Daniel Suarez,4113,Chv,99,27,34,64.534,190.224,TrackHouse Racing,False,False,15,33,caution
+AJ Allmendinger,3774,Chv,16,44,17,64.392,190.646,Kaulig Racing,False,True,7,5,pitting out
+Ryan Newman,2394,Frd,6,42,31,64.378,190.686,Roush Fenway Racing,False,False,34,24,pitting out
+AJ Allmendinger,3774,Chv,16,2,20,64.333,190.821,Kaulig Racing,False,True,7,5,pitting out
+Tyler Reddick,4065,Chv,8,2,21,64.331,190.827,Richard Childress Racing,False,False,1,9,pitting out
+Cody Ware,4125,Chv,51,9,36,64.297,190.925,Petty Ware Racing,False,True,35,32,caution
+Denny Hamlin,1361,Tyt,11,51,18,64.286,190.959,Joe Gibbs Racing,False,False,19,14,green
+Alex Bowman,4045,Chv,48,50,9,64.257,191.044,Hendrick Motorsports,False,False,12,8,pitting out
+Kurt Busch,453,Chv,1,54,27,64.218,191.161,Chip Ganassi Racing,False,False,13,27,pitting in
+Erik Jones,4059,Chv,43,46,23,64.163,191.326,Richard Petty Motorsports,False,False,29,16,pitting out
+Matt DiBenedetto,3916,Frd,21,3,19,64.161,191.331,Wood Brothers Racing,False,False,21,23,pitting out
+Chase Briscoe,4228,Frd,14,25,13,64.110,191.483,Stewart-Haas Racing,False,False,27,6,pitting in
+Ricky Stenhouse Jr.,3888,Chv,47,21,35,64.063,191.624,JTG Daugherty Racing,False,False,22,22,pitting in
+Garrett Smithley,4142,Frd,53,46,31,64.036,191.704,Rick Ware Racing,False,True,38,28,pitting out
+Matt DiBenedetto,3916,Frd,21,8,11,63.966,191.914,Wood Brothers Racing,False,False,21,23,green
+Matt DiBenedetto,3916,Frd,21,25,14,63.955,191.946,Wood Brothers Racing,False,False,21,23,pitting in
+Daniel Suarez,4113,Chv,99,25,34,63.937,192.001,TrackHouse Racing,False,False,15,33,pitting in
+Chris Buescher,3989,Frd,17,46,19,63.925,192.037,Roush Fenway Racing,False,False,28,13,pitting out
+James Davison,4211,Chv,15,25,33,63.874,192.191,Rick Ware Racing,False,False,32,29,pitting in
+Austin Cindric,4180,Frd,33,42,30,63.867,192.212,Team Penske,False,True,3,25,pitting out
+Kyle Larson,4030,Chv,5,25,15,63.859,192.236,Hendrick Motorsports,False,False,2,2,pitting in
+Ross Chastain,4001,Chv,42,47,6,63.836,192.306,Chip Ganassi Racing,False,False,20,4,pitting out
+Tyler Reddick,4065,Chv,8,44,25,63.796,192.427,Richard Childress Racing,False,False,1,9,pitting out
+Corey LaJoie,4096,Chv,7,8,10,63.762,192.528,Spire Motorsports,False,False,25,20,green
+Kurt Busch,453,Chv,1,2,23,63.756,192.547,Chip Ganassi Racing,False,False,13,27,pitting out
+Bubba Wallace,4025,Tyt,23,12,34,63.719,192.658,23XI Racing,False,False,18,39,pitting out
+Anthony Alfredo,4301,Frd,38,49,20,63.627,192.938,Front Row Motorsports,False,False,37,18,pitting out
+Garrett Smithley,4142,Frd,53,47,31,63.615,192.973,Rick Ware Racing,False,True,38,28,green
+Chase Briscoe,4228,Frd,14,8,12,63.606,193.000,Stewart-Haas Racing,False,False,27,6,green
+Kurt Busch,453,Chv,1,25,16,63.536,193.214,Chip Ganassi Racing,False,False,13,27,pitting in
+Brad Keselowski,1816,Frd,2,25,17,63.430,193.537,Team Penske,False,False,24,19,pitting in
+Ryan Preece,4070,Chv,37,46,20,63.341,193.807,JTG Daugherty Racing,False,False,36,15,pitting out
+Brad Keselowski,1816,Frd,2,44,31,63.332,193.836,Team Penske,False,False,24,19,pitting out
+Aric Almirola,40,Frd,10,19,27,63.320,193.872,Stewart-Haas Racing,False,False,26,26,restart
+Aric Almirola,40,Frd,10,54,26,63.256,194.068,Stewart-Haas Racing,False,False,26,26,pitting in
+Garrett Smithley,4142,Frd,53,19,28,63.248,194.094,Rick Ware Racing,False,True,38,28,restart
+Ricky Stenhouse Jr.,3888,Chv,47,25,31,63.206,194.223,JTG Daugherty Racing,False,False,22,22,pitting in
+Ryan Newman,2394,Frd,6,3,35,63.169,194.337,Roush Fenway Racing,False,False,34,24,pitting out
+AJ Allmendinger,3774,Chv,16,25,18,63.128,194.463,Kaulig Racing,False,True,7,5,pitting in
+Ryan Blaney,4023,Frd,12,21,34,63.031,194.760,Team Penske,False,False,9,17,pitting in
+Kyle Tilley,4389,Frd,78,35,31,62.978,194.925,Live Fast Motorsports,False,False,39,31,caution
+Erik Jones,4059,Chv,43,25,19,62.804,195.465,Richard Petty Motorsports,False,False,29,16,pitting in
+Josh Bilicki,4213,Frd,52,28,30,62.725,195.711,Rick Ware Racing,False,False,31,30,caution
+Aric Almirola,40,Frd,10,53,25,62.646,195.957,Stewart-Haas Racing,False,False,26,26,pitting out
+Kurt Busch,453,Chv,1,8,9,62.611,196.069,Chip Ganassi Racing,False,False,13,27,green
+Michael McDowell,3832,Frd,34,25,20,62.588,196.141,Front Row Motorsports,False,False,23,7,pitting in
+Anthony Alfredo,4301,Frd,38,3,34,62.572,196.190,Front Row Motorsports,False,False,37,18,pitting out
+Daniel Suarez,4113,Chv,99,18,39,62.561,196.223,TrackHouse Racing,False,False,15,33,caution
+Matt DiBenedetto,3916,Frd,21,53,23,62.499,196.419,Wood Brothers Racing,False,False,21,23,pitting out
+Anthony Alfredo,4301,Frd,38,25,21,62.475,196.495,Front Row Motorsports,False,False,37,18,pitting in
+Anthony Alfredo,4301,Frd,38,9,34,62.451,196.571,Front Row Motorsports,False,False,37,18,caution
+Ricky Stenhouse Jr.,3888,Chv,47,52,24,62.312,197.010,JTG Daugherty Racing,False,False,22,22,pitting out
+Garrett Smithley,4142,Frd,53,3,40,62.309,197.019,Rick Ware Racing,False,True,38,28,green
+Ty Dillon,4013,Tyt,96,12,37,62.258,197.179,Gaunt Brothers Racing,False,True,33,21,pitting out
+Ricky Stenhouse Jr.,3888,Chv,47,34,30,62.185,197.412,JTG Daugherty Racing,False,False,22,22,caution
+Ross Chastain,4001,Chv,42,4,21,62.182,197.419,Chip Ganassi Racing,False,False,20,4,pitting out
+Quin Houff,4229,Chv,00,19,30,62.066,197.789,StarCom Racing,False,False,40,34,pitting in
+Kyle Tilley,4389,Frd,78,25,24,62.031,197.900,Live Fast Motorsports,False,False,39,31,pitting in
+Ryan Blaney,4023,Frd,12,25,25,62.014,197.954,Team Penske,False,False,9,17,pitting in
+Ryan Newman,2394,Frd,6,19,29,62.014,197.954,Roush Fenway Racing,False,False,34,24,pitting in
+Cole Custer,4104,Frd,41,1,31,61.990,198.031,Stewart-Haas Racing,False,False,14,36,pitting out
+Cody Ware,4125,Chv,51,25,22,61.965,198.111,Petty Ware Racing,False,True,35,32,pitting in
+Ryan Blaney,4023,Frd,12,44,28,61.869,198.419,Team Penske,False,False,9,17,pitting out
+Ty Dillon,4013,Tyt,96,4,32,61.795,198.657,Gaunt Brothers Racing,False,True,33,21,pitting out
+Aric Almirola,40,Frd,10,25,23,61.734,198.854,Stewart-Haas Racing,False,False,26,26,pitting in
+James Davison,4211,Chv,15,18,33,61.599,199.290,Rick Ware Racing,False,False,32,29,caution
+Ryan Newman,2394,Frd,6,25,26,61.416,199.882,Roush Fenway Racing,False,False,34,24,pitting in
+James Davison,4211,Chv,15,3,33,61.410,199.903,Rick Ware Racing,False,False,32,29,pitting out
+Corey LaJoie,4096,Chv,7,1,32,61.375,200.017,Spire Motorsports,False,False,25,20,pitting out
+Daniel Suarez,4113,Chv,99,40,33,61.360,200.066,TrackHouse Racing,False,False,15,33,pitting out
+Chase Elliott,4062,Chv,9,8,6,61.350,200.098,Hendrick Motorsports,False,False,8,1,pitting out
+Kyle Larson,4030,Chv,5,8,8,61.343,200.122,Hendrick Motorsports,False,False,2,2,green
+Daniel Suarez,4113,Chv,99,16,39,61.255,200.408,TrackHouse Racing,False,False,15,33,pitting in
+Ty Dillon,4013,Tyt,96,45,29,61.241,200.453,Gaunt Brothers Racing,False,True,33,21,pitting out
+Garrett Smithley,4142,Frd,53,25,27,61.174,200.673,Rick Ware Racing,False,True,38,28,pitting in
+Chris Buescher,3989,Frd,17,25,28,61.120,200.852,Roush Fenway Racing,False,False,28,13,pitting in
+William Byron,4184,Chv,24,25,29,61.048,201.089,Hendrick Motorsports,False,False,5,11,pitting in
+Josh Bilicki,4213,Frd,52,19,31,60.944,201.430,Rick Ware Racing,False,False,31,30,pitting in
+Chris Buescher,3989,Frd,17,24,29,60.909,201.546,Roush Fenway Racing,False,False,28,13,caution
+Brad Keselowski,1816,Frd,2,1,34,60.850,201.743,Team Penske,False,False,24,19,pitting out
+Austin Cindric,4180,Frd,33,52,27,60.843,201.765,Team Penske,False,True,3,25,pitting out
+Chase Briscoe,4228,Frd,14,1,35,60.782,201.967,Stewart-Haas Racing,False,False,27,6,pitting out
+Josh Bilicki,4213,Frd,52,25,30,60.772,202.001,Rick Ware Racing,False,False,31,30,pitting in
+William Byron,4184,Chv,24,8,7,60.601,202.571,Hendrick Motorsports,False,False,5,11,green
+Austin Cindric,4180,Frd,33,8,4,60.572,202.669,Team Penske,False,True,3,25,green
+Austin Dillon,3873,Chv,3,1,33,60.552,202.734,Richard Childress Racing,False,False,16,12,pitting out
+Quin Houff,4229,Chv,00,2,40,60.523,202.833,StarCom Racing,False,False,40,34,pitting out
+Kyle Tilley,4389,Frd,78,2,38,60.497,202.920,Live Fast Motorsports,False,False,39,31,pitting out
+Joey Logano,3859,Frd,22,8,5,60.480,202.975,Team Penske,False,False,6,3,green
+Quin Houff,4229,Chv,00,25,32,60.475,202.994,StarCom Racing,False,False,40,34,pitting in
+Kyle Tilley,4389,Frd,78,49,30,60.475,202.994,Live Fast Motorsports,False,False,39,31,"pitting out,pitting in"
+James Davison,4211,Chv,15,46,32,60.452,203.070,Rick Ware Racing,False,False,32,29,pitting out
+Kyle Tilley,4389,Frd,78,54,31,60.223,203.844,Live Fast Motorsports,False,False,39,31,pitting in
+Erik Jones,4059,Chv,43,1,37,59.891,204.971,Richard Petty Motorsports,False,False,29,16,pitting out
+Chris Buescher,3989,Frd,17,1,38,59.821,205.212,Roush Fenway Racing,False,False,28,13,pitting out
+Josh Bilicki,4213,Frd,52,53,30,59.775,205.370,Rick Ware Racing,False,False,31,30,pitting out
+Cody Ware,4125,Chv,51,51,32,59.687,205.672,Petty Ware Racing,False,True,35,32,pitting out
+Cody Ware,4125,Chv,51,49,29,59.660,205.766,Petty Ware Racing,False,True,35,32,pitting out
+Corey LaJoie,4096,Chv,7,44,30,59.658,205.773,Spire Motorsports,False,False,25,20,pitting out
+Ryan Blaney,4023,Frd,12,1,39,59.385,206.719,Team Penske,False,False,9,17,pitting out
+Alex Bowman,4045,Chv,48,1,36,59.376,206.750,Hendrick Motorsports,False,False,12,8,"pitting out,pitting out"
+Brad Keselowski,1816,Frd,2,8,28,59.267,207.130,Team Penske,False,False,24,19,pitting out
+Ricky Stenhouse Jr.,3888,Chv,47,8,3,59.126,207.625,JTG Daugherty Racing,False,False,22,22,green
+Ty Dillon,4013,Tyt,96,16,23,59.057,207.868,Gaunt Brothers Racing,False,True,33,21,green
+Christopher Bell,4153,Tyt,20,8,15,58.962,208.202,Joe Gibbs Racing,False,False,10,38,pitting out
+Alex Bowman,4045,Chv,48,8,32,58.620,209.417,Hendrick Motorsports,False,False,12,8,pitting out
+Ryan Blaney,4023,Frd,12,20,34,58.555,209.649,Team Penske,False,False,9,17,caution
+Austin Dillon,3873,Chv,3,8,29,58.257,210.720,Richard Childress Racing,False,False,16,12,pitting out
+Cody Ware,4125,Chv,51,1,40,57.977,211.738,Petty Ware Racing,False,True,35,32,pitting out
+Daniel Suarez,4113,Chv,99,11,40,57.683,212.819,TrackHouse Racing,False,False,15,33,green
+Cole Custer,4104,Frd,41,8,24,57.492,213.527,Stewart-Haas Racing,False,False,14,36,pitting out
+Josh Bilicki,4213,Frd,52,24,32,57.492,213.527,Rick Ware Racing,False,False,31,30,caution
+Anthony Alfredo,4301,Frd,38,8,37,57.050,215.179,Front Row Motorsports,False,False,37,18,pitting out
+Tyler Reddick,4065,Chv,8,8,25,57.024,215.277,Richard Childress Racing,False,False,1,9,pitting out
+Ryan Blaney,4023,Frd,12,8,36,56.912,215.700,Team Penske,False,False,9,17,pitting out
+Ryan Blaney,4023,Frd,12,9,35,56.781,216.198,Team Penske,False,False,9,17,caution
+Josh Bilicki,4213,Frd,52,3,38,56.640,216.737,Rick Ware Racing,False,False,31,30,pitting out
+James Davison,4211,Chv,15,34,33,56.619,216.818,Rick Ware Racing,False,False,32,29,pitting out
+Ryan Blaney,4023,Frd,12,22,34,56.531,217.157,Team Penske,False,False,9,17,pitting out
+Ricky Stenhouse Jr.,3888,Chv,47,22,35,56.262,218.195,JTG Daugherty Racing,False,False,22,22,pitting out
+Quin Houff,4229,Chv,00,34,29,56.212,218.389,StarCom Racing,False,False,40,34,caution
+William Byron,4184,Chv,24,24,31,56.194,218.458,Hendrick Motorsports,False,False,5,11,caution
+Cody Ware,4125,Chv,51,8,38,56.014,219.158,Petty Ware Racing,False,True,35,32,pitting out
+Kyle Tilley,4389,Frd,78,34,31,55.768,220.125,Live Fast Motorsports,False,False,39,31,pitting out
+Quin Houff,4229,Chv,00,28,29,55.543,221.018,StarCom Racing,False,False,40,34,caution
+Daniel Suarez,4113,Chv,99,28,34,55.360,221.748,TrackHouse Racing,False,False,15,33,caution
+Kyle Tilley,4389,Frd,78,9,21,55.208,222.361,Live Fast Motorsports,False,False,39,31,caution
+Aric Almirola,40,Frd,10,8,30,55.072,222.909,Stewart-Haas Racing,False,False,26,26,pitting out
+AJ Allmendinger,3774,Chv,16,8,23,55.070,222.915,Kaulig Racing,False,True,7,5,pitting out
+Ryan Blaney,4023,Frd,12,24,30,54.913,223.555,Team Penske,False,False,9,17,caution
+Garrett Smithley,4142,Frd,53,9,17,54.909,223.571,Rick Ware Racing,False,True,38,28,caution
+Quin Houff,4229,Chv,00,9,38,54.902,223.598,StarCom Racing,False,False,40,34,caution
+Kyle Busch,454,Tyt,18,8,16,54.836,223.868,Joe Gibbs Racing,False,False,4,10,pitting out
+Justin Haley,4172,Chv,77,12,39,54.677,224.519,Spire Motorsports,False,True,30,40,pitting out
+Quin Houff,4229,Chv,00,24,33,54.671,224.545,StarCom Racing,False,False,40,34,caution
+Bubba Wallace,4025,Tyt,23,8,2,54.579,224.920,23XI Racing,False,False,18,39,green
+Josh Bilicki,4213,Frd,52,9,37,54.475,225.352,Rick Ware Racing,False,False,31,30,caution
+Kyle Tilley,4389,Frd,78,24,28,54.434,225.521,Live Fast Motorsports,False,False,39,31,caution
+Daniel Suarez,4113,Chv,99,15,39,54.291,226.116,TrackHouse Racing,False,False,15,33,green
+Alex Bowman,4045,Chv,48,9,33,54.253,226.273,Hendrick Motorsports,False,False,12,8,caution
+Garrett Smithley,4142,Frd,53,24,27,54.246,226.303,Rick Ware Racing,False,True,38,28,caution
+Michael McDowell,3832,Frd,34,8,1,54.191,226.530,Front Row Motorsports,False,False,23,7,green
+James Davison,4211,Chv,15,21,31,54.114,226.854,Rick Ware Racing,False,False,32,29,caution
+Kurt Busch,453,Chv,1,53,27,54.109,226.875,Chip Ganassi Racing,False,False,13,27,pitting out
+Ricky Stenhouse Jr.,3888,Chv,47,24,34,54.038,227.174,JTG Daugherty Racing,False,False,22,22,caution
+Ryan Newman,2394,Frd,6,24,26,53.857,227.937,Roush Fenway Racing,False,False,34,24,caution
+Martin Truex Jr.,3368,Tyt,19,24,24,53.655,228.794,Joe Gibbs Racing,False,False,17,35,caution
+Quin Houff,4229,Chv,00,21,32,53.622,228.936,StarCom Racing,False,False,40,34,caution
+Cole Custer,4104,Frd,41,24,25,53.536,229.302,Stewart-Haas Racing,False,False,14,36,caution
+Anthony Alfredo,4301,Frd,38,24,23,53.286,230.378,Front Row Motorsports,False,False,37,18,caution
+Cole Custer,4104,Frd,41,18,34,53.226,230.639,Stewart-Haas Racing,False,False,14,36,caution
+Ryan Preece,4070,Chv,37,8,22,53.098,231.193,JTG Daugherty Racing,False,False,36,15,pitting out
+Ty Dillon,4013,Tyt,96,9,18,53.079,231.280,Gaunt Brothers Racing,False,True,33,21,caution
+AJ Allmendinger,3774,Chv,16,24,22,53.000,231.624,Kaulig Racing,False,True,7,5,caution
+Austin Dillon,3873,Chv,3,9,29,52.890,232.104,Richard Childress Racing,False,False,16,12,caution
+Brad Keselowski,1816,Frd,2,24,21,52.828,232.376,Team Penske,False,False,24,19,caution
+Brad Keselowski,1816,Frd,2,9,28,52.823,232.399,Team Penske,False,False,24,19,caution
+Ryan Newman,2394,Frd,6,9,15,52.770,232.630,Roush Fenway Racing,False,False,34,24,caution
+Aric Almirola,40,Frd,10,9,31,52.725,232.832,Stewart-Haas Racing,False,False,26,26,caution
+Michael McDowell,3832,Frd,34,24,20,52.652,233.153,Front Row Motorsports,False,False,23,7,caution
+Kyle Tilley,4389,Frd,78,18,35,52.491,233.869,Live Fast Motorsports,False,False,39,31,caution
+Quin Houff,4229,Chv,00,18,36,52.458,234.014,StarCom Racing,False,False,40,34,caution
+Erik Jones,4059,Chv,43,24,19,52.362,234.445,Richard Petty Motorsports,False,False,29,16,caution
+Garrett Smithley,4142,Frd,53,18,32,52.287,234.782,Rick Ware Racing,False,True,38,28,caution
+James Davison,4211,Chv,15,24,35,52.267,234.869,Rick Ware Racing,False,False,32,29,caution
+Quin Houff,4229,Chv,00,17,34,52.238,235.003,StarCom Racing,False,False,40,34,caution
+Kyle Larson,4030,Chv,5,24,17,52.208,235.137,Hendrick Motorsports,False,False,2,2,caution
+Tyler Reddick,4065,Chv,8,9,27,52.135,235.466,Richard Childress Racing,False,False,1,9,caution
+Cody Ware,4125,Chv,51,18,31,52.093,235.654,Petty Ware Racing,False,True,35,32,caution
+Cole Custer,4104,Frd,41,9,26,52.051,235.845,Stewart-Haas Racing,False,False,14,36,caution
+Josh Bilicki,4213,Frd,52,18,28,52.045,235.874,Rick Ware Racing,False,False,31,30,caution
+Kurt Busch,453,Chv,1,24,18,51.990,236.121,Chip Ganassi Racing,False,False,13,27,caution
+Kyle Tilley,4389,Frd,78,17,33,51.890,236.578,Live Fast Motorsports,False,False,39,31,caution
+Matt DiBenedetto,3916,Frd,21,24,15,51.857,236.727,Wood Brothers Racing,False,False,21,23,caution
+Corey LaJoie,4096,Chv,7,18,29,51.850,236.761,Spire Motorsports,False,False,25,20,caution
+Aric Almirola,40,Frd,10,24,16,51.678,237.549,Stewart-Haas Racing,False,False,26,26,caution
+Aric Almirola,40,Frd,10,18,30,51.638,237.730,Stewart-Haas Racing,False,False,26,26,caution
+Kyle Tilley,4389,Frd,78,28,28,51.610,237.860,Live Fast Motorsports,False,False,39,31,caution
+Kyle Tilley,4389,Frd,78,22,30,51.544,238.165,Live Fast Motorsports,False,False,39,31,caution
+Ricky Stenhouse Jr.,3888,Chv,47,35,30,51.501,238.362,JTG Daugherty Racing,False,False,22,22,caution
+Ricky Stenhouse Jr.,3888,Chv,47,18,27,51.454,238.580,JTG Daugherty Racing,False,False,22,22,pitting in
+AJ Allmendinger,3774,Chv,16,9,25,51.420,238.740,Kaulig Racing,False,True,7,5,caution
+Bubba Wallace,4025,Tyt,23,16,22,51.409,238.791,23XI Racing,False,False,18,39,green
+Ryan Blaney,4023,Frd,12,23,29,51.366,238.992,Team Penske,False,False,9,17,caution
+Cody Ware,4125,Chv,51,28,27,51.340,239.114,Petty Ware Racing,False,True,35,32,caution
+Tyler Reddick,4065,Chv,8,18,26,51.324,239.188,Richard Childress Racing,False,False,1,9,caution
+Cody Ware,4125,Chv,51,24,14,51.257,239.500,Petty Ware Racing,False,True,35,32,caution
+Garrett Smithley,4142,Frd,53,16,27,51.146,240.020,Rick Ware Racing,False,True,38,28,pitting out
+Ryan Preece,4070,Chv,37,9,24,51.119,240.146,JTG Daugherty Racing,False,False,36,15,caution
+Ty Dillon,4013,Tyt,96,24,13,51.113,240.174,Gaunt Brothers Racing,False,True,33,21,caution
+Erik Jones,4059,Chv,43,18,25,51.081,240.322,Richard Petty Motorsports,False,False,29,16,caution
+Ricky Stenhouse Jr.,3888,Chv,47,23,33,51.066,240.397,JTG Daugherty Racing,False,False,22,22,caution
+Corey LaJoie,4096,Chv,7,24,12,51.025,240.586,Spire Motorsports,False,False,25,20,caution
+Quin Houff,4229,Chv,00,35,29,51.004,240.688,StarCom Racing,False,False,40,34,caution
+Josh Bilicki,4213,Frd,52,35,27,51.003,240.691,Rick Ware Racing,False,False,31,30,caution
+Garrett Smithley,4142,Frd,53,35,26,50.970,240.847,Rick Ware Racing,False,True,38,28,caution
+Cody Ware,4125,Chv,51,35,28,50.965,240.872,Petty Ware Racing,False,True,35,32,caution
+Ross Chastain,4001,Chv,42,9,16,50.947,240.955,Chip Ganassi Racing,False,False,20,4,caution
+Michael McDowell,3832,Frd,34,35,24,50.889,241.233,Front Row Motorsports,False,False,23,7,caution
+Corey LaJoie,4096,Chv,7,35,21,50.871,241.315,Spire Motorsports,False,False,25,20,caution
+Austin Cindric,4180,Frd,33,18,24,50.861,241.365,Team Penske,False,True,3,25,caution
+Ty Dillon,4013,Tyt,96,35,25,50.825,241.535,Gaunt Brothers Racing,False,True,33,21,caution
+Aric Almirola,40,Frd,10,35,23,50.825,241.534,Stewart-Haas Racing,False,False,26,26,caution
+Chase Briscoe,4228,Frd,14,18,23,50.820,241.559,Stewart-Haas Racing,False,False,27,6,caution
+Tyler Reddick,4065,Chv,8,24,11,50.790,241.701,Richard Childress Racing,False,False,1,9,caution
+Matt DiBenedetto,3916,Frd,21,35,22,50.766,241.816,Wood Brothers Racing,False,False,21,23,caution
+Martin Truex Jr.,3368,Tyt,19,8,13,50.764,241.823,Joe Gibbs Racing,False,False,17,35,pitting out
+William Byron,4184,Chv,24,28,24,50.736,241.959,Hendrick Motorsports,False,False,5,11,caution
+Chase Briscoe,4228,Frd,14,24,10,50.699,242.134,Stewart-Haas Racing,False,False,27,6,caution
+Chris Buescher,3989,Frd,17,28,23,50.669,242.280,Roush Fenway Racing,False,False,28,13,caution
+Austin Dillon,3873,Chv,3,24,9,50.634,242.444,Richard Childress Racing,False,False,16,12,caution
+Austin Cindric,4180,Frd,33,24,7,50.552,242.837,Team Penske,False,True,3,25,caution
+Alex Bowman,4045,Chv,48,35,20,50.534,242.927,Hendrick Motorsports,False,False,12,8,caution
+Bubba Wallace,4025,Tyt,23,18,21,50.510,243.043,23XI Racing,False,False,18,39,caution
+Ty Dillon,4013,Tyt,96,18,22,50.502,243.079,Gaunt Brothers Racing,False,True,33,21,caution
+Garrett Smithley,4142,Frd,53,28,22,50.485,243.163,Rick Ware Racing,False,True,38,28,caution
+Garrett Smithley,4142,Frd,53,33,18,50.472,243.226,Rick Ware Racing,False,True,38,28,pitting out
+Kurt Busch,453,Chv,1,35,19,50.456,243.301,Chip Ganassi Racing,False,False,13,27,caution
+Denny Hamlin,1361,Tyt,11,24,8,50.434,243.408,Joe Gibbs Racing,False,False,19,14,caution
+Alex Bowman,4045,Chv,48,24,6,50.379,243.674,Hendrick Motorsports,False,False,12,8,caution
+Ryan Blaney,4023,Frd,12,28,21,50.374,243.696,Team Penske,False,False,9,17,caution
+Ryan Newman,2394,Frd,6,28,20,50.231,244.392,Roush Fenway Racing,False,False,34,24,caution
+Kevin Harvick,1416,Frd,4,18,20,50.155,244.762,Stewart-Haas Racing,False,False,11,37,pitting in
+Ross Chastain,4001,Chv,42,28,26,50.136,244.855,Chip Ganassi Racing,False,False,20,4,caution
+Ryan Preece,4070,Chv,37,35,18,50.125,244.909,JTG Daugherty Racing,False,False,36,15,caution
+Anthony Alfredo,4301,Frd,38,18,19,50.100,245.029,Front Row Motorsports,False,False,37,18,caution
+Denny Hamlin,1361,Tyt,11,35,17,50.032,245.361,Joe Gibbs Racing,False,False,19,14,caution
+Anthony Alfredo,4301,Frd,38,35,16,49.976,245.637,Front Row Motorsports,False,False,37,18,caution
+Ryan Preece,4070,Chv,37,24,5,49.966,245.685,JTG Daugherty Racing,False,False,36,15,caution
+Aric Almirola,40,Frd,10,28,19,49.956,245.736,Stewart-Haas Racing,False,False,26,26,caution
+Chase Elliott,4062,Chv,9,24,4,49.882,246.102,Hendrick Motorsports,False,False,8,1,caution
+Austin Dillon,3873,Chv,3,18,18,49.826,246.376,Richard Childress Racing,False,False,16,12,caution
+Denny Hamlin,1361,Tyt,11,18,16,49.818,246.415,Joe Gibbs Racing,False,False,19,14,caution
+Justin Haley,4172,Chv,77,9,14,49.810,246.459,Spire Motorsports,False,True,30,40,caution
+Anthony Alfredo,4301,Frd,38,33,17,49.805,246.480,Front Row Motorsports,False,False,37,18,green
+Anthony Alfredo,4301,Frd,38,28,18,49.734,246.832,Front Row Motorsports,False,False,37,18,caution
+William Byron,4184,Chv,24,35,15,49.690,247.054,Hendrick Motorsports,False,False,5,11,caution
+Ross Chastain,4001,Chv,42,24,3,49.678,247.111,Chip Ganassi Racing,False,False,20,4,caution
+Brad Keselowski,1816,Frd,2,18,17,49.651,247.245,Team Penske,False,False,24,19,caution
+Joey Logano,3859,Frd,22,28,25,49.618,247.412,Team Penske,False,False,6,3,caution
+Erik Jones,4059,Chv,43,9,13,49.613,247.436,Richard Petty Motorsports,False,False,29,16,caution
+Cody Ware,4125,Chv,51,17,31,49.591,247.544,Petty Ware Racing,False,True,35,32,caution
+Alex Bowman,4045,Chv,48,18,15,49.587,247.564,Hendrick Motorsports,False,False,12,8,caution
+AJ Allmendinger,3774,Chv,16,28,17,49.507,247.966,Kaulig Racing,False,True,7,5,caution
+Josh Bilicki,4213,Frd,52,17,30,49.506,247.972,Rick Ware Racing,False,False,31,30,caution
+Erik Jones,4059,Chv,43,35,14,49.484,248.081,Richard Petty Motorsports,False,False,29,16,caution
+William Byron,4184,Chv,24,33,16,49.464,248.179,Hendrick Motorsports,False,False,5,11,green
+Kyle Busch,454,Tyt,18,24,2,49.461,248.196,Joe Gibbs Racing,False,False,4,10,caution
+Erik Jones,4059,Chv,43,33,15,49.448,248.259,Richard Petty Motorsports,False,False,29,16,green
+Kevin Harvick,1416,Frd,4,9,32,49.407,248.466,Stewart-Haas Racing,False,False,11,37,caution
+Erik Jones,4059,Chv,43,28,16,49.353,248.741,Richard Petty Motorsports,False,False,29,16,caution
+Kyle Busch,454,Tyt,18,9,22,49.333,248.838,Joe Gibbs Racing,False,False,4,10,caution
+Ryan Newman,2394,Frd,6,35,12,49.263,249.194,Roush Fenway Racing,False,False,34,24,caution
+Ryan Preece,4070,Chv,37,18,14,49.260,249.206,JTG Daugherty Racing,False,False,36,15,caution
+Ryan Blaney,4023,Frd,12,35,13,49.250,249.259,Team Penske,False,False,9,17,caution
+Joey Logano,3859,Frd,22,24,1,49.224,249.389,Team Penske,False,False,6,3,caution
+Ryan Newman,2394,Frd,6,33,13,49.199,249.516,Roush Fenway Racing,False,False,34,24,green
+Chris Buescher,3989,Frd,17,9,12,49.196,249.534,Roush Fenway Racing,False,False,28,13,caution
+AJ Allmendinger,3774,Chv,16,18,12,49.190,249.563,Kaulig Racing,False,True,7,5,caution
+Brad Keselowski,1816,Frd,2,28,15,49.189,249.566,Team Penske,False,False,24,19,caution
+Denny Hamlin,1361,Tyt,11,9,30,49.120,249.920,Joe Gibbs Racing,False,False,19,14,caution
+Ryan Blaney,4023,Frd,12,33,14,49.113,249.953,Team Penske,False,False,9,17,green
+Martin Truex Jr.,3368,Tyt,19,18,13,49.105,249.997,Joe Gibbs Racing,False,False,17,35,caution
+Brad Keselowski,1816,Frd,2,33,10,49.061,250.220,Team Penske,False,False,24,19,green
+Ross Chastain,4001,Chv,42,35,11,49.050,250.275,Chip Ganassi Racing,False,False,20,4,caution
+Kyle Larson,4030,Chv,5,28,14,49.012,250.469,Hendrick Motorsports,False,False,2,2,caution
+Ryan Blaney,4023,Frd,12,18,10,48.979,250.637,Team Penske,False,False,9,17,pitting in
+Chris Buescher,3989,Frd,17,35,10,48.973,250.668,Roush Fenway Racing,False,False,28,13,caution
+Christopher Bell,4153,Tyt,20,9,20,48.966,250.703,Joe Gibbs Racing,False,False,10,38,caution
+Kyle Larson,4030,Chv,5,33,5,48.957,250.750,Hendrick Motorsports,False,False,2,2,green
+Chris Buescher,3989,Frd,17,33,11,48.928,250.899,Roush Fenway Racing,False,False,28,13,green
+AJ Allmendinger,3774,Chv,16,33,6,48.908,251.002,Kaulig Racing,False,True,7,5,green
+Denny Hamlin,1361,Tyt,11,33,8,48.875,251.173,Joe Gibbs Racing,False,False,19,14,pitting out
+Christopher Bell,4153,Tyt,20,18,11,48.869,251.204,Joe Gibbs Racing,False,False,10,38,caution
+Brad Keselowski,1816,Frd,2,35,9,48.863,251.235,Team Penske,False,False,24,19,caution
+Ross Chastain,4001,Chv,42,33,12,48.837,251.367,Chip Ganassi Racing,False,False,20,4,green
+Joey Logano,3859,Frd,22,33,9,48.834,251.380,Team Penske,False,False,6,3,green
+Martin Truex Jr.,3368,Tyt,19,9,19,48.825,251.427,Joe Gibbs Racing,False,False,17,35,caution
+Kurt Busch,453,Chv,1,28,13,48.798,251.567,Chip Ganassi Racing,False,False,13,27,caution
+Chase Briscoe,4228,Frd,14,33,7,48.774,251.691,Stewart-Haas Racing,False,False,27,6,green
+Joey Logano,3859,Frd,22,35,8,48.766,251.735,Team Penske,False,False,6,3,caution
+Ryan Newman,2394,Frd,6,18,9,48.649,252.336,Roush Fenway Racing,False,False,34,24,caution
+Chase Briscoe,4228,Frd,14,35,7,48.622,252.480,Stewart-Haas Racing,False,False,27,6,caution
+AJ Allmendinger,3774,Chv,16,35,6,48.581,252.693,Kaulig Racing,False,True,7,5,caution
+Chase Briscoe,4228,Frd,14,9,11,48.571,252.742,Stewart-Haas Racing,False,False,27,6,caution
+Chase Briscoe,4228,Frd,14,28,12,48.570,252.748,Stewart-Haas Racing,False,False,27,6,caution
+Cody Ware,4125,Chv,51,34,28,48.513,253.047,Petty Ware Racing,False,True,35,32,caution
+Kyle Larson,4030,Chv,5,35,5,48.507,253.077,Hendrick Motorsports,False,False,2,2,caution
+Chase Elliott,4062,Chv,9,18,8,48.468,253.278,Hendrick Motorsports,False,False,8,1,caution
+Matt DiBenedetto,3916,Frd,21,28,11,48.443,253.410,Wood Brothers Racing,False,False,21,23,caution
+Matt DiBenedetto,3916,Frd,21,9,10,48.420,253.529,Wood Brothers Racing,False,False,21,23,caution
+Austin Cindric,4180,Frd,33,35,4,48.412,253.576,Team Penske,False,True,3,25,caution
+Matt DiBenedetto,3916,Frd,21,20,21,48.355,253.870,Wood Brothers Racing,False,False,21,23,caution
+Kyle Busch,454,Tyt,18,18,7,48.329,254.007,Joe Gibbs Racing,False,False,4,10,caution
+Tyler Reddick,4065,Chv,8,35,3,48.315,254.085,Richard Childress Racing,False,False,1,9,caution
+Ty Dillon,4013,Tyt,96,28,10,48.312,254.098,Gaunt Brothers Racing,False,True,33,21,caution
+James Davison,4211,Chv,15,16,34,48.312,254.096,Rick Ware Racing,False,False,32,29,"pitting out,pitting in"
+Aric Almirola,40,Frd,10,17,28,48.246,254.444,Stewart-Haas Racing,False,False,26,26,caution
+Corey LaJoie,4096,Chv,7,17,29,48.215,254.611,Spire Motorsports,False,False,25,20,caution
+Ross Chastain,4001,Chv,42,18,6,48.100,255.216,Chip Ganassi Racing,False,False,20,4,caution
+Corey LaJoie,4096,Chv,7,9,9,48.079,255.331,Spire Motorsports,False,False,25,20,caution
+Kyle Tilley,4389,Frd,78,23,28,48.050,255.482,Live Fast Motorsports,False,False,39,31,caution
+Austin Dillon,3873,Chv,3,33,26,48.043,255.519,Richard Childress Racing,False,False,16,12,"pitting in,pitting out"
+Corey LaJoie,4096,Chv,7,28,9,48.029,255.597,Spire Motorsports,False,False,25,20,caution
+Chase Elliott,4062,Chv,9,35,2,48.029,255.596,Hendrick Motorsports,False,False,8,1,caution
+Garrett Smithley,4142,Frd,53,23,27,48.020,255.641,Rick Ware Racing,False,True,38,28,caution
+Daniel Suarez,4113,Chv,99,14,39,47.977,255.871,TrackHouse Racing,False,False,15,33,green
+Kurt Busch,453,Chv,1,23,17,47.958,255.976,Chip Ganassi Racing,False,False,13,27,caution
+Kevin Harvick,1416,Frd,4,16,20,47.931,256.118,Stewart-Haas Racing,False,False,11,37,green
+Alex Bowman,4045,Chv,48,28,8,47.919,256.181,Hendrick Motorsports,False,False,12,8,caution
+Kurt Busch,453,Chv,1,9,8,47.916,256.200,Chip Ganassi Racing,False,False,13,27,caution
+Kyle Busch,454,Tyt,18,35,1,47.910,256.233,Joe Gibbs Racing,False,False,4,10,caution
+Ricky Stenhouse Jr.,3888,Chv,47,28,32,47.907,256.248,JTG Daugherty Racing,False,False,22,22,caution
+Matt DiBenedetto,3916,Frd,21,23,16,47.890,256.337,Wood Brothers Racing,False,False,21,23,caution
+Aric Almirola,40,Frd,10,23,15,47.861,256.493,Stewart-Haas Racing,False,False,26,26,caution
+Kyle Larson,4030,Chv,5,23,18,47.859,256.503,Hendrick Motorsports,False,False,2,2,caution
+Austin Cindric,4180,Frd,33,33,4,47.858,256.508,Team Penske,False,True,3,25,green
+Cody Ware,4125,Chv,51,23,14,47.849,256.559,Petty Ware Racing,False,True,35,32,caution
+Tyler Reddick,4065,Chv,8,33,3,47.849,256.555,Richard Childress Racing,False,False,1,9,green
+Ty Dillon,4013,Tyt,96,23,13,47.844,256.582,Gaunt Brothers Racing,False,True,33,21,caution
+Chris Buescher,3989,Frd,17,18,4,47.843,256.587,Roush Fenway Racing,False,False,28,13,caution
+Anthony Alfredo,4301,Frd,38,16,19,47.841,256.602,Front Row Motorsports,False,False,37,18,green
+Josh Bilicki,4213,Frd,52,21,30,47.813,256.752,Rick Ware Racing,False,False,31,30,pitting in
+Erik Jones,4059,Chv,43,23,19,47.808,256.778,Richard Petty Motorsports,False,False,29,16,caution
+Michael McDowell,3832,Frd,34,23,20,47.800,256.820,Front Row Motorsports,False,False,23,7,caution
+Tyler Reddick,4065,Chv,8,28,7,47.786,256.898,Richard Childress Racing,False,False,1,9,caution
+Martin Truex Jr.,3368,Tyt,19,23,25,47.783,256.914,Joe Gibbs Racing,False,False,17,35,caution
+Corey LaJoie,4096,Chv,7,23,12,47.772,256.973,Spire Motorsports,False,False,25,20,caution
+Anthony Alfredo,4301,Frd,38,23,23,47.760,257.036,Front Row Motorsports,False,False,37,18,caution
+Brad Keselowski,1816,Frd,2,23,21,47.735,257.171,Team Penske,False,False,24,19,caution
+Cole Custer,4104,Frd,41,23,24,47.718,257.261,Stewart-Haas Racing,False,False,14,36,caution
+Ryan Newman,2394,Frd,6,23,26,47.718,257.262,Roush Fenway Racing,False,False,34,24,caution
+AJ Allmendinger,3774,Chv,16,23,22,47.709,257.312,Kaulig Racing,False,True,7,5,caution
+Denny Hamlin,1361,Tyt,11,28,6,47.706,257.324,Joe Gibbs Racing,False,False,19,14,caution
+Tyler Reddick,4065,Chv,8,23,11,47.685,257.441,Richard Childress Racing,False,False,1,9,caution
+Kyle Larson,4030,Chv,5,18,5,47.651,257.621,Hendrick Motorsports,False,False,2,2,caution
+Chase Elliott,4062,Chv,9,33,2,47.595,257.928,Hendrick Motorsports,False,False,8,1,green
+Kyle Larson,4030,Chv,5,9,7,47.581,258.001,Hendrick Motorsports,False,False,2,2,caution
+Kurt Busch,453,Chv,1,18,2,47.573,258.043,Chip Ganassi Racing,False,False,13,27,caution
+Chase Briscoe,4228,Frd,14,23,10,47.567,258.077,Stewart-Haas Racing,False,False,27,6,caution
+Alex Bowman,4045,Chv,48,16,15,47.544,258.203,Hendrick Motorsports,False,False,12,8,green
+Austin Dillon,3873,Chv,3,28,5,47.543,258.211,Richard Childress Racing,False,False,16,12,caution
+Denny Hamlin,1361,Tyt,11,23,7,47.535,258.250,Joe Gibbs Racing,False,False,19,14,caution
+Austin Cindric,4180,Frd,33,23,8,47.508,258.396,Team Penske,False,True,3,25,caution
+Chase Elliott,4062,Chv,9,28,4,47.495,258.469,Hendrick Motorsports,False,False,8,1,caution
+Austin Dillon,3873,Chv,3,23,9,47.452,258.706,Richard Childress Racing,False,False,16,12,caution
+Ryan Preece,4070,Chv,37,23,5,47.450,258.714,JTG Daugherty Racing,False,False,36,15,caution
+William Byron,4184,Chv,24,9,5,47.445,258.741,Hendrick Motorsports,False,False,5,11,caution
+Alex Bowman,4045,Chv,48,23,6,47.430,258.824,Hendrick Motorsports,False,False,12,8,caution
+AJ Allmendinger,3774,Chv,16,16,13,47.417,258.893,Kaulig Racing,False,True,7,5,green
+Ryan Preece,4070,Chv,37,16,14,47.406,258.956,JTG Daugherty Racing,False,False,36,15,green
+Martin Truex Jr.,3368,Tyt,19,16,12,47.402,258.974,Joe Gibbs Racing,False,False,17,35,green
+Austin Cindric,4180,Frd,33,28,3,47.395,259.013,Team Penske,False,True,3,25,caution
+Denny Hamlin,1361,Tyt,11,16,17,47.388,259.055,Joe Gibbs Racing,False,False,19,14,green
+Ryan Blaney,4023,Frd,12,16,11,47.383,259.080,Team Penske,False,False,9,17,green
+Ricky Stenhouse Jr.,3888,Chv,47,17,27,47.382,259.088,JTG Daugherty Racing,False,False,22,22,caution
+Michael McDowell,3832,Frd,34,18,3,47.365,259.181,Front Row Motorsports,False,False,23,7,caution
+Austin Dillon,3873,Chv,3,16,18,47.359,259.209,Richard Childress Racing,False,False,16,12,green
+Joey Logano,3859,Frd,22,23,1,47.329,259.378,Team Penske,False,False,6,3,caution
+Joey Logano,3859,Frd,22,18,1,47.291,259.587,Team Penske,False,False,6,3,caution
+Kyle Busch,454,Tyt,18,28,2,47.291,259.585,Joe Gibbs Racing,False,False,4,10,caution
+Chase Elliott,4062,Chv,9,16,8,47.290,259.590,Hendrick Motorsports,False,False,8,1,green
+Chase Elliott,4062,Chv,9,23,4,47.278,259.653,Hendrick Motorsports,False,False,8,1,caution
+Christopher Bell,4153,Tyt,20,16,10,47.260,259.754,Joe Gibbs Racing,False,False,10,38,green
+Kyle Busch,454,Tyt,18,23,2,47.248,259.822,Joe Gibbs Racing,False,False,4,10,caution
+Kyle Busch,454,Tyt,18,33,1,47.244,259.841,Joe Gibbs Racing,False,False,4,10,green
+Brad Keselowski,1816,Frd,2,16,16,47.238,259.873,Team Penske,False,False,24,19,green
+Ryan Newman,2394,Frd,6,16,9,47.197,260.102,Roush Fenway Racing,False,False,34,24,green
+Ryan Preece,4070,Chv,37,28,1,47.191,260.136,JTG Daugherty Racing,False,False,36,15,caution
+Ross Chastain,4001,Chv,42,23,3,47.170,260.251,Chip Ganassi Racing,False,False,20,4,caution
+Joey Logano,3859,Frd,22,9,6,47.121,260.519,Team Penske,False,False,6,3,caution
+Austin Cindric,4180,Frd,33,9,4,46.984,261.280,Team Penske,False,True,3,25,caution
+Erik Jones,4059,Chv,43,17,25,46.971,261.351,Richard Petty Motorsports,False,False,29,16,caution
+William Byron,4184,Chv,24,23,32,46.950,261.469,Hendrick Motorsports,False,False,5,11,pitting out
+Quin Houff,4229,Chv,00,23,30,46.940,261.528,StarCom Racing,False,False,40,34,caution
+Tyler Reddick,4065,Chv,8,17,26,46.925,261.611,Richard Childress Racing,False,False,1,9,caution
+Josh Bilicki,4213,Frd,52,34,27,46.890,261.803,Rick Ware Racing,False,False,31,30,caution
+Ricky Stenhouse Jr.,3888,Chv,47,27,27,46.866,261.940,JTG Daugherty Racing,False,False,22,22,caution
+Ty Dillon,4013,Tyt,96,34,25,46.859,261.977,Gaunt Brothers Racing,False,True,33,21,caution
+Erik Jones,4059,Chv,43,22,19,46.841,262.078,Richard Petty Motorsports,False,False,29,16,caution
+Ricky Stenhouse Jr.,3888,Chv,47,9,3,46.837,262.099,JTG Daugherty Racing,False,False,22,22,caution
+William Byron,4184,Chv,24,21,29,46.829,262.143,Hendrick Motorsports,False,False,5,11,pitting in
+Brad Keselowski,1816,Frd,2,22,21,46.785,262.390,Team Penske,False,False,24,19,caution
+AJ Allmendinger,3774,Chv,16,22,22,46.739,262.650,Kaulig Racing,False,True,7,5,caution
+Michael McDowell,3832,Frd,34,22,20,46.736,262.669,Front Row Motorsports,False,False,23,7,caution
+Kyle Larson,4030,Chv,5,22,18,46.724,262.736,Hendrick Motorsports,False,False,2,2,caution
+Chase Elliott,4062,Chv,9,9,23,46.719,262.765,Hendrick Motorsports,False,False,8,1,caution
+Cody Ware,4125,Chv,51,22,14,46.718,262.766,Petty Ware Racing,False,True,35,32,caution
+Quin Houff,4229,Chv,00,22,28,46.698,262.882,StarCom Racing,False,False,40,34,caution
+Matt DiBenedetto,3916,Frd,21,22,16,46.697,262.886,Wood Brothers Racing,False,False,21,23,caution
+Kurt Busch,453,Chv,1,22,17,46.686,262.946,Chip Ganassi Racing,False,False,13,27,caution
+Aric Almirola,40,Frd,10,22,15,46.677,263.000,Stewart-Haas Racing,False,False,26,26,caution
+James Davison,4211,Chv,15,22,27,46.666,263.063,Rick Ware Racing,False,False,32,29,caution
+Bubba Wallace,4025,Tyt,23,9,2,46.664,263.070,23XI Racing,False,False,18,39,caution
+Ty Dillon,4013,Tyt,96,22,13,46.631,263.258,Gaunt Brothers Racing,False,True,33,21,caution
+Tyler Reddick,4065,Chv,8,22,11,46.578,263.556,Richard Childress Racing,False,False,1,9,caution
+Anthony Alfredo,4301,Frd,38,22,23,46.567,263.620,Front Row Motorsports,False,False,37,18,caution
+Ryan Newman,2394,Frd,6,22,26,46.549,263.722,Roush Fenway Racing,False,False,34,24,caution
+Corey LaJoie,4096,Chv,7,22,12,46.527,263.849,Spire Motorsports,False,False,25,20,caution
+Josh Bilicki,4213,Frd,52,23,34,46.514,263.921,Rick Ware Racing,False,False,31,30,pitting out
+Martin Truex Jr.,3368,Tyt,19,22,25,46.506,263.968,Joe Gibbs Racing,False,False,17,35,caution
+Michael McDowell,3832,Frd,34,9,1,46.499,264.007,Front Row Motorsports,False,False,23,7,caution
+Cole Custer,4104,Frd,41,22,24,46.480,264.115,Stewart-Haas Racing,False,False,14,36,caution
+Austin Cindric,4180,Frd,33,17,24,46.378,264.693,Team Penske,False,True,3,25,caution
+Ty Dillon,4013,Tyt,96,17,22,46.369,264.744,Gaunt Brothers Racing,False,True,33,21,caution
+Garrett Smithley,4142,Frd,53,17,32,46.298,265.154,Rick Ware Racing,False,True,38,28,caution
+Chase Briscoe,4228,Frd,14,22,10,46.261,265.362,Stewart-Haas Racing,False,False,27,6,caution
+Ty Dillon,4013,Tyt,96,33,27,46.218,265.610,Gaunt Brothers Racing,False,True,33,21,pitting out
+Kurt Busch,453,Chv,1,33,20,46.209,265.664,Chip Ganassi Racing,False,False,13,27,pitting out
+Bubba Wallace,4025,Tyt,23,17,21,46.200,265.713,23XI Racing,False,False,18,39,caution
+Austin Dillon,3873,Chv,3,17,18,46.192,265.761,Richard Childress Racing,False,False,16,12,caution
+Josh Bilicki,4213,Frd,52,33,28,46.188,265.784,Rick Ware Racing,False,False,31,30,pitting out
+James Davison,4211,Chv,15,23,31,46.157,265.961,Rick Ware Racing,False,False,32,29,caution
+Kevin Harvick,1416,Frd,4,17,20,46.157,265.964,Stewart-Haas Racing,False,False,11,37,caution
+Denny Hamlin,1361,Tyt,11,17,17,46.104,266.269,Joe Gibbs Racing,False,False,19,14,caution
+Aric Almirola,40,Frd,10,20,18,46.093,266.333,Stewart-Haas Racing,False,False,26,26,caution
+Brad Keselowski,1816,Frd,2,17,16,46.086,266.373,Team Penske,False,False,24,19,caution
+Ryan Preece,4070,Chv,37,17,14,46.072,266.451,JTG Daugherty Racing,False,False,36,15,caution
+Anthony Alfredo,4301,Frd,38,17,19,46.069,266.468,Front Row Motorsports,False,False,37,18,caution
+AJ Allmendinger,3774,Chv,16,17,13,46.066,266.486,Kaulig Racing,False,True,7,5,caution
+Alex Bowman,4045,Chv,48,17,15,46.054,266.554,Hendrick Motorsports,False,False,12,8,caution
+Ross Chastain,4001,Chv,42,16,6,46.047,266.597,Chip Ganassi Racing,False,False,20,4,green
+Aric Almirola,40,Frd,10,33,24,46.043,266.623,Stewart-Haas Racing,False,False,26,26,pitting out
+Austin Dillon,3873,Chv,3,22,9,46.029,266.702,Richard Childress Racing,False,False,16,12,caution
+Kyle Larson,4030,Chv,5,17,4,46.015,266.782,Hendrick Motorsports,False,False,2,2,caution
+Kurt Busch,453,Chv,1,17,3,46.008,266.821,Chip Ganassi Racing,False,False,13,27,caution
+Michael McDowell,3832,Frd,34,17,2,45.989,266.934,Front Row Motorsports,False,False,23,7,caution
+Garrett Smithley,4142,Frd,53,20,19,45.984,266.961,Rick Ware Racing,False,True,38,28,pitting in
+Chris Buescher,3989,Frd,17,17,5,45.976,267.008,Roush Fenway Racing,False,False,28,13,caution
+Kyle Busch,454,Tyt,18,16,7,45.966,267.066,Joe Gibbs Racing,False,False,4,10,green
+Joey Logano,3859,Frd,22,17,1,45.952,267.151,Team Penske,False,False,6,3,caution
+Martin Truex Jr.,3368,Tyt,19,17,12,45.951,267.155,Joe Gibbs Racing,False,False,17,35,caution
+Ryan Newman,2394,Frd,6,17,9,45.915,267.365,Roush Fenway Racing,False,False,34,24,caution
+Ross Chastain,4001,Chv,42,17,6,45.909,267.397,Chip Ganassi Racing,False,False,20,4,caution
+Chase Elliott,4062,Chv,9,17,8,45.898,267.465,Hendrick Motorsports,False,False,8,1,caution
+Kyle Busch,454,Tyt,18,17,7,45.889,267.513,Joe Gibbs Racing,False,False,4,10,caution
+Ryan Blaney,4023,Frd,12,17,11,45.887,267.525,Team Penske,False,False,9,17,caution
+Kyle Larson,4030,Chv,5,20,1,45.876,267.590,Hendrick Motorsports,False,False,2,2,pitting out
+Austin Cindric,4180,Frd,33,22,8,45.869,267.634,Team Penske,False,True,3,25,caution
+Chase Briscoe,4228,Frd,14,17,23,45.865,267.654,Stewart-Haas Racing,False,False,27,6,caution
+Christopher Bell,4153,Tyt,20,17,10,45.842,267.789,Joe Gibbs Racing,False,False,10,38,caution
+Daniel Suarez,4113,Chv,99,10,40,45.821,267.911,TrackHouse Racing,False,False,15,33,restart
+Denny Hamlin,1361,Tyt,11,22,7,45.819,267.922,Joe Gibbs Racing,False,False,19,14,caution
+Kevin Harvick,1416,Frd,4,19,34,45.808,267.989,Stewart-Haas Racing,False,False,11,37,"pitting in,pitting out"
+William Byron,4184,Chv,24,27,26,45.791,268.089,Hendrick Motorsports,False,False,5,11,caution
+Ryan Preece,4070,Chv,37,22,5,45.781,268.144,JTG Daugherty Racing,False,False,36,15,caution
+Ross Chastain,4001,Chv,42,22,3,45.773,268.192,Chip Ganassi Racing,False,False,20,4,caution
+Cody Ware,4125,Chv,51,33,29,45.765,268.237,Petty Ware Racing,False,True,35,32,pitting out
+Alex Bowman,4045,Chv,48,34,20,45.763,268.250,Hendrick Motorsports,False,False,12,8,caution
+Chase Elliott,4062,Chv,9,22,4,45.718,268.517,Hendrick Motorsports,False,False,8,1,caution
+Chris Buescher,3989,Frd,17,16,5,45.707,268.579,Roush Fenway Racing,False,False,28,13,green
+Kyle Busch,454,Tyt,18,22,2,45.692,268.667,Joe Gibbs Racing,False,False,4,10,caution
+Joey Logano,3859,Frd,22,22,1,45.682,268.727,Team Penske,False,False,6,3,caution
+Chris Buescher,3989,Frd,17,27,25,45.669,268.806,Roush Fenway Racing,False,False,28,13,caution
+Alex Bowman,4045,Chv,48,22,6,45.621,269.085,Hendrick Motorsports,False,False,12,8,caution
+Kyle Tilley,4389,Frd,78,20,16,45.606,269.177,Live Fast Motorsports,False,False,39,31,pitting in
+William Byron,4184,Chv,24,22,31,45.588,269.284,Hendrick Motorsports,False,False,5,11,"pitting out,pitting in"
+Cody Ware,4125,Chv,51,20,17,45.579,269.335,Petty Ware Racing,False,True,35,32,caution
+Kurt Busch,453,Chv,1,34,19,45.575,269.359,Chip Ganassi Racing,False,False,13,27,caution
+Garrett Smithley,4142,Frd,53,27,24,45.536,269.587,Rick Ware Racing,False,True,38,28,caution
+Corey LaJoie,4096,Chv,7,34,21,45.524,269.658,Spire Motorsports,False,False,25,20,caution
+Matt DiBenedetto,3916,Frd,21,34,22,45.488,269.875,Wood Brothers Racing,False,False,21,23,caution
+Tyler Reddick,4065,Chv,8,20,13,45.458,270.054,Richard Childress Racing,False,False,1,9,caution
+Michael McDowell,3832,Frd,34,34,24,45.457,270.058,Front Row Motorsports,False,False,23,7,caution
+Ryan Preece,4070,Chv,37,20,7,45.425,270.247,JTG Daugherty Racing,False,False,36,15,caution
+Ty Dillon,4013,Tyt,96,20,15,45.414,270.311,Gaunt Brothers Racing,False,True,33,21,caution
+Ryan Blaney,4023,Frd,12,27,22,45.408,270.347,Team Penske,False,False,9,17,caution
+James Davison,4211,Chv,15,17,36,45.378,270.527,Rick Ware Racing,False,False,32,29,pitting out
+Aric Almirola,40,Frd,10,16,29,45.377,270.531,Stewart-Haas Racing,False,False,26,26,pitting out
+Aric Almirola,40,Frd,10,34,23,45.375,270.547,Stewart-Haas Racing,False,False,26,26,caution
+Kyle Larson,4030,Chv,5,16,4,45.370,270.573,Hendrick Motorsports,False,False,2,2,green
+Ryan Preece,4070,Chv,37,33,19,45.341,270.748,JTG Daugherty Racing,False,False,36,15,pitting out
+Chase Briscoe,4228,Frd,14,20,12,45.332,270.801,Stewart-Haas Racing,False,False,27,6,caution
+Austin Dillon,3873,Chv,3,20,11,45.298,271.008,Richard Childress Racing,False,False,16,12,caution
+Kurt Busch,453,Chv,1,16,3,45.294,271.028,Chip Ganassi Racing,False,False,13,27,green
+Corey LaJoie,4096,Chv,7,20,14,45.224,271.450,Spire Motorsports,False,False,25,20,caution
+Josh Bilicki,4213,Frd,52,22,33,45.203,271.577,Rick Ware Racing,False,False,31,30,"pitting out,pitting in"
+Ryan Newman,2394,Frd,6,21,28,45.180,271.715,Roush Fenway Racing,False,False,34,24,caution
+Ryan Preece,4070,Chv,37,34,18,45.168,271.784,JTG Daugherty Racing,False,False,36,15,caution
+Alex Bowman,4045,Chv,48,20,8,45.166,271.797,Hendrick Motorsports,False,False,12,8,caution
+Denny Hamlin,1361,Tyt,11,20,9,45.074,272.354,Joe Gibbs Racing,False,False,19,14,caution
+Austin Cindric,4180,Frd,33,20,10,45.072,272.363,Team Penske,False,True,3,25,caution
+Chris Buescher,3989,Frd,17,20,6,44.986,272.884,Roush Fenway Racing,False,False,28,13,caution
+Chase Elliott,4062,Chv,9,20,5,44.965,273.012,Hendrick Motorsports,False,False,8,1,caution
+Matt DiBenedetto,3916,Frd,21,33,23,44.906,273.369,Wood Brothers Racing,False,False,21,23,pitting out
+Michael McDowell,3832,Frd,34,33,25,44.784,274.115,Front Row Motorsports,False,False,23,7,pitting out
+Aric Almirola,40,Frd,10,27,20,44.783,274.119,Stewart-Haas Racing,False,False,26,26,caution
+Ryan Newman,2394,Frd,6,27,21,44.773,274.185,Roush Fenway Racing,False,False,34,24,caution
+Tyler Reddick,4065,Chv,8,16,26,44.747,274.345,Richard Childress Racing,False,False,1,9,pitting out
+Ross Chastain,4001,Chv,42,20,4,44.674,274.793,Chip Ganassi Racing,False,False,20,4,caution
+Cole Custer,4104,Frd,41,21,26,44.668,274.827,Stewart-Haas Racing,False,False,14,36,caution
+Cody Ware,4125,Chv,51,16,32,44.636,275.027,Petty Ware Racing,False,True,35,32,pitting out
+Corey LaJoie,4096,Chv,7,16,30,44.634,275.037,Spire Motorsports,False,False,25,20,pitting out
+Kyle Busch,454,Tyt,18,20,3,44.591,275.302,Joe Gibbs Racing,False,False,4,10,caution
+William Byron,4184,Chv,24,14,38,44.588,275.321,Hendrick Motorsports,False,False,5,11,pitting out
+Martin Truex Jr.,3368,Tyt,19,21,27,44.509,275.809,Joe Gibbs Racing,False,False,17,35,caution
+Chris Buescher,3989,Frd,17,23,35,44.488,275.942,Roush Fenway Racing,False,False,28,13,pitting out
+Quin Houff,4229,Chv,00,16,35,44.484,275.963,StarCom Racing,False,False,40,34,pitting out
+Anthony Alfredo,4301,Frd,38,21,25,44.468,276.061,Front Row Motorsports,False,False,37,18,caution
+Michael McDowell,3832,Frd,34,16,2,44.440,276.239,Front Row Motorsports,False,False,23,7,green
+Alex Bowman,4045,Chv,48,33,21,44.343,276.839,Hendrick Motorsports,False,False,12,8,pitting out
+Erik Jones,4059,Chv,43,20,22,44.338,276.876,Richard Petty Motorsports,False,False,29,16,pitting out
+Anthony Alfredo,4301,Frd,38,27,18,44.320,276.985,Front Row Motorsports,False,False,37,18,caution
+Garrett Smithley,4142,Frd,53,22,29,44.174,277.899,Rick Ware Racing,False,True,38,28,caution
+Joey Logano,3859,Frd,22,16,1,44.076,278.518,Team Penske,False,False,6,3,green
+Kyle Busch,454,Tyt,18,34,1,43.965,279.219,Joe Gibbs Racing,False,False,4,10,caution
+AJ Allmendinger,3774,Chv,16,27,17,43.929,279.451,Kaulig Racing,False,True,7,5,caution
+Ross Chastain,4001,Chv,42,34,11,43.926,279.467,Chip Ganassi Racing,False,False,20,4,caution
+Ross Chastain,4001,Chv,42,21,3,43.921,279.500,Chip Ganassi Racing,False,False,20,4,caution
+Chase Elliott,4062,Chv,9,34,2,43.920,279.506,Hendrick Motorsports,False,False,8,1,caution
+Alex Bowman,4045,Chv,48,21,7,43.919,279.517,Hendrick Motorsports,False,False,12,8,caution
+Kyle Busch,454,Tyt,18,21,2,43.913,279.555,Joe Gibbs Racing,False,False,4,10,caution
+Ryan Blaney,4023,Frd,12,34,13,43.898,279.647,Team Penske,False,False,9,17,caution
+Joey Logano,3859,Frd,22,21,1,43.892,279.685,Team Penske,False,False,6,3,caution
+Joey Logano,3859,Frd,22,20,2,43.879,279.772,Team Penske,False,False,6,3,caution
+Chris Buescher,3989,Frd,17,34,10,43.864,279.867,Roush Fenway Racing,False,False,28,13,caution
+Ryan Newman,2394,Frd,6,34,12,43.848,279.966,Roush Fenway Racing,False,False,34,24,caution
+Ricky Stenhouse Jr.,3888,Chv,47,16,28,43.845,279.985,JTG Daugherty Racing,False,False,22,22,pitting out
+Chase Briscoe,4228,Frd,14,34,7,43.833,280.064,Stewart-Haas Racing,False,False,27,6,caution
+Erik Jones,4059,Chv,43,27,16,43.822,280.131,Richard Petty Motorsports,False,False,29,16,caution
+Joey Logano,3859,Frd,22,34,8,43.809,280.218,Team Penske,False,False,6,3,caution
+Chase Elliott,4062,Chv,9,21,4,43.807,280.227,Hendrick Motorsports,False,False,8,1,caution
+Erik Jones,4059,Chv,43,34,14,43.805,280.241,Richard Petty Motorsports,False,False,29,16,caution
+Brad Keselowski,1816,Frd,2,34,9,43.800,280.271,Team Penske,False,False,24,19,caution
+Tyler Reddick,4065,Chv,8,34,3,43.785,280.373,Richard Childress Racing,False,False,1,9,caution
+AJ Allmendinger,3774,Chv,16,34,6,43.779,280.407,Kaulig Racing,False,True,7,5,caution
+Chris Buescher,3989,Frd,17,21,5,43.776,280.426,Roush Fenway Racing,False,False,28,13,pitting in
+Austin Cindric,4180,Frd,33,34,4,43.767,280.488,Team Penske,False,True,3,25,caution
+William Byron,4184,Chv,24,34,15,43.760,280.528,Hendrick Motorsports,False,False,5,11,caution
+Kyle Tilley,4389,Frd,78,27,29,43.749,280.602,Live Fast Motorsports,False,False,39,31,pitting out
+Kyle Larson,4030,Chv,5,34,5,43.739,280.666,Hendrick Motorsports,False,False,2,2,caution
+Ryan Preece,4070,Chv,37,21,6,43.717,280.805,JTG Daugherty Racing,False,False,36,15,caution
+Denny Hamlin,1361,Tyt,11,21,8,43.702,280.904,Joe Gibbs Racing,False,False,19,14,caution
+William Byron,4184,Chv,24,20,30,43.673,281.086,Hendrick Motorsports,False,False,5,11,pitting out
+Austin Cindric,4180,Frd,33,21,9,43.667,281.128,Team Penske,False,True,3,25,caution
+Austin Dillon,3873,Chv,3,21,10,43.617,281.450,Richard Childress Racing,False,False,16,12,caution
+Josh Bilicki,4213,Frd,52,16,31,43.608,281.506,Rick Ware Racing,False,False,31,30,pitting out
+Erik Jones,4059,Chv,43,16,25,43.607,281.512,Richard Petty Motorsports,False,False,29,16,pitting out
+Brad Keselowski,1816,Frd,2,27,15,43.587,281.645,Team Penske,False,False,24,19,caution
+Anthony Alfredo,4301,Frd,38,34,16,43.544,281.920,Front Row Motorsports,False,False,37,18,caution
+Chase Briscoe,4228,Frd,14,21,11,43.491,282.265,Stewart-Haas Racing,False,False,27,6,caution
+Corey LaJoie,4096,Chv,7,33,22,43.461,282.461,Spire Motorsports,False,False,25,20,pitting out
+Garrett Smithley,4142,Frd,53,21,16,43.436,282.620,Rick Ware Racing,False,True,38,28,pitting out
+Kyle Larson,4030,Chv,5,27,14,43.400,282.855,Hendrick Motorsports,False,False,2,2,caution
+Kurt Busch,453,Chv,1,27,13,43.378,283.000,Chip Ganassi Racing,False,False,13,27,caution
+Chase Briscoe,4228,Frd,14,27,12,43.360,283.121,Stewart-Haas Racing,False,False,27,6,caution
+Matt DiBenedetto,3916,Frd,21,21,18,43.350,283.182,Wood Brothers Racing,False,False,21,23,caution
+Quin Houff,4229,Chv,00,27,30,43.335,283.282,StarCom Racing,False,False,40,34,pitting out
+Chase Briscoe,4228,Frd,14,16,21,43.325,283.348,Stewart-Haas Racing,False,False,27,6,pitting out
+Kyle Tilley,4389,Frd,78,16,33,43.238,283.917,Live Fast Motorsports,False,False,39,31,pitting out
+Cody Ware,4125,Chv,51,27,28,43.169,284.373,Petty Ware Racing,False,True,35,32,pitting out
+Tyler Reddick,4065,Chv,8,21,12,43.143,284.542,Richard Childress Racing,False,False,1,9,caution
+Corey LaJoie,4096,Chv,7,21,13,43.090,284.895,Spire Motorsports,False,False,25,20,caution
+Aric Almirola,40,Frd,10,21,17,43.038,285.234,Stewart-Haas Racing,False,False,26,26,caution
+Cody Ware,4125,Chv,51,21,15,43.027,285.312,Petty Ware Racing,False,True,35,32,caution
+Matt DiBenedetto,3916,Frd,21,27,11,43.021,285.350,Wood Brothers Racing,False,False,21,23,caution
+Kurt Busch,453,Chv,1,21,19,42.993,285.535,Chip Ganassi Racing,False,False,13,27,caution
+AJ Allmendinger,3774,Chv,16,21,24,42.975,285.654,Kaulig Racing,False,True,7,5,caution
+Ty Dillon,4013,Tyt,96,21,14,42.972,285.675,Gaunt Brothers Racing,False,True,33,21,caution
+Erik Jones,4059,Chv,43,21,21,42.936,285.913,Richard Petty Motorsports,False,False,29,16,caution
+Ty Dillon,4013,Tyt,96,27,10,42.870,286.354,Gaunt Brothers Racing,False,True,33,21,caution
+Michael McDowell,3832,Frd,34,21,22,42.869,286.359,Front Row Motorsports,False,False,23,7,caution
+Brad Keselowski,1816,Frd,2,20,24,42.771,287.017,Team Penske,False,False,24,19,pitting out
+Brad Keselowski,1816,Frd,2,21,23,42.764,287.065,Team Penske,False,False,24,19,caution
+Corey LaJoie,4096,Chv,7,27,9,42.735,287.262,Spire Motorsports,False,False,25,20,caution
+Ryan Newman,2394,Frd,6,20,29,42.706,287.457,Roush Fenway Racing,False,False,34,24,pitting out
+Cole Custer,4104,Frd,41,20,28,42.640,287.902,Stewart-Haas Racing,False,False,14,36,pitting out
+Austin Cindric,4180,Frd,33,16,24,42.555,288.471,Team Penske,False,True,3,25,pitting out
+Denny Hamlin,1361,Tyt,11,34,17,42.392,289.585,Joe Gibbs Racing,False,False,19,14,caution
+AJ Allmendinger,3774,Chv,16,20,25,42.388,289.611,Kaulig Racing,False,True,7,5,pitting out
+Garrett Smithley,4142,Frd,53,34,26,42.214,290.807,Rick Ware Racing,False,True,38,28,caution
+Anthony Alfredo,4301,Frd,38,20,26,42.176,291.066,Front Row Motorsports,False,False,37,18,pitting out
+Matt DiBenedetto,3916,Frd,21,17,37,41.917,292.863,Wood Brothers Racing,False,False,21,23,pitting out
+Michael McDowell,3832,Frd,34,20,23,41.776,293.852,Front Row Motorsports,False,False,23,7,pitting out
+Kurt Busch,453,Chv,1,20,20,41.546,295.480,Chip Ganassi Racing,False,False,13,27,pitting out
+Josh Bilicki,4213,Frd,52,20,31,41.170,298.178,Rick Ware Racing,False,False,31,30,pitting out
+Martin Truex Jr.,3368,Tyt,19,20,27,41.066,298.933,Joe Gibbs Racing,False,False,17,35,pitting out
+Chris Buescher,3989,Frd,17,22,32,41.048,299.062,Roush Fenway Racing,False,False,28,13,"pitting out,pitting in"
+Quin Houff,4229,Chv,00,33,30,40.727,301.421,StarCom Racing,False,False,40,34,pitting out
+Kyle Larson,4030,Chv,5,21,20,40.302,304.599,Hendrick Motorsports,False,False,2,2,caution
+Josh Bilicki,4213,Frd,52,27,31,39.302,312.354,Rick Ware Racing,False,False,31,30,pitting out
+Daniel Suarez,4113,Chv,99,41,33,39.055,314.322,TrackHouse Racing,False,False,15,33,green
+Ricky Stenhouse Jr.,3888,Chv,47,20,35,39.018,314.628,JTG Daugherty Racing,False,False,22,22,pitting out
+Quin Houff,4229,Chv,00,38,33,38.904,315.542,StarCom Racing,False,False,40,34,"pitting in,pitting out"
+James Davison,4211,Chv,15,8,39,38.880,315.739,Rick Ware Racing,False,False,32,29,pitting out
+Ricky Stenhouse Jr.,3888,Chv,47,19,35,38.039,322.723,JTG Daugherty Racing,False,False,22,22,"pitting out,pitting in"
+Kyle Tilley,4389,Frd,78,21,33,37.479,327.544,Live Fast Motorsports,False,False,39,31,pitting out
+Quin Houff,4229,Chv,00,20,32,37.236,329.683,StarCom Racing,False,False,40,34,pitting out
+Ricky Stenhouse Jr.,3888,Chv,47,33,31,37.217,329.845,JTG Daugherty Racing,False,False,22,22,pitting out
+James Davison,4211,Chv,15,20,33,35.827,342.645,Rick Ware Racing,False,False,32,29,pitting out
+James Davison,4211,Chv,15,27,33,35.550,345.317,Rick Ware Racing,False,False,32,29,pitting out
+Austin Dillon,3873,Chv,3,34,32,35.045,350.292,Richard Childress Racing,False,False,16,12,pitting out
+Matt DiBenedetto,3916,Frd,21,16,36,34.764,353.125,Wood Brothers Racing,False,False,21,23,"pitting out,pitting in"
+William Byron,4184,Chv,24,16,38,33.941,361.685,Hendrick Motorsports,False,False,5,11,"pitting in,pitting out"
+Kyle Tilley,4389,Frd,78,33,32,33.910,362.020,Live Fast Motorsports,False,False,39,31,"pitting out,pitting in"
+Michael McDowell,3832,Frd,34,27,32,33.748,363.755,Front Row Motorsports,False,False,23,7,pitting out
+Cole Custer,4104,Frd,41,16,37,33.154,370.274,Stewart-Haas Racing,False,False,14,36,pitting out
+James Davison,4211,Chv,15,33,33,31.978,383.888,Rick Ware Racing,False,False,32,29,"pitting in,pitting out"
+Ryan Blaney,4023,Frd,12,19,36,29.053,422.542,Team Penske,False,False,9,17,pitting out
+Alex Bowman,4045,Chv,48,27,8,17.936,684.446,Hendrick Motorsports,False,False,12,8,caution
+Tyler Reddick,4065,Chv,8,27,7,17.810,689.261,Richard Childress Racing,False,False,1,9,caution
+Denny Hamlin,1361,Tyt,11,27,6,17.719,692.805,Joe Gibbs Racing,False,False,19,14,caution
+Austin Dillon,3873,Chv,3,27,5,17.615,696.903,Richard Childress Racing,False,False,16,12,caution
+Chase Elliott,4062,Chv,9,27,4,17.542,699.788,Hendrick Motorsports,False,False,8,1,caution
+Austin Cindric,4180,Frd,33,27,3,17.405,705.308,Team Penske,False,True,3,25,caution
+Kyle Busch,454,Tyt,18,27,2,17.314,709.014,Joe Gibbs Racing,False,False,4,10,caution
+Ryan Preece,4070,Chv,37,27,1,17.295,709.801,JTG Daugherty Racing,False,False,36,15,caution
+Joey Logano,3859,Frd,22,27,19,17.090,718.333,Team Penske,False,False,6,3,pitting out
+Ross Chastain,4001,Chv,42,27,23,16.741,733.290,Chip Ganassi Racing,False,False,20,4,pitting out
+Ross Chastain,4001,Chv,42,26,1,7.771,1579.731,Chip Ganassi Racing,False,False,20,4,"pitting out,pitting in"
+Ryan Preece,4070,Chv,37,26,2,7.764,1581.089,JTG Daugherty Racing,False,False,36,15,pitting out
+Kyle Busch,454,Tyt,18,26,3,7.761,1581.840,Joe Gibbs Racing,False,False,4,10,pitting out
+Austin Cindric,4180,Frd,33,26,4,7.743,1585.468,Team Penske,False,True,3,25,pitting out
+Joey Logano,3859,Frd,22,26,5,7.735,1587.166,Team Penske,False,False,6,3,"pitting in,pitting out"
+Chase Elliott,4062,Chv,9,26,6,7.718,1590.490,Hendrick Motorsports,False,False,8,1,pitting out
+Austin Dillon,3873,Chv,3,26,7,7.707,1592.792,Richard Childress Racing,False,False,16,12,pitting out
+Denny Hamlin,1361,Tyt,11,26,8,7.695,1595.330,Joe Gibbs Racing,False,False,19,14,pitting out
+Tyler Reddick,4065,Chv,8,26,9,7.666,1601.293,Richard Childress Racing,False,False,1,9,pitting out
+Alex Bowman,4045,Chv,48,26,10,7.653,1604.019,Hendrick Motorsports,False,False,12,8,pitting out
+Corey LaJoie,4096,Chv,7,26,11,6.139,1999.721,Spire Motorsports,False,False,25,20,pitting out
+Matt DiBenedetto,3916,Frd,21,26,13,6.136,2000.805,Wood Brothers Racing,False,False,21,23,pitting out
+Ty Dillon,4013,Tyt,96,26,12,6.135,2001.111,Gaunt Brothers Racing,False,True,33,21,pitting out
+Kurt Busch,453,Chv,1,26,15,6.126,2003.871,Chip Ganassi Racing,False,False,13,27,pitting out
+Chase Briscoe,4228,Frd,14,26,14,6.123,2004.995,Stewart-Haas Racing,False,False,27,6,pitting out
+Kyle Larson,4030,Chv,5,26,16,6.119,2006.361,Hendrick Motorsports,False,False,2,2,pitting out
+Brad Keselowski,1816,Frd,2,26,17,6.117,2006.881,Team Penske,False,False,24,19,pitting out
+Erik Jones,4059,Chv,43,26,18,6.115,2007.647,Richard Petty Motorsports,False,False,29,16,pitting out
+AJ Allmendinger,3774,Chv,16,26,19,6.108,2009.890,Kaulig Racing,False,True,7,5,pitting out
+Michael McDowell,3832,Frd,34,26,20,6.104,2011.233,Front Row Motorsports,False,False,23,7,"pitting out,pitting in"
+Anthony Alfredo,4301,Frd,38,26,21,6.102,2011.656,Front Row Motorsports,False,False,37,18,pitting out
+Ryan Newman,2394,Frd,6,26,24,6.097,2013.490,Roush Fenway Racing,False,False,34,24,pitting out
+Cody Ware,4125,Chv,51,26,22,6.096,2013.872,Petty Ware Racing,False,True,35,32,"pitting out,pitting in"
+Aric Almirola,40,Frd,10,26,23,6.094,2014.442,Stewart-Haas Racing,False,False,26,26,pitting out
+Kyle Tilley,4389,Frd,78,26,25,6.084,2017.773,Live Fast Motorsports,False,False,39,31,"pitting out,pitting in"
+Garrett Smithley,4142,Frd,53,26,27,6.081,2018.868,Rick Ware Racing,False,True,38,28,pitting out
+Ryan Blaney,4023,Frd,12,26,26,6.079,2019.330,Team Penske,False,False,9,17,pitting out
+Chris Buescher,3989,Frd,17,26,28,6.077,2019.960,Roush Fenway Racing,False,False,28,13,pitting out
+James Davison,4211,Chv,15,26,31,6.076,2020.346,Rick Ware Racing,False,False,32,29,"pitting out,pitting in"
+William Byron,4184,Chv,24,26,29,6.075,2020.758,Hendrick Motorsports,False,False,5,11,pitting out
+Daniel Suarez,4113,Chv,99,17,39,6.069,2022.635,TrackHouse Racing,False,False,15,33,pitting out
+Josh Bilicki,4213,Frd,52,26,30,6.065,2023.975,Rick Ware Racing,False,False,31,30,"pitting out,pitting in"
+Quin Houff,4229,Chv,00,26,32,6.063,2024.614,StarCom Racing,False,False,40,34,"pitting out,pitting in"
+Ricky Stenhouse Jr.,3888,Chv,47,26,33,6.055,2027.574,JTG Daugherty Racing,False,False,22,22,pitting out
+Daniel Suarez,4113,Chv,99,7,40,5.567,2205.069,TrackHouse Racing,False,False,15,33,pitting out

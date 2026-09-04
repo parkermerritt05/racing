@@ -1,0 +1,2101 @@
+driver_name,driver_id,manufacturer,car_number,lap_number,running_position,lap_speed,lap_time,team,playoffs,points_ineligible,starting_position,finish_position,statuses
+Chase Elliott,4062,Chv,9,95,3,181.928,29.682,Hendrick Motorsports,False,False,6,3,green
+William Byron,4184,Chv,24,95,8,181.592,29.737,Hendrick Motorsports,False,False,8,7,green
+Chase Elliott,4062,Chv,9,51,7,181.354,29.776,Hendrick Motorsports,False,False,6,3,green
+William Byron,4184,Chv,24,89,2,181.287,29.787,Hendrick Motorsports,False,False,8,7,green
+Denny Hamlin,1361,Tyt,11,64,14,181.220,29.798,Joe Gibbs Racing,False,False,16,21,green
+Brad Keselowski,1816,Frd,2,95,2,181.153,29.809,Team Penske,False,False,9,2,green
+Kyle Larson,4030,Chv,5,93,1,181.123,29.814,Hendrick Motorsports,False,False,1,1,green
+Brad Keselowski,1816,Frd,2,84,3,181.080,29.821,Team Penske,False,False,9,2,green
+Kyle Larson,4030,Chv,5,96,1,181.050,29.826,Hendrick Motorsports,False,False,1,1,green
+Kyle Larson,4030,Chv,5,84,4,180.977,29.838,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,96,8,180.971,29.839,Hendrick Motorsports,False,False,8,7,green
+Kyle Larson,4030,Chv,5,49,2,180.965,29.840,Hendrick Motorsports,False,False,1,1,green
+Kyle Larson,4030,Chv,5,95,1,180.923,29.847,Hendrick Motorsports,False,False,1,1,green
+Denny Hamlin,1361,Tyt,11,53,4,180.917,29.848,Joe Gibbs Racing,False,False,16,21,green
+Brad Keselowski,1816,Frd,2,96,2,180.898,29.851,Team Penske,False,False,9,2,green
+Chase Elliott,4062,Chv,9,97,3,180.868,29.856,Hendrick Motorsports,False,False,6,3,green
+Kyle Larson,4030,Chv,5,63,2,180.838,29.861,Hendrick Motorsports,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,64,4,180.838,29.861,Team Penske,False,False,17,5,pitting in
+Michael McDowell,3832,Frd,34,99,14,180.765,29.873,Front Row Motorsports,False,False,11,12,green
+Denny Hamlin,1361,Tyt,11,95,6,180.765,29.873,Joe Gibbs Racing,False,False,16,21,green
+Denny Hamlin,1361,Tyt,11,86,7,180.717,29.881,Joe Gibbs Racing,False,False,16,21,green
+Denny Hamlin,1361,Tyt,11,54,4,180.687,29.886,Joe Gibbs Racing,False,False,16,21,green
+Ryan Blaney,4023,Frd,12,58,6,180.687,29.886,Team Penske,False,False,17,5,green
+Brad Keselowski,1816,Frd,2,94,2,180.675,29.888,Team Penske,False,False,9,2,green
+Kyle Larson,4030,Chv,5,64,2,180.662,29.890,Hendrick Motorsports,False,False,1,1,green
+Alex Bowman,4045,Chv,48,89,9,180.656,29.891,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,64,1,180.578,29.904,Hendrick Motorsports,False,False,8,7,green
+Kyle Larson,4030,Chv,5,87,3,180.566,29.906,Hendrick Motorsports,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,85,5,180.566,29.906,Team Penske,False,False,17,5,green
+Chase Elliott,4062,Chv,9,86,1,180.548,29.909,Hendrick Motorsports,False,False,6,3,green
+Kyle Larson,4030,Chv,5,94,1,180.493,29.918,Hendrick Motorsports,False,False,1,1,green
+Denny Hamlin,1361,Tyt,11,68,11,180.481,29.920,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,43,9,180.475,29.921,Hendrick Motorsports,False,False,8,7,green
+Kyle Busch,454,Tyt,18,83,12,180.475,29.921,Joe Gibbs Racing,False,False,2,9,green
+Brad Keselowski,1816,Frd,2,88,5,180.469,29.922,Team Penske,False,False,9,2,green
+Chase Elliott,4062,Chv,9,100,3,180.469,29.922,Hendrick Motorsports,False,False,6,3,pitting in
+Kyle Larson,4030,Chv,5,85,4,180.463,29.923,Hendrick Motorsports,False,False,1,1,green
+Chase Elliott,4062,Chv,9,84,1,180.451,29.925,Hendrick Motorsports,False,False,6,3,green
+Kyle Larson,4030,Chv,5,72,2,180.427,29.929,Hendrick Motorsports,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,87,4,180.415,29.931,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,68,2,180.403,29.933,Hendrick Motorsports,False,False,1,1,green
+Denny Hamlin,1361,Tyt,11,75,10,180.403,29.933,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,48,1,180.397,29.934,Hendrick Motorsports,False,False,8,7,green
+Denny Hamlin,1361,Tyt,11,56,4,180.391,29.935,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,57,1,180.391,29.935,Hendrick Motorsports,False,False,8,7,green
+William Byron,4184,Chv,24,86,2,180.391,29.935,Hendrick Motorsports,False,False,8,7,green
+Chase Elliott,4062,Chv,9,74,3,180.379,29.937,Hendrick Motorsports,False,False,6,3,green
+Alex Bowman,4045,Chv,48,95,7,180.373,29.938,Hendrick Motorsports,False,False,15,6,green
+Ryan Blaney,4023,Frd,12,98,5,180.373,29.938,Team Penske,False,False,17,5,green
+Chase Elliott,4062,Chv,9,75,3,180.361,29.940,Hendrick Motorsports,False,False,6,3,pitting in
+Alex Bowman,4045,Chv,48,96,7,180.361,29.940,Hendrick Motorsports,False,False,15,6,green
+Kyle Larson,4030,Chv,5,51,2,180.349,29.942,Hendrick Motorsports,False,False,1,1,green
+Cole Custer,4104,Frd,41,72,14,180.343,29.943,Stewart-Haas Racing,False,False,4,14,green
+Kyle Larson,4030,Chv,5,48,2,180.337,29.944,Hendrick Motorsports,False,False,1,1,green
+Cole Custer,4104,Frd,41,71,14,180.331,29.945,Stewart-Haas Racing,False,False,4,14,green
+Kyle Larson,4030,Chv,5,70,2,180.319,29.947,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,66,1,180.313,29.948,Hendrick Motorsports,False,False,8,7,green
+William Byron,4184,Chv,24,85,2,180.301,29.950,Hendrick Motorsports,False,False,8,7,green
+Christopher Bell,4153,Tyt,20,56,3,180.294,29.951,Joe Gibbs Racing,False,False,3,11,green
+William Byron,4184,Chv,24,58,1,180.288,29.952,Hendrick Motorsports,False,False,8,7,green
+Kyle Larson,4030,Chv,5,97,1,180.276,29.954,Hendrick Motorsports,False,False,1,1,green
+Kyle Larson,4030,Chv,5,57,2,180.270,29.955,Hendrick Motorsports,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,76,9,180.270,29.955,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,74,2,180.264,29.956,Hendrick Motorsports,False,False,1,1,green
+Chase Elliott,4062,Chv,9,82,1,180.252,29.958,Hendrick Motorsports,False,False,6,3,green
+Christopher Bell,4153,Tyt,20,60,4,180.252,29.958,Joe Gibbs Racing,False,False,3,11,pitting in
+Brad Keselowski,1816,Frd,2,100,2,180.252,29.958,Team Penske,False,False,9,2,pitting in
+Chase Elliott,4062,Chv,9,72,3,180.240,29.960,Hendrick Motorsports,False,False,6,3,green
+Brad Keselowski,1816,Frd,2,85,3,180.234,29.961,Team Penske,False,False,9,2,green
+William Byron,4184,Chv,24,71,1,180.234,29.961,Hendrick Motorsports,False,False,8,7,green
+Chase Elliott,4062,Chv,9,87,1,180.228,29.962,Hendrick Motorsports,False,False,6,3,green
+William Byron,4184,Chv,24,62,1,180.222,29.963,Hendrick Motorsports,False,False,8,7,green
+Kevin Harvick,1416,Frd,4,99,17,180.222,29.963,Stewart-Haas Racing,False,False,12,15,green
+Chase Elliott,4062,Chv,9,96,3,180.216,29.964,Hendrick Motorsports,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,89,7,180.216,29.964,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,87,2,180.216,29.964,Hendrick Motorsports,False,False,8,7,green
+Kyle Larson,4030,Chv,5,82,2,180.198,29.967,Hendrick Motorsports,False,False,1,1,green
+Chase Elliott,4062,Chv,9,65,3,180.180,29.970,Hendrick Motorsports,False,False,6,3,green
+Christopher Bell,4153,Tyt,20,77,19,180.180,29.970,Joe Gibbs Racing,False,False,3,11,green
+Kyle Larson,4030,Chv,5,98,1,180.180,29.970,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,83,2,180.174,29.971,Hendrick Motorsports,False,False,8,7,green
+William Byron,4184,Chv,24,84,2,180.168,29.972,Hendrick Motorsports,False,False,8,7,green
+Cole Custer,4104,Frd,41,70,14,180.156,29.974,Stewart-Haas Racing,False,False,4,14,green
+William Byron,4184,Chv,24,65,1,180.150,29.975,Hendrick Motorsports,False,False,8,7,green
+Ryan Blaney,4023,Frd,12,52,8,180.150,29.975,Team Penske,False,False,17,5,green
+Christopher Bell,4153,Tyt,20,64,21,180.144,29.976,Joe Gibbs Racing,False,False,3,11,green
+Denny Hamlin,1361,Tyt,11,87,7,180.144,29.976,Joe Gibbs Racing,False,False,16,21,green
+Chase Elliott,4062,Chv,9,94,3,180.138,29.977,Hendrick Motorsports,False,False,6,3,green
+Brad Keselowski,1816,Frd,2,97,2,180.138,29.977,Team Penske,False,False,9,2,green
+Kyle Larson,4030,Chv,5,60,2,180.114,29.981,Hendrick Motorsports,False,False,1,1,caution
+Brad Keselowski,1816,Frd,2,98,2,180.114,29.981,Team Penske,False,False,9,2,green
+William Byron,4184,Chv,24,63,1,180.108,29.982,Hendrick Motorsports,False,False,8,7,green
+Michael McDowell,3832,Frd,34,98,14,180.096,29.984,Front Row Motorsports,False,False,11,12,green
+William Byron,4184,Chv,24,60,1,180.090,29.985,Hendrick Motorsports,False,False,8,7,caution
+Denny Hamlin,1361,Tyt,11,67,12,180.090,29.985,Joe Gibbs Racing,False,False,16,21,green
+Ryan Blaney,4023,Frd,12,86,5,180.084,29.986,Team Penske,False,False,17,5,green
+Chase Elliott,4062,Chv,9,44,14,180.072,29.988,Hendrick Motorsports,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,55,4,180.066,29.989,Joe Gibbs Racing,False,False,16,21,green
+Chase Elliott,4062,Chv,9,85,1,180.060,29.990,Hendrick Motorsports,False,False,6,3,green
+Joey Logano,3859,Frd,22,94,4,180.060,29.990,Team Penske,False,False,7,4,green
+Alex Bowman,4045,Chv,48,51,6,180.060,29.990,Hendrick Motorsports,False,False,15,6,green
+Denny Hamlin,1361,Tyt,11,76,10,180.054,29.991,Joe Gibbs Racing,False,False,16,21,green
+Aric Almirola,40,Frd,10,58,9,180.036,29.994,Stewart-Haas Racing,False,False,20,8,green
+Chase Elliott,4062,Chv,9,57,5,180.036,29.994,Hendrick Motorsports,False,False,6,3,green
+William Byron,4184,Chv,24,49,1,180.030,29.995,Hendrick Motorsports,False,False,8,7,green
+Denny Hamlin,1361,Tyt,11,70,10,180.024,29.996,Joe Gibbs Racing,False,False,16,21,green
+Kurt Busch,453,Chv,1,84,9,180.024,29.996,Chip Ganassi Racing,False,False,13,10,green
+William Byron,4184,Chv,24,69,1,180.018,29.997,Hendrick Motorsports,False,False,8,7,green
+Martin Truex Jr.,3368,Tyt,19,98,13,180.012,29.998,Joe Gibbs Racing,False,False,10,13,green
+Ryan Blaney,4023,Frd,12,88,4,180.000,30.000,Team Penske,False,False,17,5,green
+Ryan Blaney,4023,Frd,12,95,5,180.000,30.000,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,58,2,179.994,30.001,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,68,1,179.982,30.003,Hendrick Motorsports,False,False,8,7,green
+Christopher Bell,4153,Tyt,20,68,19,179.982,30.003,Joe Gibbs Racing,False,False,3,11,green
+Joey Logano,3859,Frd,22,82,7,179.982,30.003,Team Penske,False,False,7,4,green
+Ryan Blaney,4023,Frd,12,56,7,179.976,30.004,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,54,2,179.970,30.005,Hendrick Motorsports,False,False,1,1,green
+Kyle Larson,4030,Chv,5,33,5,179.952,30.008,Hendrick Motorsports,False,False,1,1,green
+Chase Elliott,4062,Chv,9,68,3,179.946,30.009,Hendrick Motorsports,False,False,6,3,green
+Chase Elliott,4062,Chv,9,67,3,179.946,30.009,Hendrick Motorsports,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,60,3,179.940,30.010,Joe Gibbs Racing,False,False,16,21,pitting in
+Kyle Larson,4030,Chv,5,65,2,179.934,30.011,Hendrick Motorsports,False,False,1,1,green
+Chase Elliott,4062,Chv,9,99,3,179.934,30.011,Hendrick Motorsports,False,False,6,3,green
+Ryan Blaney,4023,Frd,12,69,10,179.928,30.012,Team Penske,False,False,17,5,green
+Alex Bowman,4045,Chv,48,94,7,179.928,30.012,Hendrick Motorsports,False,False,15,6,green
+Chase Elliott,4062,Chv,9,58,5,179.928,30.012,Hendrick Motorsports,False,False,6,3,green
+Kyle Larson,4030,Chv,5,86,3,179.922,30.013,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,67,19,179.916,30.014,Joe Gibbs Racing,False,False,3,11,green
+Denny Hamlin,1361,Tyt,11,69,11,179.910,30.015,Joe Gibbs Racing,False,False,16,21,green
+Ryan Blaney,4023,Frd,12,89,4,179.910,30.015,Team Penske,False,False,17,5,green
+Denny Hamlin,1361,Tyt,11,50,5,179.898,30.017,Joe Gibbs Racing,False,False,16,21,green
+Joey Logano,3859,Frd,22,89,6,179.898,30.017,Team Penske,False,False,7,4,green
+Christopher Bell,4153,Tyt,20,65,20,179.892,30.018,Joe Gibbs Racing,False,False,3,11,green
+Christopher Bell,4153,Tyt,20,78,19,179.886,30.019,Joe Gibbs Racing,False,False,3,11,green
+Denny Hamlin,1361,Tyt,11,88,7,179.886,30.019,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,75,1,179.886,30.019,Hendrick Motorsports,False,False,8,7,pitting in
+Denny Hamlin,1361,Tyt,11,59,3,179.880,30.020,Joe Gibbs Racing,False,False,16,21,green
+Aric Almirola,40,Frd,10,94,8,179.880,30.020,Stewart-Haas Racing,False,False,20,8,green
+Christopher Bell,4153,Tyt,20,54,3,179.868,30.022,Joe Gibbs Racing,False,False,3,11,green
+Ryan Blaney,4023,Frd,12,84,5,179.868,30.022,Team Penske,False,False,17,5,green
+Christopher Bell,4153,Tyt,20,51,3,179.868,30.022,Joe Gibbs Racing,False,False,3,11,green
+Kyle Larson,4030,Chv,5,100,1,179.862,30.023,Hendrick Motorsports,False,False,1,1,green
+Alex Bowman,4045,Chv,48,56,6,179.856,30.024,Hendrick Motorsports,False,False,15,6,green
+Ryan Blaney,4023,Frd,12,77,8,179.850,30.025,Team Penske,False,False,17,5,green
+Ryan Blaney,4023,Frd,12,59,6,179.850,30.025,Team Penske,False,False,17,5,green
+Ryan Blaney,4023,Frd,12,51,8,179.850,30.025,Team Penske,False,False,17,5,green
+Michael McDowell,3832,Frd,34,94,15,179.850,30.025,Front Row Motorsports,False,False,11,12,green
+Matt DiBenedetto,3916,Frd,21,50,4,179.838,30.027,Wood Brothers Racing,False,False,21,17,green
+Cole Custer,4104,Frd,41,63,10,179.832,30.028,Stewart-Haas Racing,False,False,4,14,green
+Christopher Bell,4153,Tyt,20,55,3,179.826,30.029,Joe Gibbs Racing,False,False,3,11,green
+Denny Hamlin,1361,Tyt,11,96,6,179.826,30.029,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,52,1,179.820,30.030,Hendrick Motorsports,False,False,8,7,green
+Alex Bowman,4045,Chv,48,66,4,179.820,30.030,Hendrick Motorsports,False,False,15,6,green
+Ryan Blaney,4023,Frd,12,60,6,179.814,30.031,Team Penske,False,False,17,5,caution
+Ryan Blaney,4023,Frd,12,68,10,179.814,30.031,Team Penske,False,False,17,5,green
+Chase Elliott,4062,Chv,9,83,1,179.808,30.032,Hendrick Motorsports,False,False,6,3,green
+Kurt Busch,453,Chv,1,77,11,179.808,30.032,Chip Ganassi Racing,False,False,13,10,green
+Chase Elliott,4062,Chv,9,71,3,179.802,30.033,Hendrick Motorsports,False,False,6,3,green
+Ryan Blaney,4023,Frd,12,94,5,179.796,30.034,Team Penske,False,False,17,5,green
+William Byron,4184,Chv,24,94,9,179.784,30.036,Hendrick Motorsports,False,False,8,7,green
+Joey Logano,3859,Frd,22,69,8,179.778,30.037,Team Penske,False,False,7,4,green
+Cole Custer,4104,Frd,41,7,4,179.778,30.037,Stewart-Haas Racing,False,False,4,14,green
+Joey Logano,3859,Frd,22,98,4,179.772,30.038,Team Penske,False,False,7,4,green
+Kyle Larson,4030,Chv,5,6,2,179.766,30.039,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,6,3,179.760,30.040,Hendrick Motorsports,False,False,8,7,green
+Joey Logano,3859,Frd,22,95,4,179.760,30.040,Team Penske,False,False,7,4,green
+Christopher Bell,4153,Tyt,20,49,3,179.754,30.041,Joe Gibbs Racing,False,False,3,11,green
+Chase Elliott,4062,Chv,9,7,5,179.736,30.044,Hendrick Motorsports,False,False,6,3,green
+Alex Bowman,4045,Chv,48,67,4,179.730,30.045,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,82,3,179.730,30.045,Hendrick Motorsports,False,False,8,7,green
+Kyle Larson,4030,Chv,5,56,2,179.724,30.046,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,76,19,179.724,30.046,Joe Gibbs Racing,False,False,3,11,green
+Ryan Blaney,4023,Frd,12,74,9,179.712,30.048,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,66,2,179.700,30.050,Hendrick Motorsports,False,False,1,1,green
+Chase Elliott,4062,Chv,9,63,3,179.700,30.050,Hendrick Motorsports,False,False,6,3,green
+Brad Keselowski,1816,Frd,2,93,2,179.695,30.051,Team Penske,False,False,9,2,green
+Christopher Bell,4153,Tyt,20,71,19,179.689,30.052,Joe Gibbs Racing,False,False,3,11,green
+Kyle Busch,454,Tyt,18,14,3,179.683,30.053,Joe Gibbs Racing,False,False,2,9,green
+Denny Hamlin,1361,Tyt,11,71,10,179.677,30.054,Joe Gibbs Racing,False,False,16,21,green
+Martin Truex Jr.,3368,Tyt,19,71,13,179.677,30.054,Joe Gibbs Racing,False,False,10,13,green
+Christopher Bell,4153,Tyt,20,69,19,179.671,30.055,Joe Gibbs Racing,False,False,3,11,green
+Joey Logano,3859,Frd,22,96,4,179.671,30.055,Team Penske,False,False,7,4,green
+William Byron,4184,Chv,24,98,8,179.671,30.055,Hendrick Motorsports,False,False,8,7,green
+Kyle Larson,4030,Chv,5,59,2,179.665,30.056,Hendrick Motorsports,False,False,1,1,green
+Kurt Busch,453,Chv,1,86,8,179.665,30.056,Chip Ganassi Racing,False,False,13,10,green
+Chase Elliott,4062,Chv,9,66,3,179.665,30.056,Hendrick Motorsports,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,34,11,179.659,30.057,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,51,1,179.641,30.060,Hendrick Motorsports,False,False,8,7,green
+Chase Elliott,4062,Chv,9,69,3,179.641,30.060,Hendrick Motorsports,False,False,6,3,green
+Kyle Larson,4030,Chv,5,88,3,179.641,30.060,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,72,19,179.635,30.061,Joe Gibbs Racing,False,False,3,11,green
+Kyle Larson,4030,Chv,5,67,2,179.629,30.062,Hendrick Motorsports,False,False,1,1,green
+Kurt Busch,453,Chv,1,78,10,179.629,30.062,Chip Ganassi Racing,False,False,13,10,green
+Ryan Blaney,4023,Frd,12,75,9,179.629,30.062,Team Penske,False,False,17,5,green
+Christopher Bell,4153,Tyt,20,75,19,179.623,30.063,Joe Gibbs Racing,False,False,3,11,green
+Alex Bowman,4045,Chv,48,86,9,179.623,30.063,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,55,1,179.617,30.064,Hendrick Motorsports,False,False,8,7,green
+Denny Hamlin,1361,Tyt,11,78,8,179.617,30.064,Joe Gibbs Racing,False,False,16,21,green
+Chase Elliott,4062,Chv,9,56,5,179.617,30.064,Hendrick Motorsports,False,False,6,3,green
+Matt DiBenedetto,3916,Frd,21,73,15,179.611,30.065,Wood Brothers Racing,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,74,10,179.611,30.065,Joe Gibbs Racing,False,False,16,21,green
+Kyle Larson,4030,Chv,5,40,6,179.611,30.065,Hendrick Motorsports,False,False,1,1,green
+Kyle Larson,4030,Chv,5,55,2,179.611,30.065,Hendrick Motorsports,False,False,1,1,green
+Brad Keselowski,1816,Frd,2,70,5,179.611,30.065,Team Penske,False,False,9,2,green
+Kyle Larson,4030,Chv,5,89,3,179.605,30.066,Hendrick Motorsports,False,False,1,1,green
+Denny Hamlin,1361,Tyt,11,72,10,179.599,30.067,Joe Gibbs Racing,False,False,16,21,green
+Aric Almirola,40,Frd,10,83,11,179.587,30.069,Stewart-Haas Racing,False,False,20,8,green
+Joey Logano,3859,Frd,22,93,4,179.581,30.070,Team Penske,False,False,7,4,green
+Brad Keselowski,1816,Frd,2,66,6,179.581,30.070,Team Penske,False,False,9,2,green
+Chase Elliott,4062,Chv,9,70,3,179.575,30.071,Hendrick Motorsports,False,False,6,3,green
+Kyle Larson,4030,Chv,5,75,2,179.575,30.071,Hendrick Motorsports,False,False,1,1,pitting in
+William Byron,4184,Chv,24,73,1,179.575,30.071,Hendrick Motorsports,False,False,8,7,green
+William Byron,4184,Chv,24,78,5,179.569,30.072,Hendrick Motorsports,False,False,8,7,green
+Kevin Harvick,1416,Frd,4,64,15,179.569,30.072,Stewart-Haas Racing,False,False,12,15,green
+Alex Bowman,4045,Chv,48,72,4,179.569,30.072,Hendrick Motorsports,False,False,15,6,green
+Christopher Bell,4153,Tyt,20,70,19,179.557,30.074,Joe Gibbs Racing,False,False,3,11,green
+Ryan Blaney,4023,Frd,12,57,6,179.557,30.074,Team Penske,False,False,17,5,green
+Chase Elliott,4062,Chv,9,73,3,179.551,30.075,Hendrick Motorsports,False,False,6,3,green
+William Byron,4184,Chv,24,40,11,179.551,30.075,Hendrick Motorsports,False,False,8,7,green
+Alex Bowman,4045,Chv,48,64,5,179.551,30.075,Hendrick Motorsports,False,False,15,6,green
+Kyle Busch,454,Tyt,18,5,1,179.527,30.079,Joe Gibbs Racing,False,False,2,9,green
+Kurt Busch,453,Chv,1,75,11,179.527,30.079,Chip Ganassi Racing,False,False,13,10,green
+Cole Custer,4104,Frd,41,49,14,179.521,30.080,Stewart-Haas Racing,False,False,4,14,green
+Chase Elliott,4062,Chv,9,14,4,179.515,30.081,Hendrick Motorsports,False,False,6,3,green
+Kyle Busch,454,Tyt,18,97,11,179.509,30.082,Joe Gibbs Racing,False,False,2,9,green
+Ryan Blaney,4023,Frd,12,71,9,179.491,30.085,Team Penske,False,False,17,5,green
+William Byron,4184,Chv,24,70,1,179.491,30.085,Hendrick Motorsports,False,False,8,7,green
+William Byron,4184,Chv,24,35,13,179.491,30.085,Hendrick Motorsports,False,False,8,7,green
+Kurt Busch,453,Chv,1,87,8,179.485,30.086,Chip Ganassi Racing,False,False,13,10,green
+Ryan Blaney,4023,Frd,12,82,5,179.480,30.087,Team Penske,False,False,17,5,green
+Cole Custer,4104,Frd,41,73,14,179.480,30.087,Stewart-Haas Racing,False,False,4,14,green
+Chase Elliott,4062,Chv,9,54,5,179.480,30.087,Hendrick Motorsports,False,False,6,3,green
+Joey Logano,3859,Frd,22,88,6,179.474,30.088,Team Penske,False,False,7,4,green
+Ryan Blaney,4023,Frd,12,42,14,179.474,30.088,Team Penske,False,False,17,5,green
+Ryan Blaney,4023,Frd,12,37,18,179.468,30.089,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,73,2,179.468,30.089,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,59,1,179.462,30.090,Hendrick Motorsports,False,False,8,7,green
+Alex Bowman,4045,Chv,48,87,9,179.462,30.090,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,74,1,179.456,30.091,Hendrick Motorsports,False,False,8,7,green
+Denny Hamlin,1361,Tyt,11,58,3,179.456,30.091,Joe Gibbs Racing,False,False,16,21,green
+Christopher Bell,4153,Tyt,20,43,7,179.450,30.092,Joe Gibbs Racing,False,False,3,11,green
+Joey Logano,3859,Frd,22,86,6,179.450,30.092,Team Penske,False,False,7,4,green
+Kurt Busch,453,Chv,1,97,10,179.450,30.092,Chip Ganassi Racing,False,False,13,10,green
+William Byron,4184,Chv,24,56,1,179.444,30.093,Hendrick Motorsports,False,False,8,7,green
+Chase Elliott,4062,Chv,9,93,3,179.444,30.093,Hendrick Motorsports,False,False,6,3,green
+William Byron,4184,Chv,24,72,1,179.432,30.095,Hendrick Motorsports,False,False,8,7,green
+Christopher Bell,4153,Tyt,20,74,19,179.432,30.095,Joe Gibbs Racing,False,False,3,11,green
+Alex Bowman,4045,Chv,48,90,8,179.426,30.096,Hendrick Motorsports,False,False,15,6,caution
+Kevin Harvick,1416,Frd,4,77,12,179.420,30.097,Stewart-Haas Racing,False,False,12,15,green
+William Byron,4184,Chv,24,67,1,179.414,30.098,Hendrick Motorsports,False,False,8,7,green
+Joey Logano,3859,Frd,22,87,6,179.402,30.100,Team Penske,False,False,7,4,green
+Ryan Blaney,4023,Frd,12,93,5,179.402,30.100,Team Penske,False,False,17,5,green
+Ryan Blaney,4023,Frd,12,36,19,179.396,30.101,Team Penske,False,False,17,5,green
+William Byron,4184,Chv,24,50,1,179.396,30.101,Hendrick Motorsports,False,False,8,7,green
+Brad Keselowski,1816,Frd,2,87,5,179.390,30.102,Team Penske,False,False,9,2,green
+Tyler Reddick,4065,Chv,8,66,18,179.390,30.102,Richard Childress Racing,False,False,19,16,green
+Austin Dillon,3873,Chv,3,82,21,179.390,30.102,Richard Childress Racing,False,False,5,19,green
+Kyle Larson,4030,Chv,5,69,2,179.384,30.103,Hendrick Motorsports,False,False,1,1,green
+Alex Bowman,4045,Chv,48,99,6,179.384,30.103,Hendrick Motorsports,False,False,15,6,green
+Denny Hamlin,1361,Tyt,11,57,4,179.378,30.104,Joe Gibbs Racing,False,False,16,21,green
+Kyle Larson,4030,Chv,5,99,1,179.378,30.104,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,73,19,179.378,30.104,Joe Gibbs Racing,False,False,3,11,green
+Brad Keselowski,1816,Frd,2,72,5,179.372,30.105,Team Penske,False,False,9,2,green
+Chase Elliott,4062,Chv,9,36,16,179.366,30.106,Hendrick Motorsports,False,False,6,3,green
+Alex Bowman,4045,Chv,48,75,4,179.366,30.106,Hendrick Motorsports,False,False,15,6,pitting in
+Alex Bowman,4045,Chv,48,65,4,179.360,30.107,Hendrick Motorsports,False,False,15,6,green
+Alex Bowman,4045,Chv,48,74,4,179.348,30.109,Hendrick Motorsports,False,False,15,6,green
+Alex Bowman,4045,Chv,48,33,4,179.342,30.110,Hendrick Motorsports,False,False,15,6,green
+Chase Elliott,4062,Chv,9,9,5,179.342,30.110,Hendrick Motorsports,False,False,6,3,green
+Kevin Harvick,1416,Frd,4,65,14,179.336,30.111,Stewart-Haas Racing,False,False,12,15,green
+Kyle Larson,4030,Chv,5,78,6,179.330,30.112,Hendrick Motorsports,False,False,1,1,green
+Alex Bowman,4045,Chv,48,58,7,179.325,30.113,Hendrick Motorsports,False,False,15,6,green
+Brad Keselowski,1816,Frd,2,71,5,179.319,30.114,Team Penske,False,False,9,2,green
+Chase Elliott,4062,Chv,9,43,15,179.319,30.114,Hendrick Motorsports,False,False,6,3,green
+Alex Bowman,4045,Chv,48,98,6,179.319,30.114,Hendrick Motorsports,False,False,15,6,green
+Tyler Reddick,4065,Chv,8,97,16,179.313,30.115,Richard Childress Racing,False,False,19,16,green
+Denny Hamlin,1361,Tyt,11,93,6,179.313,30.115,Joe Gibbs Racing,False,False,16,21,green
+Kyle Larson,4030,Chv,5,52,2,179.307,30.116,Hendrick Motorsports,False,False,1,1,green
+Cole Custer,4104,Frd,41,9,4,179.307,30.116,Stewart-Haas Racing,False,False,4,14,green
+Alex Bowman,4045,Chv,48,73,4,179.301,30.117,Hendrick Motorsports,False,False,15,6,green
+Alex Bowman,4045,Chv,48,100,6,179.301,30.117,Hendrick Motorsports,False,False,15,6,pitting in
+Chase Elliott,4062,Chv,9,88,1,179.289,30.119,Hendrick Motorsports,False,False,6,3,green
+Joey Logano,3859,Frd,22,70,7,179.289,30.119,Team Penske,False,False,7,4,green
+Kyle Larson,4030,Chv,5,90,3,179.283,30.120,Hendrick Motorsports,False,False,1,1,caution
+Kyle Larson,4030,Chv,5,5,2,179.283,30.120,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,97,12,179.283,30.120,Joe Gibbs Racing,False,False,3,11,green
+William Byron,4184,Chv,24,34,14,179.265,30.123,Hendrick Motorsports,False,False,8,7,green
+Christopher Bell,4153,Tyt,20,96,12,179.253,30.125,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,72,13,179.253,30.125,Joe Gibbs Racing,False,False,10,13,green
+Joey Logano,3859,Frd,22,90,6,179.247,30.126,Team Penske,False,False,7,4,caution
+Cole Custer,4104,Frd,41,74,14,179.235,30.128,Stewart-Haas Racing,False,False,4,14,green
+Chase Elliott,4062,Chv,9,8,5,179.235,30.128,Hendrick Motorsports,False,False,6,3,green
+Christopher Bell,4153,Tyt,20,50,3,179.223,30.130,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,96,13,179.217,30.131,Joe Gibbs Racing,False,False,10,13,green
+Chase Elliott,4062,Chv,9,89,1,179.217,30.131,Hendrick Motorsports,False,False,6,3,green
+Aric Almirola,40,Frd,10,60,9,179.217,30.131,Stewart-Haas Racing,False,False,20,8,caution
+Ryan Blaney,4023,Frd,12,90,4,179.211,30.132,Team Penske,False,False,17,5,caution
+Alex Bowman,4045,Chv,48,38,1,179.211,30.132,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,4,4,179.211,30.132,Hendrick Motorsports,False,False,8,7,green
+Kurt Busch,453,Chv,1,66,5,179.206,30.133,Chip Ganassi Racing,False,False,13,10,green
+Brad Keselowski,1816,Frd,2,74,5,179.200,30.134,Team Penske,False,False,9,2,green
+Cole Custer,4104,Frd,41,75,14,179.194,30.135,Stewart-Haas Racing,False,False,4,14,green
+Aric Almirola,40,Frd,10,45,3,179.188,30.136,Stewart-Haas Racing,False,False,20,8,caution
+Kevin Harvick,1416,Frd,4,78,11,179.182,30.137,Stewart-Haas Racing,False,False,12,15,green
+Kyle Busch,454,Tyt,18,3,1,179.176,30.138,Joe Gibbs Racing,False,False,2,9,green
+Tyler Reddick,4065,Chv,8,65,19,179.176,30.138,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,78,13,179.176,30.138,Stewart-Haas Racing,False,False,4,14,green
+Tyler Reddick,4065,Chv,8,72,18,179.170,30.139,Richard Childress Racing,False,False,19,16,green
+Alex Bowman,4045,Chv,48,37,1,179.164,30.140,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,41,10,179.164,30.140,Hendrick Motorsports,False,False,8,7,green
+Tyler Reddick,4065,Chv,8,99,16,179.158,30.141,Richard Childress Racing,False,False,19,16,green
+Joey Logano,3859,Frd,22,100,4,179.158,30.141,Team Penske,False,False,7,4,pitting in
+Christopher Bell,4153,Tyt,20,48,3,179.158,30.141,Joe Gibbs Racing,False,False,3,11,green
+Denny Hamlin,1361,Tyt,11,23,8,179.152,30.142,Joe Gibbs Racing,False,False,16,21,green
+William Byron,4184,Chv,24,54,1,179.152,30.142,Hendrick Motorsports,False,False,8,7,green
+Aric Almirola,40,Frd,10,33,3,179.146,30.143,Stewart-Haas Racing,False,False,20,8,green
+Michael McDowell,3832,Frd,34,73,17,179.146,30.143,Front Row Motorsports,False,False,11,12,green
+Chase Elliott,4062,Chv,9,64,3,179.146,30.143,Hendrick Motorsports,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,38,7,179.140,30.144,Joe Gibbs Racing,False,False,16,21,green
+Kyle Busch,454,Tyt,18,76,20,179.140,30.144,Joe Gibbs Racing,False,False,2,9,green
+Ryan Blaney,4023,Frd,12,55,7,179.134,30.145,Team Penske,False,False,17,5,green
+Alex Bowman,4045,Chv,48,43,1,179.134,30.145,Hendrick Motorsports,False,False,15,6,green
+Christopher Bell,4153,Tyt,20,98,12,179.134,30.145,Joe Gibbs Racing,False,False,3,11,green
+Kevin Harvick,1416,Frd,4,69,12,179.116,30.148,Stewart-Haas Racing,False,False,12,15,green
+Chase Elliott,4062,Chv,9,53,5,179.110,30.149,Hendrick Motorsports,False,False,6,3,green
+Kevin Harvick,1416,Frd,4,70,12,179.104,30.150,Stewart-Haas Racing,False,False,12,15,green
+Brad Keselowski,1816,Frd,2,75,5,179.104,30.150,Team Penske,False,False,9,2,green
+Kurt Busch,453,Chv,1,49,13,179.104,30.150,Chip Ganassi Racing,False,False,13,10,green
+Christopher Bell,4153,Tyt,20,63,21,179.099,30.151,Joe Gibbs Racing,False,False,3,11,green
+Matt DiBenedetto,3916,Frd,21,72,15,179.093,30.152,Wood Brothers Racing,False,False,21,17,green
+Chase Elliott,4062,Chv,9,12,4,179.087,30.153,Hendrick Motorsports,False,False,6,3,green
+Ryan Blaney,4023,Frd,12,54,7,179.087,30.153,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,50,2,179.087,30.153,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,81,2,179.087,30.153,Hendrick Motorsports,False,False,8,7,green
+Michael McDowell,3832,Frd,34,72,17,179.081,30.154,Front Row Motorsports,False,False,11,12,green
+Christopher Bell,4153,Tyt,20,66,19,179.075,30.155,Joe Gibbs Racing,False,False,3,11,green
+Matt DiBenedetto,3916,Frd,21,66,17,179.075,30.155,Wood Brothers Racing,False,False,21,17,green
+Kyle Busch,454,Tyt,18,64,13,179.069,30.156,Joe Gibbs Racing,False,False,2,9,green
+Martin Truex Jr.,3368,Tyt,19,77,13,179.069,30.156,Joe Gibbs Racing,False,False,10,13,green
+Kurt Busch,453,Chv,1,76,11,179.069,30.156,Chip Ganassi Racing,False,False,13,10,green
+Kurt Busch,453,Chv,1,100,10,179.063,30.157,Chip Ganassi Racing,False,False,13,10,pitting in
+Denny Hamlin,1361,Tyt,11,98,7,179.057,30.158,Joe Gibbs Racing,False,False,16,21,green
+Alex Bowman,4045,Chv,48,97,6,179.051,30.159,Hendrick Motorsports,False,False,15,6,green
+Cole Custer,4104,Frd,41,76,14,179.051,30.159,Stewart-Haas Racing,False,False,4,14,green
+Brad Keselowski,1816,Frd,2,76,1,179.051,30.159,Team Penske,False,False,9,2,green
+Chase Elliott,4062,Chv,9,50,7,179.051,30.159,Hendrick Motorsports,False,False,6,3,green
+Kyle Busch,454,Tyt,18,100,9,179.045,30.160,Joe Gibbs Racing,False,False,2,9,pitting in
+William Byron,4184,Chv,24,47,1,179.039,30.161,Hendrick Motorsports,False,False,8,7,green
+Ryan Blaney,4023,Frd,12,70,9,179.033,30.162,Team Penske,False,False,17,5,green
+Kevin Harvick,1416,Frd,4,97,17,179.033,30.162,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,83,10,179.021,30.164,Chip Ganassi Racing,False,False,13,10,green
+Ryan Blaney,4023,Frd,12,97,5,179.021,30.164,Team Penske,False,False,17,5,green
+Matt DiBenedetto,3916,Frd,21,71,15,179.021,30.164,Wood Brothers Racing,False,False,21,17,green
+Kyle Larson,4030,Chv,5,4,2,179.021,30.164,Hendrick Motorsports,False,False,1,1,green
+Joey Logano,3859,Frd,22,99,4,179.021,30.164,Team Penske,False,False,7,4,green
+Alex Bowman,4045,Chv,48,44,1,179.015,30.165,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,53,1,179.015,30.165,Hendrick Motorsports,False,False,8,7,green
+Kyle Busch,454,Tyt,18,70,20,179.015,30.165,Joe Gibbs Racing,False,False,2,9,green
+Ryan Blaney,4023,Frd,12,73,9,179.015,30.165,Team Penske,False,False,17,5,green
+Michael McDowell,3832,Frd,34,60,12,179.009,30.166,Front Row Motorsports,False,False,11,12,pitting in
+Kyle Busch,454,Tyt,18,98,11,179.004,30.167,Joe Gibbs Racing,False,False,2,9,green
+Aric Almirola,40,Frd,10,73,8,179.004,30.167,Stewart-Haas Racing,False,False,20,8,green
+Brad Keselowski,1816,Frd,2,92,1,178.998,30.168,Team Penske,False,False,9,2,green
+Kurt Busch,453,Chv,1,88,8,178.998,30.168,Chip Ganassi Racing,False,False,13,10,green
+Martin Truex Jr.,3368,Tyt,19,68,13,178.998,30.168,Joe Gibbs Racing,False,False,10,13,green
+Aric Almirola,40,Frd,10,35,4,178.992,30.169,Stewart-Haas Racing,False,False,20,8,green
+Chase Elliott,4062,Chv,9,60,5,178.992,30.169,Hendrick Motorsports,False,False,6,3,caution
+Matt DiBenedetto,3916,Frd,21,49,4,178.986,30.170,Wood Brothers Racing,False,False,21,17,green
+William Byron,4184,Chv,24,14,2,178.986,30.170,Hendrick Motorsports,False,False,8,7,green
+Christopher Bell,4153,Tyt,20,57,3,178.986,30.170,Joe Gibbs Racing,False,False,3,11,green
+Ross Chastain,4001,Chv,42,75,7,178.986,30.170,Chip Ganassi Racing,False,False,18,18,green
+Christopher Bell,4153,Tyt,20,52,3,178.986,30.170,Joe Gibbs Racing,False,False,3,11,green
+Ryan Newman,2394,Frd,6,72,16,178.986,30.170,Roush Fenway Racing,False,False,14,20,green
+Kyle Larson,4030,Chv,5,7,1,178.980,30.171,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,9,3,178.974,30.172,Hendrick Motorsports,False,False,8,7,green
+Alex Bowman,4045,Chv,48,69,4,178.968,30.173,Hendrick Motorsports,False,False,15,6,green
+Kyle Busch,454,Tyt,18,35,14,178.962,30.174,Joe Gibbs Racing,False,False,2,9,green
+Kevin Harvick,1416,Frd,4,43,10,178.962,30.174,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,99,13,178.956,30.175,Joe Gibbs Racing,False,False,10,13,green
+Kyle Busch,454,Tyt,18,73,20,178.956,30.175,Joe Gibbs Racing,False,False,2,9,green
+Chase Elliott,4062,Chv,9,55,5,178.956,30.175,Hendrick Motorsports,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,49,5,178.950,30.176,Joe Gibbs Racing,False,False,16,21,green
+Brad Keselowski,1816,Frd,2,68,5,178.950,30.176,Team Penske,False,False,9,2,green
+Joey Logano,3859,Frd,22,76,2,178.950,30.176,Team Penske,False,False,7,4,green
+Ryan Blaney,4023,Frd,12,44,13,178.950,30.176,Team Penske,False,False,17,5,green
+Ryan Blaney,4023,Frd,12,96,5,178.944,30.177,Team Penske,False,False,17,5,green
+Kevin Harvick,1416,Frd,4,66,13,178.944,30.177,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,95,10,178.944,30.177,Chip Ganassi Racing,False,False,13,10,green
+Alex Bowman,4045,Chv,48,54,6,178.938,30.178,Hendrick Motorsports,False,False,15,6,green
+Kurt Busch,453,Chv,1,74,11,178.938,30.178,Chip Ganassi Racing,False,False,13,10,green
+Cole Custer,4104,Frd,41,64,10,178.938,30.178,Stewart-Haas Racing,False,False,4,14,green
+Alex Bowman,4045,Chv,48,55,6,178.932,30.179,Hendrick Motorsports,False,False,15,6,green
+Kevin Harvick,1416,Frd,4,44,10,178.932,30.179,Stewart-Haas Racing,False,False,12,15,green
+Cole Custer,4104,Frd,41,77,14,178.932,30.179,Stewart-Haas Racing,False,False,4,14,green
+Denny Hamlin,1361,Tyt,11,94,6,178.926,30.180,Joe Gibbs Racing,False,False,16,21,green
+Cole Custer,4104,Frd,41,8,4,178.915,30.182,Stewart-Haas Racing,False,False,4,14,green
+Ryan Blaney,4023,Frd,12,78,7,178.915,30.182,Team Penske,False,False,17,5,green
+Chase Elliott,4062,Chv,9,81,1,178.909,30.183,Hendrick Motorsports,False,False,6,3,green
+Chase Elliott,4062,Chv,9,48,9,178.903,30.184,Hendrick Motorsports,False,False,6,3,green
+Ryan Blaney,4023,Frd,12,72,9,178.897,30.185,Team Penske,False,False,17,5,green
+Kevin Harvick,1416,Frd,4,84,14,178.897,30.185,Stewart-Haas Racing,False,False,12,15,green
+Denny Hamlin,1361,Tyt,11,63,14,178.897,30.185,Joe Gibbs Racing,False,False,16,21,green
+Kurt Busch,453,Chv,1,89,8,178.891,30.186,Chip Ganassi Racing,False,False,13,10,green
+Brad Keselowski,1816,Frd,2,73,5,178.891,30.186,Team Penske,False,False,9,2,green
+Joey Logano,3859,Frd,22,65,10,178.891,30.186,Team Penske,False,False,7,4,green
+Matt DiBenedetto,3916,Frd,21,64,19,178.891,30.186,Wood Brothers Racing,False,False,21,17,green
+Aric Almirola,40,Frd,10,95,9,178.879,30.188,Stewart-Haas Racing,False,False,20,8,green
+Brad Keselowski,1816,Frd,2,52,14,178.873,30.189,Team Penske,False,False,9,2,green
+Matt DiBenedetto,3916,Frd,21,34,1,178.867,30.190,Wood Brothers Racing,False,False,21,17,green
+Aric Almirola,40,Frd,10,100,8,178.867,30.190,Stewart-Haas Racing,False,False,20,8,pitting in
+Brad Keselowski,1816,Frd,2,69,5,178.861,30.191,Team Penske,False,False,9,2,green
+Alex Bowman,4045,Chv,48,35,3,178.861,30.191,Hendrick Motorsports,False,False,15,6,green
+Aric Almirola,40,Frd,10,39,3,178.855,30.192,Stewart-Haas Racing,False,False,20,8,green
+Tyler Reddick,4065,Chv,8,69,18,178.849,30.193,Richard Childress Racing,False,False,19,16,green
+Martin Truex Jr.,3368,Tyt,19,70,13,178.843,30.194,Joe Gibbs Racing,False,False,10,13,green
+Kurt Busch,453,Chv,1,52,13,178.838,30.195,Chip Ganassi Racing,False,False,13,10,green
+Kyle Busch,454,Tyt,18,6,1,178.838,30.195,Joe Gibbs Racing,False,False,2,9,green
+Matt DiBenedetto,3916,Frd,21,74,15,178.832,30.196,Wood Brothers Racing,False,False,21,17,green
+Kyle Larson,4030,Chv,5,62,2,178.832,30.196,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,5,3,178.832,30.196,Hendrick Motorsports,False,False,8,7,green
+Ryan Blaney,4023,Frd,12,100,5,178.826,30.197,Team Penske,False,False,17,5,pitting in
+Joey Logano,3859,Frd,22,75,6,178.820,30.198,Team Penske,False,False,7,4,green
+Brad Keselowski,1816,Frd,2,4,8,178.814,30.199,Team Penske,False,False,9,2,green
+Martin Truex Jr.,3368,Tyt,19,78,12,178.814,30.199,Joe Gibbs Racing,False,False,10,13,green
+Alex Bowman,4045,Chv,48,68,4,178.808,30.200,Hendrick Motorsports,False,False,15,6,green
+Brad Keselowski,1816,Frd,2,90,5,178.808,30.200,Team Penske,False,False,9,2,caution
+Brad Keselowski,1816,Frd,2,82,4,178.802,30.201,Team Penske,False,False,9,2,green
+Tyler Reddick,4065,Chv,8,70,18,178.802,30.201,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,29,8,178.796,30.202,Stewart-Haas Racing,False,False,4,14,green
+Ross Chastain,4001,Chv,42,76,3,178.796,30.202,Chip Ganassi Racing,False,False,18,18,pitting in
+Martin Truex Jr.,3368,Tyt,19,84,15,178.790,30.203,Joe Gibbs Racing,False,False,10,13,green
+Brad Keselowski,1816,Frd,2,67,5,178.784,30.204,Team Penske,False,False,9,2,green
+Kurt Busch,453,Chv,1,58,11,178.772,30.206,Chip Ganassi Racing,False,False,13,10,green
+Kyle Busch,454,Tyt,18,96,11,178.772,30.206,Joe Gibbs Racing,False,False,2,9,green
+Joey Logano,3859,Frd,22,77,2,178.761,30.208,Team Penske,False,False,7,4,pitting in
+Denny Hamlin,1361,Tyt,11,90,7,178.755,30.209,Joe Gibbs Racing,False,False,16,21,caution
+Austin Dillon,3873,Chv,3,10,6,178.749,30.210,Richard Childress Racing,False,False,5,19,green
+Kyle Busch,454,Tyt,18,99,10,178.749,30.210,Joe Gibbs Racing,False,False,2,9,green
+Kyle Larson,4030,Chv,5,81,4,178.743,30.211,Hendrick Motorsports,False,False,1,1,green
+Austin Dillon,3873,Chv,3,7,6,178.743,30.211,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,70,4,178.743,30.211,Hendrick Motorsports,False,False,15,6,green
+Aric Almirola,40,Frd,10,57,10,178.731,30.213,Stewart-Haas Racing,False,False,20,8,green
+Alex Bowman,4045,Chv,48,82,6,178.731,30.213,Hendrick Motorsports,False,False,15,6,green
+Kevin Harvick,1416,Frd,4,34,8,178.731,30.213,Stewart-Haas Racing,False,False,12,15,green
+Kevin Harvick,1416,Frd,4,74,12,178.731,30.213,Stewart-Haas Racing,False,False,12,15,green
+Aric Almirola,40,Frd,10,37,4,178.725,30.214,Stewart-Haas Racing,False,False,20,8,green
+Austin Dillon,3873,Chv,3,45,11,178.719,30.215,Richard Childress Racing,False,False,5,19,caution
+Aric Almirola,40,Frd,10,64,9,178.719,30.215,Stewart-Haas Racing,False,False,20,8,green
+Martin Truex Jr.,3368,Tyt,19,69,13,178.713,30.216,Joe Gibbs Racing,False,False,10,13,green
+Brad Keselowski,1816,Frd,2,99,2,178.707,30.217,Team Penske,False,False,9,2,green
+Chase Elliott,4062,Chv,9,10,4,178.707,30.217,Hendrick Motorsports,False,False,6,3,green
+Ross Chastain,4001,Chv,42,67,7,178.701,30.218,Chip Ganassi Racing,False,False,18,18,green
+Michael McDowell,3832,Frd,34,40,4,178.684,30.221,Front Row Motorsports,False,False,11,12,green
+Michael McDowell,3832,Frd,34,100,12,178.684,30.221,Front Row Motorsports,False,False,11,12,pitting in
+Aric Almirola,40,Frd,10,99,9,178.684,30.221,Stewart-Haas Racing,False,False,20,8,green
+Aric Almirola,40,Frd,10,41,3,178.684,30.221,Stewart-Haas Racing,False,False,20,8,green
+Alex Bowman,4045,Chv,48,39,1,178.684,30.221,Hendrick Motorsports,False,False,15,6,green
+Joey Logano,3859,Frd,22,97,4,178.678,30.222,Team Penske,False,False,7,4,green
+Aric Almirola,40,Frd,10,40,3,178.678,30.222,Stewart-Haas Racing,False,False,20,8,green
+Denny Hamlin,1361,Tyt,11,99,7,178.672,30.223,Joe Gibbs Racing,False,False,16,21,pitting in
+Ryan Newman,2394,Frd,6,73,16,178.672,30.223,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,6,4,178.672,30.223,Stewart-Haas Racing,False,False,4,14,green
+Kurt Busch,453,Chv,1,96,10,178.672,30.223,Chip Ganassi Racing,False,False,13,10,green
+Kevin Harvick,1416,Frd,4,83,14,178.672,30.223,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,75,15,178.666,30.224,Wood Brothers Racing,False,False,21,17,green
+Kevin Harvick,1416,Frd,4,41,9,178.666,30.224,Stewart-Haas Racing,False,False,12,15,green
+Cole Custer,4104,Frd,41,4,3,178.660,30.225,Stewart-Haas Racing,False,False,4,14,green
+Denny Hamlin,1361,Tyt,11,73,10,178.660,30.225,Joe Gibbs Racing,False,False,16,21,green
+Joey Logano,3859,Frd,22,71,6,178.654,30.226,Team Penske,False,False,7,4,green
+Alex Bowman,4045,Chv,48,71,4,178.654,30.226,Hendrick Motorsports,False,False,15,6,green
+Denny Hamlin,1361,Tyt,11,83,8,178.648,30.227,Joe Gibbs Racing,False,False,16,21,green
+Ryan Blaney,4023,Frd,12,41,14,178.642,30.228,Team Penske,False,False,17,5,green
+Kyle Busch,454,Tyt,18,8,2,178.636,30.229,Joe Gibbs Racing,False,False,2,9,green
+Alex Bowman,4045,Chv,48,40,1,178.636,30.229,Hendrick Motorsports,False,False,15,6,green
+Brad Keselowski,1816,Frd,2,25,2,178.636,30.229,Team Penske,False,False,9,2,green
+Michael McDowell,3832,Frd,34,34,2,178.630,30.230,Front Row Motorsports,False,False,11,12,green
+Alex Bowman,4045,Chv,48,78,9,178.630,30.230,Hendrick Motorsports,False,False,15,6,green
+Tyler Reddick,4065,Chv,8,78,18,178.630,30.230,Richard Childress Racing,False,False,19,16,green
+Kyle Busch,454,Tyt,18,24,5,178.625,30.231,Joe Gibbs Racing,False,False,2,9,green
+Kyle Busch,454,Tyt,18,68,20,178.619,30.232,Joe Gibbs Racing,False,False,2,9,green
+Kyle Larson,4030,Chv,5,35,5,178.613,30.233,Hendrick Motorsports,False,False,1,1,green
+Kyle Busch,454,Tyt,18,21,6,178.607,30.234,Joe Gibbs Racing,False,False,2,9,green
+Christopher Bell,4153,Tyt,20,83,13,178.607,30.234,Joe Gibbs Racing,False,False,3,11,green
+Cole Custer,4104,Frd,41,55,15,178.607,30.234,Stewart-Haas Racing,False,False,4,14,green
+Kurt Busch,453,Chv,1,59,11,178.601,30.235,Chip Ganassi Racing,False,False,13,10,green
+Kurt Busch,453,Chv,1,36,20,178.595,30.236,Chip Ganassi Racing,False,False,13,10,green
+Ryan Newman,2394,Frd,6,86,17,178.595,30.236,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,57,14,178.589,30.237,Stewart-Haas Racing,False,False,4,14,green
+Tyler Reddick,4065,Chv,8,76,18,178.589,30.237,Richard Childress Racing,False,False,19,16,green
+Tyler Reddick,4065,Chv,8,44,12,178.589,30.237,Richard Childress Racing,False,False,19,16,green
+Kyle Larson,4030,Chv,5,11,1,178.583,30.238,Hendrick Motorsports,False,False,1,1,green
+Michael McDowell,3832,Frd,34,65,16,178.583,30.238,Front Row Motorsports,False,False,11,12,green
+Kevin Harvick,1416,Frd,4,67,13,178.577,30.239,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,74,13,178.571,30.240,Joe Gibbs Racing,False,False,10,13,green
+Christopher Bell,4153,Tyt,20,95,12,178.571,30.240,Joe Gibbs Racing,False,False,3,11,green
+Christopher Bell,4153,Tyt,20,84,12,178.566,30.241,Joe Gibbs Racing,False,False,3,11,green
+Joey Logano,3859,Frd,22,83,7,178.560,30.242,Team Penske,False,False,7,4,green
+Ross Chastain,4001,Chv,42,5,14,178.548,30.244,Chip Ganassi Racing,False,False,18,18,green
+Ryan Blaney,4023,Frd,12,6,11,178.548,30.244,Team Penske,False,False,17,5,green
+Joey Logano,3859,Frd,22,85,6,178.542,30.245,Team Penske,False,False,7,4,green
+Tyler Reddick,4065,Chv,8,75,18,178.542,30.245,Richard Childress Racing,False,False,19,16,green
+Aric Almirola,40,Frd,10,68,8,178.536,30.246,Stewart-Haas Racing,False,False,20,8,green
+William Byron,4184,Chv,24,7,3,178.530,30.247,Hendrick Motorsports,False,False,8,7,green
+Alex Bowman,4045,Chv,48,45,1,178.530,30.247,Hendrick Motorsports,False,False,15,6,caution
+Ryan Newman,2394,Frd,6,40,5,178.530,30.247,Roush Fenway Racing,False,False,14,20,green
+Martin Truex Jr.,3368,Tyt,19,67,14,178.530,30.247,Joe Gibbs Racing,False,False,10,13,green
+Michael McDowell,3832,Frd,34,43,4,178.530,30.247,Front Row Motorsports,False,False,11,12,green
+Christopher Bell,4153,Tyt,20,34,7,178.530,30.247,Joe Gibbs Racing,False,False,3,11,green
+Alex Bowman,4045,Chv,48,9,16,178.530,30.247,Hendrick Motorsports,False,False,15,6,green
+Austin Dillon,3873,Chv,3,43,11,178.524,30.248,Richard Childress Racing,False,False,5,19,green
+Kyle Larson,4030,Chv,5,8,1,178.518,30.249,Hendrick Motorsports,False,False,1,1,green
+Matt DiBenedetto,3916,Frd,21,63,19,178.518,30.249,Wood Brothers Racing,False,False,21,17,green
+William Byron,4184,Chv,24,12,2,178.518,30.249,Hendrick Motorsports,False,False,8,7,green
+Ryan Blaney,4023,Frd,12,67,11,178.512,30.250,Team Penske,False,False,17,5,green
+Joey Logano,3859,Frd,22,60,18,178.506,30.251,Team Penske,False,False,7,4,caution
+Denny Hamlin,1361,Tyt,11,21,10,178.506,30.251,Joe Gibbs Racing,False,False,16,21,green
+Ross Chastain,4001,Chv,42,87,20,178.501,30.252,Chip Ganassi Racing,False,False,18,18,green
+Chase Elliott,4062,Chv,9,11,4,178.501,30.252,Hendrick Motorsports,False,False,6,3,green
+Matt DiBenedetto,3916,Frd,21,41,2,178.501,30.252,Wood Brothers Racing,False,False,21,17,green
+Aric Almirola,40,Frd,10,43,3,178.495,30.253,Stewart-Haas Racing,False,False,20,8,green
+Christopher Bell,4153,Tyt,20,59,4,178.495,30.253,Joe Gibbs Racing,False,False,3,11,green
+Brad Keselowski,1816,Frd,2,77,1,178.489,30.254,Team Penske,False,False,9,2,green
+Kyle Larson,4030,Chv,5,71,2,178.489,30.254,Hendrick Motorsports,False,False,1,1,green
+Aric Almirola,40,Frd,10,76,4,178.489,30.254,Stewart-Haas Racing,False,False,20,8,green
+Kyle Busch,454,Tyt,18,11,3,178.489,30.254,Joe Gibbs Racing,False,False,2,9,green
+Ryan Blaney,4023,Frd,12,19,1,178.483,30.255,Team Penske,False,False,17,5,green
+Matt DiBenedetto,3916,Frd,21,43,2,178.483,30.255,Wood Brothers Racing,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,35,9,178.483,30.255,Joe Gibbs Racing,False,False,16,21,green
+Denny Hamlin,1361,Tyt,11,52,4,178.477,30.256,Joe Gibbs Racing,False,False,16,21,green
+Ross Chastain,4001,Chv,42,63,8,178.471,30.257,Chip Ganassi Racing,False,False,18,18,green
+Brad Keselowski,1816,Frd,2,24,3,178.471,30.257,Team Penske,False,False,9,2,green
+Brad Keselowski,1816,Frd,2,60,13,178.465,30.258,Team Penske,False,False,9,2,caution
+Ryan Newman,2394,Frd,6,48,7,178.465,30.258,Roush Fenway Racing,False,False,14,20,green
+William Byron,4184,Chv,24,30,5,178.465,30.258,Hendrick Motorsports,False,False,8,7,caution
+Kevin Harvick,1416,Frd,4,37,9,178.459,30.259,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,78,14,178.459,30.259,Wood Brothers Racing,False,False,21,17,green
+Kevin Harvick,1416,Frd,4,68,12,178.459,30.259,Stewart-Haas Racing,False,False,12,15,green
+Kyle Larson,4030,Chv,5,53,2,178.459,30.259,Hendrick Motorsports,False,False,1,1,green
+Denny Hamlin,1361,Tyt,11,43,8,178.453,30.260,Joe Gibbs Racing,False,False,16,21,green
+Matt DiBenedetto,3916,Frd,21,77,15,178.453,30.260,Wood Brothers Racing,False,False,21,17,green
+Aric Almirola,40,Frd,10,48,12,178.448,30.261,Stewart-Haas Racing,False,False,20,8,green
+Kyle Busch,454,Tyt,18,4,1,178.448,30.261,Joe Gibbs Racing,False,False,2,9,green
+Alex Bowman,4045,Chv,48,41,1,178.436,30.263,Hendrick Motorsports,False,False,15,6,green
+Ryan Newman,2394,Frd,6,77,16,178.436,30.263,Roush Fenway Racing,False,False,14,20,green
+Austin Dillon,3873,Chv,3,8,6,178.436,30.263,Richard Childress Racing,False,False,5,19,green
+Kyle Busch,454,Tyt,18,77,20,178.436,30.263,Joe Gibbs Racing,False,False,2,9,green
+Matt DiBenedetto,3916,Frd,21,40,2,178.430,30.264,Wood Brothers Racing,False,False,21,17,green
+Joey Logano,3859,Frd,22,74,6,178.424,30.265,Team Penske,False,False,7,4,green
+Ryan Newman,2394,Frd,6,58,10,178.424,30.265,Roush Fenway Racing,False,False,14,20,green
+Kyle Busch,454,Tyt,18,95,11,178.418,30.266,Joe Gibbs Racing,False,False,2,9,green
+Austin Dillon,3873,Chv,3,76,21,178.418,30.266,Richard Childress Racing,False,False,5,19,green
+Aric Almirola,40,Frd,10,59,9,178.418,30.266,Stewart-Haas Racing,False,False,20,8,green
+Aric Almirola,40,Frd,10,55,10,178.412,30.267,Stewart-Haas Racing,False,False,20,8,green
+Kyle Larson,4030,Chv,5,23,14,178.412,30.267,Hendrick Motorsports,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,49,11,178.406,30.268,Team Penske,False,False,17,5,green
+Matt DiBenedetto,3916,Frd,21,45,2,178.406,30.268,Wood Brothers Racing,False,False,21,17,caution
+Austin Dillon,3873,Chv,3,44,11,178.406,30.268,Richard Childress Racing,False,False,5,19,green
+Michael McDowell,3832,Frd,34,85,16,178.400,30.269,Front Row Motorsports,False,False,11,12,green
+Kurt Busch,453,Chv,1,98,10,178.400,30.269,Chip Ganassi Racing,False,False,13,10,green
+Matt DiBenedetto,3916,Frd,21,57,8,178.400,30.269,Wood Brothers Racing,False,False,21,17,green
+Aric Almirola,40,Frd,10,97,9,178.400,30.269,Stewart-Haas Racing,False,False,20,8,green
+Brad Keselowski,1816,Frd,2,54,13,178.394,30.270,Team Penske,False,False,9,2,green
+Kyle Busch,454,Tyt,18,69,20,178.394,30.270,Joe Gibbs Racing,False,False,2,9,green
+Matt DiBenedetto,3916,Frd,21,76,15,178.389,30.271,Wood Brothers Racing,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,66,12,178.389,30.271,Joe Gibbs Racing,False,False,16,21,green
+Aric Almirola,40,Frd,10,67,8,178.389,30.271,Stewart-Haas Racing,False,False,20,8,green
+Tyler Reddick,4065,Chv,8,71,18,178.389,30.271,Richard Childress Racing,False,False,19,16,green
+Chase Elliott,4062,Chv,9,59,5,178.377,30.273,Hendrick Motorsports,False,False,6,3,green
+Aric Almirola,40,Frd,10,66,8,178.377,30.273,Stewart-Haas Racing,False,False,20,8,green
+Austin Dillon,3873,Chv,3,56,17,178.377,30.273,Richard Childress Racing,False,False,5,19,green
+Kevin Harvick,1416,Frd,4,63,15,178.377,30.273,Stewart-Haas Racing,False,False,12,15,green
+Cole Custer,4104,Frd,41,83,9,178.353,30.277,Stewart-Haas Racing,False,False,4,14,green
+Alex Bowman,4045,Chv,48,60,7,178.353,30.277,Hendrick Motorsports,False,False,15,6,caution
+Kurt Busch,453,Chv,1,3,8,178.353,30.277,Chip Ganassi Racing,False,False,13,10,green
+Michael McDowell,3832,Frd,34,45,4,178.347,30.278,Front Row Motorsports,False,False,11,12,caution
+Alex Bowman,4045,Chv,48,88,9,178.347,30.278,Hendrick Motorsports,False,False,15,6,green
+Kyle Larson,4030,Chv,5,9,1,178.347,30.278,Hendrick Motorsports,False,False,1,1,green
+Kyle Larson,4030,Chv,5,42,6,178.341,30.279,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,100,7,178.341,30.279,Hendrick Motorsports,False,False,8,7,pitting in
+Michael McDowell,3832,Frd,34,32,2,178.336,30.280,Front Row Motorsports,False,False,11,12,green
+Denny Hamlin,1361,Tyt,11,81,7,178.330,30.281,Joe Gibbs Racing,False,False,16,21,green
+Austin Dillon,3873,Chv,3,70,21,178.324,30.282,Richard Childress Racing,False,False,5,19,green
+Brad Keselowski,1816,Frd,2,15,7,178.324,30.282,Team Penske,False,False,9,2,caution
+William Byron,4184,Chv,24,36,12,178.318,30.283,Hendrick Motorsports,False,False,8,7,green
+Brad Keselowski,1816,Frd,2,78,1,178.312,30.284,Team Penske,False,False,9,2,pitting in
+Cole Custer,4104,Frd,41,98,15,178.312,30.284,Stewart-Haas Racing,False,False,4,14,green
+Ryan Blaney,4023,Frd,12,81,5,178.312,30.284,Team Penske,False,False,17,5,green
+Austin Dillon,3873,Chv,3,34,9,178.306,30.285,Richard Childress Racing,False,False,5,19,green
+Christopher Bell,4153,Tyt,20,53,3,178.306,30.285,Joe Gibbs Racing,False,False,3,11,green
+Aric Almirola,40,Frd,10,53,11,178.300,30.286,Stewart-Haas Racing,False,False,20,8,green
+Austin Dillon,3873,Chv,3,9,6,178.300,30.286,Richard Childress Racing,False,False,5,19,green
+Brad Keselowski,1816,Frd,2,14,7,178.300,30.286,Team Penske,False,False,9,2,green
+Alex Bowman,4045,Chv,48,48,5,178.300,30.286,Hendrick Motorsports,False,False,15,6,green
+Ross Chastain,4001,Chv,42,65,7,178.300,30.286,Chip Ganassi Racing,False,False,18,18,green
+Brad Keselowski,1816,Frd,2,49,17,178.294,30.287,Team Penske,False,False,9,2,green
+Michael McDowell,3832,Frd,34,78,17,178.294,30.287,Front Row Motorsports,False,False,11,12,green
+Brad Keselowski,1816,Frd,2,65,6,178.288,30.288,Team Penske,False,False,9,2,green
+Matt DiBenedetto,3916,Frd,21,36,1,178.288,30.288,Wood Brothers Racing,False,False,21,17,green
+Michael McDowell,3832,Frd,34,59,12,178.288,30.288,Front Row Motorsports,False,False,11,12,green
+Kyle Busch,454,Tyt,18,65,12,178.283,30.289,Joe Gibbs Racing,False,False,2,9,pitting in
+Alex Bowman,4045,Chv,48,47,5,178.283,30.289,Hendrick Motorsports,False,False,15,6,green
+Martin Truex Jr.,3368,Tyt,19,87,13,178.283,30.289,Joe Gibbs Racing,False,False,10,13,green
+Brad Keselowski,1816,Frd,2,86,4,178.277,30.290,Team Penske,False,False,9,2,green
+Joey Logano,3859,Frd,22,21,8,178.277,30.290,Team Penske,False,False,7,4,green
+Martin Truex Jr.,3368,Tyt,19,66,14,178.277,30.290,Joe Gibbs Racing,False,False,10,13,green
+Aric Almirola,40,Frd,10,42,3,178.277,30.290,Stewart-Haas Racing,False,False,20,8,green
+Michael McDowell,3832,Frd,34,97,14,178.277,30.290,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,34,10,178.277,30.290,Richard Childress Racing,False,False,19,16,green
+Ross Chastain,4001,Chv,42,74,7,178.271,30.291,Chip Ganassi Racing,False,False,18,18,green
+Kyle Larson,4030,Chv,5,13,1,178.271,30.291,Hendrick Motorsports,False,False,1,1,green
+Cole Custer,4104,Frd,41,26,9,178.265,30.292,Stewart-Haas Racing,False,False,4,14,green
+Michael McDowell,3832,Frd,34,71,17,178.259,30.293,Front Row Motorsports,False,False,11,12,green
+Ross Chastain,4001,Chv,42,15,9,178.259,30.293,Chip Ganassi Racing,False,False,18,18,caution
+Brad Keselowski,1816,Frd,2,81,3,178.259,30.293,Team Penske,False,False,9,2,green
+Cole Custer,4104,Frd,41,99,15,178.259,30.293,Stewart-Haas Racing,False,False,4,14,green
+Austin Dillon,3873,Chv,3,100,19,178.253,30.294,Richard Childress Racing,False,False,5,19,pitting in
+Denny Hamlin,1361,Tyt,11,65,13,178.253,30.294,Joe Gibbs Racing,False,False,16,21,green
+Austin Dillon,3873,Chv,3,15,6,178.247,30.295,Richard Childress Racing,False,False,5,19,caution
+Brad Keselowski,1816,Frd,2,37,21,178.247,30.295,Team Penske,False,False,9,2,green
+Aric Almirola,40,Frd,10,96,9,178.241,30.296,Stewart-Haas Racing,False,False,20,8,green
+Joey Logano,3859,Frd,22,68,9,178.241,30.296,Team Penske,False,False,7,4,green
+Ryan Blaney,4023,Frd,12,99,5,178.241,30.296,Team Penske,False,False,17,5,green
+Austin Dillon,3873,Chv,3,11,6,178.235,30.297,Richard Childress Racing,False,False,5,19,green
+Cole Custer,4104,Frd,41,28,9,178.235,30.297,Stewart-Haas Racing,False,False,4,14,green
+Denny Hamlin,1361,Tyt,11,37,8,178.230,30.298,Joe Gibbs Racing,False,False,16,21,green
+Chase Elliott,4062,Chv,9,27,5,178.230,30.298,Hendrick Motorsports,False,False,6,3,green
+Kyle Busch,454,Tyt,18,60,15,178.224,30.299,Joe Gibbs Racing,False,False,2,9,caution
+Aric Almirola,40,Frd,10,75,8,178.218,30.300,Stewart-Haas Racing,False,False,20,8,green
+Ryan Newman,2394,Frd,6,74,16,178.218,30.300,Roush Fenway Racing,False,False,14,20,green
+Kyle Larson,4030,Chv,5,44,6,178.218,30.300,Hendrick Motorsports,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,39,16,178.218,30.300,Team Penske,False,False,17,5,green
+Ryan Newman,2394,Frd,6,37,5,178.212,30.301,Roush Fenway Racing,False,False,14,20,green
+Alex Bowman,4045,Chv,48,36,2,178.206,30.302,Hendrick Motorsports,False,False,15,6,green
+Austin Dillon,3873,Chv,3,13,6,178.200,30.303,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,42,1,178.200,30.303,Hendrick Motorsports,False,False,15,6,green
+Ryan Newman,2394,Frd,6,42,5,178.200,30.303,Roush Fenway Racing,False,False,14,20,green
+Ryan Newman,2394,Frd,6,75,16,178.194,30.304,Roush Fenway Racing,False,False,14,20,green
+Kurt Busch,453,Chv,1,30,4,178.194,30.304,Chip Ganassi Racing,False,False,13,10,caution
+Ryan Newman,2394,Frd,6,36,6,178.194,30.304,Roush Fenway Racing,False,False,14,20,green
+Austin Dillon,3873,Chv,3,40,10,178.188,30.305,Richard Childress Racing,False,False,5,19,green
+Kurt Busch,453,Chv,1,24,4,178.188,30.305,Chip Ganassi Racing,False,False,13,10,green
+Kurt Busch,453,Chv,1,64,6,178.188,30.305,Chip Ganassi Racing,False,False,13,10,green
+Matt DiBenedetto,3916,Frd,21,42,2,178.188,30.305,Wood Brothers Racing,False,False,21,17,green
+Kevin Harvick,1416,Frd,4,5,10,178.188,30.305,Stewart-Haas Racing,False,False,12,15,green
+Chase Elliott,4062,Chv,9,45,13,178.183,30.306,Hendrick Motorsports,False,False,6,3,caution
+Matt DiBenedetto,3916,Frd,21,48,4,178.177,30.307,Wood Brothers Racing,False,False,21,17,green
+Matt DiBenedetto,3916,Frd,21,47,4,178.177,30.307,Wood Brothers Racing,False,False,21,17,green
+Kyle Larson,4030,Chv,5,41,6,178.177,30.307,Hendrick Motorsports,False,False,1,1,green
+Kyle Busch,454,Tyt,18,15,3,178.177,30.307,Joe Gibbs Racing,False,False,2,9,caution
+Ryan Newman,2394,Frd,6,94,20,178.177,30.307,Roush Fenway Racing,False,False,14,20,green
+Ryan Newman,2394,Frd,6,71,16,178.171,30.308,Roush Fenway Racing,False,False,14,20,green
+Ross Chastain,4001,Chv,42,73,7,178.171,30.308,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,68,7,178.171,30.308,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,66,16,178.171,30.308,Roush Fenway Racing,False,False,14,20,green
+Denny Hamlin,1361,Tyt,11,48,6,178.171,30.308,Joe Gibbs Racing,False,False,16,21,green
+Aric Almirola,40,Frd,10,77,3,178.165,30.309,Stewart-Haas Racing,False,False,20,8,pitting in
+Michael McDowell,3832,Frd,34,77,17,178.165,30.309,Front Row Motorsports,False,False,11,12,green
+Martin Truex Jr.,3368,Tyt,19,73,13,178.165,30.309,Joe Gibbs Racing,False,False,10,13,green
+Ryan Blaney,4023,Frd,12,27,1,178.165,30.309,Team Penske,False,False,17,5,green
+Martin Truex Jr.,3368,Tyt,19,76,13,178.159,30.310,Joe Gibbs Racing,False,False,10,13,green
+William Byron,4184,Chv,24,8,3,178.159,30.310,Hendrick Motorsports,False,False,8,7,green
+Brad Keselowski,1816,Frd,2,26,2,178.159,30.310,Team Penske,False,False,9,2,green
+Christopher Bell,4153,Tyt,20,30,13,178.153,30.311,Joe Gibbs Racing,False,False,3,11,caution
+Cole Custer,4104,Frd,41,54,15,178.147,30.312,Stewart-Haas Racing,False,False,4,14,green
+Cole Custer,4104,Frd,41,66,9,178.147,30.312,Stewart-Haas Racing,False,False,4,14,pitting in
+Aric Almirola,40,Frd,10,49,12,178.147,30.312,Stewart-Haas Racing,False,False,20,8,green
+Chase Elliott,4062,Chv,9,90,1,178.147,30.312,Hendrick Motorsports,False,False,6,3,caution
+Alex Bowman,4045,Chv,48,34,3,178.141,30.313,Hendrick Motorsports,False,False,15,6,green
+Ross Chastain,4001,Chv,42,24,2,178.141,30.313,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,65,15,178.136,30.314,Joe Gibbs Racing,False,False,10,13,green
+Ryan Newman,2394,Frd,6,65,17,178.136,30.314,Roush Fenway Racing,False,False,14,20,green
+Kurt Busch,453,Chv,1,94,10,178.136,30.314,Chip Ganassi Racing,False,False,13,10,green
+Kurt Busch,453,Chv,1,73,11,178.124,30.316,Chip Ganassi Racing,False,False,13,10,green
+Brad Keselowski,1816,Frd,2,50,16,178.124,30.316,Team Penske,False,False,9,2,green
+Ross Chastain,4001,Chv,42,57,19,178.118,30.317,Chip Ganassi Racing,False,False,18,18,green
+Kevin Harvick,1416,Frd,4,38,9,178.112,30.318,Stewart-Haas Racing,False,False,12,15,green
+Cole Custer,4104,Frd,41,82,9,178.112,30.318,Stewart-Haas Racing,False,False,4,14,green
+Brad Keselowski,1816,Frd,2,83,3,178.112,30.318,Team Penske,False,False,9,2,green
+Michael McDowell,3832,Frd,34,37,3,178.112,30.318,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,64,20,178.106,30.319,Richard Childress Racing,False,False,19,16,green
+Kyle Larson,4030,Chv,5,15,1,178.100,30.320,Hendrick Motorsports,False,False,1,1,caution
+Michael McDowell,3832,Frd,34,75,17,178.100,30.320,Front Row Motorsports,False,False,11,12,green
+Matt DiBenedetto,3916,Frd,21,67,16,178.094,30.321,Wood Brothers Racing,False,False,21,17,green
+Ross Chastain,4001,Chv,42,64,8,178.094,30.321,Chip Ganassi Racing,False,False,18,18,green
+Aric Almirola,40,Frd,10,69,7,178.094,30.321,Stewart-Haas Racing,False,False,20,8,green
+Kurt Busch,453,Chv,1,57,12,178.089,30.322,Chip Ganassi Racing,False,False,13,10,green
+Matt DiBenedetto,3916,Frd,21,39,2,178.089,30.322,Wood Brothers Racing,False,False,21,17,green
+Joey Logano,3859,Frd,22,66,10,178.083,30.323,Team Penske,False,False,7,4,green
+Ryan Newman,2394,Frd,6,41,5,178.083,30.323,Roush Fenway Racing,False,False,14,20,green
+Aric Almirola,40,Frd,10,71,8,178.083,30.323,Stewart-Haas Racing,False,False,20,8,green
+Tyler Reddick,4065,Chv,8,45,12,178.077,30.324,Richard Childress Racing,False,False,19,16,caution
+William Byron,4184,Chv,24,10,2,178.077,30.324,Hendrick Motorsports,False,False,8,7,green
+Ryan Blaney,4023,Frd,12,5,12,178.071,30.325,Team Penske,False,False,17,5,green
+Kurt Busch,453,Chv,1,42,19,178.065,30.326,Chip Ganassi Racing,False,False,13,10,green
+Ryan Newman,2394,Frd,6,100,20,178.065,30.326,Roush Fenway Racing,False,False,14,20,pitting in
+Ryan Newman,2394,Frd,6,57,9,178.065,30.326,Roush Fenway Racing,False,False,14,20,green
+Ryan Blaney,4023,Frd,12,53,8,178.065,30.326,Team Penske,False,False,17,5,green
+Alex Bowman,4045,Chv,48,28,17,178.065,30.326,Hendrick Motorsports,False,False,15,6,green
+Aric Almirola,40,Frd,10,52,12,178.065,30.326,Stewart-Haas Racing,False,False,20,8,green
+Michael McDowell,3832,Frd,34,35,2,178.065,30.326,Front Row Motorsports,False,False,11,12,green
+Cole Custer,4104,Frd,41,11,5,178.059,30.327,Stewart-Haas Racing,False,False,4,14,green
+Kyle Larson,4030,Chv,5,47,2,178.059,30.327,Hendrick Motorsports,False,False,1,1,green
+Ryan Blaney,4023,Frd,12,7,10,178.053,30.328,Team Penske,False,False,17,5,green
+Michael McDowell,3832,Frd,34,39,4,178.053,30.328,Front Row Motorsports,False,False,11,12,green
+Austin Dillon,3873,Chv,3,58,17,178.053,30.328,Richard Childress Racing,False,False,5,19,green
+Ross Chastain,4001,Chv,42,8,13,178.047,30.329,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,69,6,178.047,30.329,Chip Ganassi Racing,False,False,18,18,green
+Joey Logano,3859,Frd,22,29,10,178.042,30.330,Team Penske,False,False,7,4,green
+Michael McDowell,3832,Frd,34,42,4,178.042,30.330,Front Row Motorsports,False,False,11,12,green
+Austin Dillon,3873,Chv,3,68,21,178.036,30.331,Richard Childress Racing,False,False,5,19,green
+Austin Dillon,3873,Chv,3,69,21,178.036,30.331,Richard Childress Racing,False,False,5,19,green
+Kyle Busch,454,Tyt,18,87,10,178.036,30.331,Joe Gibbs Racing,False,False,2,9,green
+Joey Logano,3859,Frd,22,28,10,178.030,30.332,Team Penske,False,False,7,4,green
+Kyle Busch,454,Tyt,18,71,20,178.024,30.333,Joe Gibbs Racing,False,False,2,9,green
+Brad Keselowski,1816,Frd,2,13,7,178.024,30.333,Team Penske,False,False,9,2,green
+Austin Dillon,3873,Chv,3,33,8,178.018,30.334,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,23,13,178.018,30.334,Hendrick Motorsports,False,False,15,6,green
+Ryan Newman,2394,Frd,6,44,5,178.018,30.334,Roush Fenway Racing,False,False,14,20,green
+Matt DiBenedetto,3916,Frd,21,56,8,178.012,30.335,Wood Brothers Racing,False,False,21,17,green
+Kurt Busch,453,Chv,1,65,5,178.012,30.335,Chip Ganassi Racing,False,False,13,10,green
+Austin Dillon,3873,Chv,3,39,10,178.012,30.335,Richard Childress Racing,False,False,5,19,green
+Michael McDowell,3832,Frd,34,57,11,178.012,30.335,Front Row Motorsports,False,False,11,12,green
+Austin Dillon,3873,Chv,3,77,21,178.006,30.336,Richard Childress Racing,False,False,5,19,green
+Cole Custer,4104,Frd,41,27,9,178.000,30.337,Stewart-Haas Racing,False,False,4,14,green
+Joey Logano,3859,Frd,22,72,6,178.000,30.337,Team Penske,False,False,7,4,green
+Kyle Larson,4030,Chv,5,92,2,178.000,30.337,Hendrick Motorsports,False,False,1,1,green
+Kyle Busch,454,Tyt,18,52,16,177.995,30.338,Joe Gibbs Racing,False,False,2,9,green
+Christopher Bell,4153,Tyt,20,41,8,177.995,30.338,Joe Gibbs Racing,False,False,3,11,green
+Ross Chastain,4001,Chv,42,39,18,177.989,30.339,Chip Ganassi Racing,False,False,18,18,green
+Kevin Harvick,1416,Frd,4,76,12,177.989,30.339,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,29,11,177.983,30.340,Joe Gibbs Racing,False,False,10,13,green
+Brad Keselowski,1816,Frd,2,28,2,177.983,30.340,Team Penske,False,False,9,2,green
+Austin Dillon,3873,Chv,3,81,21,177.983,30.340,Richard Childress Racing,False,False,5,19,green
+Matt DiBenedetto,3916,Frd,21,35,1,177.977,30.341,Wood Brothers Racing,False,False,21,17,green
+William Byron,4184,Chv,24,27,7,177.977,30.341,Hendrick Motorsports,False,False,8,7,green
+Cole Custer,4104,Frd,41,59,14,177.977,30.341,Stewart-Haas Racing,False,False,4,14,green
+Ryan Blaney,4023,Frd,12,23,1,177.971,30.342,Team Penske,False,False,17,5,green
+Kyle Busch,454,Tyt,18,74,20,177.965,30.343,Joe Gibbs Racing,False,False,2,9,green
+Brad Keselowski,1816,Frd,2,10,7,177.965,30.343,Team Penske,False,False,9,2,green
+Michael McDowell,3832,Frd,34,74,17,177.965,30.343,Front Row Motorsports,False,False,11,12,green
+Kurt Busch,453,Chv,1,44,19,177.959,30.344,Chip Ganassi Racing,False,False,13,10,green
+Aric Almirola,40,Frd,10,38,3,177.959,30.344,Stewart-Haas Racing,False,False,20,8,green
+Kevin Harvick,1416,Frd,4,40,9,177.959,30.344,Stewart-Haas Racing,False,False,12,15,green
+Ryan Newman,2394,Frd,6,39,5,177.954,30.345,Roush Fenway Racing,False,False,14,20,green
+Tyler Reddick,4065,Chv,8,59,21,177.954,30.345,Richard Childress Racing,False,False,19,16,green
+Ryan Newman,2394,Frd,6,78,16,177.936,30.348,Roush Fenway Racing,False,False,14,20,green
+Aric Almirola,40,Frd,10,74,8,177.936,30.348,Stewart-Haas Racing,False,False,20,8,green
+Tyler Reddick,4065,Chv,8,50,21,177.936,30.348,Richard Childress Racing,False,False,19,16,green
+Michael McDowell,3832,Frd,34,90,16,177.930,30.349,Front Row Motorsports,False,False,11,12,caution
+William Byron,4184,Chv,24,11,2,177.924,30.350,Hendrick Motorsports,False,False,8,7,green
+Martin Truex Jr.,3368,Tyt,19,42,13,177.924,30.350,Joe Gibbs Racing,False,False,10,13,green
+Ross Chastain,4001,Chv,42,7,13,177.924,30.350,Chip Ganassi Racing,False,False,18,18,green
+Kurt Busch,453,Chv,1,22,4,177.924,30.350,Chip Ganassi Racing,False,False,13,10,green
+Kyle Busch,454,Tyt,18,44,16,177.918,30.351,Joe Gibbs Racing,False,False,2,9,green
+Denny Hamlin,1361,Tyt,11,51,5,177.918,30.351,Joe Gibbs Racing,False,False,16,21,green
+Kyle Larson,4030,Chv,5,38,6,177.918,30.351,Hendrick Motorsports,False,False,1,1,green
+Austin Dillon,3873,Chv,3,14,6,177.918,30.351,Richard Childress Racing,False,False,5,19,green
+Brad Keselowski,1816,Frd,2,57,13,177.912,30.352,Team Penske,False,False,9,2,green
+Brad Keselowski,1816,Frd,2,89,5,177.912,30.352,Team Penske,False,False,9,2,green
+Ross Chastain,4001,Chv,42,89,20,177.907,30.353,Chip Ganassi Racing,False,False,18,18,green
+Denny Hamlin,1361,Tyt,11,26,8,177.907,30.353,Joe Gibbs Racing,False,False,16,21,green
+Tyler Reddick,4065,Chv,8,41,12,177.901,30.354,Richard Childress Racing,False,False,19,16,green
+Tyler Reddick,4065,Chv,8,25,15,177.901,30.354,Richard Childress Racing,False,False,19,16,green
+Alex Bowman,4045,Chv,48,49,6,177.901,30.354,Hendrick Motorsports,False,False,15,6,green
+Chase Elliott,4062,Chv,9,47,10,177.895,30.355,Hendrick Motorsports,False,False,6,3,green
+Joey Logano,3859,Frd,22,63,11,177.895,30.355,Team Penske,False,False,7,4,green
+William Byron,4184,Chv,24,97,8,177.889,30.356,Hendrick Motorsports,False,False,8,7,green
+Tyler Reddick,4065,Chv,8,98,16,177.877,30.358,Richard Childress Racing,False,False,19,16,green
+Chase Elliott,4062,Chv,9,22,5,177.877,30.358,Hendrick Motorsports,False,False,6,3,green
+Kyle Busch,454,Tyt,18,89,12,177.871,30.359,Joe Gibbs Racing,False,False,2,9,green
+Michael McDowell,3832,Frd,34,33,2,177.871,30.359,Front Row Motorsports,False,False,11,12,green
+Ross Chastain,4001,Chv,42,72,7,177.866,30.360,Chip Ganassi Racing,False,False,18,18,green
+Ryan Blaney,4023,Frd,12,43,13,177.866,30.360,Team Penske,False,False,17,5,green
+Matt DiBenedetto,3916,Frd,21,70,15,177.866,30.360,Wood Brothers Racing,False,False,21,17,green
+Kyle Busch,454,Tyt,18,54,14,177.866,30.360,Joe Gibbs Racing,False,False,2,9,green
+Alex Bowman,4045,Chv,48,81,6,177.866,30.360,Hendrick Motorsports,False,False,15,6,green
+Matt DiBenedetto,3916,Frd,21,89,18,177.866,30.360,Wood Brothers Racing,False,False,21,17,green
+Christopher Bell,4153,Tyt,20,99,12,177.866,30.360,Joe Gibbs Racing,False,False,3,11,green
+Alex Bowman,4045,Chv,48,83,6,177.860,30.361,Hendrick Motorsports,False,False,15,6,green
+Austin Dillon,3873,Chv,3,83,21,177.860,30.361,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,57,7,177.854,30.362,Hendrick Motorsports,False,False,15,6,green
+Aric Almirola,40,Frd,10,89,11,177.854,30.362,Stewart-Haas Racing,False,False,20,8,green
+Ryan Blaney,4023,Frd,12,18,1,177.848,30.363,Team Penske,False,False,17,5,green
+Aric Almirola,40,Frd,10,84,11,177.848,30.363,Stewart-Haas Racing,False,False,20,8,green
+Kyle Busch,454,Tyt,18,9,2,177.848,30.363,Joe Gibbs Racing,False,False,2,9,green
+Kyle Larson,4030,Chv,5,10,1,177.848,30.363,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,40,8,177.848,30.363,Joe Gibbs Racing,False,False,3,11,green
+Kevin Harvick,1416,Frd,4,45,10,177.848,30.363,Stewart-Haas Racing,False,False,12,15,caution
+Christopher Bell,4153,Tyt,20,25,17,177.836,30.365,Joe Gibbs Racing,False,False,3,11,green
+Denny Hamlin,1361,Tyt,11,42,7,177.830,30.366,Joe Gibbs Racing,False,False,16,21,green
+Christopher Bell,4153,Tyt,20,36,7,177.830,30.366,Joe Gibbs Racing,False,False,3,11,green
+Cole Custer,4104,Frd,41,14,5,177.825,30.367,Stewart-Haas Racing,False,False,4,14,green
+William Byron,4184,Chv,24,38,11,177.819,30.368,Hendrick Motorsports,False,False,8,7,green
+Denny Hamlin,1361,Tyt,11,39,6,177.819,30.368,Joe Gibbs Racing,False,False,16,21,green
+Kyle Busch,454,Tyt,18,75,20,177.819,30.368,Joe Gibbs Racing,False,False,2,9,green
+Martin Truex Jr.,3368,Tyt,19,85,14,177.813,30.369,Joe Gibbs Racing,False,False,10,13,green
+William Byron,4184,Chv,24,29,6,177.813,30.369,Hendrick Motorsports,False,False,8,7,green
+Ross Chastain,4001,Chv,42,66,7,177.813,30.369,Chip Ganassi Racing,False,False,18,18,green
+Austin Dillon,3873,Chv,3,88,21,177.813,30.369,Richard Childress Racing,False,False,5,19,green
+Austin Dillon,3873,Chv,3,30,12,177.807,30.370,Richard Childress Racing,False,False,5,19,caution
+Cole Custer,4104,Frd,41,84,10,177.807,30.370,Stewart-Haas Racing,False,False,4,14,green
+Chase Elliott,4062,Chv,9,78,4,177.807,30.370,Hendrick Motorsports,False,False,6,3,green
+Aric Almirola,40,Frd,10,98,9,177.801,30.371,Stewart-Haas Racing,False,False,20,8,green
+Kurt Busch,453,Chv,1,60,11,177.801,30.371,Chip Ganassi Racing,False,False,13,10,caution
+Michael McDowell,3832,Frd,34,86,16,177.801,30.371,Front Row Motorsports,False,False,11,12,green
+Ryan Blaney,4023,Frd,12,25,1,177.795,30.372,Team Penske,False,False,17,5,green
+Denny Hamlin,1361,Tyt,11,27,8,177.789,30.373,Joe Gibbs Racing,False,False,16,21,green
+Christopher Bell,4153,Tyt,20,58,4,177.789,30.373,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,41,13,177.784,30.374,Joe Gibbs Racing,False,False,10,13,green
+Kurt Busch,453,Chv,1,68,6,177.784,30.374,Chip Ganassi Racing,False,False,13,10,pitting in
+Chase Elliott,4062,Chv,9,23,4,177.784,30.374,Hendrick Motorsports,False,False,6,3,green
+Joey Logano,3859,Frd,22,92,4,177.778,30.375,Team Penske,False,False,7,4,green
+Chase Elliott,4062,Chv,9,41,16,177.778,30.375,Hendrick Motorsports,False,False,6,3,green
+Aric Almirola,40,Frd,10,65,8,177.772,30.376,Stewart-Haas Racing,False,False,20,8,green
+Joey Logano,3859,Frd,22,57,18,177.772,30.376,Team Penske,False,False,7,4,green
+Brad Keselowski,1816,Frd,2,18,2,177.772,30.376,Team Penske,False,False,9,2,green
+Austin Dillon,3873,Chv,3,12,6,177.766,30.377,Richard Childress Racing,False,False,5,19,green
+Michael McDowell,3832,Frd,34,76,17,177.766,30.377,Front Row Motorsports,False,False,11,12,green
+Kyle Busch,454,Tyt,18,94,11,177.760,30.378,Joe Gibbs Racing,False,False,2,9,green
+Martin Truex Jr.,3368,Tyt,19,30,11,177.754,30.379,Joe Gibbs Racing,False,False,10,13,caution
+Kyle Larson,4030,Chv,5,14,1,177.754,30.379,Hendrick Motorsports,False,False,1,1,green
+Ryan Newman,2394,Frd,6,33,6,177.754,30.379,Roush Fenway Racing,False,False,14,20,green
+William Byron,4184,Chv,24,22,7,177.754,30.379,Hendrick Motorsports,False,False,8,7,green
+Cole Custer,4104,Frd,41,89,10,177.749,30.380,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,97,13,177.749,30.380,Joe Gibbs Racing,False,False,10,13,green
+Joey Logano,3859,Frd,22,73,6,177.749,30.380,Team Penske,False,False,7,4,green
+Kurt Busch,453,Chv,1,62,6,177.749,30.380,Chip Ganassi Racing,False,False,13,10,green
+Kyle Busch,454,Tyt,18,72,20,177.749,30.380,Joe Gibbs Racing,False,False,2,9,green
+William Byron,4184,Chv,24,15,2,177.743,30.381,Hendrick Motorsports,False,False,8,7,caution
+Christopher Bell,4153,Tyt,20,38,8,177.743,30.381,Joe Gibbs Racing,False,False,3,11,green
+Kyle Busch,454,Tyt,18,85,12,177.743,30.381,Joe Gibbs Racing,False,False,2,9,green
+Ross Chastain,4001,Chv,42,60,19,177.737,30.382,Chip Ganassi Racing,False,False,18,18,caution
+Joey Logano,3859,Frd,22,48,14,177.737,30.382,Team Penske,False,False,7,4,green
+Ryan Newman,2394,Frd,6,34,6,177.737,30.382,Roush Fenway Racing,False,False,14,20,green
+Martin Truex Jr.,3368,Tyt,19,49,20,177.731,30.383,Joe Gibbs Racing,False,False,10,13,green
+Ryan Newman,2394,Frd,6,43,5,177.731,30.383,Roush Fenway Racing,False,False,14,20,green
+Kevin Harvick,1416,Frd,4,56,16,177.731,30.383,Stewart-Haas Racing,False,False,12,15,green
+Denny Hamlin,1361,Tyt,11,77,9,177.725,30.384,Joe Gibbs Racing,False,False,16,21,green
+Michael McDowell,3832,Frd,34,88,16,177.725,30.384,Front Row Motorsports,False,False,11,12,green
+Chase Elliott,4062,Chv,9,62,3,177.725,30.384,Hendrick Motorsports,False,False,6,3,green
+Brad Keselowski,1816,Frd,2,62,7,177.719,30.385,Team Penske,False,False,9,2,green
+Cole Custer,4104,Frd,41,15,5,177.713,30.386,Stewart-Haas Racing,False,False,4,14,caution
+Ryan Blaney,4023,Frd,12,26,1,177.713,30.386,Team Penske,False,False,17,5,green
+Kevin Harvick,1416,Frd,4,71,11,177.708,30.387,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,63,16,177.708,30.387,Joe Gibbs Racing,False,False,10,13,green
+Christopher Bell,4153,Tyt,20,33,7,177.708,30.387,Joe Gibbs Racing,False,False,3,11,green
+Christopher Bell,4153,Tyt,20,39,8,177.708,30.387,Joe Gibbs Racing,False,False,3,11,green
+Ross Chastain,4001,Chv,42,23,2,177.702,30.388,Chip Ganassi Racing,False,False,18,18,green
+Kurt Busch,453,Chv,1,13,8,177.702,30.388,Chip Ganassi Racing,False,False,13,10,green
+Denny Hamlin,1361,Tyt,11,41,7,177.702,30.388,Joe Gibbs Racing,False,False,16,21,green
+Cole Custer,4104,Frd,41,94,14,177.702,30.388,Stewart-Haas Racing,False,False,4,14,green
+Ross Chastain,4001,Chv,42,88,20,177.690,30.390,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,26,3,177.690,30.390,Chip Ganassi Racing,False,False,18,18,green
+Kurt Busch,453,Chv,1,27,4,177.690,30.390,Chip Ganassi Racing,False,False,13,10,green
+William Byron,4184,Chv,24,44,9,177.684,30.391,Hendrick Motorsports,False,False,8,7,green
+Michael McDowell,3832,Frd,34,41,4,177.684,30.391,Front Row Motorsports,False,False,11,12,green
+Kyle Larson,4030,Chv,5,27,13,177.684,30.391,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,90,2,177.684,30.391,Hendrick Motorsports,False,False,8,7,caution
+Chase Elliott,4062,Chv,9,37,15,177.684,30.391,Hendrick Motorsports,False,False,6,3,green
+Kevin Harvick,1416,Frd,4,96,18,177.678,30.392,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,38,2,177.678,30.392,Wood Brothers Racing,False,False,21,17,green
+Joey Logano,3859,Frd,22,67,9,177.672,30.393,Team Penske,False,False,7,4,green
+Michael McDowell,3832,Frd,34,51,10,177.672,30.393,Front Row Motorsports,False,False,11,12,green
+Brad Keselowski,1816,Frd,2,45,21,177.672,30.393,Team Penske,False,False,9,2,caution
+Martin Truex Jr.,3368,Tyt,19,95,13,177.672,30.393,Joe Gibbs Racing,False,False,10,13,green
+Brad Keselowski,1816,Frd,2,59,13,177.655,30.396,Team Penske,False,False,9,2,green
+Aric Almirola,40,Frd,10,63,9,177.655,30.396,Stewart-Haas Racing,False,False,20,8,green
+Kyle Larson,4030,Chv,5,12,1,177.655,30.396,Hendrick Motorsports,False,False,1,1,green
+Ross Chastain,4001,Chv,42,44,18,177.643,30.398,Chip Ganassi Racing,False,False,18,18,green
+Brad Keselowski,1816,Frd,2,19,2,177.643,30.398,Team Penske,False,False,9,2,green
+Cole Custer,4104,Frd,41,3,2,177.643,30.398,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,14,11,177.637,30.399,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,48,20,177.632,30.400,Joe Gibbs Racing,False,False,10,13,green
+Kevin Harvick,1416,Frd,4,49,10,177.632,30.400,Stewart-Haas Racing,False,False,12,15,green
+Ross Chastain,4001,Chv,42,29,3,177.632,30.400,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,64,16,177.632,30.400,Joe Gibbs Racing,False,False,10,13,green
+Denny Hamlin,1361,Tyt,11,36,8,177.632,30.400,Joe Gibbs Racing,False,False,16,21,green
+Kyle Busch,454,Tyt,18,12,3,177.626,30.401,Joe Gibbs Racing,False,False,2,9,green
+Martin Truex Jr.,3368,Tyt,19,45,15,177.620,30.402,Joe Gibbs Racing,False,False,10,13,caution
+Matt DiBenedetto,3916,Frd,21,37,2,177.620,30.402,Wood Brothers Racing,False,False,21,17,green
+Matt DiBenedetto,3916,Frd,21,51,4,177.614,30.403,Wood Brothers Racing,False,False,21,17,green
+Cole Custer,4104,Frd,41,60,14,177.614,30.403,Stewart-Haas Racing,False,False,4,14,caution
+Austin Dillon,3873,Chv,3,4,6,177.614,30.403,Richard Childress Racing,False,False,5,19,green
+Kevin Harvick,1416,Frd,4,28,16,177.608,30.404,Stewart-Haas Racing,False,False,12,15,green
+Chase Elliott,4062,Chv,9,6,5,177.602,30.405,Hendrick Motorsports,False,False,6,3,green
+Austin Dillon,3873,Chv,3,75,21,177.602,30.405,Richard Childress Racing,False,False,5,19,green
+Christopher Bell,4153,Tyt,20,45,8,177.597,30.406,Joe Gibbs Racing,False,False,3,11,caution
+Christopher Bell,4153,Tyt,20,37,7,177.597,30.406,Joe Gibbs Racing,False,False,3,11,green
+Kyle Busch,454,Tyt,18,59,15,177.597,30.406,Joe Gibbs Racing,False,False,2,9,green
+Tyler Reddick,4065,Chv,8,73,18,177.597,30.406,Richard Childress Racing,False,False,19,16,green
+Kyle Busch,454,Tyt,18,57,15,177.591,30.407,Joe Gibbs Racing,False,False,2,9,green
+Joey Logano,3859,Frd,22,43,17,177.591,30.407,Team Penske,False,False,7,4,green
+Tyler Reddick,4065,Chv,8,89,19,177.591,30.407,Richard Childress Racing,False,False,19,16,green
+Brad Keselowski,1816,Frd,2,29,2,177.585,30.408,Team Penske,False,False,9,2,green
+Ryan Blaney,4023,Frd,12,24,1,177.585,30.408,Team Penske,False,False,17,5,green
+Matt DiBenedetto,3916,Frd,21,32,1,177.585,30.408,Wood Brothers Racing,False,False,21,17,green
+Matt DiBenedetto,3916,Frd,21,68,15,177.585,30.408,Wood Brothers Racing,False,False,21,17,green
+Matt DiBenedetto,3916,Frd,21,65,18,177.579,30.409,Wood Brothers Racing,False,False,21,17,green
+Martin Truex Jr.,3368,Tyt,19,34,12,177.579,30.409,Joe Gibbs Racing,False,False,10,13,green
+Kurt Busch,453,Chv,1,48,15,177.579,30.409,Chip Ganassi Racing,False,False,13,10,green
+Ross Chastain,4001,Chv,42,11,12,177.573,30.410,Chip Ganassi Racing,False,False,18,18,green
+Alex Bowman,4045,Chv,48,62,5,177.573,30.410,Hendrick Motorsports,False,False,15,6,green
+Austin Dillon,3873,Chv,3,49,15,177.573,30.410,Richard Childress Racing,False,False,5,19,green
+William Byron,4184,Chv,24,99,8,177.573,30.410,Hendrick Motorsports,False,False,8,7,green
+Kurt Busch,453,Chv,1,19,4,177.573,30.410,Chip Ganassi Racing,False,False,13,10,green
+Alex Bowman,4045,Chv,48,50,6,177.573,30.410,Hendrick Motorsports,False,False,15,6,green
+Austin Dillon,3873,Chv,3,87,21,177.567,30.411,Richard Childress Racing,False,False,5,19,green
+Joey Logano,3859,Frd,22,34,13,177.567,30.411,Team Penske,False,False,7,4,green
+Matt DiBenedetto,3916,Frd,21,58,8,177.561,30.412,Wood Brothers Racing,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,33,12,177.561,30.412,Joe Gibbs Racing,False,False,16,21,green
+Ross Chastain,4001,Chv,42,38,18,177.561,30.412,Chip Ganassi Racing,False,False,18,18,green
+Matt DiBenedetto,3916,Frd,21,33,1,177.561,30.412,Wood Brothers Racing,False,False,21,17,green
+Ryan Newman,2394,Frd,6,55,9,177.561,30.412,Roush Fenway Racing,False,False,14,20,green
+Kyle Larson,4030,Chv,5,21,14,177.556,30.413,Hendrick Motorsports,False,False,1,1,green
+Kurt Busch,453,Chv,1,53,12,177.556,30.413,Chip Ganassi Racing,False,False,13,10,green
+Kurt Busch,453,Chv,1,82,10,177.550,30.414,Chip Ganassi Racing,False,False,13,10,green
+Chase Elliott,4062,Chv,9,92,3,177.550,30.414,Hendrick Motorsports,False,False,6,3,green
+Kevin Harvick,1416,Frd,4,60,16,177.550,30.414,Stewart-Haas Racing,False,False,12,15,pitting in
+Ryan Newman,2394,Frd,6,76,16,177.544,30.415,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,48,16,177.538,30.416,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,24,15,177.538,30.416,Stewart-Haas Racing,False,False,12,15,green
+Ryan Blaney,4023,Frd,12,48,11,177.538,30.416,Team Penske,False,False,17,5,green
+Kyle Busch,454,Tyt,18,86,11,177.526,30.418,Joe Gibbs Racing,False,False,2,9,green
+Brad Keselowski,1816,Frd,2,41,21,177.526,30.418,Team Penske,False,False,9,2,green
+Joey Logano,3859,Frd,22,18,7,177.526,30.418,Team Penske,False,False,7,4,green
+Ryan Newman,2394,Frd,6,38,5,177.521,30.419,Roush Fenway Racing,False,False,14,20,green
+William Byron,4184,Chv,24,88,2,177.521,30.419,Hendrick Motorsports,False,False,8,7,green
+Matt DiBenedetto,3916,Frd,21,44,2,177.515,30.420,Wood Brothers Racing,False,False,21,17,green
+Kevin Harvick,1416,Frd,4,73,12,177.515,30.420,Stewart-Haas Racing,False,False,12,15,green
+Austin Dillon,3873,Chv,3,38,10,177.509,30.421,Richard Childress Racing,False,False,5,19,green
+Joey Logano,3859,Frd,22,81,8,177.509,30.421,Team Penske,False,False,7,4,green
+Christopher Bell,4153,Tyt,20,27,14,177.509,30.421,Joe Gibbs Racing,False,False,3,11,green
+Tyler Reddick,4065,Chv,8,67,18,177.509,30.421,Richard Childress Racing,False,False,19,16,green
+Ross Chastain,4001,Chv,42,43,18,177.509,30.421,Chip Ganassi Racing,False,False,18,18,green
+William Byron,4184,Chv,24,3,4,177.503,30.422,Hendrick Motorsports,False,False,8,7,green
+Tyler Reddick,4065,Chv,8,94,17,177.503,30.422,Richard Childress Racing,False,False,19,16,green
+Tyler Reddick,4065,Chv,8,77,18,177.503,30.422,Richard Childress Racing,False,False,19,16,green
+Joey Logano,3859,Frd,22,4,7,177.491,30.424,Team Penske,False,False,7,4,green
+Brad Keselowski,1816,Frd,2,22,2,177.491,30.424,Team Penske,False,False,9,2,green
+Michael McDowell,3832,Frd,34,96,15,177.491,30.424,Front Row Motorsports,False,False,11,12,green
+William Byron,4184,Chv,24,20,6,177.486,30.425,Hendrick Motorsports,False,False,8,7,green
+Martin Truex Jr.,3368,Tyt,19,28,11,177.474,30.427,Joe Gibbs Racing,False,False,10,13,green
+Martin Truex Jr.,3368,Tyt,19,38,13,177.474,30.427,Joe Gibbs Racing,False,False,10,13,green
+Michael McDowell,3832,Frd,34,44,4,177.474,30.427,Front Row Motorsports,False,False,11,12,green
+Denny Hamlin,1361,Tyt,11,40,7,177.468,30.428,Joe Gibbs Racing,False,False,16,21,green
+Kyle Busch,454,Tyt,18,25,5,177.468,30.428,Joe Gibbs Racing,False,False,2,9,green
+Chase Elliott,4062,Chv,9,4,5,177.462,30.429,Hendrick Motorsports,False,False,6,3,green
+Kurt Busch,453,Chv,1,12,8,177.462,30.429,Chip Ganassi Racing,False,False,13,10,green
+Denny Hamlin,1361,Tyt,11,24,8,177.462,30.429,Joe Gibbs Racing,False,False,16,21,green
+Ryan Newman,2394,Frd,6,7,15,177.462,30.429,Roush Fenway Racing,False,False,14,20,green
+Michael McDowell,3832,Frd,34,52,10,177.462,30.429,Front Row Motorsports,False,False,11,12,green
+Martin Truex Jr.,3368,Tyt,19,7,12,177.456,30.430,Joe Gibbs Racing,False,False,10,13,green
+Ross Chastain,4001,Chv,42,20,3,177.456,30.430,Chip Ganassi Racing,False,False,18,18,green
+Christopher Bell,4153,Tyt,20,42,8,177.456,30.430,Joe Gibbs Racing,False,False,3,11,green
+Cole Custer,4104,Frd,41,36,17,177.451,30.431,Stewart-Haas Racing,False,False,4,14,green
+Ross Chastain,4001,Chv,42,70,6,177.451,30.431,Chip Ganassi Racing,False,False,18,18,green
+Kyle Busch,454,Tyt,18,55,14,177.451,30.431,Joe Gibbs Racing,False,False,2,9,green
+Kurt Busch,453,Chv,1,20,4,177.445,30.432,Chip Ganassi Racing,False,False,13,10,green
+Michael McDowell,3832,Frd,34,63,17,177.445,30.432,Front Row Motorsports,False,False,11,12,green
+Kevin Harvick,1416,Frd,4,75,12,177.445,30.432,Stewart-Haas Racing,False,False,12,15,green
+Chase Elliott,4062,Chv,9,35,17,177.439,30.433,Hendrick Motorsports,False,False,6,3,green
+Kurt Busch,453,Chv,1,11,8,177.433,30.434,Chip Ganassi Racing,False,False,13,10,green
+Kevin Harvick,1416,Frd,4,36,9,177.427,30.435,Stewart-Haas Racing,False,False,12,15,green
+Kyle Busch,454,Tyt,18,22,6,177.427,30.435,Joe Gibbs Racing,False,False,2,9,green
+Kevin Harvick,1416,Frd,4,55,16,177.410,30.438,Stewart-Haas Racing,False,False,12,15,green
+Austin Dillon,3873,Chv,3,60,17,177.404,30.439,Richard Childress Racing,False,False,5,19,caution
+Tyler Reddick,4065,Chv,8,58,21,177.404,30.439,Richard Childress Racing,False,False,19,16,green
+Chase Elliott,4062,Chv,9,28,5,177.398,30.440,Hendrick Motorsports,False,False,6,3,green
+Matt DiBenedetto,3916,Frd,21,94,16,177.398,30.440,Wood Brothers Racing,False,False,21,17,green
+Tyler Reddick,4065,Chv,8,42,12,177.398,30.440,Richard Childress Racing,False,False,19,16,green
+Martin Truex Jr.,3368,Tyt,19,15,13,177.398,30.440,Joe Gibbs Racing,False,False,10,13,caution
+Matt DiBenedetto,3916,Frd,21,86,18,177.392,30.441,Wood Brothers Racing,False,False,21,17,green
+Kyle Busch,454,Tyt,18,7,2,177.392,30.441,Joe Gibbs Racing,False,False,2,9,green
+Kyle Larson,4030,Chv,5,43,6,177.387,30.442,Hendrick Motorsports,False,False,1,1,green
+William Byron,4184,Chv,24,28,6,177.387,30.442,Hendrick Motorsports,False,False,8,7,green
+Tyler Reddick,4065,Chv,8,40,12,177.387,30.442,Richard Childress Racing,False,False,19,16,green
+Austin Dillon,3873,Chv,3,62,8,177.387,30.442,Richard Childress Racing,False,False,5,19,pitting in
+Michael McDowell,3832,Frd,34,89,16,177.387,30.442,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,85,19,177.381,30.443,Richard Childress Racing,False,False,19,16,green
+Tyler Reddick,4065,Chv,8,74,18,177.381,30.443,Richard Childress Racing,False,False,19,16,green
+Martin Truex Jr.,3368,Tyt,19,39,13,177.381,30.443,Joe Gibbs Racing,False,False,10,13,green
+Kyle Busch,454,Tyt,18,48,17,177.381,30.443,Joe Gibbs Racing,False,False,2,9,green
+Michael McDowell,3832,Frd,34,67,15,177.369,30.445,Front Row Motorsports,False,False,11,12,green
+Cole Custer,4104,Frd,41,40,19,177.369,30.445,Stewart-Haas Racing,False,False,4,14,green
+Christopher Bell,4153,Tyt,20,24,17,177.369,30.445,Joe Gibbs Racing,False,False,3,11,green
+William Byron,4184,Chv,24,25,7,177.369,30.445,Hendrick Motorsports,False,False,8,7,green
+Kurt Busch,453,Chv,1,41,19,177.369,30.445,Chip Ganassi Racing,False,False,13,10,green
+Tyler Reddick,4065,Chv,8,24,16,177.363,30.446,Richard Childress Racing,False,False,19,16,green
+Ryan Blaney,4023,Frd,12,62,4,177.363,30.446,Team Penske,False,False,17,5,green
+Denny Hamlin,1361,Tyt,11,7,16,177.363,30.446,Joe Gibbs Racing,False,False,16,21,green
+Kevin Harvick,1416,Frd,4,95,19,177.363,30.446,Stewart-Haas Racing,False,False,12,15,green
+Tyler Reddick,4065,Chv,8,86,19,177.352,30.448,Richard Childress Racing,False,False,19,16,green
+Kevin Harvick,1416,Frd,4,93,19,177.352,30.448,Stewart-Haas Racing,False,False,12,15,green
+Kevin Harvick,1416,Frd,4,98,17,177.352,30.448,Stewart-Haas Racing,False,False,12,15,green
+Kevin Harvick,1416,Frd,4,89,15,177.352,30.448,Stewart-Haas Racing,False,False,12,15,green
+Ryan Blaney,4023,Frd,12,20,1,177.352,30.448,Team Penske,False,False,17,5,green
+Denny Hamlin,1361,Tyt,11,44,7,177.352,30.448,Joe Gibbs Racing,False,False,16,21,green
+Kyle Busch,454,Tyt,18,29,7,177.346,30.449,Joe Gibbs Racing,False,False,2,9,green
+Denny Hamlin,1361,Tyt,11,82,8,177.340,30.450,Joe Gibbs Racing,False,False,16,21,green
+Joey Logano,3859,Frd,22,44,17,177.340,30.450,Team Penske,False,False,7,4,green
+Kurt Busch,453,Chv,1,56,12,177.340,30.450,Chip Ganassi Racing,False,False,13,10,green
+Ross Chastain,4001,Chv,42,30,3,177.334,30.451,Chip Ganassi Racing,False,False,18,18,caution
+William Byron,4184,Chv,24,92,7,177.334,30.451,Hendrick Motorsports,False,False,8,7,green
+Ross Chastain,4001,Chv,42,35,18,177.334,30.451,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,33,11,177.328,30.452,Joe Gibbs Racing,False,False,10,13,green
+Ryan Newman,2394,Frd,6,59,10,177.322,30.453,Roush Fenway Racing,False,False,14,20,green
+Ryan Blaney,4023,Frd,12,28,1,177.322,30.453,Team Penske,False,False,17,5,green
+Ross Chastain,4001,Chv,42,28,3,177.322,30.453,Chip Ganassi Racing,False,False,18,18,green
+Ryan Blaney,4023,Frd,12,83,5,177.322,30.453,Team Penske,False,False,17,5,green
+Christopher Bell,4153,Tyt,20,87,14,177.322,30.453,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,83,15,177.322,30.453,Joe Gibbs Racing,False,False,10,13,green
+Austin Dillon,3873,Chv,3,74,21,177.317,30.454,Richard Childress Racing,False,False,5,19,green
+Austin Dillon,3873,Chv,3,72,21,177.317,30.454,Richard Childress Racing,False,False,5,19,green
+Kevin Harvick,1416,Frd,4,51,11,177.317,30.454,Stewart-Haas Racing,False,False,12,15,green
+Ryan Newman,2394,Frd,6,68,17,177.317,30.454,Roush Fenway Racing,False,False,14,20,green
+Austin Dillon,3873,Chv,3,80,21,177.317,30.454,Richard Childress Racing,False,False,5,19,restart
+Tyler Reddick,4065,Chv,8,28,15,177.317,30.454,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,69,14,177.311,30.455,Stewart-Haas Racing,False,False,4,14,green
+Matt DiBenedetto,3916,Frd,21,59,8,177.311,30.455,Wood Brothers Racing,False,False,21,17,green
+William Byron,4184,Chv,24,45,9,177.305,30.456,Hendrick Motorsports,False,False,8,7,caution
+Cole Custer,4104,Frd,41,52,17,177.305,30.456,Stewart-Haas Racing,False,False,4,14,green
+Ryan Newman,2394,Frd,6,35,6,177.305,30.456,Roush Fenway Racing,False,False,14,20,green
+Kyle Busch,454,Tyt,18,39,14,177.305,30.456,Joe Gibbs Racing,False,False,2,9,green
+Kyle Larson,4030,Chv,5,3,3,177.299,30.457,Hendrick Motorsports,False,False,1,1,green
+Kyle Busch,454,Tyt,18,82,14,177.299,30.457,Joe Gibbs Racing,False,False,2,9,green
+Christopher Bell,4153,Tyt,20,28,14,177.299,30.457,Joe Gibbs Racing,False,False,3,11,green
+Kurt Busch,453,Chv,1,5,9,177.293,30.458,Chip Ganassi Racing,False,False,13,10,green
+Ryan Newman,2394,Frd,6,51,9,177.293,30.458,Roush Fenway Racing,False,False,14,20,green
+Brad Keselowski,1816,Frd,2,20,2,177.293,30.458,Team Penske,False,False,9,2,green
+Tyler Reddick,4065,Chv,8,84,20,177.282,30.460,Richard Childress Racing,False,False,19,16,green
+Michael McDowell,3832,Frd,34,9,14,177.282,30.460,Front Row Motorsports,False,False,11,12,green
+Ross Chastain,4001,Chv,42,18,3,177.276,30.461,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,60,10,177.276,30.461,Roush Fenway Racing,False,False,14,20,caution
+Aric Almirola,40,Frd,10,90,10,177.270,30.462,Stewart-Haas Racing,False,False,20,8,caution
+William Byron,4184,Chv,24,23,7,177.270,30.462,Hendrick Motorsports,False,False,8,7,green
+Chase Elliott,4062,Chv,9,49,8,177.270,30.462,Hendrick Motorsports,False,False,6,3,green
+Michael McDowell,3832,Frd,34,47,7,177.270,30.462,Front Row Motorsports,False,False,11,12,green
+Matt DiBenedetto,3916,Frd,21,60,8,177.258,30.464,Wood Brothers Racing,False,False,21,17,pitting in
+Kevin Harvick,1416,Frd,4,52,11,177.258,30.464,Stewart-Haas Racing,False,False,12,15,green
+Ross Chastain,4001,Chv,42,19,3,177.253,30.465,Chip Ganassi Racing,False,False,18,18,green
+Joey Logano,3859,Frd,22,30,10,177.253,30.465,Team Penske,False,False,7,4,caution
+Tyler Reddick,4065,Chv,8,23,16,177.253,30.465,Richard Childress Racing,False,False,19,16,green
+Kyle Busch,454,Tyt,18,33,13,177.253,30.465,Joe Gibbs Racing,False,False,2,9,green
+Brad Keselowski,1816,Frd,2,42,21,177.253,30.465,Team Penske,False,False,9,2,green
+Cole Custer,4104,Frd,41,65,9,177.235,30.468,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,21,9,177.229,30.469,Joe Gibbs Racing,False,False,10,13,green
+Ross Chastain,4001,Chv,42,48,18,177.229,30.469,Chip Ganassi Racing,False,False,18,18,green
+Tyler Reddick,4065,Chv,8,39,12,177.229,30.469,Richard Childress Racing,False,False,19,16,green
+Tyler Reddick,4065,Chv,8,36,11,177.229,30.469,Richard Childress Racing,False,False,19,16,green
+Kevin Harvick,1416,Frd,4,27,16,177.229,30.469,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,85,18,177.229,30.469,Wood Brothers Racing,False,False,21,17,green
+Brad Keselowski,1816,Frd,2,7,8,177.229,30.469,Team Penske,False,False,9,2,green
+Kyle Busch,454,Tyt,18,23,6,177.223,30.470,Joe Gibbs Racing,False,False,2,9,green
+Denny Hamlin,1361,Tyt,11,18,13,177.223,30.470,Joe Gibbs Racing,False,False,16,21,green
+Ryan Blaney,4023,Frd,12,29,1,177.223,30.470,Team Penske,False,False,17,5,green
+Kurt Busch,453,Chv,1,25,4,177.223,30.470,Chip Ganassi Racing,False,False,13,10,green
+Denny Hamlin,1361,Tyt,11,97,7,177.218,30.471,Joe Gibbs Racing,False,False,16,21,green
+Joey Logano,3859,Frd,22,36,15,177.218,30.471,Team Penske,False,False,7,4,green
+Joey Logano,3859,Frd,22,38,15,177.218,30.471,Team Penske,False,False,7,4,green
+Brad Keselowski,1816,Frd,2,39,21,177.212,30.472,Team Penske,False,False,9,2,green
+Ryan Newman,2394,Frd,6,9,15,177.212,30.472,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,95,14,177.212,30.472,Stewart-Haas Racing,False,False,4,14,green
+Christopher Bell,4153,Tyt,20,13,20,177.206,30.473,Joe Gibbs Racing,False,False,3,11,green
+Austin Dillon,3873,Chv,3,86,21,177.206,30.473,Richard Childress Racing,False,False,5,19,green
+Aric Almirola,40,Frd,10,87,12,177.206,30.473,Stewart-Haas Racing,False,False,20,8,green
+Ryan Blaney,4023,Frd,12,14,12,177.206,30.473,Team Penske,False,False,17,5,green
+Kurt Busch,453,Chv,1,7,9,177.200,30.474,Chip Ganassi Racing,False,False,13,10,green
+Alex Bowman,4045,Chv,48,29,17,177.194,30.475,Hendrick Motorsports,False,False,15,6,green
+Brad Keselowski,1816,Frd,2,40,21,177.194,30.475,Team Penske,False,False,9,2,green
+Austin Dillon,3873,Chv,3,59,17,177.194,30.475,Richard Childress Racing,False,False,5,19,green
+Ryan Blaney,4023,Frd,12,63,4,177.194,30.475,Team Penske,False,False,17,5,green
+William Byron,4184,Chv,24,19,7,177.189,30.476,Hendrick Motorsports,False,False,8,7,green
+Michael McDowell,3832,Frd,34,64,17,177.189,30.476,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,11,19,177.183,30.477,Richard Childress Racing,False,False,19,16,green
+Kurt Busch,453,Chv,1,90,9,177.183,30.477,Chip Ganassi Racing,False,False,13,10,caution
+Kevin Harvick,1416,Frd,4,29,16,177.177,30.478,Stewart-Haas Racing,False,False,12,15,green
+Kyle Busch,454,Tyt,18,49,18,177.177,30.478,Joe Gibbs Racing,False,False,2,9,green
+Chase Elliott,4062,Chv,9,42,15,177.171,30.479,Hendrick Motorsports,False,False,6,3,green
+Ryan Newman,2394,Frd,6,97,21,177.171,30.479,Roush Fenway Racing,False,False,14,20,green
+Austin Dillon,3873,Chv,3,95,20,177.165,30.480,Richard Childress Racing,False,False,5,19,green
+Michael McDowell,3832,Frd,34,28,18,177.165,30.480,Front Row Motorsports,False,False,11,12,green
+Martin Truex Jr.,3368,Tyt,19,75,13,177.165,30.480,Joe Gibbs Racing,False,False,10,13,green
+Kyle Larson,4030,Chv,5,34,5,177.160,30.481,Hendrick Motorsports,False,False,1,1,green
+Alex Bowman,4045,Chv,48,53,6,177.160,30.481,Hendrick Motorsports,False,False,15,6,green
+Martin Truex Jr.,3368,Tyt,19,44,15,177.154,30.482,Joe Gibbs Racing,False,False,10,13,green
+Alex Bowman,4045,Chv,48,32,5,177.154,30.482,Hendrick Motorsports,False,False,15,6,green
+Kyle Busch,454,Tyt,18,10,3,177.154,30.482,Joe Gibbs Racing,False,False,2,9,green
+Brad Keselowski,1816,Frd,2,56,13,177.148,30.483,Team Penske,False,False,9,2,green
+Christopher Bell,4153,Tyt,20,9,21,177.148,30.483,Joe Gibbs Racing,False,False,3,11,green
+Austin Dillon,3873,Chv,3,3,7,177.148,30.483,Richard Childress Racing,False,False,5,19,green
+Kyle Busch,454,Tyt,18,43,16,177.142,30.484,Joe Gibbs Racing,False,False,2,9,green
+Austin Dillon,3873,Chv,3,57,17,177.142,30.484,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,93,7,177.136,30.485,Hendrick Motorsports,False,False,15,6,green
+Michael McDowell,3832,Frd,34,55,11,177.136,30.485,Front Row Motorsports,False,False,11,12,green
+Aric Almirola,40,Frd,10,7,20,177.136,30.485,Stewart-Haas Racing,False,False,20,8,green
+Austin Dillon,3873,Chv,3,22,12,177.136,30.485,Richard Childress Racing,False,False,5,19,green
+Ryan Newman,2394,Frd,6,64,18,177.130,30.486,Roush Fenway Racing,False,False,14,20,green
+Austin Dillon,3873,Chv,3,67,21,177.125,30.487,Richard Childress Racing,False,False,5,19,green
+Kurt Busch,453,Chv,1,45,19,177.125,30.487,Chip Ganassi Racing,False,False,13,10,caution
+Cole Custer,4104,Frd,41,35,16,177.125,30.487,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,3,9,177.119,30.488,Stewart-Haas Racing,False,False,12,15,green
+Cole Custer,4104,Frd,41,96,14,177.119,30.488,Stewart-Haas Racing,False,False,4,14,green
+Tyler Reddick,4065,Chv,8,43,12,177.119,30.488,Richard Childress Racing,False,False,19,16,green
+Martin Truex Jr.,3368,Tyt,19,59,20,177.107,30.490,Joe Gibbs Racing,False,False,10,13,green
+Cole Custer,4104,Frd,41,45,20,177.107,30.490,Stewart-Haas Racing,False,False,4,14,caution
+Ross Chastain,4001,Chv,42,14,10,177.107,30.490,Chip Ganassi Racing,False,False,18,18,green
+Kurt Busch,453,Chv,1,23,5,177.107,30.490,Chip Ganassi Racing,False,False,13,10,green
+Ryan Newman,2394,Frd,6,83,17,177.107,30.490,Roush Fenway Racing,False,False,14,20,green
+Tyler Reddick,4065,Chv,8,9,19,177.101,30.491,Richard Childress Racing,False,False,19,16,green
+Ross Chastain,4001,Chv,42,98,19,177.101,30.491,Chip Ganassi Racing,False,False,18,18,green
+Kyle Larson,4030,Chv,5,37,6,177.096,30.492,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,94,12,177.096,30.492,Joe Gibbs Racing,False,False,3,11,green
+Matt DiBenedetto,3916,Frd,21,55,8,177.096,30.492,Wood Brothers Racing,False,False,21,17,green
+Kevin Harvick,1416,Frd,4,58,16,177.096,30.492,Stewart-Haas Racing,False,False,12,15,green
+Brad Keselowski,1816,Frd,2,64,7,177.090,30.493,Team Penske,False,False,9,2,green
+Christopher Bell,4153,Tyt,20,100,11,177.090,30.493,Joe Gibbs Racing,False,False,3,11,pitting in
+William Byron,4184,Chv,24,17,10,177.090,30.493,Hendrick Motorsports,False,False,8,7,green
+Christopher Bell,4153,Tyt,20,47,3,177.090,30.493,Joe Gibbs Racing,False,False,3,11,green
+Michael McDowell,3832,Frd,34,29,18,177.084,30.494,Front Row Motorsports,False,False,11,12,green
+Austin Dillon,3873,Chv,3,98,20,177.084,30.494,Richard Childress Racing,False,False,5,19,green
+Ross Chastain,4001,Chv,42,41,18,177.084,30.494,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,40,18,177.078,30.495,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,27,3,177.078,30.495,Chip Ganassi Racing,False,False,18,18,green
+Chase Elliott,4062,Chv,9,3,5,177.078,30.495,Hendrick Motorsports,False,False,6,3,green
+Kurt Busch,453,Chv,1,67,6,177.072,30.496,Chip Ganassi Racing,False,False,13,10,green
+Joey Logano,3859,Frd,22,45,17,177.072,30.496,Team Penske,False,False,7,4,caution
+Austin Dillon,3873,Chv,3,48,13,177.067,30.497,Richard Childress Racing,False,False,5,19,green
+Aric Almirola,40,Frd,10,30,21,177.067,30.497,Stewart-Haas Racing,False,False,20,8,caution
+Kyle Busch,454,Tyt,18,84,13,177.067,30.497,Joe Gibbs Racing,False,False,2,9,green
+Joey Logano,3859,Frd,22,3,6,177.061,30.498,Team Penske,False,False,7,4,green
+Ryan Newman,2394,Frd,6,88,17,177.061,30.498,Roush Fenway Racing,False,False,14,20,green
+Ryan Newman,2394,Frd,6,70,16,177.055,30.499,Roush Fenway Racing,False,False,14,20,green
+William Byron,4184,Chv,24,42,9,177.055,30.499,Hendrick Motorsports,False,False,8,7,green
+Tyler Reddick,4065,Chv,8,87,19,177.049,30.500,Richard Childress Racing,False,False,19,16,green
+Brad Keselowski,1816,Frd,2,11,7,177.049,30.500,Team Penske,False,False,9,2,green
+Michael McDowell,3832,Frd,34,56,11,177.043,30.501,Front Row Motorsports,False,False,11,12,green
+Joey Logano,3859,Frd,22,39,15,177.043,30.501,Team Penske,False,False,7,4,green
+Cole Custer,4104,Frd,41,56,14,177.043,30.501,Stewart-Haas Racing,False,False,4,14,green
+Tyler Reddick,4065,Chv,8,63,20,177.038,30.502,Richard Childress Racing,False,False,19,16,green
+Ross Chastain,4001,Chv,42,22,3,177.038,30.502,Chip Ganassi Racing,False,False,18,18,green
+Austin Dillon,3873,Chv,3,94,21,177.038,30.502,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,10,16,177.038,30.502,Hendrick Motorsports,False,False,15,6,green
+Tyler Reddick,4065,Chv,8,18,17,177.032,30.503,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,87,11,177.032,30.503,Stewart-Haas Racing,False,False,4,14,green
+Cole Custer,4104,Frd,41,13,5,177.026,30.504,Stewart-Haas Racing,False,False,4,14,green
+Joey Logano,3859,Frd,22,24,9,177.026,30.504,Team Penske,False,False,7,4,green
+Christopher Bell,4153,Tyt,20,35,7,177.026,30.504,Joe Gibbs Racing,False,False,3,11,green
+Alex Bowman,4045,Chv,48,7,17,177.026,30.504,Hendrick Motorsports,False,False,15,6,green
+Matt DiBenedetto,3916,Frd,21,83,18,177.026,30.504,Wood Brothers Racing,False,False,21,17,green
+Ryan Newman,2394,Frd,6,47,8,177.020,30.505,Roush Fenway Racing,False,False,14,20,green
+Brad Keselowski,1816,Frd,2,27,2,177.014,30.506,Team Penske,False,False,9,2,green
+Kyle Busch,454,Tyt,18,38,14,177.014,30.506,Joe Gibbs Racing,False,False,2,9,green
+Christopher Bell,4153,Tyt,20,90,14,177.009,30.507,Joe Gibbs Racing,False,False,3,11,caution
+Kevin Harvick,1416,Frd,4,23,15,177.009,30.507,Stewart-Haas Racing,False,False,12,15,green
+William Byron,4184,Chv,24,24,7,177.003,30.508,Hendrick Motorsports,False,False,8,7,green
+Alex Bowman,4045,Chv,48,92,6,177.003,30.508,Hendrick Motorsports,False,False,15,6,green
+Matt DiBenedetto,3916,Frd,21,54,8,177.003,30.508,Wood Brothers Racing,False,False,21,17,green
+Joey Logano,3859,Frd,22,84,6,176.991,30.510,Team Penske,False,False,7,4,green
+Denny Hamlin,1361,Tyt,11,84,8,176.991,30.510,Joe Gibbs Racing,False,False,16,21,green
+Joey Logano,3859,Frd,22,35,15,176.991,30.510,Team Penske,False,False,7,4,green
+Aric Almirola,40,Frd,10,82,11,176.985,30.511,Stewart-Haas Racing,False,False,20,8,green
+Chase Elliott,4062,Chv,9,5,5,176.985,30.511,Hendrick Motorsports,False,False,6,3,green
+Cole Custer,4104,Frd,41,10,5,176.980,30.512,Stewart-Haas Racing,False,False,4,14,green
+Ryan Newman,2394,Frd,6,56,9,176.980,30.512,Roush Fenway Racing,False,False,14,20,green
+Matt DiBenedetto,3916,Frd,21,29,20,176.980,30.512,Wood Brothers Racing,False,False,21,17,green
+Kyle Larson,4030,Chv,5,28,13,176.980,30.512,Hendrick Motorsports,False,False,1,1,green
+Joey Logano,3859,Frd,22,7,7,176.980,30.512,Team Penske,False,False,7,4,green
+Alex Bowman,4045,Chv,48,12,15,176.974,30.513,Hendrick Motorsports,False,False,15,6,green
+Ryan Newman,2394,Frd,6,85,17,176.974,30.513,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,12,5,176.974,30.513,Stewart-Haas Racing,False,False,4,14,green
+Ryan Blaney,4023,Frd,12,38,17,176.968,30.514,Team Penske,False,False,17,5,green
+Austin Dillon,3873,Chv,3,35,8,176.968,30.514,Richard Childress Racing,False,False,5,19,green
+Ross Chastain,4001,Chv,42,93,18,176.968,30.514,Chip Ganassi Racing,False,False,18,18,green
+Kyle Busch,454,Tyt,18,42,16,176.962,30.515,Joe Gibbs Racing,False,False,2,9,green
+Kyle Busch,454,Tyt,18,36,14,176.956,30.516,Joe Gibbs Racing,False,False,2,9,green
+Alex Bowman,4045,Chv,48,20,13,176.956,30.516,Hendrick Motorsports,False,False,15,6,green
+Matt DiBenedetto,3916,Frd,21,100,17,176.956,30.516,Wood Brothers Racing,False,False,21,17,pitting in
+Matt DiBenedetto,3916,Frd,21,53,7,176.956,30.516,Wood Brothers Racing,False,False,21,17,green
+Ross Chastain,4001,Chv,42,45,18,176.956,30.516,Chip Ganassi Racing,False,False,18,18,caution
+Aric Almirola,40,Frd,10,34,4,176.945,30.518,Stewart-Haas Racing,False,False,20,8,green
+Christopher Bell,4153,Tyt,20,88,14,176.945,30.518,Joe Gibbs Racing,False,False,3,11,green
+Christopher Bell,4153,Tyt,20,32,8,176.939,30.519,Joe Gibbs Racing,False,False,3,11,green
+Kurt Busch,453,Chv,1,14,8,176.939,30.519,Chip Ganassi Racing,False,False,13,10,green
+William Byron,4184,Chv,24,37,11,176.939,30.519,Hendrick Motorsports,False,False,8,7,green
+Ryan Blaney,4023,Frd,12,22,1,176.939,30.519,Team Penske,False,False,17,5,green
+Joey Logano,3859,Frd,22,5,6,176.939,30.519,Team Penske,False,False,7,4,green
+Kevin Harvick,1416,Frd,4,57,16,176.939,30.519,Stewart-Haas Racing,False,False,12,15,green
+Michael McDowell,3832,Frd,34,12,14,176.939,30.519,Front Row Motorsports,False,False,11,12,green
+Kevin Harvick,1416,Frd,4,90,15,176.927,30.521,Stewart-Haas Racing,False,False,12,15,caution
+Chase Elliott,4062,Chv,9,20,5,176.927,30.521,Hendrick Motorsports,False,False,6,3,green
+Cole Custer,4104,Frd,41,37,17,176.922,30.522,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,17,11,176.922,30.522,Joe Gibbs Racing,False,False,10,13,green
+Joey Logano,3859,Frd,22,56,18,176.916,30.523,Team Penske,False,False,7,4,green
+Michael McDowell,3832,Frd,34,66,15,176.916,30.523,Front Row Motorsports,False,False,11,12,green
+Chase Elliott,4062,Chv,9,40,17,176.916,30.523,Hendrick Motorsports,False,False,6,3,green
+Christopher Bell,4153,Tyt,20,89,14,176.916,30.523,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,26,11,176.910,30.524,Joe Gibbs Racing,False,False,10,13,green
+Kyle Busch,454,Tyt,18,93,11,176.904,30.525,Joe Gibbs Racing,False,False,2,9,green
+Ross Chastain,4001,Chv,42,50,19,176.904,30.525,Chip Ganassi Racing,False,False,18,18,green
+Cole Custer,4104,Frd,41,17,8,176.893,30.527,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,14,13,176.893,30.527,Joe Gibbs Racing,False,False,10,13,green
+Ryan Blaney,4023,Frd,12,11,10,176.887,30.528,Team Penske,False,False,17,5,green
+Tyler Reddick,4065,Chv,8,54,21,176.887,30.528,Richard Childress Racing,False,False,19,16,green
+Kyle Busch,454,Tyt,18,17,6,176.881,30.529,Joe Gibbs Racing,False,False,2,9,green
+Kevin Harvick,1416,Frd,4,59,16,176.881,30.529,Stewart-Haas Racing,False,False,12,15,green
+Denny Hamlin,1361,Tyt,11,22,10,176.881,30.529,Joe Gibbs Racing,False,False,16,21,green
+Christopher Bell,4153,Tyt,20,29,13,176.881,30.529,Joe Gibbs Racing,False,False,3,11,green
+Matt DiBenedetto,3916,Frd,21,30,20,176.881,30.529,Wood Brothers Racing,False,False,21,17,caution
+Ryan Newman,2394,Frd,6,50,8,176.875,30.530,Roush Fenway Racing,False,False,14,20,green
+Martin Truex Jr.,3368,Tyt,19,88,12,176.875,30.530,Joe Gibbs Racing,False,False,10,13,green
+Aric Almirola,40,Frd,10,92,9,176.875,30.530,Stewart-Haas Racing,False,False,20,8,green
+Aric Almirola,40,Frd,10,32,3,176.875,30.530,Stewart-Haas Racing,False,False,20,8,green
+Kevin Harvick,1416,Frd,4,33,9,176.869,30.531,Stewart-Haas Racing,False,False,12,15,green
+Ryan Newman,2394,Frd,6,98,21,176.869,30.531,Roush Fenway Racing,False,False,14,20,green
+Christopher Bell,4153,Tyt,20,23,17,176.869,30.531,Joe Gibbs Racing,False,False,3,11,green
+Chase Elliott,4062,Chv,9,29,5,176.864,30.532,Hendrick Motorsports,False,False,6,3,green
+Chase Elliott,4062,Chv,9,52,5,176.864,30.532,Hendrick Motorsports,False,False,6,3,green
+Ryan Newman,2394,Frd,6,29,19,176.864,30.532,Roush Fenway Racing,False,False,14,20,green
+Kurt Busch,453,Chv,1,33,20,176.864,30.532,Chip Ganassi Racing,False,False,13,10,green
+Ross Chastain,4001,Chv,42,94,18,176.858,30.533,Chip Ganassi Racing,False,False,18,18,green
+Denny Hamlin,1361,Tyt,11,20,12,176.858,30.533,Joe Gibbs Racing,False,False,16,21,green
+Denny Hamlin,1361,Tyt,11,45,7,176.858,30.533,Joe Gibbs Racing,False,False,16,21,caution
+Kevin Harvick,1416,Frd,4,86,15,176.858,30.533,Stewart-Haas Racing,False,False,12,15,green
+Denny Hamlin,1361,Tyt,11,10,17,176.852,30.534,Joe Gibbs Racing,False,False,16,21,green
+Kurt Busch,453,Chv,1,39,20,176.846,30.535,Chip Ganassi Racing,False,False,13,10,green
+Denny Hamlin,1361,Tyt,11,47,6,176.846,30.535,Joe Gibbs Racing,False,False,16,21,green
+Kyle Larson,4030,Chv,5,32,6,176.846,30.535,Hendrick Motorsports,False,False,1,1,green
+Kyle Busch,454,Tyt,18,53,14,176.846,30.535,Joe Gibbs Racing,False,False,2,9,green
+Kyle Busch,454,Tyt,18,41,15,176.835,30.537,Joe Gibbs Racing,False,False,2,9,green
+Martin Truex Jr.,3368,Tyt,19,35,12,176.835,30.537,Joe Gibbs Racing,False,False,10,13,green
+Martin Truex Jr.,3368,Tyt,19,6,12,176.835,30.537,Joe Gibbs Racing,False,False,10,13,green
+Kyle Busch,454,Tyt,18,18,6,176.835,30.537,Joe Gibbs Racing,False,False,2,9,green
+Christopher Bell,4153,Tyt,20,93,13,176.835,30.537,Joe Gibbs Racing,False,False,3,11,green
+Ryan Newman,2394,Frd,6,32,4,176.823,30.539,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,25,9,176.823,30.539,Stewart-Haas Racing,False,False,4,14,green
+Ryan Blaney,4023,Frd,12,15,12,176.817,30.540,Team Penske,False,False,17,5,caution
+Kurt Busch,453,Chv,1,72,12,176.817,30.540,Chip Ganassi Racing,False,False,13,10,green
+William Byron,4184,Chv,24,18,8,176.817,30.540,Hendrick Motorsports,False,False,8,7,green
+Christopher Bell,4153,Tyt,20,85,13,176.811,30.541,Joe Gibbs Racing,False,False,3,11,green
+William Byron,4184,Chv,24,13,2,176.811,30.541,Hendrick Motorsports,False,False,8,7,green
+Martin Truex Jr.,3368,Tyt,19,100,13,176.811,30.541,Joe Gibbs Racing,False,False,10,13,pitting in
+Kurt Busch,453,Chv,1,26,4,176.811,30.541,Chip Ganassi Racing,False,False,13,10,green
+Austin Dillon,3873,Chv,3,32,10,176.806,30.542,Richard Childress Racing,False,False,5,19,green
+Austin Dillon,3873,Chv,3,5,7,176.806,30.542,Richard Childress Racing,False,False,5,19,green
+Tyler Reddick,4065,Chv,8,96,16,176.806,30.542,Richard Childress Racing,False,False,19,16,green
+Austin Dillon,3873,Chv,3,71,21,176.794,30.544,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,17,13,176.794,30.544,Hendrick Motorsports,False,False,15,6,green
+Ryan Blaney,4023,Frd,12,40,15,176.788,30.545,Team Penske,False,False,17,5,green
+Cole Custer,4104,Frd,41,22,11,176.788,30.545,Stewart-Haas Racing,False,False,4,14,green
+Matt DiBenedetto,3916,Frd,21,97,18,176.788,30.545,Wood Brothers Racing,False,False,21,17,green
+Ryan Blaney,4023,Frd,12,34,21,176.788,30.545,Team Penske,False,False,17,5,green
+Matt DiBenedetto,3916,Frd,21,23,19,176.783,30.546,Wood Brothers Racing,False,False,21,17,green
+William Byron,4184,Chv,24,39,11,176.783,30.546,Hendrick Motorsports,False,False,8,7,green
+Kyle Busch,454,Tyt,18,45,16,176.777,30.547,Joe Gibbs Racing,False,False,2,9,caution
+Tyler Reddick,4065,Chv,8,90,18,176.777,30.547,Richard Childress Racing,False,False,19,16,caution
+Chase Elliott,4062,Chv,9,21,5,176.777,30.547,Hendrick Motorsports,False,False,6,3,green
+Michael McDowell,3832,Frd,34,36,3,176.777,30.547,Front Row Motorsports,False,False,11,12,green
+Ross Chastain,4001,Chv,42,53,19,176.771,30.548,Chip Ganassi Racing,False,False,18,18,green
+Austin Dillon,3873,Chv,3,26,12,176.765,30.549,Richard Childress Racing,False,False,5,19,green
+Ross Chastain,4001,Chv,42,97,19,176.765,30.549,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,89,13,176.759,30.550,Joe Gibbs Racing,False,False,10,13,green
+Brad Keselowski,1816,Frd,2,63,7,176.759,30.550,Team Penske,False,False,9,2,green
+Martin Truex Jr.,3368,Tyt,19,36,13,176.754,30.551,Joe Gibbs Racing,False,False,10,13,green
+Ross Chastain,4001,Chv,42,83,19,176.754,30.551,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,89,17,176.754,30.551,Roush Fenway Racing,False,False,14,20,green
+Aric Almirola,40,Frd,10,70,8,176.754,30.551,Stewart-Haas Racing,False,False,20,8,green
+Joey Logano,3859,Frd,22,17,9,176.748,30.552,Team Penske,False,False,7,4,green
+Ryan Newman,2394,Frd,6,25,20,176.742,30.553,Roush Fenway Racing,False,False,14,20,green
+Denny Hamlin,1361,Tyt,11,5,15,176.742,30.553,Joe Gibbs Racing,False,False,16,21,green
+Chase Elliott,4062,Chv,9,26,6,176.742,30.553,Hendrick Motorsports,False,False,6,3,green
+Austin Dillon,3873,Chv,3,19,11,176.742,30.553,Richard Childress Racing,False,False,5,19,green
+Austin Dillon,3873,Chv,3,52,15,176.742,30.553,Richard Childress Racing,False,False,5,19,green
+Brad Keselowski,1816,Frd,2,44,21,176.742,30.553,Team Penske,False,False,9,2,green
+Cole Custer,4104,Frd,41,97,15,176.736,30.554,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,100,15,176.736,30.554,Stewart-Haas Racing,False,False,12,15,pitting in
+Kevin Harvick,1416,Frd,4,88,15,176.730,30.555,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,87,18,176.730,30.555,Wood Brothers Racing,False,False,21,17,green
+Michael McDowell,3832,Frd,34,5,13,176.730,30.555,Front Row Motorsports,False,False,11,12,green
+Martin Truex Jr.,3368,Tyt,19,40,13,176.730,30.555,Joe Gibbs Racing,False,False,10,13,green
+Ryan Newman,2394,Frd,6,49,7,176.725,30.556,Roush Fenway Racing,False,False,14,20,green
+Ryan Blaney,4023,Frd,12,50,10,176.707,30.559,Team Penske,False,False,17,5,green
+Austin Dillon,3873,Chv,3,29,12,176.702,30.560,Richard Childress Racing,False,False,5,19,green
+Kevin Harvick,1416,Frd,4,72,11,176.702,30.560,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,63,6,176.702,30.560,Chip Ganassi Racing,False,False,13,10,green
+Ryan Blaney,4023,Frd,12,92,5,176.702,30.560,Team Penske,False,False,17,5,green
+Michael McDowell,3832,Frd,34,70,17,176.702,30.560,Front Row Motorsports,False,False,11,12,green
+Kurt Busch,453,Chv,1,43,19,176.702,30.560,Chip Ganassi Racing,False,False,13,10,green
+Brad Keselowski,1816,Frd,2,48,19,176.696,30.561,Team Penske,False,False,9,2,green
+Aric Almirola,40,Frd,10,88,11,176.696,30.561,Stewart-Haas Racing,False,False,20,8,green
+Chase Elliott,4062,Chv,9,25,6,176.690,30.562,Hendrick Motorsports,False,False,6,3,green
+Cole Custer,4104,Frd,41,86,10,176.684,30.563,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,22,9,176.684,30.563,Joe Gibbs Racing,False,False,10,13,green
+Ross Chastain,4001,Chv,42,36,18,176.684,30.563,Chip Ganassi Racing,False,False,18,18,green
+Tyler Reddick,4065,Chv,8,33,10,176.684,30.563,Richard Childress Racing,False,False,19,16,green
+Christopher Bell,4153,Tyt,20,12,21,176.678,30.564,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,18,10,176.678,30.564,Joe Gibbs Racing,False,False,10,13,green
+Alex Bowman,4045,Chv,48,27,17,176.673,30.565,Hendrick Motorsports,False,False,15,6,green
+Martin Truex Jr.,3368,Tyt,19,43,14,176.673,30.565,Joe Gibbs Racing,False,False,10,13,green
+Aric Almirola,40,Frd,10,24,21,176.673,30.565,Stewart-Haas Racing,False,False,20,8,green
+Kevin Harvick,1416,Frd,4,20,15,176.673,30.565,Stewart-Haas Racing,False,False,12,15,green
+Chase Elliott,4062,Chv,9,19,5,176.667,30.566,Hendrick Motorsports,False,False,6,3,green
+Alex Bowman,4045,Chv,48,8,16,176.667,30.566,Hendrick Motorsports,False,False,15,6,green
+Tyler Reddick,4065,Chv,8,29,15,176.667,30.566,Richard Childress Racing,False,False,19,16,green
+Ryan Newman,2394,Frd,6,69,16,176.661,30.567,Roush Fenway Racing,False,False,14,20,green
+Kurt Busch,453,Chv,1,4,9,176.661,30.567,Chip Ganassi Racing,False,False,13,10,green
+Joey Logano,3859,Frd,22,32,13,176.661,30.567,Team Penske,False,False,7,4,green
+Michael McDowell,3832,Frd,34,95,15,176.650,30.569,Front Row Motorsports,False,False,11,12,green
+Brad Keselowski,1816,Frd,2,32,20,176.644,30.570,Team Penske,False,False,9,2,green
+Christopher Bell,4153,Tyt,20,26,14,176.644,30.570,Joe Gibbs Racing,False,False,3,11,green
+Michael McDowell,3832,Frd,34,48,8,176.638,30.571,Front Row Motorsports,False,False,11,12,green
+Kurt Busch,453,Chv,1,71,12,176.638,30.571,Chip Ganassi Racing,False,False,13,10,green
+Kevin Harvick,1416,Frd,4,47,9,176.638,30.571,Stewart-Haas Racing,False,False,12,15,green
+Kyle Larson,4030,Chv,5,20,14,176.632,30.572,Hendrick Motorsports,False,False,1,1,green
+Martin Truex Jr.,3368,Tyt,19,94,13,176.632,30.572,Joe Gibbs Racing,False,False,10,13,green
+Austin Dillon,3873,Chv,3,41,11,176.632,30.572,Richard Childress Racing,False,False,5,19,green
+Christopher Bell,4153,Tyt,20,81,14,176.626,30.573,Joe Gibbs Racing,False,False,3,11,green
+Kyle Larson,4030,Chv,5,36,5,176.621,30.574,Hendrick Motorsports,False,False,1,1,green
+Kurt Busch,453,Chv,1,28,4,176.621,30.574,Chip Ganassi Racing,False,False,13,10,green
+Ryan Blaney,4023,Frd,12,3,12,176.621,30.574,Team Penske,False,False,17,5,green
+Martin Truex Jr.,3368,Tyt,19,58,20,176.615,30.575,Joe Gibbs Racing,False,False,10,13,green
+Martin Truex Jr.,3368,Tyt,19,5,11,176.603,30.577,Joe Gibbs Racing,False,False,10,13,green
+Kevin Harvick,1416,Frd,4,7,11,176.603,30.577,Stewart-Haas Racing,False,False,12,15,green
+William Byron,4184,Chv,24,79,3,176.603,30.577,Hendrick Motorsports,False,False,8,7,caution
+Kurt Busch,453,Chv,1,40,20,176.603,30.577,Chip Ganassi Racing,False,False,13,10,green
+Kurt Busch,453,Chv,1,38,20,176.603,30.577,Chip Ganassi Racing,False,False,13,10,green
+Christopher Bell,4153,Tyt,20,82,12,176.598,30.578,Joe Gibbs Racing,False,False,3,11,green
+Christopher Bell,4153,Tyt,20,22,18,176.592,30.579,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,50,20,176.592,30.579,Joe Gibbs Racing,False,False,10,13,green
+Kevin Harvick,1416,Frd,4,21,15,176.592,30.579,Stewart-Haas Racing,False,False,12,15,green
+Tyler Reddick,4065,Chv,8,37,12,176.586,30.580,Richard Childress Racing,False,False,19,16,green
+Aric Almirola,40,Frd,10,51,12,176.586,30.580,Stewart-Haas Racing,False,False,20,8,green
+Kyle Busch,454,Tyt,18,37,14,176.580,30.581,Joe Gibbs Racing,False,False,2,9,green
+Michael McDowell,3832,Frd,34,38,4,176.580,30.581,Front Row Motorsports,False,False,11,12,green
+William Byron,4184,Chv,24,21,7,176.580,30.581,Hendrick Motorsports,False,False,8,7,green
+Cole Custer,4104,Frd,41,100,14,176.580,30.581,Stewart-Haas Racing,False,False,4,14,pitting in
+Ryan Newman,2394,Frd,6,10,15,176.574,30.582,Roush Fenway Racing,False,False,14,20,green
+Ryan Newman,2394,Frd,6,67,17,176.574,30.582,Roush Fenway Racing,False,False,14,20,green
+Matt DiBenedetto,3916,Frd,21,99,18,176.574,30.582,Wood Brothers Racing,False,False,21,17,green
+Ross Chastain,4001,Chv,42,21,3,176.574,30.582,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,54,18,176.574,30.582,Chip Ganassi Racing,False,False,18,18,green
+Joey Logano,3859,Frd,22,53,18,176.569,30.583,Team Penske,False,False,7,4,green
+Kevin Harvick,1416,Frd,4,6,10,176.569,30.583,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,34,20,176.569,30.583,Chip Ganassi Racing,False,False,13,10,green
+Brad Keselowski,1816,Frd,2,53,13,176.563,30.584,Team Penske,False,False,9,2,green
+Michael McDowell,3832,Frd,34,83,16,176.557,30.585,Front Row Motorsports,False,False,11,12,green
+Christopher Bell,4153,Tyt,20,8,21,176.557,30.585,Joe Gibbs Racing,False,False,3,11,green
+Aric Almirola,40,Frd,10,11,20,176.551,30.586,Stewart-Haas Racing,False,False,20,8,green
+Ross Chastain,4001,Chv,42,62,9,176.551,30.586,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,71,7,176.546,30.587,Chip Ganassi Racing,False,False,18,18,green
+Kyle Busch,454,Tyt,18,51,16,176.546,30.587,Joe Gibbs Racing,False,False,2,9,green
+Cole Custer,4104,Frd,41,44,20,176.546,30.587,Stewart-Haas Racing,False,False,4,14,green
+Alex Bowman,4045,Chv,48,14,14,176.540,30.588,Hendrick Motorsports,False,False,15,6,green
+Chase Elliott,4062,Chv,9,39,17,176.534,30.589,Hendrick Motorsports,False,False,6,3,green
+Cole Custer,4104,Frd,41,24,10,176.534,30.589,Stewart-Haas Racing,False,False,4,14,green
+William Byron,4184,Chv,24,32,17,176.534,30.589,Hendrick Motorsports,False,False,8,7,green
+Kevin Harvick,1416,Frd,4,48,10,176.534,30.589,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,92,11,176.528,30.590,Joe Gibbs Racing,False,False,10,13,green
+Ryan Newman,2394,Frd,6,28,19,176.528,30.590,Roush Fenway Racing,False,False,14,20,green
+Ryan Newman,2394,Frd,6,95,21,176.523,30.591,Roush Fenway Racing,False,False,14,20,green
+Aric Almirola,40,Frd,10,93,8,176.523,30.591,Stewart-Haas Racing,False,False,20,8,green
+Matt DiBenedetto,3916,Frd,21,69,15,176.517,30.592,Wood Brothers Racing,False,False,21,17,green
+Austin Dillon,3873,Chv,3,96,20,176.511,30.593,Richard Childress Racing,False,False,5,19,green
+Denny Hamlin,1361,Tyt,11,29,9,176.505,30.594,Joe Gibbs Racing,False,False,16,21,green
+Tyler Reddick,4065,Chv,8,38,12,176.505,30.594,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,42,20,176.505,30.594,Stewart-Haas Racing,False,False,4,14,green
+Matt DiBenedetto,3916,Frd,21,11,18,176.499,30.595,Wood Brothers Racing,False,False,21,17,green
+Ryan Blaney,4023,Frd,12,21,1,176.482,30.598,Team Penske,False,False,17,5,green
+Alex Bowman,4045,Chv,48,59,7,176.476,30.599,Hendrick Motorsports,False,False,15,6,green
+Joey Logano,3859,Frd,22,11,9,176.476,30.599,Team Penske,False,False,7,4,green
+Kyle Larson,4030,Chv,5,25,13,176.471,30.600,Hendrick Motorsports,False,False,1,1,green
+Kyle Larson,4030,Chv,5,18,15,176.471,30.600,Hendrick Motorsports,False,False,1,1,green
+Michael McDowell,3832,Frd,34,49,9,176.453,30.603,Front Row Motorsports,False,False,11,12,green
+Christopher Bell,4153,Tyt,20,44,8,176.453,30.603,Joe Gibbs Racing,False,False,3,11,green
+Kyle Busch,454,Tyt,18,19,6,176.453,30.603,Joe Gibbs Racing,False,False,2,9,green
+Martin Truex Jr.,3368,Tyt,19,37,13,176.448,30.604,Joe Gibbs Racing,False,False,10,13,green
+Kurt Busch,453,Chv,1,18,5,176.442,30.605,Chip Ganassi Racing,False,False,13,10,green
+Joey Logano,3859,Frd,22,64,11,176.442,30.605,Team Penske,False,False,7,4,green
+Ross Chastain,4001,Chv,42,100,18,176.436,30.606,Chip Ganassi Racing,False,False,18,18,pitting in
+Kevin Harvick,1416,Frd,4,81,13,176.436,30.606,Stewart-Haas Racing,False,False,12,15,green
+Brad Keselowski,1816,Frd,2,21,2,176.436,30.606,Team Penske,False,False,9,2,green
+Brad Keselowski,1816,Frd,2,6,8,176.436,30.606,Team Penske,False,False,9,2,green
+Christopher Bell,4153,Tyt,20,21,18,176.436,30.606,Joe Gibbs Racing,False,False,3,11,green
+Joey Logano,3859,Frd,22,33,14,176.430,30.607,Team Penske,False,False,7,4,green
+Aric Almirola,40,Frd,10,54,10,176.430,30.607,Stewart-Haas Racing,False,False,20,8,green
+Kyle Larson,4030,Chv,5,39,7,176.419,30.609,Hendrick Motorsports,False,False,1,1,green
+Austin Dillon,3873,Chv,3,37,10,176.419,30.609,Richard Childress Racing,False,False,5,19,green
+Brad Keselowski,1816,Frd,2,5,8,176.413,30.610,Team Penske,False,False,9,2,green
+Aric Almirola,40,Frd,10,25,21,176.413,30.610,Stewart-Haas Racing,False,False,20,8,green
+Joey Logano,3859,Frd,22,42,17,176.413,30.610,Team Penske,False,False,7,4,green
+Chase Elliott,4062,Chv,9,24,6,176.407,30.611,Hendrick Motorsports,False,False,6,3,green
+Austin Dillon,3873,Chv,3,97,20,176.407,30.611,Richard Childress Racing,False,False,5,19,green
+Joey Logano,3859,Frd,22,59,18,176.401,30.612,Team Penske,False,False,7,4,green
+Michael McDowell,3832,Frd,34,68,16,176.401,30.612,Front Row Motorsports,False,False,11,12,green
+Kevin Harvick,1416,Frd,4,39,9,176.396,30.613,Stewart-Haas Racing,False,False,12,15,green
+Cole Custer,4104,Frd,41,30,8,176.390,30.614,Stewart-Haas Racing,False,False,4,14,caution
+Brad Keselowski,1816,Frd,2,12,7,176.384,30.615,Team Penske,False,False,9,2,green
+Ross Chastain,4001,Chv,42,49,19,176.384,30.615,Chip Ganassi Racing,False,False,18,18,green
+Kurt Busch,453,Chv,1,55,12,176.384,30.615,Chip Ganassi Racing,False,False,13,10,green
+Kyle Busch,454,Tyt,18,26,5,176.373,30.617,Joe Gibbs Racing,False,False,2,9,green
+Kyle Busch,454,Tyt,18,30,7,176.373,30.617,Joe Gibbs Racing,False,False,2,9,caution
+Alex Bowman,4045,Chv,48,84,7,176.373,30.617,Hendrick Motorsports,False,False,15,6,green
+Kyle Busch,454,Tyt,18,34,15,176.367,30.618,Joe Gibbs Racing,False,False,2,9,green
+Matt DiBenedetto,3916,Frd,21,93,15,176.367,30.618,Wood Brothers Racing,False,False,21,17,green
+Kyle Busch,454,Tyt,18,58,15,176.361,30.619,Joe Gibbs Racing,False,False,2,9,green
+Kurt Busch,453,Chv,1,54,12,176.361,30.619,Chip Ganassi Racing,False,False,13,10,green
+Joey Logano,3859,Frd,22,26,10,176.361,30.619,Team Penske,False,False,7,4,green
+Aric Almirola,40,Frd,10,85,11,176.355,30.620,Stewart-Haas Racing,False,False,20,8,green
+Chase Elliott,4062,Chv,9,17,4,176.355,30.620,Hendrick Motorsports,False,False,6,3,green
+Kyle Busch,454,Tyt,18,27,6,176.350,30.621,Joe Gibbs Racing,False,False,2,9,green
+Matt DiBenedetto,3916,Frd,21,88,18,176.350,30.621,Wood Brothers Racing,False,False,21,17,green
+Austin Dillon,3873,Chv,3,85,21,176.344,30.622,Richard Childress Racing,False,False,5,19,green
+Kyle Busch,454,Tyt,18,92,12,176.344,30.622,Joe Gibbs Racing,False,False,2,9,green
+Ryan Newman,2394,Frd,6,54,9,176.344,30.622,Roush Fenway Racing,False,False,14,20,green
+Tyler Reddick,4065,Chv,8,35,11,176.344,30.622,Richard Childress Racing,False,False,19,16,green
+Michael McDowell,3832,Frd,34,8,14,176.338,30.623,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,13,19,176.338,30.623,Richard Childress Racing,False,False,19,16,green
+Kyle Busch,454,Tyt,18,50,18,176.338,30.623,Joe Gibbs Racing,False,False,2,9,green
+Kurt Busch,453,Chv,1,29,4,176.321,30.626,Chip Ganassi Racing,False,False,13,10,green
+Joey Logano,3859,Frd,22,50,17,176.315,30.627,Team Penske,False,False,7,4,green
+Matt DiBenedetto,3916,Frd,21,98,18,176.315,30.627,Wood Brothers Racing,False,False,21,17,green
+Ross Chastain,4001,Chv,42,6,14,176.315,30.627,Chip Ganassi Racing,False,False,18,18,green
+Tyler Reddick,4065,Chv,8,93,16,176.309,30.628,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,18,9,176.309,30.628,Stewart-Haas Racing,False,False,4,14,green
+Aric Almirola,40,Frd,10,44,3,176.309,30.628,Stewart-Haas Racing,False,False,20,8,green
+Ryan Newman,2394,Frd,6,52,9,176.304,30.629,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,20,10,176.298,30.630,Stewart-Haas Racing,False,False,4,14,green
+Tyler Reddick,4065,Chv,8,88,19,176.292,30.631,Richard Childress Racing,False,False,19,16,green
+Alex Bowman,4045,Chv,48,52,6,176.292,30.631,Hendrick Motorsports,False,False,15,6,green
+Cole Custer,4104,Frd,41,93,14,176.292,30.631,Stewart-Haas Racing,False,False,4,14,green
+Brad Keselowski,1816,Frd,2,33,19,176.286,30.632,Team Penske,False,False,9,2,green
+Kurt Busch,453,Chv,1,99,11,176.286,30.632,Chip Ganassi Racing,False,False,13,10,green
+Ross Chastain,4001,Chv,42,37,19,176.286,30.632,Chip Ganassi Racing,False,False,18,18,green
+Christopher Bell,4153,Tyt,20,19,19,176.280,30.633,Joe Gibbs Racing,False,False,3,11,green
+Martin Truex Jr.,3368,Tyt,19,90,13,176.275,30.634,Joe Gibbs Racing,False,False,10,13,caution
+Ryan Newman,2394,Frd,6,6,15,176.275,30.634,Roush Fenway Racing,False,False,14,20,green
+Kurt Busch,453,Chv,1,93,9,176.269,30.635,Chip Ganassi Racing,False,False,13,10,green
+Aric Almirola,40,Frd,10,72,8,176.269,30.635,Stewart-Haas Racing,False,False,20,8,green
+Matt DiBenedetto,3916,Frd,21,13,18,176.269,30.635,Wood Brothers Racing,False,False,21,17,green
+Austin Dillon,3873,Chv,3,20,11,176.269,30.635,Richard Childress Racing,False,False,5,19,green
+Tyler Reddick,4065,Chv,8,21,17,176.263,30.636,Richard Childress Racing,False,False,19,16,green
+Alex Bowman,4045,Chv,48,21,13,176.263,30.636,Hendrick Motorsports,False,False,15,6,green
+Cole Custer,4104,Frd,41,85,10,176.263,30.636,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,53,20,176.263,30.636,Joe Gibbs Racing,False,False,10,13,green
+Martin Truex Jr.,3368,Tyt,19,19,9,176.263,30.636,Joe Gibbs Racing,False,False,10,13,green
+Joey Logano,3859,Frd,22,52,18,176.257,30.637,Team Penske,False,False,7,4,green
+Kurt Busch,453,Chv,1,37,20,176.252,30.638,Chip Ganassi Racing,False,False,13,10,green
+Ross Chastain,4001,Chv,42,95,18,176.252,30.638,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,20,9,176.246,30.639,Joe Gibbs Racing,False,False,10,13,green
+Alex Bowman,4045,Chv,48,15,14,176.246,30.639,Hendrick Motorsports,False,False,15,6,caution
+Joey Logano,3859,Frd,22,49,16,176.240,30.640,Team Penske,False,False,7,4,green
+Ryan Blaney,4023,Frd,12,17,1,176.234,30.641,Team Penske,False,False,17,5,green
+Chase Elliott,4062,Chv,9,18,4,176.234,30.641,Hendrick Motorsports,False,False,6,3,green
+Kevin Harvick,1416,Frd,4,35,10,176.229,30.642,Stewart-Haas Racing,False,False,12,15,green
+Brad Keselowski,1816,Frd,2,38,21,176.229,30.642,Team Penske,False,False,9,2,green
+Aric Almirola,40,Frd,10,23,21,176.223,30.643,Stewart-Haas Racing,False,False,20,8,green
+Joey Logano,3859,Frd,22,37,16,176.223,30.643,Team Penske,False,False,7,4,green
+Austin Dillon,3873,Chv,3,6,6,176.223,30.643,Richard Childress Racing,False,False,5,19,green
+William Byron,4184,Chv,24,26,7,176.223,30.643,Hendrick Motorsports,False,False,8,7,green
+Cole Custer,4104,Frd,41,21,11,176.217,30.644,Stewart-Haas Racing,False,False,4,14,green
+Austin Dillon,3873,Chv,3,24,12,176.217,30.644,Richard Childress Racing,False,False,5,19,green
+Austin Dillon,3873,Chv,3,27,12,176.217,30.644,Richard Childress Racing,False,False,5,19,green
+Matt DiBenedetto,3916,Frd,21,9,18,176.211,30.645,Wood Brothers Racing,False,False,21,17,green
+Tyler Reddick,4065,Chv,8,22,17,176.211,30.645,Richard Childress Racing,False,False,19,16,green
+Aric Almirola,40,Frd,10,36,4,176.211,30.645,Stewart-Haas Racing,False,False,20,8,green
+Tyler Reddick,4065,Chv,8,53,21,176.206,30.646,Richard Childress Racing,False,False,19,16,green
+Kevin Harvick,1416,Frd,4,15,11,176.200,30.647,Stewart-Haas Racing,False,False,12,15,caution
+Ross Chastain,4001,Chv,42,99,19,176.200,30.647,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,21,20,176.200,30.647,Roush Fenway Racing,False,False,14,20,green
+Kyle Larson,4030,Chv,5,83,4,176.200,30.647,Hendrick Motorsports,False,False,1,1,green
+Ryan Newman,2394,Frd,6,24,20,176.200,30.647,Roush Fenway Racing,False,False,14,20,green
+Brad Keselowski,1816,Frd,2,17,2,176.194,30.648,Team Penske,False,False,9,2,green
+Joey Logano,3859,Frd,22,6,7,176.188,30.649,Team Penske,False,False,7,4,green
+Austin Dillon,3873,Chv,3,28,12,176.188,30.649,Richard Childress Racing,False,False,5,19,green
+Kevin Harvick,1416,Frd,4,25,16,176.188,30.649,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,51,13,176.177,30.651,Chip Ganassi Racing,False,False,13,10,green
+Kurt Busch,453,Chv,1,92,10,176.177,30.651,Chip Ganassi Racing,False,False,13,10,green
+Kevin Harvick,1416,Frd,4,87,15,176.171,30.652,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,82,18,176.171,30.652,Wood Brothers Racing,False,False,21,17,green
+Austin Dillon,3873,Chv,3,84,21,176.171,30.652,Richard Childress Racing,False,False,5,19,green
+Martin Truex Jr.,3368,Tyt,19,8,12,176.165,30.653,Joe Gibbs Racing,False,False,10,13,green
+Martin Truex Jr.,3368,Tyt,19,57,20,176.165,30.653,Joe Gibbs Racing,False,False,10,13,green
+Kevin Harvick,1416,Frd,4,30,16,176.165,30.653,Stewart-Haas Racing,False,False,12,15,caution
+Ryan Blaney,4023,Frd,12,45,14,176.160,30.654,Team Penske,False,False,17,5,caution
+Denny Hamlin,1361,Tyt,11,28,8,176.154,30.655,Joe Gibbs Racing,False,False,16,21,green
+Ross Chastain,4001,Chv,42,17,3,176.148,30.656,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,58,19,176.148,30.656,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,11,13,176.131,30.659,Joe Gibbs Racing,False,False,10,13,green
+Michael McDowell,3832,Frd,34,11,14,176.131,30.659,Front Row Motorsports,False,False,11,12,green
+Alex Bowman,4045,Chv,48,24,13,176.131,30.659,Hendrick Motorsports,False,False,15,6,green
+Brad Keselowski,1816,Frd,2,58,13,176.125,30.660,Team Penske,False,False,9,2,green
+Ryan Newman,2394,Frd,6,84,17,176.125,30.660,Roush Fenway Racing,False,False,14,20,green
+Michael McDowell,3832,Frd,34,20,16,176.125,30.660,Front Row Motorsports,False,False,11,12,green
+Ryan Blaney,4023,Frd,12,9,11,176.120,30.661,Team Penske,False,False,17,5,green
+Brad Keselowski,1816,Frd,2,34,19,176.120,30.661,Team Penske,False,False,9,2,green
+Christopher Bell,4153,Tyt,20,11,21,176.120,30.661,Joe Gibbs Racing,False,False,3,11,green
+Joey Logano,3859,Frd,22,13,9,176.120,30.661,Team Penske,False,False,7,4,green
+Kyle Busch,454,Tyt,18,56,15,176.108,30.663,Joe Gibbs Racing,False,False,2,9,green
+Cole Custer,4104,Frd,41,53,16,176.108,30.663,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,4,11,176.102,30.664,Joe Gibbs Racing,False,False,10,13,green
+Tyler Reddick,4065,Chv,8,55,21,176.097,30.665,Richard Childress Racing,False,False,19,16,green
+Kurt Busch,453,Chv,1,21,4,176.097,30.665,Chip Ganassi Racing,False,False,13,10,green
+Aric Almirola,40,Frd,10,62,10,176.079,30.668,Stewart-Haas Racing,False,False,20,8,green
+Denny Hamlin,1361,Tyt,11,25,8,176.079,30.668,Joe Gibbs Racing,False,False,16,21,green
+Austin Dillon,3873,Chv,3,23,12,176.079,30.668,Richard Childress Racing,False,False,5,19,green
+Michael McDowell,3832,Frd,34,93,17,176.079,30.668,Front Row Motorsports,False,False,11,12,green
+Michael McDowell,3832,Frd,34,50,9,176.074,30.669,Front Row Motorsports,False,False,11,12,green
+Ryan Newman,2394,Frd,6,23,20,176.074,30.669,Roush Fenway Racing,False,False,14,20,green
+Aric Almirola,40,Frd,10,21,21,176.074,30.669,Stewart-Haas Racing,False,False,20,8,green
+Michael McDowell,3832,Frd,34,18,16,176.074,30.669,Front Row Motorsports,False,False,11,12,green
+Michael McDowell,3832,Frd,34,84,16,176.068,30.670,Front Row Motorsports,False,False,11,12,green
+Matt DiBenedetto,3916,Frd,21,8,18,176.068,30.670,Wood Brothers Racing,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,9,17,176.068,30.670,Joe Gibbs Racing,False,False,16,21,green
+Matt DiBenedetto,3916,Frd,21,25,19,176.062,30.671,Wood Brothers Racing,False,False,21,17,green
+Ross Chastain,4001,Chv,42,25,3,176.056,30.672,Chip Ganassi Racing,False,False,18,18,green
+Ryan Blaney,4023,Frd,12,30,1,176.051,30.673,Team Penske,False,False,17,5,caution
+Austin Dillon,3873,Chv,3,36,10,176.045,30.674,Richard Childress Racing,False,False,5,19,green
+Cole Custer,4104,Frd,41,23,11,176.033,30.676,Stewart-Haas Racing,False,False,4,14,green
+Matt DiBenedetto,3916,Frd,21,12,18,176.028,30.677,Wood Brothers Racing,False,False,21,17,green
+Cole Custer,4104,Frd,41,81,9,176.028,30.677,Stewart-Haas Racing,False,False,4,14,green
+Chase Elliott,4062,Chv,9,79,2,176.022,30.678,Hendrick Motorsports,False,False,6,3,caution
+Tyler Reddick,4065,Chv,8,27,15,176.022,30.678,Richard Childress Racing,False,False,19,16,green
+Ryan Newman,2394,Frd,6,90,17,176.016,30.679,Roush Fenway Racing,False,False,14,20,caution
+Austin Dillon,3873,Chv,3,42,11,176.016,30.679,Richard Childress Racing,False,False,5,19,green
+Matt DiBenedetto,3916,Frd,21,10,18,176.010,30.680,Wood Brothers Racing,False,False,21,17,green
+Michael McDowell,3832,Frd,34,22,16,175.999,30.682,Front Row Motorsports,False,False,11,12,green
+Joey Logano,3859,Frd,22,41,17,175.999,30.682,Team Penske,False,False,7,4,green
+Joey Logano,3859,Frd,22,20,8,175.993,30.683,Team Penske,False,False,7,4,green
+Aric Almirola,40,Frd,10,56,10,175.993,30.683,Stewart-Haas Racing,False,False,20,8,green
+Aric Almirola,40,Frd,10,27,21,175.987,30.684,Stewart-Haas Racing,False,False,20,8,green
+Denny Hamlin,1361,Tyt,11,85,7,175.987,30.684,Joe Gibbs Racing,False,False,16,21,green
+Kyle Busch,454,Tyt,18,90,12,175.982,30.685,Joe Gibbs Racing,False,False,2,9,caution
+Cole Custer,4104,Frd,41,39,19,175.982,30.685,Stewart-Haas Racing,False,False,4,14,green
+Kurt Busch,453,Chv,1,17,5,175.982,30.685,Chip Ganassi Racing,False,False,13,10,green
+Ryan Newman,2394,Frd,6,18,18,175.982,30.685,Roush Fenway Racing,False,False,14,20,green
+Brad Keselowski,1816,Frd,2,55,13,175.982,30.685,Team Penske,False,False,9,2,green
+Cole Custer,4104,Frd,41,43,20,175.976,30.686,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,32,7,175.976,30.686,Stewart-Haas Racing,False,False,12,15,green
+Kyle Busch,454,Tyt,18,13,3,175.970,30.687,Joe Gibbs Racing,False,False,2,9,green
+Ross Chastain,4001,Chv,42,56,19,175.970,30.687,Chip Ganassi Racing,False,False,18,18,green
+Kurt Busch,453,Chv,1,85,8,175.965,30.688,Chip Ganassi Racing,False,False,13,10,green
+Chase Elliott,4062,Chv,9,34,17,175.965,30.688,Hendrick Motorsports,False,False,6,3,green
+Kevin Harvick,1416,Frd,4,11,11,175.965,30.688,Stewart-Haas Racing,False,False,12,15,green
+Aric Almirola,40,Frd,10,13,21,175.959,30.689,Stewart-Haas Racing,False,False,20,8,green
+Brad Keselowski,1816,Frd,2,43,21,175.936,30.693,Team Penske,False,False,9,2,green
+Tyler Reddick,4065,Chv,8,32,9,175.924,30.695,Richard Childress Racing,False,False,19,16,green
+Ross Chastain,4001,Chv,42,59,19,175.924,30.695,Chip Ganassi Racing,False,False,18,18,green
+Austin Dillon,3873,Chv,3,51,14,175.919,30.696,Richard Childress Racing,False,False,5,19,green
+Denny Hamlin,1361,Tyt,11,11,17,175.907,30.698,Joe Gibbs Racing,False,False,16,21,green
+Ryan Newman,2394,Frd,6,4,16,175.901,30.699,Roush Fenway Racing,False,False,14,20,green
+Ryan Newman,2394,Frd,6,96,21,175.901,30.699,Roush Fenway Racing,False,False,14,20,green
+Kevin Harvick,1416,Frd,4,9,10,175.901,30.699,Stewart-Haas Racing,False,False,12,15,green
+Kevin Harvick,1416,Frd,4,10,10,175.896,30.700,Stewart-Haas Racing,False,False,12,15,green
+Brad Keselowski,1816,Frd,2,51,15,175.890,30.701,Team Penske,False,False,9,2,green
+Austin Dillon,3873,Chv,3,50,14,175.890,30.701,Richard Childress Racing,False,False,5,19,green
+Aric Almirola,40,Frd,10,12,20,175.884,30.702,Stewart-Haas Racing,False,False,20,8,green
+Kyle Larson,4030,Chv,5,45,6,175.879,30.703,Hendrick Motorsports,False,False,1,1,caution
+Ross Chastain,4001,Chv,42,84,19,175.867,30.705,Chip Ganassi Racing,False,False,18,18,green
+Austin Dillon,3873,Chv,3,17,12,175.867,30.705,Richard Childress Racing,False,False,5,19,green
+Ryan Newman,2394,Frd,6,87,17,175.861,30.706,Roush Fenway Racing,False,False,14,20,green
+Aric Almirola,40,Frd,10,29,21,175.861,30.706,Stewart-Haas Racing,False,False,20,8,green
+Denny Hamlin,1361,Tyt,11,19,12,175.850,30.708,Joe Gibbs Racing,False,False,16,21,green
+Alex Bowman,4045,Chv,48,63,5,175.850,30.708,Hendrick Motorsports,False,False,15,6,green
+Chase Elliott,4062,Chv,9,98,3,175.844,30.709,Hendrick Motorsports,False,False,6,3,green
+Kyle Larson,4030,Chv,5,24,14,175.844,30.709,Hendrick Motorsports,False,False,1,1,green
+Aric Almirola,40,Frd,10,9,20,175.844,30.709,Stewart-Haas Racing,False,False,20,8,green
+Cole Custer,4104,Frd,41,34,16,175.844,30.709,Stewart-Haas Racing,False,False,4,14,green
+Chase Elliott,4062,Chv,9,15,4,175.838,30.710,Hendrick Motorsports,False,False,6,3,caution
+Ross Chastain,4001,Chv,42,52,19,175.838,30.710,Chip Ganassi Racing,False,False,18,18,green
+Cole Custer,4104,Frd,41,33,15,175.833,30.711,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,25,11,175.833,30.711,Joe Gibbs Racing,False,False,10,13,green
+Ross Chastain,4001,Chv,42,96,19,175.827,30.712,Chip Ganassi Racing,False,False,18,18,green
+Tyler Reddick,4065,Chv,8,12,19,175.821,30.713,Richard Childress Racing,False,False,19,16,green
+Michael McDowell,3832,Frd,34,7,14,175.816,30.714,Front Row Motorsports,False,False,11,12,green
+Michael McDowell,3832,Frd,34,10,14,175.810,30.715,Front Row Motorsports,False,False,11,12,green
+Martin Truex Jr.,3368,Tyt,19,51,20,175.810,30.715,Joe Gibbs Racing,False,False,10,13,green
+Martin Truex Jr.,3368,Tyt,19,27,11,175.804,30.716,Joe Gibbs Racing,False,False,10,13,green
+Aric Almirola,40,Frd,10,86,12,175.804,30.716,Stewart-Haas Racing,False,False,20,8,green
+Martin Truex Jr.,3368,Tyt,19,52,20,175.804,30.716,Joe Gibbs Racing,False,False,10,13,green
+Kurt Busch,453,Chv,1,6,9,175.798,30.717,Chip Ganassi Racing,False,False,13,10,green
+Austin Dillon,3873,Chv,3,73,21,175.793,30.718,Richard Childress Racing,False,False,5,19,green
+Tyler Reddick,4065,Chv,8,95,17,175.787,30.719,Richard Childress Racing,False,False,19,16,green
+Brad Keselowski,1816,Frd,2,3,10,175.787,30.719,Team Penske,False,False,9,2,green
+Kevin Harvick,1416,Frd,4,94,19,175.781,30.720,Stewart-Haas Racing,False,False,12,15,green
+Ryan Blaney,4023,Frd,12,10,11,175.781,30.720,Team Penske,False,False,17,5,green
+Denny Hamlin,1361,Tyt,11,12,17,175.776,30.721,Joe Gibbs Racing,False,False,16,21,green
+Chase Elliott,4062,Chv,9,13,4,175.776,30.721,Hendrick Motorsports,False,False,6,3,green
+Aric Almirola,40,Frd,10,8,20,175.770,30.722,Stewart-Haas Racing,False,False,20,8,green
+Matt DiBenedetto,3916,Frd,21,18,19,175.753,30.725,Wood Brothers Racing,False,False,21,17,green
+Michael McDowell,3832,Frd,34,21,16,175.753,30.725,Front Row Motorsports,False,False,11,12,green
+Austin Dillon,3873,Chv,3,54,17,175.747,30.726,Richard Childress Racing,False,False,5,19,green
+Ross Chastain,4001,Chv,42,13,10,175.747,30.726,Chip Ganassi Racing,False,False,18,18,green
+Denny Hamlin,1361,Tyt,11,92,8,175.724,30.730,Joe Gibbs Racing,False,False,16,21,green
+Ryan Newman,2394,Frd,6,8,15,175.718,30.731,Roush Fenway Racing,False,False,14,20,green
+Denny Hamlin,1361,Tyt,11,32,12,175.718,30.731,Joe Gibbs Racing,False,False,16,21,green
+Ryan Newman,2394,Frd,6,5,16,175.718,30.731,Roush Fenway Racing,False,False,14,20,green
+Joey Logano,3859,Frd,22,27,10,175.713,30.732,Team Penske,False,False,7,4,green
+Denny Hamlin,1361,Tyt,11,3,14,175.713,30.732,Joe Gibbs Racing,False,False,16,21,green
+Kurt Busch,453,Chv,1,8,9,175.713,30.732,Chip Ganassi Racing,False,False,13,10,green
+Matt DiBenedetto,3916,Frd,21,22,19,175.713,30.732,Wood Brothers Racing,False,False,21,17,green
+Tyler Reddick,4065,Chv,8,48,21,175.707,30.733,Richard Childress Racing,False,False,19,16,green
+Brad Keselowski,1816,Frd,2,23,3,175.707,30.733,Team Penske,False,False,9,2,green
+Tyler Reddick,4065,Chv,8,30,15,175.701,30.734,Richard Childress Racing,False,False,19,16,caution
+Chase Elliott,4062,Chv,9,33,16,175.695,30.735,Hendrick Motorsports,False,False,6,3,green
+Ross Chastain,4001,Chv,42,85,20,175.695,30.735,Chip Ganassi Racing,False,False,18,18,green
+Matt DiBenedetto,3916,Frd,21,84,18,175.695,30.735,Wood Brothers Racing,False,False,21,17,green
+Ross Chastain,4001,Chv,42,51,19,175.684,30.737,Chip Ganassi Racing,False,False,18,18,green
+Ryan Blaney,4023,Frd,12,47,11,175.684,30.737,Team Penske,False,False,17,5,green
+Tyler Reddick,4065,Chv,8,8,19,175.678,30.738,Richard Childress Racing,False,False,19,16,green
+Tyler Reddick,4065,Chv,8,83,20,175.673,30.739,Richard Childress Racing,False,False,19,16,green
+Christopher Bell,4153,Tyt,20,92,13,175.673,30.739,Joe Gibbs Racing,False,False,3,11,green
+Ryan Newman,2394,Frd,6,99,21,175.673,30.739,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,88,10,175.661,30.741,Stewart-Haas Racing,False,False,4,14,green
+Tyler Reddick,4065,Chv,8,49,21,175.661,30.741,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,58,14,175.655,30.742,Stewart-Haas Racing,False,False,4,14,green
+Ross Chastain,4001,Chv,42,10,13,175.655,30.742,Chip Ganassi Racing,False,False,18,18,green
+Matt DiBenedetto,3916,Frd,21,96,17,175.650,30.743,Wood Brothers Racing,False,False,21,17,green
+Matt DiBenedetto,3916,Frd,21,24,19,175.650,30.743,Wood Brothers Racing,False,False,21,17,green
+Austin Dillon,3873,Chv,3,47,13,175.644,30.744,Richard Childress Racing,False,False,5,19,green
+Ross Chastain,4001,Chv,42,33,18,175.644,30.744,Chip Ganassi Racing,False,False,18,18,green
+Ross Chastain,4001,Chv,42,32,18,175.638,30.745,Chip Ganassi Racing,False,False,18,18,green
+Alex Bowman,4045,Chv,48,30,17,175.638,30.745,Hendrick Motorsports,False,False,15,6,caution
+Denny Hamlin,1361,Tyt,11,17,14,175.633,30.746,Joe Gibbs Racing,False,False,16,21,green
+Joey Logano,3859,Frd,22,10,8,175.633,30.746,Team Penske,False,False,7,4,green
+Tyler Reddick,4065,Chv,8,56,21,175.627,30.747,Richard Childress Racing,False,False,19,16,green
+Michael McDowell,3832,Frd,34,30,18,175.627,30.747,Front Row Motorsports,False,False,11,12,caution
+Kyle Busch,454,Tyt,18,81,17,175.615,30.749,Joe Gibbs Racing,False,False,2,9,green
+Ross Chastain,4001,Chv,42,9,13,175.615,30.749,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,81,16,175.610,30.750,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,90,11,175.610,30.750,Stewart-Haas Racing,False,False,4,14,caution
+Ryan Newman,2394,Frd,6,30,19,175.610,30.750,Roush Fenway Racing,False,False,14,20,caution
+Kurt Busch,453,Chv,1,10,9,175.604,30.751,Chip Ganassi Racing,False,False,13,10,green
+Michael McDowell,3832,Frd,34,24,18,175.604,30.751,Front Row Motorsports,False,False,11,12,green
+Cole Custer,4104,Frd,41,41,20,175.598,30.752,Stewart-Haas Racing,False,False,4,14,green
+Aric Almirola,40,Frd,10,5,20,175.593,30.753,Stewart-Haas Racing,False,False,20,8,green
+Kurt Busch,453,Chv,1,50,13,175.581,30.755,Chip Ganassi Racing,False,False,13,10,green
+Tyler Reddick,4065,Chv,8,100,16,175.581,30.755,Richard Childress Racing,False,False,19,16,pitting in
+Christopher Bell,4153,Tyt,20,15,20,175.581,30.755,Joe Gibbs Racing,False,False,3,11,caution
+Michael McDowell,3832,Frd,34,69,17,175.575,30.756,Front Row Motorsports,False,False,11,12,green
+Kyle Busch,454,Tyt,18,78,20,175.564,30.758,Joe Gibbs Racing,False,False,2,9,green
+Ryan Newman,2394,Frd,6,27,20,175.564,30.758,Roush Fenway Racing,False,False,14,20,green
+Matt DiBenedetto,3916,Frd,21,95,16,175.553,30.760,Wood Brothers Racing,False,False,21,17,green
+Alex Bowman,4045,Chv,48,4,18,175.547,30.761,Hendrick Motorsports,False,False,15,6,green
+Ryan Newman,2394,Frd,6,93,21,175.547,30.761,Roush Fenway Racing,False,False,14,20,green
+Kyle Busch,454,Tyt,18,32,15,175.547,30.761,Joe Gibbs Racing,False,False,2,9,green
+Martin Truex Jr.,3368,Tyt,19,93,12,175.541,30.762,Joe Gibbs Racing,False,False,10,13,green
+Kevin Harvick,1416,Frd,4,17,7,175.536,30.763,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,15,8,175.530,30.764,Chip Ganassi Racing,False,False,13,10,caution
+Joey Logano,3859,Frd,22,58,18,175.530,30.764,Team Penske,False,False,7,4,green
+Denny Hamlin,1361,Tyt,11,30,9,175.524,30.765,Joe Gibbs Racing,False,False,16,21,caution
+Ross Chastain,4001,Chv,42,3,15,175.513,30.767,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,53,9,175.513,30.767,Roush Fenway Racing,False,False,14,20,green
+Joey Logano,3859,Frd,22,22,8,175.513,30.767,Team Penske,False,False,7,4,green
+Kurt Busch,453,Chv,1,47,15,175.501,30.769,Chip Ganassi Racing,False,False,13,10,green
+Aric Almirola,40,Frd,10,10,20,175.496,30.770,Stewart-Haas Racing,False,False,20,8,green
+Martin Truex Jr.,3368,Tyt,19,56,20,175.479,30.773,Joe Gibbs Racing,False,False,10,13,green
+Joey Logano,3859,Frd,22,40,16,175.473,30.774,Team Penske,False,False,7,4,green
+Austin Dillon,3873,Chv,3,99,20,175.473,30.774,Richard Childress Racing,False,False,5,19,green
+Austin Dillon,3873,Chv,3,18,12,175.461,30.776,Richard Childress Racing,False,False,5,19,green
+Aric Almirola,40,Frd,10,28,21,175.461,30.776,Stewart-Haas Racing,False,False,20,8,green
+Denny Hamlin,1361,Tyt,11,13,17,175.461,30.776,Joe Gibbs Racing,False,False,16,21,green
+Austin Dillon,3873,Chv,3,25,12,175.456,30.777,Richard Childress Racing,False,False,5,19,green
+Alex Bowman,4045,Chv,48,13,14,175.456,30.777,Hendrick Motorsports,False,False,15,6,green
+Ross Chastain,4001,Chv,42,34,18,175.450,30.778,Chip Ganassi Racing,False,False,18,18,green
+Aric Almirola,40,Frd,10,47,12,175.444,30.779,Stewart-Haas Racing,False,False,20,8,green
+Christopher Bell,4153,Tyt,20,4,20,175.444,30.779,Joe Gibbs Racing,False,False,3,11,green
+Ryan Blaney,4023,Frd,12,35,20,175.439,30.780,Team Penske,False,False,17,5,green
+Martin Truex Jr.,3368,Tyt,19,9,12,175.433,30.781,Joe Gibbs Racing,False,False,10,13,green
+Tyler Reddick,4065,Chv,8,92,16,175.427,30.782,Richard Childress Racing,False,False,19,16,green
+Ryan Newman,2394,Frd,6,45,5,175.421,30.783,Roush Fenway Racing,False,False,14,20,caution
+Martin Truex Jr.,3368,Tyt,19,86,13,175.421,30.783,Joe Gibbs Racing,False,False,10,13,green
+Michael McDowell,3832,Frd,34,4,12,175.416,30.784,Front Row Motorsports,False,False,11,12,green
+Michael McDowell,3832,Frd,34,81,15,175.399,30.787,Front Row Motorsports,False,False,11,12,green
+Kevin Harvick,1416,Frd,4,4,10,175.399,30.787,Stewart-Haas Racing,False,False,12,15,green
+Michael McDowell,3832,Frd,34,53,10,175.399,30.787,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,6,19,175.387,30.789,Richard Childress Racing,False,False,19,16,green
+Christopher Bell,4153,Tyt,20,7,21,175.376,30.791,Joe Gibbs Racing,False,False,3,11,green
+Michael McDowell,3832,Frd,34,3,13,175.365,30.793,Front Row Motorsports,False,False,11,12,green
+Kevin Harvick,1416,Frd,4,8,10,175.342,30.797,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,32,11,175.342,30.797,Joe Gibbs Racing,False,False,10,13,green
+Joey Logano,3859,Frd,22,19,8,175.336,30.798,Team Penske,False,False,7,4,green
+Alex Bowman,4045,Chv,48,11,15,175.325,30.800,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,33,17,175.325,30.800,Hendrick Motorsports,False,False,8,7,green
+Brad Keselowski,1816,Frd,2,8,8,175.325,30.800,Team Penske,False,False,9,2,green
+Kurt Busch,453,Chv,1,9,9,175.308,30.803,Chip Ganassi Racing,False,False,13,10,green
+Matt DiBenedetto,3916,Frd,21,3,16,175.302,30.804,Wood Brothers Racing,False,False,21,17,green
+Joey Logano,3859,Frd,22,14,9,175.285,30.807,Team Penske,False,False,7,4,green
+Michael McDowell,3832,Frd,34,25,18,175.279,30.808,Front Row Motorsports,False,False,11,12,green
+Martin Truex Jr.,3368,Tyt,19,12,13,175.268,30.810,Joe Gibbs Racing,False,False,10,13,green
+Chase Elliott,4062,Chv,9,30,6,175.268,30.810,Hendrick Motorsports,False,False,6,3,caution
+Alex Bowman,4045,Chv,48,19,13,175.268,30.810,Hendrick Motorsports,False,False,15,6,green
+Matt DiBenedetto,3916,Frd,21,81,19,175.268,30.810,Wood Brothers Racing,False,False,21,17,green
+Michael McDowell,3832,Frd,34,87,16,175.268,30.810,Front Row Motorsports,False,False,11,12,green
+Kyle Larson,4030,Chv,5,30,14,175.245,30.814,Hendrick Motorsports,False,False,1,1,caution
+Alex Bowman,4045,Chv,48,5,18,175.239,30.815,Hendrick Motorsports,False,False,15,6,green
+Aric Almirola,40,Frd,10,18,20,175.239,30.815,Stewart-Haas Racing,False,False,20,8,green
+Brad Keselowski,1816,Frd,2,30,2,175.239,30.815,Team Penske,False,False,9,2,caution
+Joey Logano,3859,Frd,22,9,7,175.228,30.817,Team Penske,False,False,7,4,green
+Kyle Busch,454,Tyt,18,28,7,175.228,30.817,Joe Gibbs Racing,False,False,2,9,green
+Joey Logano,3859,Frd,22,15,10,175.222,30.818,Team Penske,False,False,7,4,caution
+Tyler Reddick,4065,Chv,8,52,21,175.222,30.818,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,5,4,175.211,30.820,Stewart-Haas Racing,False,False,4,14,green
+Martin Truex Jr.,3368,Tyt,19,55,20,175.211,30.820,Joe Gibbs Racing,False,False,10,13,green
+Kyle Busch,454,Tyt,18,20,7,175.211,30.820,Joe Gibbs Racing,False,False,2,9,green
+Ryan Blaney,4023,Frd,12,32,19,175.205,30.821,Team Penske,False,False,17,5,green
+Kyle Larson,4030,Chv,5,29,14,175.177,30.826,Hendrick Motorsports,False,False,1,1,green
+Kevin Harvick,1416,Frd,4,82,15,175.177,30.826,Stewart-Haas Racing,False,False,12,15,green
+Ross Chastain,4001,Chv,42,42,18,175.177,30.826,Chip Ganassi Racing,False,False,18,18,green
+Tyler Reddick,4065,Chv,8,82,20,175.160,30.829,Richard Childress Racing,False,False,19,16,green
+Chase Elliott,4062,Chv,9,38,16,175.160,30.829,Hendrick Motorsports,False,False,6,3,green
+Ross Chastain,4001,Chv,42,86,20,175.148,30.831,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,3,11,175.143,30.832,Joe Gibbs Racing,False,False,10,13,green
+Ryan Newman,2394,Frd,6,26,20,175.137,30.833,Roush Fenway Racing,False,False,14,20,green
+Ross Chastain,4001,Chv,42,81,18,175.137,30.833,Chip Ganassi Racing,False,False,18,18,green
+Martin Truex Jr.,3368,Tyt,19,23,10,175.109,30.838,Joe Gibbs Racing,False,False,10,13,green
+Michael McDowell,3832,Frd,34,54,11,175.103,30.839,Front Row Motorsports,False,False,11,12,green
+Kurt Busch,453,Chv,1,35,19,175.080,30.843,Chip Ganassi Racing,False,False,13,10,green
+Martin Truex Jr.,3368,Tyt,19,10,12,175.080,30.843,Joe Gibbs Racing,False,False,10,13,green
+Aric Almirola,40,Frd,10,4,21,175.080,30.843,Stewart-Haas Racing,False,False,20,8,green
+Joey Logano,3859,Frd,22,8,7,175.080,30.843,Team Penske,False,False,7,4,green
+Cole Custer,4104,Frd,41,50,15,175.063,30.846,Stewart-Haas Racing,False,False,4,14,green
+Joey Logano,3859,Frd,22,54,19,175.058,30.847,Team Penske,False,False,7,4,green
+Kevin Harvick,1416,Frd,4,85,15,175.058,30.847,Stewart-Haas Racing,False,False,12,15,green
+Christopher Bell,4153,Tyt,20,20,19,175.052,30.848,Joe Gibbs Racing,False,False,3,11,green
+Kyle Busch,454,Tyt,18,40,14,175.046,30.849,Joe Gibbs Racing,False,False,2,9,green
+Austin Dillon,3873,Chv,3,93,20,175.041,30.850,Richard Childress Racing,False,False,5,19,green
+Matt DiBenedetto,3916,Frd,21,90,19,175.041,30.850,Wood Brothers Racing,False,False,21,17,caution
+Brad Keselowski,1816,Frd,2,9,8,175.018,30.854,Team Penske,False,False,9,2,green
+Alex Bowman,4045,Chv,48,25,14,175.001,30.857,Hendrick Motorsports,False,False,15,6,green
+Kyle Larson,4030,Chv,5,19,14,175.001,30.857,Hendrick Motorsports,False,False,1,1,green
+Christopher Bell,4153,Tyt,20,10,21,174.989,30.859,Joe Gibbs Racing,False,False,3,11,green
+Michael McDowell,3832,Frd,34,27,18,174.989,30.859,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,10,19,174.984,30.860,Richard Childress Racing,False,False,19,16,green
+Matt DiBenedetto,3916,Frd,21,5,17,174.978,30.861,Wood Brothers Racing,False,False,21,17,green
+Brad Keselowski,1816,Frd,2,47,18,174.978,30.861,Team Penske,False,False,9,2,green
+Martin Truex Jr.,3368,Tyt,19,54,20,174.972,30.862,Joe Gibbs Racing,False,False,10,13,green
+Michael McDowell,3832,Frd,34,26,18,174.967,30.863,Front Row Motorsports,False,False,11,12,green
+Ross Chastain,4001,Chv,42,12,11,174.933,30.869,Chip Ganassi Racing,False,False,18,18,green
+William Byron,4184,Chv,24,93,10,174.927,30.870,Hendrick Motorsports,False,False,8,7,green
+Tyler Reddick,4065,Chv,8,20,17,174.927,30.870,Richard Childress Racing,False,False,19,16,green
+Matt DiBenedetto,3916,Frd,21,27,19,174.921,30.871,Wood Brothers Racing,False,False,21,17,green
+Tyler Reddick,4065,Chv,8,4,19,174.899,30.875,Richard Childress Racing,False,False,19,16,green
+Matt DiBenedetto,3916,Frd,21,19,18,174.893,30.876,Wood Brothers Racing,False,False,21,17,green
+Kevin Harvick,1416,Frd,4,54,16,174.887,30.877,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,21,19,174.836,30.886,Wood Brothers Racing,False,False,21,17,green
+Joey Logano,3859,Frd,22,12,9,174.831,30.887,Team Penske,False,False,7,4,green
+Tyler Reddick,4065,Chv,8,26,15,174.820,30.889,Richard Childress Racing,False,False,19,16,green
+Kyle Larson,4030,Chv,5,26,13,174.814,30.890,Hendrick Motorsports,False,False,1,1,green
+Cole Custer,4104,Frd,41,19,10,174.803,30.892,Stewart-Haas Racing,False,False,4,14,green
+Michael McDowell,3832,Frd,34,58,12,174.791,30.894,Front Row Motorsports,False,False,11,12,green
+Martin Truex Jr.,3368,Tyt,19,82,13,174.786,30.895,Joe Gibbs Racing,False,False,10,13,green
+Joey Logano,3859,Frd,22,23,9,174.786,30.895,Team Penske,False,False,7,4,green
+Alex Bowman,4045,Chv,48,22,13,174.769,30.898,Hendrick Motorsports,False,False,15,6,green
+Alex Bowman,4045,Chv,48,18,14,174.735,30.904,Hendrick Motorsports,False,False,15,6,green
+Ryan Newman,2394,Frd,6,13,16,174.723,30.906,Roush Fenway Racing,False,False,14,20,green
+Christopher Bell,4153,Tyt,20,18,21,174.723,30.906,Joe Gibbs Racing,False,False,3,11,green
+Matt DiBenedetto,3916,Frd,21,26,19,174.718,30.907,Wood Brothers Racing,False,False,21,17,green
+Michael McDowell,3832,Frd,34,6,13,174.706,30.909,Front Row Motorsports,False,False,11,12,green
+Austin Dillon,3873,Chv,3,21,12,174.701,30.910,Richard Childress Racing,False,False,5,19,green
+Ryan Blaney,4023,Frd,12,8,11,174.701,30.910,Team Penske,False,False,17,5,green
+Tyler Reddick,4065,Chv,8,7,19,174.695,30.911,Richard Childress Racing,False,False,19,16,green
+Matt DiBenedetto,3916,Frd,21,20,18,174.684,30.913,Wood Brothers Racing,False,False,21,17,green
+Joey Logano,3859,Frd,22,62,11,174.678,30.914,Team Penske,False,False,7,4,green
+Ryan Newman,2394,Frd,6,12,16,174.672,30.915,Roush Fenway Racing,False,False,14,20,green
+Ryan Newman,2394,Frd,6,22,20,174.661,30.917,Roush Fenway Racing,False,False,14,20,green
+Matt DiBenedetto,3916,Frd,21,7,18,174.650,30.919,Wood Brothers Racing,False,False,21,17,green
+Martin Truex Jr.,3368,Tyt,19,60,20,174.639,30.921,Joe Gibbs Racing,False,False,10,13,pitting in
+Christopher Bell,4153,Tyt,20,86,14,174.639,30.921,Joe Gibbs Racing,False,False,3,11,green
+Joey Logano,3859,Frd,22,51,18,174.633,30.922,Team Penske,False,False,7,4,green
+Joey Logano,3859,Frd,22,25,10,174.582,30.931,Team Penske,False,False,7,4,green
+Christopher Bell,4153,Tyt,20,5,21,174.576,30.932,Joe Gibbs Racing,False,False,3,11,green
+Aric Almirola,40,Frd,10,50,12,174.571,30.933,Stewart-Haas Racing,False,False,20,8,green
+Kevin Harvick,1416,Frd,4,12,10,174.560,30.935,Stewart-Haas Racing,False,False,12,15,green
+Tyler Reddick,4065,Chv,8,57,21,174.554,30.936,Richard Childress Racing,False,False,19,16,green
+Tyler Reddick,4065,Chv,8,5,19,174.543,30.938,Richard Childress Racing,False,False,19,16,green
+Austin Dillon,3873,Chv,3,55,17,174.520,30.942,Richard Childress Racing,False,False,5,19,green
+Michael McDowell,3832,Frd,34,23,18,174.509,30.944,Front Row Motorsports,False,False,11,12,green
+Denny Hamlin,1361,Tyt,11,14,16,174.509,30.944,Joe Gibbs Racing,False,False,16,21,green
+Ross Chastain,4001,Chv,42,90,20,174.481,30.949,Chip Ganassi Racing,False,False,18,18,caution
+Aric Almirola,40,Frd,10,22,21,174.469,30.951,Stewart-Haas Racing,False,False,20,8,green
+Chase Elliott,4062,Chv,9,32,16,174.464,30.952,Hendrick Motorsports,False,False,6,3,green
+Denny Hamlin,1361,Tyt,11,8,17,174.452,30.954,Joe Gibbs Racing,False,False,16,21,green
+Martin Truex Jr.,3368,Tyt,19,24,11,174.447,30.955,Joe Gibbs Racing,False,False,10,13,green
+Michael McDowell,3832,Frd,34,14,15,174.441,30.956,Front Row Motorsports,False,False,11,12,green
+Tyler Reddick,4065,Chv,8,81,20,174.390,30.965,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,32,14,174.362,30.970,Stewart-Haas Racing,False,False,4,14,green
+Matt DiBenedetto,3916,Frd,21,6,17,174.357,30.971,Wood Brothers Racing,False,False,21,17,green
+Ryan Blaney,4023,Frd,12,4,13,174.345,30.973,Team Penske,False,False,17,5,green
+Kurt Busch,453,Chv,1,32,21,174.340,30.974,Chip Ganassi Racing,False,False,13,10,green
+Alex Bowman,4045,Chv,48,6,18,174.334,30.975,Hendrick Motorsports,False,False,15,6,green
+Tyler Reddick,4065,Chv,8,15,19,174.323,30.977,Richard Childress Racing,False,False,19,16,caution
+Ryan Blaney,4023,Frd,12,33,21,174.289,30.983,Team Penske,False,False,17,5,green
+Ross Chastain,4001,Chv,42,82,19,174.278,30.985,Chip Ganassi Racing,False,False,18,18,green
+Aric Almirola,40,Frd,10,19,21,174.272,30.986,Stewart-Haas Racing,False,False,20,8,green
+Tyler Reddick,4065,Chv,8,17,18,174.267,30.987,Richard Childress Racing,False,False,19,16,green
+Cole Custer,4104,Frd,41,51,17,174.255,30.989,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,13,11,174.255,30.989,Stewart-Haas Racing,False,False,12,15,green
+Aric Almirola,40,Frd,10,14,20,174.210,30.997,Stewart-Haas Racing,False,False,20,8,green
+Michael McDowell,3832,Frd,34,15,15,174.194,31.000,Front Row Motorsports,False,False,11,12,caution
+Aric Almirola,40,Frd,10,15,21,174.182,31.002,Stewart-Haas Racing,False,False,20,8,caution
+Matt DiBenedetto,3916,Frd,21,15,18,174.177,31.003,Wood Brothers Racing,False,False,21,17,caution
+Tyler Reddick,4065,Chv,8,51,21,174.109,31.015,Richard Childress Racing,False,False,19,16,green
+Joey Logano,3859,Frd,22,55,18,174.104,31.016,Team Penske,False,False,7,4,green
+Kyle Larson,4030,Chv,5,79,4,174.104,31.016,Hendrick Motorsports,False,False,1,1,caution
+Aric Almirola,40,Frd,10,26,21,174.104,31.016,Stewart-Haas Racing,False,False,20,8,green
+Matt DiBenedetto,3916,Frd,21,92,15,174.092,31.018,Wood Brothers Racing,False,False,21,17,green
+Denny Hamlin,1361,Tyt,11,15,16,174.092,31.018,Joe Gibbs Racing,False,False,16,21,caution
+Matt DiBenedetto,3916,Frd,21,52,7,174.064,31.023,Wood Brothers Racing,False,False,21,17,green
+Kyle Larson,4030,Chv,5,22,14,174.059,31.024,Hendrick Motorsports,False,False,1,1,green
+Cole Custer,4104,Frd,41,47,16,174.053,31.025,Stewart-Haas Racing,False,False,4,14,green
+Ryan Newman,2394,Frd,6,82,17,174.025,31.030,Roush Fenway Racing,False,False,14,20,green
+Joey Logano,3859,Frd,22,47,14,174.025,31.030,Team Penske,False,False,7,4,green
+Cole Custer,4104,Frd,41,92,14,174.008,31.033,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,18,11,174.003,31.034,Stewart-Haas Racing,False,False,12,15,green
+Aric Almirola,40,Frd,10,81,12,173.997,31.035,Stewart-Haas Racing,False,False,20,8,green
+Kyle Larson,4030,Chv,5,17,15,173.986,31.037,Hendrick Motorsports,False,False,1,1,green
+Austin Dillon,3873,Chv,3,89,21,173.969,31.040,Richard Childress Racing,False,False,5,19,green
+Ross Chastain,4001,Chv,42,47,19,173.963,31.041,Chip Ganassi Racing,False,False,18,18,green
+Austin Dillon,3873,Chv,3,53,17,173.947,31.044,Richard Childress Racing,False,False,5,19,green
+Brad Keselowski,1816,Frd,2,36,21,173.935,31.046,Team Penske,False,False,9,2,green
+Tyler Reddick,4065,Chv,8,3,19,173.924,31.048,Richard Childress Racing,False,False,19,16,green
+Kevin Harvick,1416,Frd,4,50,11,173.907,31.051,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,81,11,173.907,31.051,Joe Gibbs Racing,False,False,10,13,green
+Cole Custer,4104,Frd,41,38,19,173.907,31.051,Stewart-Haas Racing,False,False,4,14,green
+Kevin Harvick,1416,Frd,4,42,10,173.891,31.054,Stewart-Haas Racing,False,False,12,15,green
+Matt DiBenedetto,3916,Frd,21,28,20,173.885,31.055,Wood Brothers Racing,False,False,21,17,green
+Ryan Newman,2394,Frd,6,92,21,173.823,31.066,Roush Fenway Racing,False,False,14,20,green
+Michael McDowell,3832,Frd,34,17,16,173.784,31.073,Front Row Motorsports,False,False,11,12,green
+Michael McDowell,3832,Frd,34,82,16,173.779,31.074,Front Row Motorsports,False,False,11,12,green
+Alex Bowman,4045,Chv,48,3,18,173.762,31.077,Hendrick Motorsports,False,False,15,6,green
+Kyle Busch,454,Tyt,18,47,17,173.756,31.078,Joe Gibbs Racing,False,False,2,9,green
+Matt DiBenedetto,3916,Frd,21,4,17,173.645,31.098,Wood Brothers Racing,False,False,21,17,green
+Ryan Blaney,4023,Frd,12,13,12,173.633,31.100,Team Penske,False,False,17,5,green
+Tyler Reddick,4065,Chv,8,14,19,173.633,31.100,Richard Childress Racing,False,False,19,16,green
+Ryan Newman,2394,Frd,6,15,17,173.628,31.101,Roush Fenway Racing,False,False,14,20,caution
+Ryan Newman,2394,Frd,6,11,16,173.611,31.104,Roush Fenway Racing,False,False,14,20,green
+Kyle Busch,454,Tyt,18,88,13,173.583,31.109,Joe Gibbs Racing,False,False,2,9,green
+Ryan Newman,2394,Frd,6,20,20,173.572,31.111,Roush Fenway Racing,False,False,14,20,green
+Aric Almirola,40,Frd,10,20,21,173.539,31.117,Stewart-Haas Racing,False,False,20,8,green
+Tyler Reddick,4065,Chv,8,19,16,173.516,31.121,Richard Childress Racing,False,False,19,16,green
+Kevin Harvick,1416,Frd,4,22,15,173.477,31.128,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,81,10,173.438,31.135,Chip Ganassi Racing,False,False,13,10,green
+Ryan Newman,2394,Frd,6,17,17,173.427,31.137,Roush Fenway Racing,False,False,14,20,green
+Michael McDowell,3832,Frd,34,19,17,173.344,31.152,Front Row Motorsports,False,False,11,12,green
+Michael McDowell,3832,Frd,34,92,17,173.316,31.157,Front Row Motorsports,False,False,11,12,green
+Christopher Bell,4153,Tyt,20,17,21,173.288,31.162,Joe Gibbs Racing,False,False,3,11,green
+Ryan Blaney,4023,Frd,12,12,12,173.282,31.163,Team Penske,False,False,17,5,green
+Kevin Harvick,1416,Frd,4,92,19,173.260,31.167,Stewart-Haas Racing,False,False,12,15,green
+Aric Almirola,40,Frd,10,17,20,173.227,31.173,Stewart-Haas Racing,False,False,20,8,green
+Matt DiBenedetto,3916,Frd,21,17,19,173.221,31.174,Wood Brothers Racing,False,False,21,17,green
+Matt DiBenedetto,3916,Frd,21,14,18,173.221,31.174,Wood Brothers Racing,False,False,21,17,green
+Ross Chastain,4001,Chv,42,55,19,173.155,31.186,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,19,20,173.082,31.199,Roush Fenway Racing,False,False,14,20,green
+Alex Bowman,4045,Chv,48,85,9,173.077,31.200,Hendrick Motorsports,False,False,15,6,green
+Christopher Bell,4153,Tyt,20,14,21,173.049,31.205,Joe Gibbs Racing,False,False,3,11,green
+Brad Keselowski,1816,Frd,2,35,21,172.983,31.217,Team Penske,False,False,9,2,green
+Ross Chastain,4001,Chv,42,4,15,172.949,31.223,Chip Ganassi Racing,False,False,18,18,green
+Aric Almirola,40,Frd,10,3,20,172.828,31.245,Stewart-Haas Racing,False,False,20,8,green
+Ryan Newman,2394,Frd,6,3,17,172.778,31.254,Roush Fenway Racing,False,False,14,20,green
+Cole Custer,4104,Frd,41,62,12,172.761,31.257,Stewart-Haas Racing,False,False,4,14,green
+Tyler Reddick,4065,Chv,8,47,20,172.678,31.272,Richard Childress Racing,False,False,19,16,green
+Martin Truex Jr.,3368,Tyt,19,47,21,172.651,31.277,Joe Gibbs Racing,False,False,10,13,green
+Ross Chastain,4001,Chv,42,92,18,172.563,31.293,Chip Ganassi Racing,False,False,18,18,green
+Ryan Newman,2394,Frd,6,14,17,172.546,31.296,Roush Fenway Racing,False,False,14,20,green
+Denny Hamlin,1361,Tyt,11,4,14,172.502,31.304,Joe Gibbs Racing,False,False,16,21,green
+Aric Almirola,40,Frd,10,6,20,172.474,31.309,Stewart-Haas Racing,False,False,20,8,green
+Kevin Harvick,1416,Frd,4,26,16,172.298,31.341,Stewart-Haas Racing,False,False,12,15,green
+Martin Truex Jr.,3368,Tyt,19,13,13,172.232,31.353,Joe Gibbs Racing,False,False,10,13,green
+Austin Dillon,3873,Chv,3,92,20,172.205,31.358,Richard Childress Racing,False,False,5,19,green
+Tyler Reddick,4065,Chv,8,60,21,172.112,31.375,Richard Childress Racing,False,False,19,16,pitting in
+Denny Hamlin,1361,Tyt,11,6,16,172.106,31.376,Joe Gibbs Racing,False,False,16,21,green
+Kevin Harvick,1416,Frd,4,53,15,172.073,31.382,Stewart-Haas Racing,False,False,12,15,green
+Christopher Bell,4153,Tyt,20,6,21,171.925,31.409,Joe Gibbs Racing,False,False,3,11,green
+Christopher Bell,4153,Tyt,20,3,21,171.816,31.429,Joe Gibbs Racing,False,False,3,11,green
+Tyler Reddick,4065,Chv,8,68,18,171.750,31.441,Richard Childress Racing,False,False,19,16,green
+Kevin Harvick,1416,Frd,4,19,15,171.276,31.528,Stewart-Haas Racing,False,False,12,15,green
+Michael McDowell,3832,Frd,34,13,15,170.433,31.684,Front Row Motorsports,False,False,11,12,green
+Ryan Blaney,4023,Frd,12,79,5,170.390,31.692,Team Penske,False,False,17,5,caution
+Alex Bowman,4045,Chv,48,26,17,169.710,31.819,Hendrick Motorsports,False,False,15,6,green
+Alex Bowman,4045,Chv,48,79,7,167.942,32.154,Hendrick Motorsports,False,False,15,6,caution
+Denny Hamlin,1361,Tyt,11,79,6,167.660,32.208,Joe Gibbs Racing,False,False,16,21,caution
+Austin Dillon,3873,Chv,3,78,21,167.561,32.227,Richard Childress Racing,False,False,5,19,green
+Matt DiBenedetto,3916,Frd,21,1,19,164.414,32.844,Wood Brothers Racing,False,False,21,17,caution
+Ryan Blaney,4023,Frd,12,1,16,163.162,33.096,Team Penske,False,False,17,5,caution
+Tyler Reddick,4065,Chv,8,1,20,163.137,33.101,Richard Childress Racing,False,False,19,16,caution
+Kevin Harvick,1416,Frd,4,1,10,162.749,33.180,Stewart-Haas Racing,False,False,12,15,caution
+Ross Chastain,4001,Chv,42,1,18,162.518,33.227,Chip Ganassi Racing,False,False,18,18,caution
+Kurt Busch,453,Chv,1,79,8,162.489,33.233,Chip Ganassi Racing,False,False,13,10,caution
+Martin Truex Jr.,3368,Tyt,19,1,8,162.235,33.285,Joe Gibbs Racing,False,False,10,13,caution
+Aric Almirola,40,Frd,10,1,21,162.094,33.314,Stewart-Haas Racing,False,False,20,8,caution
+Denny Hamlin,1361,Tyt,11,1,15,162.070,33.319,Joe Gibbs Racing,False,False,16,21,caution
+William Byron,4184,Chv,24,1,6,161.948,33.344,Hendrick Motorsports,False,False,8,7,caution
+Alex Bowman,4045,Chv,48,1,17,161.657,33.404,Hendrick Motorsports,False,False,15,6,caution
+Ryan Newman,2394,Frd,6,1,14,161.527,33.431,Roush Fenway Racing,False,False,14,20,caution
+Chase Elliott,4062,Chv,9,1,5,161.474,33.442,Hendrick Motorsports,False,False,6,3,caution
+Joey Logano,3859,Frd,22,1,9,161.454,33.446,Team Penske,False,False,7,4,caution
+Kurt Busch,453,Chv,1,1,13,161.454,33.446,Chip Ganassi Racing,False,False,13,10,caution
+Cole Custer,4104,Frd,41,1,3,161.324,33.473,Stewart-Haas Racing,False,False,4,14,caution
+Brad Keselowski,1816,Frd,2,1,11,161.324,33.473,Team Penske,False,False,9,2,caution
+Kyle Busch,454,Tyt,18,1,1,161.286,33.481,Joe Gibbs Racing,False,False,2,9,caution
+Austin Dillon,3873,Chv,3,1,7,161.045,33.531,Richard Childress Racing,False,False,5,19,caution
+Kyle Larson,4030,Chv,5,1,2,161.016,33.537,Hendrick Motorsports,False,False,1,1,caution
+Christopher Bell,4153,Tyt,20,1,4,161.007,33.539,Joe Gibbs Racing,False,False,3,11,caution
+Kevin Harvick,1416,Frd,4,79,9,160.954,33.550,Stewart-Haas Racing,False,False,12,15,caution
+Michael McDowell,3832,Frd,34,1,12,160.896,33.562,Front Row Motorsports,False,False,11,12,caution
+Martin Truex Jr.,3368,Tyt,19,79,10,159.891,33.773,Joe Gibbs Racing,False,False,10,13,caution
+Cole Custer,4104,Frd,41,79,12,153.881,35.092,Stewart-Haas Racing,False,False,4,14,caution
+Matt DiBenedetto,3916,Frd,21,79,14,152.577,35.392,Wood Brothers Racing,False,False,21,17,caution
+Ryan Newman,2394,Frd,6,79,15,148.229,36.430,Roush Fenway Racing,False,False,14,20,caution
+Michael McDowell,3832,Frd,34,79,16,146.647,36.823,Front Row Motorsports,False,False,11,12,caution
+Tyler Reddick,4065,Chv,8,79,17,146.151,36.948,Richard Childress Racing,False,False,19,16,caution
+Christopher Bell,4153,Tyt,20,79,18,145.604,37.087,Joe Gibbs Racing,False,False,3,11,caution
+Ryan Blaney,4023,Frd,12,65,11,132.998,40.602,Team Penske,False,False,17,5,pitting out
+Chase Elliott,4062,Chv,9,76,5,131.875,40.948,Hendrick Motorsports,False,False,6,3,pitting out
+Kurt Busch,453,Chv,1,69,9,131.230,41.149,Chip Ganassi Racing,False,False,13,10,pitting out
+Kyle Busch,454,Tyt,18,62,13,131.081,41.196,Joe Gibbs Racing,False,False,2,9,pitting out
+Cole Custer,4104,Frd,41,67,10,130.133,41.496,Stewart-Haas Racing,False,False,4,14,pitting out
+Kyle Busch,454,Tyt,18,66,20,130.095,41.508,Joe Gibbs Racing,False,False,2,9,pitting out
+Denny Hamlin,1361,Tyt,11,100,21,129.811,41.599,Joe Gibbs Racing,False,False,16,21,"pitting out,pitting in"
+Austin Dillon,3873,Chv,3,65,21,129.338,41.751,Richard Childress Racing,False,False,5,19,pitting out
+Ross Chastain,4001,Chv,42,79,19,122.744,43.994,Chip Ganassi Racing,False,False,18,18,caution
+Kyle Busch,454,Tyt,18,67,20,121.819,44.328,Joe Gibbs Racing,False,False,2,9,green
+Austin Dillon,3873,Chv,3,66,21,121.638,44.394,Richard Childress Racing,False,False,5,19,green
+Matt DiBenedetto,3916,Frd,21,62,19,121.141,44.576,Wood Brothers Racing,False,False,21,17,green
+Tyler Reddick,4065,Chv,8,62,20,121.065,44.604,Richard Childress Racing,False,False,19,16,green
+Ross Chastain,4001,Chv,42,78,15,120.922,44.657,Chip Ganassi Racing,False,False,18,18,green
+Kyle Larson,4030,Chv,5,77,7,120.727,44.729,Hendrick Motorsports,False,False,1,1,green
+Austin Dillon,3873,Chv,3,64,12,120.310,44.884,Richard Childress Racing,False,False,5,19,pitting in
+Ryan Newman,2394,Frd,6,63,18,120.117,44.956,Roush Fenway Racing,False,False,14,20,green
+Alex Bowman,4045,Chv,48,77,10,119.792,45.078,Hendrick Motorsports,False,False,15,6,green
+William Byron,4184,Chv,24,77,6,117.665,45.893,Hendrick Motorsports,False,False,8,7,green
+Joey Logano,3859,Frd,22,79,11,112.119,48.163,Team Penske,False,False,7,4,caution
+Aric Almirola,40,Frd,10,79,13,109.325,49.394,Stewart-Haas Racing,False,False,20,8,caution
+Austin Dillon,3873,Chv,3,63,12,94.553,57.111,Richard Childress Racing,False,False,5,19,pitting out
+William Byron,4184,Chv,24,76,6,94.180,57.337,Hendrick Motorsports,False,False,8,7,pitting out
+Brad Keselowski,1816,Frd,2,79,1,94.106,57.382,Team Penske,False,False,9,2,pitting out
+Alex Bowman,4045,Chv,48,76,8,93.163,57.963,Hendrick Motorsports,False,False,15,6,pitting out
+Kyle Larson,4030,Chv,5,76,7,92.407,58.437,Hendrick Motorsports,False,False,1,1,pitting out
+Joey Logano,3859,Frd,22,78,2,92.067,58.653,Team Penske,False,False,7,4,pitting out
+Aric Almirola,40,Frd,10,78,3,91.401,59.080,Stewart-Haas Racing,False,False,20,8,pitting out
+Ryan Newman,2394,Frd,6,62,14,90.744,59.508,Roush Fenway Racing,False,False,14,20,pitting out
+Chase Elliott,4062,Chv,9,77,5,89.999,60.001,Hendrick Motorsports,False,False,6,3,green
+Ross Chastain,4001,Chv,42,77,4,89.334,60.447,Chip Ganassi Racing,False,False,18,18,pitting out
+Martin Truex Jr.,3368,Tyt,19,62,17,88.962,60.700,Joe Gibbs Racing,False,False,10,13,green
+Kevin Harvick,1416,Frd,4,62,16,88.677,60.895,Stewart-Haas Racing,False,False,12,15,green
+Kurt Busch,453,Chv,1,70,11,88.196,61.227,Chip Ganassi Racing,False,False,13,10,green
+Kyle Busch,454,Tyt,18,63,13,87.951,61.398,Joe Gibbs Racing,False,False,2,9,green
+Ryan Blaney,4023,Frd,12,66,11,87.403,61.783,Team Penske,False,False,17,5,green
+Michael McDowell,3832,Frd,34,62,18,87.285,61.866,Front Row Motorsports,False,False,11,12,green
+Denny Hamlin,1361,Tyt,11,62,15,86.934,62.116,Joe Gibbs Racing,False,False,16,21,green
+Cole Custer,4104,Frd,41,68,14,86.160,62.674,Stewart-Haas Racing,False,False,4,14,green
+Christopher Bell,4153,Tyt,20,62,21,77.780,69.427,Joe Gibbs Racing,False,False,3,11,green
+Austin Dillon,3873,Chv,3,90,21,53.099,101.696,Richard Childress Racing,False,False,5,19,caution
+Kyle Busch,454,Tyt,18,79,20,47.293,114.181,Joe Gibbs Racing,False,False,2,9,caution
+Kyle Busch,454,Tyt,18,80,17,16.622,324.880,Joe Gibbs Racing,False,False,2,9,restart
+Ryan Blaney,4023,Frd,12,2,13,15.986,337.803,Team Penske,False,False,17,5,restart
+Kurt Busch,453,Chv,1,2,11,15.986,337.790,Chip Ganassi Racing,False,False,13,10,restart
+Ross Chastain,4001,Chv,42,2,15,15.984,337.841,Chip Ganassi Racing,False,False,18,18,restart
+Denny Hamlin,1361,Tyt,11,2,14,15.982,337.882,Joe Gibbs Racing,False,False,16,21,restart
+Joey Logano,3859,Frd,22,2,6,15.980,337.930,Team Penske,False,False,7,4,restart
+Brad Keselowski,1816,Frd,2,2,8,15.979,337.934,Team Penske,False,False,9,2,restart
+Michael McDowell,3832,Frd,34,2,12,15.979,337.945,Front Row Motorsports,False,False,11,12,restart
+Matt DiBenedetto,3916,Frd,21,2,17,15.977,337.978,Wood Brothers Racing,False,False,21,17,restart
+William Byron,4184,Chv,24,2,5,15.977,337.995,Hendrick Motorsports,False,False,8,7,restart
+Aric Almirola,40,Frd,10,2,21,15.976,338.015,Stewart-Haas Racing,False,False,20,8,restart
+Chase Elliott,4062,Chv,9,2,4,15.974,338.058,Hendrick Motorsports,False,False,6,3,restart
+Cole Custer,4104,Frd,41,2,3,15.973,338.075,Stewart-Haas Racing,False,False,4,14,restart
+Austin Dillon,3873,Chv,3,2,7,15.971,338.115,Richard Childress Racing,False,False,5,19,restart
+Kyle Busch,454,Tyt,18,2,1,15.971,338.120,Joe Gibbs Racing,False,False,2,9,restart
+Ryan Newman,2394,Frd,6,2,16,15.971,338.117,Roush Fenway Racing,False,False,14,20,restart
+Kevin Harvick,1416,Frd,4,2,10,15.970,338.141,Stewart-Haas Racing,False,False,12,15,restart
+Kyle Larson,4030,Chv,5,2,2,15.970,338.142,Hendrick Motorsports,False,False,1,1,restart
+Tyler Reddick,4065,Chv,8,2,20,15.967,338.187,Richard Childress Racing,False,False,19,16,restart
+Alex Bowman,4045,Chv,48,2,19,15.966,338.216,Hendrick Motorsports,False,False,15,6,restart
+Martin Truex Jr.,3368,Tyt,19,2,9,15.965,338.238,Joe Gibbs Racing,False,False,10,13,restart
+Christopher Bell,4153,Tyt,20,2,18,15.917,339.265,Joe Gibbs Racing,False,False,3,11,restart
+Ross Chastain,4001,Chv,42,80,18,12.949,417.035,Chip Ganassi Racing,False,False,18,18,restart
+Austin Dillon,3873,Chv,3,91,18,12.899,418.651,Richard Childress Racing,False,False,5,19,restart
+Christopher Bell,4153,Tyt,20,80,15,12.781,422.494,Joe Gibbs Racing,False,False,3,11,restart
+Michael McDowell,3832,Frd,34,80,13,12.749,423.574,Front Row Motorsports,False,False,11,12,restart
+Tyler Reddick,4065,Chv,8,80,19,12.746,423.654,Richard Childress Racing,False,False,19,16,restart
+Ryan Newman,2394,Frd,6,80,16,12.726,424.327,Roush Fenway Racing,False,False,14,20,restart
+Aric Almirola,40,Frd,10,80,11,12.673,426.093,Stewart-Haas Racing,False,False,20,8,restart
+Matt DiBenedetto,3916,Frd,21,80,20,12.650,426.868,Wood Brothers Racing,False,False,21,17,restart
+Cole Custer,4104,Frd,41,80,12,12.622,427.816,Stewart-Haas Racing,False,False,4,14,restart
+Joey Logano,3859,Frd,22,80,10,12.607,428.346,Team Penske,False,False,7,4,restart
+Martin Truex Jr.,3368,Tyt,19,80,9,12.581,429.214,Joe Gibbs Racing,False,False,10,13,restart
+Kevin Harvick,1416,Frd,4,80,14,12.546,430.420,Stewart-Haas Racing,False,False,12,15,restart
+Kurt Busch,453,Chv,1,80,7,12.535,430.803,Chip Ganassi Racing,False,False,13,10,restart
+Alex Bowman,4045,Chv,48,80,5,12.472,432.974,Hendrick Motorsports,False,False,15,6,restart
+Denny Hamlin,1361,Tyt,11,80,8,12.437,434.181,Joe Gibbs Racing,False,False,16,21,restart
+Ryan Blaney,4023,Frd,12,80,6,12.413,435.034,Team Penske,False,False,17,5,restart
+Kyle Larson,4030,Chv,5,80,4,12.372,436.459,Hendrick Motorsports,False,False,1,1,restart
+William Byron,4184,Chv,24,80,3,12.356,437.050,Hendrick Motorsports,False,False,8,7,restart
+Austin Dillon,3873,Chv,3,79,21,12.327,438.078,Richard Childress Racing,False,False,5,19,caution
+Chase Elliott,4062,Chv,9,80,1,12.323,438.213,Hendrick Motorsports,False,False,6,3,restart
+Brad Keselowski,1816,Frd,2,80,2,12.020,449.248,Team Penske,False,False,9,2,restart
+Ross Chastain,4001,Chv,42,91,17,10.370,520.721,Chip Ganassi Racing,False,False,18,18,restart
+Matt DiBenedetto,3916,Frd,21,91,15,10.366,520.947,Wood Brothers Racing,False,False,21,17,restart
+Tyler Reddick,4065,Chv,8,91,19,10.356,521.423,Richard Childress Racing,False,False,19,16,restart
+Michael McDowell,3832,Frd,34,91,16,10.347,521.894,Front Row Motorsports,False,False,11,12,restart
+Ryan Newman,2394,Frd,6,91,21,10.344,522.039,Roush Fenway Racing,False,False,14,20,restart
+Martin Truex Jr.,3368,Tyt,19,91,12,10.342,522.159,Joe Gibbs Racing,False,False,10,13,restart
+Christopher Bell,4153,Tyt,20,91,14,10.340,522.241,Joe Gibbs Racing,False,False,3,11,restart
+Cole Custer,4104,Frd,41,91,11,10.339,522.296,Stewart-Haas Racing,False,False,4,14,restart
+Kyle Busch,454,Tyt,18,91,13,10.338,522.330,Joe Gibbs Racing,False,False,2,9,restart
+Kevin Harvick,1416,Frd,4,91,20,10.335,522.515,Stewart-Haas Racing,False,False,12,15,restart
+Aric Almirola,40,Frd,10,91,10,10.335,522.473,Stewart-Haas Racing,False,False,20,8,restart
+Kurt Busch,453,Chv,1,91,9,10.297,524.417,Chip Ganassi Racing,False,False,13,10,restart
+Alex Bowman,4045,Chv,48,91,7,10.292,524.698,Hendrick Motorsports,False,False,15,6,restart
+Denny Hamlin,1361,Tyt,11,91,6,10.280,525.304,Joe Gibbs Racing,False,False,16,21,restart
+Joey Logano,3859,Frd,22,91,5,10.276,525.501,Team Penske,False,False,7,4,restart
+Brad Keselowski,1816,Frd,2,91,3,10.261,526.268,Team Penske,False,False,9,2,restart
+Ryan Blaney,4023,Frd,12,91,4,10.252,526.750,Team Penske,False,False,17,5,restart
+Kyle Larson,4030,Chv,5,91,2,10.251,526.770,Hendrick Motorsports,False,False,1,1,restart
+Chase Elliott,4062,Chv,9,91,1,10.245,527.099,Hendrick Motorsports,False,False,6,3,restart
+William Byron,4184,Chv,24,91,8,10.239,527.416,Hendrick Motorsports,False,False,8,7,restart
+Cole Custer,4104,Frd,41,46,15,9.977,541.254,Stewart-Haas Racing,False,False,4,14,restart
+Brad Keselowski,1816,Frd,2,46,20,9.975,541.357,Team Penske,False,False,9,2,restart
+Ross Chastain,4001,Chv,42,61,10,9.965,541.871,Chip Ganassi Racing,False,False,18,18,restart
+Kurt Busch,453,Chv,1,46,18,9.960,542.171,Chip Ganassi Racing,False,False,13,10,restart
+Joey Logano,3859,Frd,22,61,12,9.958,542.256,Team Penske,False,False,7,4,restart
+Joey Logano,3859,Frd,22,46,13,9.957,542.343,Team Penske,False,False,7,4,restart
+Ross Chastain,4001,Chv,42,46,19,9.957,542.357,Chip Ganassi Racing,False,False,18,18,restart
+Matt DiBenedetto,3916,Frd,21,31,1,9.950,542.711,Wood Brothers Racing,False,False,21,17,restart
+Aric Almirola,40,Frd,10,31,2,9.950,542.732,Stewart-Haas Racing,False,False,20,8,restart
+Austin Dillon,3873,Chv,3,61,9,9.947,542.869,Richard Childress Racing,False,False,5,19,restart
+Kyle Busch,454,Tyt,18,46,16,9.947,542.866,Joe Gibbs Racing,False,False,2,9,restart
+Ryan Newman,2394,Frd,6,31,4,9.941,543.206,Roush Fenway Racing,False,False,14,20,restart
+Ryan Blaney,4023,Frd,12,46,10,9.939,543.295,Team Penske,False,False,17,5,restart
+Michael McDowell,3832,Frd,34,31,3,9.938,543.388,Front Row Motorsports,False,False,11,12,restart
+Kyle Busch,454,Tyt,18,61,8,9.936,543.504,Joe Gibbs Racing,False,False,2,9,pitting in
+Chase Elliott,4062,Chv,9,46,11,9.934,543.562,Hendrick Motorsports,False,False,6,3,restart
+Brad Keselowski,1816,Frd,2,61,7,9.934,543.614,Team Penske,False,False,9,2,restart
+Martin Truex Jr.,3368,Tyt,19,46,21,9.927,543.963,Joe Gibbs Racing,False,False,10,13,restart
+William Byron,4184,Chv,24,46,1,9.926,544.002,Hendrick Motorsports,False,False,8,7,restart
+Cole Custer,4104,Frd,41,61,11,9.925,544.069,Stewart-Haas Racing,False,False,4,14,restart
+Christopher Bell,4153,Tyt,20,46,2,9.924,544.119,Joe Gibbs Racing,False,False,3,11,restart
+Kurt Busch,453,Chv,1,61,6,9.924,544.111,Chip Ganassi Racing,False,False,13,10,restart
+Tyler Reddick,4065,Chv,8,46,17,9.921,544.294,Richard Childress Racing,False,False,19,16,restart
+Kevin Harvick,1416,Frd,4,46,9,9.921,544.297,Stewart-Haas Racing,False,False,12,15,restart
+Denny Hamlin,1361,Tyt,11,46,4,9.921,544.311,Joe Gibbs Racing,False,False,16,21,restart
+Alex Bowman,4045,Chv,48,31,5,9.920,544.371,Hendrick Motorsports,False,False,15,6,restart
+Kyle Larson,4030,Chv,5,46,3,9.919,544.428,Hendrick Motorsports,False,False,1,1,restart
+Austin Dillon,3873,Chv,3,46,14,9.917,544.504,Richard Childress Racing,False,False,5,19,restart
+Kevin Harvick,1416,Frd,4,31,6,9.914,544.690,Stewart-Haas Racing,False,False,12,15,restart
+Ryan Newman,2394,Frd,6,46,8,9.911,544.850,Roush Fenway Racing,False,False,14,20,restart
+Tyler Reddick,4065,Chv,8,31,8,9.909,544.934,Richard Childress Racing,False,False,19,16,restart
+Kyle Larson,4030,Chv,5,31,7,9.906,545.109,Hendrick Motorsports,False,False,1,1,restart
+Ryan Newman,2394,Frd,6,61,14,9.904,545.242,Roush Fenway Racing,False,False,14,20,pitting in
+Michael McDowell,3832,Frd,34,46,6,9.902,545.361,Front Row Motorsports,False,False,11,12,restart
+Aric Almirola,40,Frd,10,61,13,9.893,545.866,Stewart-Haas Racing,False,False,20,8,restart
+Christopher Bell,4153,Tyt,20,31,9,9.893,545.838,Joe Gibbs Racing,False,False,3,11,restart
+Matt DiBenedetto,3916,Frd,21,46,5,9.892,545.869,Wood Brothers Racing,False,False,21,17,restart
+Austin Dillon,3873,Chv,3,31,10,9.889,546.064,Richard Childress Racing,False,False,5,19,restart
+Aric Almirola,40,Frd,10,46,12,9.884,546.328,Stewart-Haas Racing,False,False,20,8,restart
+Martin Truex Jr.,3368,Tyt,19,31,11,9.879,546.634,Joe Gibbs Racing,False,False,10,13,restart
+Alex Bowman,4045,Chv,48,61,5,9.877,546.723,Hendrick Motorsports,False,False,15,6,restart
+Alex Bowman,4045,Chv,48,46,7,9.874,546.904,Hendrick Motorsports,False,False,15,6,restart
+Joey Logano,3859,Frd,22,31,16,9.868,547.222,Team Penske,False,False,7,4,restart
+Denny Hamlin,1361,Tyt,11,31,13,9.860,547.649,Joe Gibbs Racing,False,False,16,21,restart
+Ryan Blaney,4023,Frd,12,61,4,9.856,547.879,Team Penske,False,False,17,5,restart
+Cole Custer,4104,Frd,41,31,12,9.856,547.866,Stewart-Haas Racing,False,False,4,14,restart
+Chase Elliott,4062,Chv,9,61,3,9.855,547.943,Hendrick Motorsports,False,False,6,3,restart
+Kyle Busch,454,Tyt,18,31,15,9.848,548.333,Joe Gibbs Racing,False,False,2,9,restart
+Chase Elliott,4062,Chv,9,31,14,9.847,548.418,Hendrick Motorsports,False,False,6,3,restart
+William Byron,4184,Chv,24,31,18,9.831,549.308,Hendrick Motorsports,False,False,8,7,restart
+Kurt Busch,453,Chv,1,31,20,9.825,549.641,Chip Ganassi Racing,False,False,13,10,restart
+Ross Chastain,4001,Chv,42,31,17,9.825,549.632,Chip Ganassi Racing,False,False,18,18,restart
+Ryan Blaney,4023,Frd,12,31,19,9.814,550.241,Team Penske,False,False,17,5,restart
+Brad Keselowski,1816,Frd,2,31,21,9.814,550.234,Team Penske,False,False,9,2,restart
+Kyle Larson,4030,Chv,5,61,2,9.813,550.268,Hendrick Motorsports,False,False,1,1,restart
+William Byron,4184,Chv,24,61,1,9.812,550.372,Hendrick Motorsports,False,False,8,7,restart
+Aric Almirola,40,Frd,10,16,20,9.787,551.768,Stewart-Haas Racing,False,False,20,8,restart
+Ryan Newman,2394,Frd,6,16,17,9.784,551.941,Roush Fenway Racing,False,False,14,20,restart
+Christopher Bell,4153,Tyt,20,16,21,9.784,551.917,Joe Gibbs Racing,False,False,3,11,restart
+Tyler Reddick,4065,Chv,8,16,19,9.782,552.010,Richard Childress Racing,False,False,19,16,restart
+Matt DiBenedetto,3916,Frd,21,16,18,9.782,552.013,Wood Brothers Racing,False,False,21,17,restart
+Denny Hamlin,1361,Tyt,11,16,16,9.779,552.189,Joe Gibbs Racing,False,False,16,21,restart
+Michael McDowell,3832,Frd,34,16,15,9.772,552.618,Front Row Motorsports,False,False,11,12,restart
+Ryan Blaney,4023,Frd,12,16,1,9.759,553.309,Team Penske,False,False,17,5,restart
+Martin Truex Jr.,3368,Tyt,19,61,19,9.756,553.501,Joe Gibbs Racing,False,False,10,13,pitting out
+Alex Bowman,4045,Chv,48,16,14,9.754,553.609,Hendrick Motorsports,False,False,15,6,restart
+Kevin Harvick,1416,Frd,4,16,6,9.752,553.750,Stewart-Haas Racing,False,False,12,15,restart
+Martin Truex Jr.,3368,Tyt,19,16,12,9.750,553.872,Joe Gibbs Racing,False,False,10,13,restart
+Ross Chastain,4001,Chv,42,16,3,9.747,553.994,Chip Ganassi Racing,False,False,18,18,restart
+Joey Logano,3859,Frd,22,16,9,9.743,554.262,Team Penske,False,False,7,4,restart
+Kurt Busch,453,Chv,1,16,4,9.733,554.805,Chip Ganassi Racing,False,False,13,10,restart
+Kevin Harvick,1416,Frd,4,61,17,9.727,555.149,Stewart-Haas Racing,False,False,12,15,pitting out
+Brad Keselowski,1816,Frd,2,16,2,9.719,555.626,Team Penske,False,False,9,2,restart
+Michael McDowell,3832,Frd,34,61,18,9.699,556.744,Front Row Motorsports,False,False,11,12,pitting out
+Austin Dillon,3873,Chv,3,16,11,9.670,558.441,Richard Childress Racing,False,False,5,19,restart
+Chase Elliott,4062,Chv,9,16,5,9.670,558.425,Hendrick Motorsports,False,False,6,3,restart
+Cole Custer,4104,Frd,41,16,8,9.667,558.611,Stewart-Haas Racing,False,False,4,14,restart
+Kyle Busch,454,Tyt,18,16,7,9.656,559.218,Joe Gibbs Racing,False,False,2,9,restart
+William Byron,4184,Chv,24,16,10,9.648,559.714,Hendrick Motorsports,False,False,8,7,restart
+Kyle Larson,4030,Chv,5,16,13,9.641,560.104,Hendrick Motorsports,False,False,1,1,restart
+Denny Hamlin,1361,Tyt,11,61,15,9.626,561.000,Joe Gibbs Racing,False,False,16,21,pitting out
+Christopher Bell,4153,Tyt,20,61,16,9.620,561.331,Joe Gibbs Racing,False,False,3,11,pitting out
+Tyler Reddick,4065,Chv,8,61,21,9.460,570.827,Richard Childress Racing,False,False,19,16,pitting out
+Matt DiBenedetto,3916,Frd,21,61,20,9.364,576.648,Wood Brothers Racing,False,False,21,17,pitting out

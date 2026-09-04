@@ -1,0 +1,886 @@
+driver_name,driver_id,car_number,constructor,lap_number,running_position,lap_time,lap_time_ms
+Max Verstappen,830,1,Red Bull,1,1,1:42.062,102062
+George Russell,847,63,Mercedes,1,2,1:43.075,103075
+Lando Norris,846,4,McLaren,1,3,1:44.165,104165
+Carlos Sainz,832,55,Williams,1,4,1:44.824,104824
+Isack Hadjar,865,6,RB F1 Team,1,5,1:45.460,105460
+Liam Lawson,859,30,RB F1 Team,1,6,1:46.144,106144
+Oscar Piastri,857,81,McLaren,1,7,1:46.777,106777
+Oliver Bearman,860,87,Haas F1 Team,1,8,1:47.507,107507
+Charles Leclerc,844,16,Ferrari,1,9,1:48.352,108352
+Fernando Alonso,4,14,Aston Martin,1,10,1:48.711,108711
+Nico Hülkenberg,807,27,Sauber,1,11,1:49.002,109002
+Esteban Ocon,839,31,Haas F1 Team,1,12,1:49.800,109800
+Lewis Hamilton,1,44,Ferrari,1,13,1:50.124,110124
+Andrea Kimi Antonelli,863,12,Mercedes,1,14,1:51.048,111048
+Alexander Albon,848,23,Williams,1,15,1:51.969,111969
+Franco Colapinto,861,43,Alpine F1 Team,1,16,1:52.717,112717
+Pierre Gasly,842,10,Alpine F1 Team,1,17,1:55.532,115532
+Yuki Tsunoda,852,22,Red Bull,1,18,1:57.698,117698
+Gabriel Bortoleto,864,5,Sauber,1,19,2:10.427,130427
+Max Verstappen,830,1,Red Bull,2,1,1:47.622,107622
+George Russell,847,63,Mercedes,2,2,1:49.251,109251
+Lando Norris,846,4,McLaren,2,3,1:50.056,110056
+Carlos Sainz,832,55,Williams,2,4,1:50.424,110424
+Isack Hadjar,865,6,RB F1 Team,2,5,1:51.673,111673
+Oscar Piastri,857,81,McLaren,2,6,1:51.145,111145
+Oliver Bearman,860,87,Haas F1 Team,2,7,1:53.551,113551
+Charles Leclerc,844,16,Ferrari,2,8,1:54.436,114436
+Fernando Alonso,4,14,Aston Martin,2,9,1:57.144,117144
+Nico Hülkenberg,807,27,Sauber,2,10,1:57.236,117236
+Esteban Ocon,839,31,Haas F1 Team,2,11,1:58.053,118053
+Lewis Hamilton,1,44,Ferrari,2,12,1:58.576,118576
+Alexander Albon,848,23,Williams,2,13,1:59.304,119304
+Andrea Kimi Antonelli,863,12,Mercedes,2,14,2:02.573,122573
+Franco Colapinto,861,43,Alpine F1 Team,2,15,2:02.610,122610
+Liam Lawson,859,30,RB F1 Team,2,16,2:17.377,137377
+Pierre Gasly,842,10,Alpine F1 Team,2,17,2:08.486,128486
+Yuki Tsunoda,852,22,Red Bull,2,18,2:17.697,137697
+Gabriel Bortoleto,864,5,Sauber,2,19,2:41.626,161626
+Max Verstappen,830,1,Red Bull,3,1,2:13.534,133534
+George Russell,847,63,Mercedes,3,2,2:12.522,132522
+Lando Norris,846,4,McLaren,3,3,2:12.717,132717
+Carlos Sainz,832,55,Williams,3,4,2:12.574,132574
+Isack Hadjar,865,6,RB F1 Team,3,5,2:11.943,131943
+Oscar Piastri,857,81,McLaren,3,6,2:13.563,133563
+Oliver Bearman,860,87,Haas F1 Team,3,7,2:12.623,132623
+Charles Leclerc,844,16,Ferrari,3,8,2:11.513,131513
+Fernando Alonso,4,14,Aston Martin,3,9,2:09.495,129495
+Nico Hülkenberg,807,27,Sauber,3,10,2:09.674,129674
+Esteban Ocon,839,31,Haas F1 Team,3,11,2:09.195,129195
+Lewis Hamilton,1,44,Ferrari,3,12,2:09.181,129181
+Alexander Albon,848,23,Williams,3,13,2:07.503,127503
+Franco Colapinto,861,43,Alpine F1 Team,3,14,2:05.626,125626
+Andrea Kimi Antonelli,863,12,Mercedes,3,15,2:18.105,138105
+Yuki Tsunoda,852,22,Red Bull,3,16,2:06.382,126382
+Pierre Gasly,842,10,Alpine F1 Team,3,17,2:18.457,138457
+Liam Lawson,859,30,RB F1 Team,3,18,2:20.329,140329
+Max Verstappen,830,1,Red Bull,4,1,1:41.671,101671
+George Russell,847,63,Mercedes,4,2,1:41.132,101132
+Lando Norris,846,4,McLaren,4,3,1:40.573,100573
+Carlos Sainz,832,55,Williams,4,4,1:40.742,100742
+Isack Hadjar,865,6,RB F1 Team,4,5,1:40.539,100539
+Oscar Piastri,857,81,McLaren,4,6,1:39.781,99781
+Oliver Bearman,860,87,Haas F1 Team,4,7,1:38.758,98758
+Charles Leclerc,844,16,Ferrari,4,8,1:38.814,98814
+Fernando Alonso,4,14,Aston Martin,4,9,1:38.677,98677
+Nico Hülkenberg,807,27,Sauber,4,10,1:38.857,98857
+Esteban Ocon,839,31,Haas F1 Team,4,11,1:39.419,99419
+Lewis Hamilton,1,44,Ferrari,4,12,1:40.526,100526
+Alexander Albon,848,23,Williams,4,13,1:39.850,99850
+Franco Colapinto,861,43,Alpine F1 Team,4,14,1:40.409,100409
+Andrea Kimi Antonelli,863,12,Mercedes,4,15,1:38.509,98509
+Yuki Tsunoda,852,22,Red Bull,4,16,1:38.299,98299
+Pierre Gasly,842,10,Alpine F1 Team,4,17,1:38.545,98545
+Liam Lawson,859,30,RB F1 Team,4,18,1:38.739,98739
+Max Verstappen,830,1,Red Bull,5,1,1:37.421,97421
+George Russell,847,63,Mercedes,5,2,1:36.909,96909
+Lando Norris,846,4,McLaren,5,3,1:37.491,97491
+Carlos Sainz,832,55,Williams,5,4,1:37.791,97791
+Isack Hadjar,865,6,RB F1 Team,5,5,1:37.646,97646
+Oscar Piastri,857,81,McLaren,5,6,1:37.628,97628
+Charles Leclerc,844,16,Ferrari,5,7,1:38.077,98077
+Oliver Bearman,860,87,Haas F1 Team,5,8,1:39.360,99360
+Fernando Alonso,4,14,Aston Martin,5,9,1:38.308,98308
+Nico Hülkenberg,807,27,Sauber,5,10,1:38.282,98282
+Esteban Ocon,839,31,Haas F1 Team,5,11,1:38.135,98135
+Lewis Hamilton,1,44,Ferrari,5,12,1:37.668,97668
+Alexander Albon,848,23,Williams,5,13,1:38.697,98697
+Franco Colapinto,861,43,Alpine F1 Team,5,14,1:39.248,99248
+Andrea Kimi Antonelli,863,12,Mercedes,5,15,1:37.941,97941
+Yuki Tsunoda,852,22,Red Bull,5,16,1:37.898,97898
+Pierre Gasly,842,10,Alpine F1 Team,5,17,1:38.198,98198
+Liam Lawson,859,30,RB F1 Team,5,18,1:38.138,98138
+Max Verstappen,830,1,Red Bull,6,1,1:36.594,96594
+George Russell,847,63,Mercedes,6,2,1:36.463,96463
+Lando Norris,846,4,McLaren,6,3,1:36.965,96965
+Carlos Sainz,832,55,Williams,6,4,1:37.577,97577
+Isack Hadjar,865,6,RB F1 Team,6,5,1:37.565,97565
+Oscar Piastri,857,81,McLaren,6,6,1:37.624,97624
+Charles Leclerc,844,16,Ferrari,6,7,1:37.724,97724
+Oliver Bearman,860,87,Haas F1 Team,6,8,1:38.329,98329
+Fernando Alonso,4,14,Aston Martin,6,9,1:38.617,98617
+Nico Hülkenberg,807,27,Sauber,6,10,1:38.732,98732
+Esteban Ocon,839,31,Haas F1 Team,6,11,1:38.354,98354
+Lewis Hamilton,1,44,Ferrari,6,12,1:37.526,97526
+Alexander Albon,848,23,Williams,6,13,1:37.614,97614
+Franco Colapinto,861,43,Alpine F1 Team,6,14,1:39.021,99021
+Andrea Kimi Antonelli,863,12,Mercedes,6,15,1:37.213,97213
+Yuki Tsunoda,852,22,Red Bull,6,16,1:37.990,97990
+Pierre Gasly,842,10,Alpine F1 Team,6,17,1:38.083,98083
+Liam Lawson,859,30,RB F1 Team,6,18,1:38.082,98082
+Max Verstappen,830,1,Red Bull,7,1,1:36.383,96383
+George Russell,847,63,Mercedes,7,2,1:36.525,96525
+Lando Norris,846,4,McLaren,7,3,1:36.777,96777
+Carlos Sainz,832,55,Williams,7,4,1:37.166,97166
+Isack Hadjar,865,6,RB F1 Team,7,5,1:37.132,97132
+Oscar Piastri,857,81,McLaren,7,6,1:37.098,97098
+Charles Leclerc,844,16,Ferrari,7,7,1:36.928,96928
+Oliver Bearman,860,87,Haas F1 Team,7,8,1:38.270,98270
+Fernando Alonso,4,14,Aston Martin,7,9,1:37.804,97804
+Nico Hülkenberg,807,27,Sauber,7,10,1:38.385,98385
+Esteban Ocon,839,31,Haas F1 Team,7,11,1:37.908,97908
+Lewis Hamilton,1,44,Ferrari,7,12,1:37.563,97563
+Alexander Albon,848,23,Williams,7,13,1:37.269,97269
+Franco Colapinto,861,43,Alpine F1 Team,7,14,1:38.557,98557
+Andrea Kimi Antonelli,863,12,Mercedes,7,15,1:36.941,96941
+Yuki Tsunoda,852,22,Red Bull,7,16,1:37.486,97486
+Pierre Gasly,842,10,Alpine F1 Team,7,17,1:37.663,97663
+Liam Lawson,859,30,RB F1 Team,7,18,1:37.736,97736
+Max Verstappen,830,1,Red Bull,8,1,1:36.602,96602
+George Russell,847,63,Mercedes,8,2,1:36.926,96926
+Lando Norris,846,4,McLaren,8,3,1:36.966,96966
+Carlos Sainz,832,55,Williams,8,4,1:37.101,97101
+Isack Hadjar,865,6,RB F1 Team,8,5,1:37.012,97012
+Oscar Piastri,857,81,McLaren,8,6,1:36.741,96741
+Charles Leclerc,844,16,Ferrari,8,7,1:36.628,96628
+Oliver Bearman,860,87,Haas F1 Team,8,8,1:37.720,97720
+Fernando Alonso,4,14,Aston Martin,8,9,1:38.260,98260
+Nico Hülkenberg,807,27,Sauber,8,10,1:37.516,97516
+Esteban Ocon,839,31,Haas F1 Team,8,11,1:37.750,97750
+Lewis Hamilton,1,44,Ferrari,8,12,1:37.934,97934
+Alexander Albon,848,23,Williams,8,13,1:37.757,97757
+Franco Colapinto,861,43,Alpine F1 Team,8,14,1:38.843,98843
+Andrea Kimi Antonelli,863,12,Mercedes,8,15,1:36.414,96414
+Yuki Tsunoda,852,22,Red Bull,8,16,1:37.303,97303
+Pierre Gasly,842,10,Alpine F1 Team,8,17,1:37.933,97933
+Liam Lawson,859,30,RB F1 Team,8,18,1:37.826,97826
+Max Verstappen,830,1,Red Bull,9,1,1:36.319,96319
+George Russell,847,63,Mercedes,9,2,1:36.760,96760
+Lando Norris,846,4,McLaren,9,3,1:36.856,96856
+Carlos Sainz,832,55,Williams,9,4,1:37.088,97088
+Isack Hadjar,865,6,RB F1 Team,9,5,1:37.202,97202
+Oscar Piastri,857,81,McLaren,9,6,1:37.553,97553
+Charles Leclerc,844,16,Ferrari,9,7,1:36.595,96595
+Oliver Bearman,860,87,Haas F1 Team,9,8,1:37.713,97713
+Fernando Alonso,4,14,Aston Martin,9,9,1:37.625,97625
+Nico Hülkenberg,807,27,Sauber,9,10,1:37.984,97984
+Esteban Ocon,839,31,Haas F1 Team,9,11,1:38.033,98033
+Lewis Hamilton,1,44,Ferrari,9,12,1:38.256,98256
+Alexander Albon,848,23,Williams,9,13,1:37.576,97576
+Franco Colapinto,861,43,Alpine F1 Team,9,14,1:38.462,98462
+Andrea Kimi Antonelli,863,12,Mercedes,9,15,1:37.319,97319
+Yuki Tsunoda,852,22,Red Bull,9,16,1:36.950,96950
+Pierre Gasly,842,10,Alpine F1 Team,9,17,1:37.446,97446
+Liam Lawson,859,30,RB F1 Team,9,18,1:37.590,97590
+Max Verstappen,830,1,Red Bull,10,1,1:36.899,96899
+George Russell,847,63,Mercedes,10,2,1:36.803,96803
+Lando Norris,846,4,McLaren,10,3,1:36.439,96439
+Carlos Sainz,832,55,Williams,10,4,1:37.365,97365
+Isack Hadjar,865,6,RB F1 Team,10,5,1:37.252,97252
+Oscar Piastri,857,81,McLaren,10,6,1:36.834,96834
+Charles Leclerc,844,16,Ferrari,10,7,1:36.724,96724
+Oliver Bearman,860,87,Haas F1 Team,10,8,1:37.478,97478
+Fernando Alonso,4,14,Aston Martin,10,9,1:37.566,97566
+Nico Hülkenberg,807,27,Sauber,10,10,1:37.434,97434
+Esteban Ocon,839,31,Haas F1 Team,10,11,1:37.324,97324
+Lewis Hamilton,1,44,Ferrari,10,12,1:37.372,97372
+Alexander Albon,848,23,Williams,10,13,1:38.000,98000
+Andrea Kimi Antonelli,863,12,Mercedes,10,14,1:37.692,97692
+Franco Colapinto,861,43,Alpine F1 Team,10,15,1:38.863,98863
+Yuki Tsunoda,852,22,Red Bull,10,16,1:36.961,96961
+Pierre Gasly,842,10,Alpine F1 Team,10,17,1:37.465,97465
+Liam Lawson,859,30,RB F1 Team,10,18,1:37.169,97169
+Max Verstappen,830,1,Red Bull,11,1,1:36.420,96420
+George Russell,847,63,Mercedes,11,2,1:36.802,96802
+Lando Norris,846,4,McLaren,11,3,1:36.345,96345
+Carlos Sainz,832,55,Williams,11,4,1:37.027,97027
+Isack Hadjar,865,6,RB F1 Team,11,5,1:37.439,97439
+Oscar Piastri,857,81,McLaren,11,6,1:36.705,96705
+Charles Leclerc,844,16,Ferrari,11,7,1:36.826,96826
+Oliver Bearman,860,87,Haas F1 Team,11,8,1:37.189,97189
+Fernando Alonso,4,14,Aston Martin,11,9,1:37.381,97381
+Nico Hülkenberg,807,27,Sauber,11,10,1:37.380,97380
+Esteban Ocon,839,31,Haas F1 Team,11,11,1:37.786,97786
+Lewis Hamilton,1,44,Ferrari,11,12,1:37.213,97213
+Alexander Albon,848,23,Williams,11,13,1:37.353,97353
+Andrea Kimi Antonelli,863,12,Mercedes,11,14,1:36.888,96888
+Franco Colapinto,861,43,Alpine F1 Team,11,15,1:38.518,98518
+Yuki Tsunoda,852,22,Red Bull,11,16,1:36.908,96908
+Pierre Gasly,842,10,Alpine F1 Team,11,17,1:37.356,97356
+Liam Lawson,859,30,RB F1 Team,11,18,1:37.102,97102
+Max Verstappen,830,1,Red Bull,12,1,1:36.453,96453
+George Russell,847,63,Mercedes,12,2,1:36.364,96364
+Lando Norris,846,4,McLaren,12,3,1:36.264,96264
+Carlos Sainz,832,55,Williams,12,4,1:36.984,96984
+Isack Hadjar,865,6,RB F1 Team,12,5,1:37.850,97850
+Charles Leclerc,844,16,Ferrari,12,6,1:36.517,96517
+Oscar Piastri,857,81,McLaren,12,7,1:38.447,98447
+Oliver Bearman,860,87,Haas F1 Team,12,8,1:37.197,97197
+Fernando Alonso,4,14,Aston Martin,12,9,1:37.372,97372
+Nico Hülkenberg,807,27,Sauber,12,10,1:37.251,97251
+Esteban Ocon,839,31,Haas F1 Team,12,11,1:37.365,97365
+Lewis Hamilton,1,44,Ferrari,12,12,1:37.373,97373
+Alexander Albon,848,23,Williams,12,13,1:37.328,97328
+Andrea Kimi Antonelli,863,12,Mercedes,12,14,1:36.293,96293
+Franco Colapinto,861,43,Alpine F1 Team,12,15,1:38.402,98402
+Yuki Tsunoda,852,22,Red Bull,12,16,1:36.434,96434
+Pierre Gasly,842,10,Alpine F1 Team,12,17,1:37.160,97160
+Liam Lawson,859,30,RB F1 Team,12,18,1:37.097,97097
+Max Verstappen,830,1,Red Bull,13,1,1:36.101,96101
+George Russell,847,63,Mercedes,13,2,1:36.183,96183
+Lando Norris,846,4,McLaren,13,3,1:36.298,96298
+Carlos Sainz,832,55,Williams,13,4,1:37.081,97081
+Charles Leclerc,844,16,Ferrari,13,5,1:37.273,97273
+Isack Hadjar,865,6,RB F1 Team,13,6,1:38.181,98181
+Oscar Piastri,857,81,McLaren,13,7,1:37.290,97290
+Oliver Bearman,860,87,Haas F1 Team,13,8,1:37.402,97402
+Fernando Alonso,4,14,Aston Martin,13,9,1:37.590,97590
+Nico Hülkenberg,807,27,Sauber,13,10,1:37.432,97432
+Esteban Ocon,839,31,Haas F1 Team,13,11,1:37.500,97500
+Lewis Hamilton,1,44,Ferrari,13,12,1:39.433,99433
+Andrea Kimi Antonelli,863,12,Mercedes,13,13,1:35.868,95868
+Alexander Albon,848,23,Williams,13,14,1:43.792,103792
+Franco Colapinto,861,43,Alpine F1 Team,13,15,1:38.296,98296
+Yuki Tsunoda,852,22,Red Bull,13,16,1:36.642,96642
+Pierre Gasly,842,10,Alpine F1 Team,13,17,1:37.482,97482
+Liam Lawson,859,30,RB F1 Team,13,18,1:37.073,97073
+Max Verstappen,830,1,Red Bull,14,1,1:36.209,96209
+George Russell,847,63,Mercedes,14,2,1:36.273,96273
+Lando Norris,846,4,McLaren,14,3,1:35.962,95962
+Carlos Sainz,832,55,Williams,14,4,1:36.997,96997
+Charles Leclerc,844,16,Ferrari,14,5,1:36.834,96834
+Isack Hadjar,865,6,RB F1 Team,14,6,1:37.481,97481
+Oscar Piastri,857,81,McLaren,14,7,1:37.579,97579
+Oliver Bearman,860,87,Haas F1 Team,14,8,1:37.565,97565
+Fernando Alonso,4,14,Aston Martin,14,9,1:37.627,97627
+Nico Hülkenberg,807,27,Sauber,14,10,1:37.508,97508
+Esteban Ocon,839,31,Haas F1 Team,14,11,1:37.678,97678
+Lewis Hamilton,1,44,Ferrari,14,12,1:37.131,97131
+Andrea Kimi Antonelli,863,12,Mercedes,14,13,1:36.271,96271
+Franco Colapinto,861,43,Alpine F1 Team,14,14,1:38.051,98051
+Yuki Tsunoda,852,22,Red Bull,14,15,1:36.749,96749
+Pierre Gasly,842,10,Alpine F1 Team,14,16,1:37.278,97278
+Liam Lawson,859,30,RB F1 Team,14,17,1:37.211,97211
+Alexander Albon,848,23,Williams,14,18,2:02.604,122604
+Max Verstappen,830,1,Red Bull,15,1,1:36.326,96326
+George Russell,847,63,Mercedes,15,2,1:36.363,96363
+Lando Norris,846,4,McLaren,15,3,1:36.087,96087
+Carlos Sainz,832,55,Williams,15,4,1:36.835,96835
+Charles Leclerc,844,16,Ferrari,15,5,1:36.373,96373
+Isack Hadjar,865,6,RB F1 Team,15,6,1:37.285,97285
+Oscar Piastri,857,81,McLaren,15,7,1:37.099,97099
+Oliver Bearman,860,87,Haas F1 Team,15,8,1:37.414,97414
+Fernando Alonso,4,14,Aston Martin,15,9,1:37.731,97731
+Nico Hülkenberg,807,27,Sauber,15,10,1:37.708,97708
+Esteban Ocon,839,31,Haas F1 Team,15,11,1:37.571,97571
+Lewis Hamilton,1,44,Ferrari,15,12,1:36.934,96934
+Andrea Kimi Antonelli,863,12,Mercedes,15,13,1:37.177,97177
+Franco Colapinto,861,43,Alpine F1 Team,15,14,1:44.254,104254
+Yuki Tsunoda,852,22,Red Bull,15,15,1:44.062,104062
+Pierre Gasly,842,10,Alpine F1 Team,15,16,1:46.122,106122
+Liam Lawson,859,30,RB F1 Team,15,17,1:48.179,108179
+Alexander Albon,848,23,Williams,15,18,2:23.504,143504
+Max Verstappen,830,1,Red Bull,16,1,1:58.061,118061
+George Russell,847,63,Mercedes,16,2,1:58.698,118698
+Lando Norris,846,4,McLaren,16,3,1:58.262,118262
+Carlos Sainz,832,55,Williams,16,4,1:58.817,118817
+Charles Leclerc,844,16,Ferrari,16,5,1:59.494,119494
+Oscar Piastri,857,81,McLaren,16,6,1:58.898,118898
+Isack Hadjar,865,6,RB F1 Team,16,7,1:59.565,119565
+Oliver Bearman,860,87,Haas F1 Team,16,8,1:59.651,119651
+Nico Hülkenberg,807,27,Sauber,16,9,1:58.416,118416
+Esteban Ocon,839,31,Haas F1 Team,16,10,1:57.833,117833
+Lewis Hamilton,1,44,Ferrari,16,11,1:57.928,117928
+Fernando Alonso,4,14,Aston Martin,16,12,2:03.307,123307
+Andrea Kimi Antonelli,863,12,Mercedes,16,13,1:58.519,118519
+Franco Colapinto,861,43,Alpine F1 Team,16,14,1:52.367,112367
+Yuki Tsunoda,852,22,Red Bull,16,15,1:51.345,111345
+Pierre Gasly,842,10,Alpine F1 Team,16,16,1:48.975,108975
+Liam Lawson,859,30,RB F1 Team,16,17,1:48.212,108212
+Alexander Albon,848,23,Williams,16,18,1:37.202,97202
+Max Verstappen,830,1,Red Bull,17,1,1:36.139,96139
+Lando Norris,846,4,McLaren,17,2,1:35.706,95706
+George Russell,847,63,Mercedes,17,3,1:40.031,100031
+Carlos Sainz,832,55,Williams,17,4,1:36.350,96350
+Charles Leclerc,844,16,Ferrari,17,5,1:36.411,96411
+Oscar Piastri,857,81,McLaren,17,6,1:36.339,96339
+Isack Hadjar,865,6,RB F1 Team,17,7,1:37.437,97437
+Nico Hülkenberg,807,27,Sauber,17,8,1:36.381,96381
+Esteban Ocon,839,31,Haas F1 Team,17,9,1:36.710,96710
+Lewis Hamilton,1,44,Ferrari,17,10,1:36.431,96431
+Oliver Bearman,860,87,Haas F1 Team,17,11,1:42.814,102814
+Andrea Kimi Antonelli,863,12,Mercedes,17,12,1:36.602,96602
+Franco Colapinto,861,43,Alpine F1 Team,17,13,1:37.942,97942
+Yuki Tsunoda,852,22,Red Bull,17,14,1:36.640,96640
+Fernando Alonso,4,14,Aston Martin,17,15,1:51.939,111939
+Pierre Gasly,842,10,Alpine F1 Team,17,16,1:36.874,96874
+Liam Lawson,859,30,RB F1 Team,17,17,1:36.883,96883
+Alexander Albon,848,23,Williams,17,18,1:36.408,96408
+Max Verstappen,830,1,Red Bull,18,1,1:35.857,95857
+Lando Norris,846,4,McLaren,18,2,1:35.591,95591
+Carlos Sainz,832,55,Williams,18,3,1:36.717,96717
+Charles Leclerc,844,16,Ferrari,18,4,1:36.225,96225
+Oscar Piastri,857,81,McLaren,18,5,1:36.282,96282
+Isack Hadjar,865,6,RB F1 Team,18,6,1:37.381,97381
+George Russell,847,63,Mercedes,18,7,1:51.552,111552
+Nico Hülkenberg,807,27,Sauber,18,8,1:36.525,96525
+Esteban Ocon,839,31,Haas F1 Team,18,9,1:36.990,96990
+Lewis Hamilton,1,44,Ferrari,18,10,1:36.641,96641
+Andrea Kimi Antonelli,863,12,Mercedes,18,11,1:35.968,95968
+Franco Colapinto,861,43,Alpine F1 Team,18,12,1:37.403,97403
+Yuki Tsunoda,852,22,Red Bull,18,13,1:37.055,97055
+Fernando Alonso,4,14,Aston Martin,18,14,1:36.920,96920
+Oliver Bearman,860,87,Haas F1 Team,18,15,1:53.704,113704
+Pierre Gasly,842,10,Alpine F1 Team,18,16,1:36.858,96858
+Liam Lawson,859,30,RB F1 Team,18,17,1:36.820,96820
+Alexander Albon,848,23,Williams,18,18,1:36.073,96073
+Max Verstappen,830,1,Red Bull,19,1,1:35.860,95860
+Lando Norris,846,4,McLaren,19,2,1:35.769,95769
+Carlos Sainz,832,55,Williams,19,3,1:36.753,96753
+Charles Leclerc,844,16,Ferrari,19,4,1:36.523,96523
+Oscar Piastri,857,81,McLaren,19,5,1:36.426,96426
+Isack Hadjar,865,6,RB F1 Team,19,6,1:37.099,97099
+George Russell,847,63,Mercedes,19,7,1:35.869,95869
+Nico Hülkenberg,807,27,Sauber,19,8,1:36.798,96798
+Esteban Ocon,839,31,Haas F1 Team,19,9,1:36.965,96965
+Lewis Hamilton,1,44,Ferrari,19,10,1:36.756,96756
+Andrea Kimi Antonelli,863,12,Mercedes,19,11,1:35.682,95682
+Franco Colapinto,861,43,Alpine F1 Team,19,12,1:37.272,97272
+Yuki Tsunoda,852,22,Red Bull,19,13,1:37.278,97278
+Fernando Alonso,4,14,Aston Martin,19,14,1:36.828,96828
+Oliver Bearman,860,87,Haas F1 Team,19,15,1:36.646,96646
+Pierre Gasly,842,10,Alpine F1 Team,19,16,1:36.961,96961
+Liam Lawson,859,30,RB F1 Team,19,17,1:37.110,97110
+Alexander Albon,848,23,Williams,19,18,1:35.947,95947
+Max Verstappen,830,1,Red Bull,20,1,1:35.756,95756
+Lando Norris,846,4,McLaren,20,2,1:35.680,95680
+Carlos Sainz,832,55,Williams,20,3,1:37.189,97189
+Charles Leclerc,844,16,Ferrari,20,4,1:36.627,96627
+Oscar Piastri,857,81,McLaren,20,5,1:36.707,96707
+George Russell,847,63,Mercedes,20,6,1:35.731,95731
+Nico Hülkenberg,807,27,Sauber,20,7,1:36.414,96414
+Isack Hadjar,865,6,RB F1 Team,20,8,1:42.417,102417
+Lewis Hamilton,1,44,Ferrari,20,9,1:36.708,96708
+Esteban Ocon,839,31,Haas F1 Team,20,10,1:37.482,97482
+Andrea Kimi Antonelli,863,12,Mercedes,20,11,1:36.186,96186
+Franco Colapinto,861,43,Alpine F1 Team,20,12,1:36.946,96946
+Yuki Tsunoda,852,22,Red Bull,20,13,1:36.646,96646
+Fernando Alonso,4,14,Aston Martin,20,14,1:36.956,96956
+Oliver Bearman,860,87,Haas F1 Team,20,15,1:36.850,96850
+Pierre Gasly,842,10,Alpine F1 Team,20,16,1:36.838,96838
+Liam Lawson,859,30,RB F1 Team,20,17,1:36.713,96713
+Alexander Albon,848,23,Williams,20,18,1:35.663,95663
+Max Verstappen,830,1,Red Bull,21,1,1:35.574,95574
+Lando Norris,846,4,McLaren,21,2,1:36.320,96320
+Carlos Sainz,832,55,Williams,21,3,1:37.183,97183
+Charles Leclerc,844,16,Ferrari,21,4,1:36.254,96254
+George Russell,847,63,Mercedes,21,5,1:35.740,95740
+Oscar Piastri,857,81,McLaren,21,6,1:40.682,100682
+Nico Hülkenberg,807,27,Sauber,21,7,1:36.694,96694
+Lewis Hamilton,1,44,Ferrari,21,8,1:36.137,96137
+Esteban Ocon,839,31,Haas F1 Team,21,9,1:37.170,97170
+Andrea Kimi Antonelli,863,12,Mercedes,21,10,1:36.430,96430
+Isack Hadjar,865,6,RB F1 Team,21,11,1:52.569,112569
+Franco Colapinto,861,43,Alpine F1 Team,21,12,1:37.979,97979
+Yuki Tsunoda,852,22,Red Bull,21,13,1:37.548,97548
+Fernando Alonso,4,14,Aston Martin,21,14,1:37.046,97046
+Oliver Bearman,860,87,Haas F1 Team,21,15,1:36.661,96661
+Pierre Gasly,842,10,Alpine F1 Team,21,16,1:37.170,97170
+Liam Lawson,859,30,RB F1 Team,21,17,1:36.846,96846
+Alexander Albon,848,23,Williams,21,18,1:35.634,95634
+Max Verstappen,830,1,Red Bull,22,1,1:35.789,95789
+Lando Norris,846,4,McLaren,22,2,1:41.141,101141
+Charles Leclerc,844,16,Ferrari,22,3,1:38.007,98007
+George Russell,847,63,Mercedes,22,4,1:36.045,96045
+Carlos Sainz,832,55,Williams,22,5,1:42.420,102420
+Nico Hülkenberg,807,27,Sauber,22,6,1:36.180,96180
+Lewis Hamilton,1,44,Ferrari,22,7,1:36.091,96091
+Esteban Ocon,839,31,Haas F1 Team,22,8,1:36.537,96537
+Andrea Kimi Antonelli,863,12,Mercedes,22,9,1:36.437,96437
+Oscar Piastri,857,81,McLaren,22,10,1:51.292,111292
+Isack Hadjar,865,6,RB F1 Team,22,11,1:36.407,96407
+Fernando Alonso,4,14,Aston Martin,22,12,1:36.608,96608
+Franco Colapinto,861,43,Alpine F1 Team,22,13,1:38.221,98221
+Yuki Tsunoda,852,22,Red Bull,22,14,1:38.734,98734
+Oliver Bearman,860,87,Haas F1 Team,22,15,1:36.892,96892
+Pierre Gasly,842,10,Alpine F1 Team,22,16,1:36.920,96920
+Liam Lawson,859,30,RB F1 Team,22,17,1:37.048,97048
+Alexander Albon,848,23,Williams,22,18,1:35.675,95675
+Max Verstappen,830,1,Red Bull,23,1,1:35.958,95958
+Charles Leclerc,844,16,Ferrari,23,2,1:36.700,96700
+George Russell,847,63,Mercedes,23,3,1:35.639,95639
+Lando Norris,846,4,McLaren,23,4,1:51.904,111904
+Nico Hülkenberg,807,27,Sauber,23,5,1:36.108,96108
+Lewis Hamilton,1,44,Ferrari,23,6,1:35.880,95880
+Esteban Ocon,839,31,Haas F1 Team,23,7,1:36.234,96234
+Andrea Kimi Antonelli,863,12,Mercedes,23,8,1:36.281,96281
+Oscar Piastri,857,81,McLaren,23,9,1:35.921,95921
+Carlos Sainz,832,55,Williams,23,10,1:53.182,113182
+Isack Hadjar,865,6,RB F1 Team,23,11,1:36.106,96106
+Fernando Alonso,4,14,Aston Martin,23,12,1:37.240,97240
+Franco Colapinto,861,43,Alpine F1 Team,23,13,1:37.749,97749
+Oliver Bearman,860,87,Haas F1 Team,23,14,1:37.219,97219
+Yuki Tsunoda,852,22,Red Bull,23,15,1:38.214,98214
+Pierre Gasly,842,10,Alpine F1 Team,23,16,1:37.141,97141
+Liam Lawson,859,30,RB F1 Team,23,17,1:36.997,96997
+Alexander Albon,848,23,Williams,23,18,1:35.484,95484
+Max Verstappen,830,1,Red Bull,24,1,1:35.807,95807
+George Russell,847,63,Mercedes,24,2,1:35.727,95727
+Lando Norris,846,4,McLaren,24,3,1:35.860,95860
+Charles Leclerc,844,16,Ferrari,24,4,1:40.815,100815
+Nico Hülkenberg,807,27,Sauber,24,5,1:35.892,95892
+Lewis Hamilton,1,44,Ferrari,24,6,1:35.987,95987
+Andrea Kimi Antonelli,863,12,Mercedes,24,7,1:36.181,96181
+Esteban Ocon,839,31,Haas F1 Team,24,8,1:37.271,97271
+Oscar Piastri,857,81,McLaren,24,9,1:36.118,96118
+Carlos Sainz,832,55,Williams,24,10,1:35.922,95922
+Isack Hadjar,865,6,RB F1 Team,24,11,1:36.125,96125
+Fernando Alonso,4,14,Aston Martin,24,12,1:36.686,96686
+Oliver Bearman,860,87,Haas F1 Team,24,13,1:36.938,96938
+Franco Colapinto,861,43,Alpine F1 Team,24,14,1:38.061,98061
+Yuki Tsunoda,852,22,Red Bull,24,15,1:37.434,97434
+Pierre Gasly,842,10,Alpine F1 Team,24,16,1:37.262,97262
+Liam Lawson,859,30,RB F1 Team,24,17,1:37.142,97142
+Alexander Albon,848,23,Williams,24,18,1:35.453,95453
+Max Verstappen,830,1,Red Bull,25,1,1:40.284,100284
+George Russell,847,63,Mercedes,25,2,1:35.314,95314
+Lando Norris,846,4,McLaren,25,3,1:35.733,95733
+Nico Hülkenberg,807,27,Sauber,25,4,1:35.883,95883
+Lewis Hamilton,1,44,Ferrari,25,5,1:35.753,95753
+Andrea Kimi Antonelli,863,12,Mercedes,25,6,1:35.539,95539
+Esteban Ocon,839,31,Haas F1 Team,25,7,1:37.240,97240
+Oscar Piastri,857,81,McLaren,25,8,1:35.418,95418
+Charles Leclerc,844,16,Ferrari,25,9,1:51.534,111534
+Carlos Sainz,832,55,Williams,25,10,1:36.907,96907
+Isack Hadjar,865,6,RB F1 Team,25,11,1:36.117,96117
+Fernando Alonso,4,14,Aston Martin,25,12,1:36.413,96413
+Oliver Bearman,860,87,Haas F1 Team,25,13,1:36.328,96328
+Yuki Tsunoda,852,22,Red Bull,25,14,1:37.473,97473
+Pierre Gasly,842,10,Alpine F1 Team,25,15,1:37.060,97060
+Liam Lawson,859,30,RB F1 Team,25,16,1:37.086,97086
+Franco Colapinto,861,43,Alpine F1 Team,25,17,1:42.106,102106
+Alexander Albon,848,23,Williams,25,18,1:35.276,95276
+Max Verstappen,830,1,Red Bull,26,1,1:51.173,111173
+George Russell,847,63,Mercedes,26,2,1:35.457,95457
+Lando Norris,846,4,McLaren,26,3,1:35.603,95603
+Nico Hülkenberg,807,27,Sauber,26,4,1:36.186,96186
+Lewis Hamilton,1,44,Ferrari,26,5,1:35.903,95903
+Andrea Kimi Antonelli,863,12,Mercedes,26,6,1:35.320,95320
+Esteban Ocon,839,31,Haas F1 Team,26,7,1:36.900,96900
+Oscar Piastri,857,81,McLaren,26,8,1:35.226,95226
+Charles Leclerc,844,16,Ferrari,26,9,1:35.541,95541
+Carlos Sainz,832,55,Williams,26,10,1:35.626,95626
+Isack Hadjar,865,6,RB F1 Team,26,11,1:35.772,95772
+Fernando Alonso,4,14,Aston Martin,26,12,1:36.291,96291
+Oliver Bearman,860,87,Haas F1 Team,26,13,1:35.893,95893
+Yuki Tsunoda,852,22,Red Bull,26,14,1:36.965,96965
+Pierre Gasly,842,10,Alpine F1 Team,26,15,1:37.221,97221
+Liam Lawson,859,30,RB F1 Team,26,16,1:36.931,96931
+Franco Colapinto,861,43,Alpine F1 Team,26,17,1:54.998,114998
+Alexander Albon,848,23,Williams,26,18,1:35.184,95184
+Max Verstappen,830,1,Red Bull,27,1,1:35.016,95016
+George Russell,847,63,Mercedes,27,2,1:35.355,95355
+Lando Norris,846,4,McLaren,27,3,1:35.624,95624
+Nico Hülkenberg,807,27,Sauber,27,4,1:36.219,96219
+Lewis Hamilton,1,44,Ferrari,27,5,1:36.175,96175
+Andrea Kimi Antonelli,863,12,Mercedes,27,6,1:35.289,95289
+Oscar Piastri,857,81,McLaren,27,7,1:35.521,95521
+Charles Leclerc,844,16,Ferrari,27,8,1:35.283,95283
+Carlos Sainz,832,55,Williams,27,9,1:35.490,95490
+Esteban Ocon,839,31,Haas F1 Team,27,10,1:41.965,101965
+Isack Hadjar,865,6,RB F1 Team,27,11,1:35.700,95700
+Fernando Alonso,4,14,Aston Martin,27,12,1:36.241,96241
+Oliver Bearman,860,87,Haas F1 Team,27,13,1:36.019,96019
+Pierre Gasly,842,10,Alpine F1 Team,27,14,1:37.035,97035
+Liam Lawson,859,30,RB F1 Team,27,15,1:37.613,97613
+Yuki Tsunoda,852,22,Red Bull,27,16,1:41.343,101343
+Franco Colapinto,861,43,Alpine F1 Team,27,17,1:36.256,96256
+Alexander Albon,848,23,Williams,27,18,1:35.322,95322
+Max Verstappen,830,1,Red Bull,28,1,1:35.229,95229
+George Russell,847,63,Mercedes,28,2,1:35.383,95383
+Lando Norris,846,4,McLaren,28,3,1:35.375,95375
+Nico Hülkenberg,807,27,Sauber,28,4,1:36.316,96316
+Lewis Hamilton,1,44,Ferrari,28,5,1:35.994,95994
+Andrea Kimi Antonelli,863,12,Mercedes,28,6,1:35.695,95695
+Oscar Piastri,857,81,McLaren,28,7,1:35.074,95074
+Charles Leclerc,844,16,Ferrari,28,8,1:35.404,95404
+Carlos Sainz,832,55,Williams,28,9,1:35.452,95452
+Isack Hadjar,865,6,RB F1 Team,28,10,1:35.774,95774
+Fernando Alonso,4,14,Aston Martin,28,11,1:36.346,96346
+Oliver Bearman,860,87,Haas F1 Team,28,12,1:35.962,95962
+Esteban Ocon,839,31,Haas F1 Team,28,13,1:53.271,113271
+Pierre Gasly,842,10,Alpine F1 Team,28,14,1:36.844,96844
+Liam Lawson,859,30,RB F1 Team,28,15,1:42.231,102231
+Yuki Tsunoda,852,22,Red Bull,28,16,1:51.575,111575
+Franco Colapinto,861,43,Alpine F1 Team,28,17,1:36.079,96079
+Alexander Albon,848,23,Williams,28,18,1:36.182,96182
+Max Verstappen,830,1,Red Bull,29,1,1:35.019,95019
+George Russell,847,63,Mercedes,29,2,1:35.580,95580
+Lando Norris,846,4,McLaren,29,3,1:34.948,94948
+Nico Hülkenberg,807,27,Sauber,29,4,1:36.413,96413
+Andrea Kimi Antonelli,863,12,Mercedes,29,5,1:36.397,96397
+Lewis Hamilton,1,44,Ferrari,29,6,1:40.519,100519
+Oscar Piastri,857,81,McLaren,29,7,1:35.135,95135
+Charles Leclerc,844,16,Ferrari,29,8,1:34.947,94947
+Carlos Sainz,832,55,Williams,29,9,1:35.534,95534
+Isack Hadjar,865,6,RB F1 Team,29,10,1:35.476,95476
+Fernando Alonso,4,14,Aston Martin,29,11,1:36.192,96192
+Oliver Bearman,860,87,Haas F1 Team,29,12,1:35.781,95781
+Esteban Ocon,839,31,Haas F1 Team,29,13,1:35.309,95309
+Pierre Gasly,842,10,Alpine F1 Team,29,14,1:37.001,97001
+Yuki Tsunoda,852,22,Red Bull,29,15,1:35.373,95373
+Franco Colapinto,861,43,Alpine F1 Team,29,16,1:36.440,96440
+Alexander Albon,848,23,Williams,29,17,1:36.394,96394
+Liam Lawson,859,30,RB F1 Team,29,18,1:54.002,114002
+Max Verstappen,830,1,Red Bull,30,1,1:35.098,95098
+George Russell,847,63,Mercedes,30,2,1:35.447,95447
+Lando Norris,846,4,McLaren,30,3,1:35.074,95074
+Andrea Kimi Antonelli,863,12,Mercedes,30,4,1:35.615,95615
+Nico Hülkenberg,807,27,Sauber,30,5,1:40.783,100783
+Oscar Piastri,857,81,McLaren,30,6,1:34.895,94895
+Charles Leclerc,844,16,Ferrari,30,7,1:35.002,95002
+Carlos Sainz,832,55,Williams,30,8,1:35.139,95139
+Isack Hadjar,865,6,RB F1 Team,30,9,1:35.360,95360
+Lewis Hamilton,1,44,Ferrari,30,10,1:56.086,116086
+Fernando Alonso,4,14,Aston Martin,30,11,1:37.079,97079
+Oliver Bearman,860,87,Haas F1 Team,30,12,1:37.025,97025
+Esteban Ocon,839,31,Haas F1 Team,30,13,1:35.253,95253
+Pierre Gasly,842,10,Alpine F1 Team,30,14,1:36.997,96997
+Yuki Tsunoda,852,22,Red Bull,30,15,1:35.880,95880
+Franco Colapinto,861,43,Alpine F1 Team,30,16,1:36.378,96378
+Alexander Albon,848,23,Williams,30,17,1:36.431,96431
+Liam Lawson,859,30,RB F1 Team,30,18,1:36.278,96278
+Max Verstappen,830,1,Red Bull,31,1,1:34.893,94893
+George Russell,847,63,Mercedes,31,2,1:35.339,95339
+Lando Norris,846,4,McLaren,31,3,1:34.693,94693
+Andrea Kimi Antonelli,863,12,Mercedes,31,4,1:35.740,95740
+Oscar Piastri,857,81,McLaren,31,5,1:35.138,95138
+Charles Leclerc,844,16,Ferrari,31,6,1:34.762,94762
+Carlos Sainz,832,55,Williams,31,7,1:35.332,95332
+Isack Hadjar,865,6,RB F1 Team,31,8,1:35.576,95576
+Nico Hülkenberg,807,27,Sauber,31,9,1:53.228,113228
+Lewis Hamilton,1,44,Ferrari,31,10,1:36.074,96074
+Oliver Bearman,860,87,Haas F1 Team,31,11,1:36.786,96786
+Fernando Alonso,4,14,Aston Martin,31,12,1:37.639,97639
+Esteban Ocon,839,31,Haas F1 Team,31,13,1:35.351,95351
+Pierre Gasly,842,10,Alpine F1 Team,31,14,1:37.104,97104
+Yuki Tsunoda,852,22,Red Bull,31,15,1:35.372,95372
+Alexander Albon,848,23,Williams,31,16,1:36.495,96495
+Franco Colapinto,861,43,Alpine F1 Team,31,17,1:37.391,97391
+Liam Lawson,859,30,RB F1 Team,31,18,1:35.838,95838
+Max Verstappen,830,1,Red Bull,32,1,1:35.127,95127
+George Russell,847,63,Mercedes,32,2,1:35.296,95296
+Lando Norris,846,4,McLaren,32,3,1:34.442,94442
+Andrea Kimi Antonelli,863,12,Mercedes,32,4,1:35.527,95527
+Oscar Piastri,857,81,McLaren,32,5,1:35.433,95433
+Charles Leclerc,844,16,Ferrari,32,6,1:34.754,94754
+Carlos Sainz,832,55,Williams,32,7,1:35.153,95153
+Isack Hadjar,865,6,RB F1 Team,32,8,1:35.291,95291
+Nico Hülkenberg,807,27,Sauber,32,9,1:35.328,95328
+Lewis Hamilton,1,44,Ferrari,32,10,1:35.699,95699
+Oliver Bearman,860,87,Haas F1 Team,32,11,1:36.464,96464
+Esteban Ocon,839,31,Haas F1 Team,32,12,1:35.977,95977
+Fernando Alonso,4,14,Aston Martin,32,13,1:37.133,97133
+Pierre Gasly,842,10,Alpine F1 Team,32,14,1:37.072,97072
+Yuki Tsunoda,852,22,Red Bull,32,15,1:35.757,95757
+Alexander Albon,848,23,Williams,32,16,1:35.588,95588
+Franco Colapinto,861,43,Alpine F1 Team,32,17,1:36.699,96699
+Liam Lawson,859,30,RB F1 Team,32,18,1:35.658,95658
+Max Verstappen,830,1,Red Bull,33,1,1:34.701,94701
+George Russell,847,63,Mercedes,33,2,1:35.367,95367
+Lando Norris,846,4,McLaren,33,3,1:34.845,94845
+Andrea Kimi Antonelli,863,12,Mercedes,33,4,1:35.496,95496
+Oscar Piastri,857,81,McLaren,33,5,1:34.873,94873
+Charles Leclerc,844,16,Ferrari,33,6,1:34.965,94965
+Carlos Sainz,832,55,Williams,33,7,1:35.050,95050
+Isack Hadjar,865,6,RB F1 Team,33,8,1:35.573,95573
+Nico Hülkenberg,807,27,Sauber,33,9,1:35.229,95229
+Lewis Hamilton,1,44,Ferrari,33,10,1:35.140,95140
+Esteban Ocon,839,31,Haas F1 Team,33,11,1:35.774,95774
+Oliver Bearman,860,87,Haas F1 Team,33,12,1:36.545,96545
+Fernando Alonso,4,14,Aston Martin,33,13,1:36.543,96543
+Pierre Gasly,842,10,Alpine F1 Team,33,14,1:37.327,97327
+Yuki Tsunoda,852,22,Red Bull,33,15,1:35.872,95872
+Alexander Albon,848,23,Williams,33,16,1:35.593,95593
+Franco Colapinto,861,43,Alpine F1 Team,33,17,1:36.537,96537
+Liam Lawson,859,30,RB F1 Team,33,18,1:35.535,95535
+Max Verstappen,830,1,Red Bull,34,1,1:34.446,94446
+Lando Norris,846,4,McLaren,34,2,1:34.834,94834
+George Russell,847,63,Mercedes,34,3,1:35.990,95990
+Andrea Kimi Antonelli,863,12,Mercedes,34,4,1:35.116,95116
+Oscar Piastri,857,81,McLaren,34,5,1:34.684,94684
+Charles Leclerc,844,16,Ferrari,34,6,1:34.660,94660
+Carlos Sainz,832,55,Williams,34,7,1:35.289,95289
+Isack Hadjar,865,6,RB F1 Team,34,8,1:35.342,95342
+Nico Hülkenberg,807,27,Sauber,34,9,1:35.228,95228
+Lewis Hamilton,1,44,Ferrari,34,10,1:35.693,95693
+Esteban Ocon,839,31,Haas F1 Team,34,11,1:35.565,95565
+Oliver Bearman,860,87,Haas F1 Team,34,12,1:36.530,96530
+Fernando Alonso,4,14,Aston Martin,34,13,1:36.222,96222
+Pierre Gasly,842,10,Alpine F1 Team,34,14,1:37.019,97019
+Yuki Tsunoda,852,22,Red Bull,34,15,1:35.641,95641
+Franco Colapinto,861,43,Alpine F1 Team,34,16,1:36.428,96428
+Liam Lawson,859,30,RB F1 Team,34,17,1:35.651,95651
+Alexander Albon,848,23,Williams,34,18,1:40.698,100698
+Max Verstappen,830,1,Red Bull,35,1,1:34.634,94634
+Lando Norris,846,4,McLaren,35,2,1:34.437,94437
+George Russell,847,63,Mercedes,35,3,1:35.415,95415
+Andrea Kimi Antonelli,863,12,Mercedes,35,4,1:35.139,95139
+Oscar Piastri,857,81,McLaren,35,5,1:34.848,94848
+Charles Leclerc,844,16,Ferrari,35,6,1:34.762,94762
+Carlos Sainz,832,55,Williams,35,7,1:34.809,94809
+Isack Hadjar,865,6,RB F1 Team,35,8,1:35.400,95400
+Nico Hülkenberg,807,27,Sauber,35,9,1:35.049,95049
+Lewis Hamilton,1,44,Ferrari,35,10,1:35.494,95494
+Esteban Ocon,839,31,Haas F1 Team,35,11,1:35.339,95339
+Oliver Bearman,860,87,Haas F1 Team,35,12,1:35.994,95994
+Fernando Alonso,4,14,Aston Martin,35,13,1:36.046,96046
+Pierre Gasly,842,10,Alpine F1 Team,35,14,1:36.782,96782
+Yuki Tsunoda,852,22,Red Bull,35,15,1:35.448,95448
+Franco Colapinto,861,43,Alpine F1 Team,35,16,1:36.113,96113
+Liam Lawson,859,30,RB F1 Team,35,17,1:35.788,95788
+Alexander Albon,848,23,Williams,35,18,2:11.179,131179
+Max Verstappen,830,1,Red Bull,36,1,1:34.216,94216
+Lando Norris,846,4,McLaren,36,2,1:34.980,94980
+George Russell,847,63,Mercedes,36,3,1:35.473,95473
+Andrea Kimi Antonelli,863,12,Mercedes,36,4,1:35.179,95179
+Oscar Piastri,857,81,McLaren,36,5,1:34.637,94637
+Charles Leclerc,844,16,Ferrari,36,6,1:34.608,94608
+Carlos Sainz,832,55,Williams,36,7,1:34.832,94832
+Isack Hadjar,865,6,RB F1 Team,36,8,1:35.345,95345
+Nico Hülkenberg,807,27,Sauber,36,9,1:35.053,95053
+Lewis Hamilton,1,44,Ferrari,36,10,1:35.311,95311
+Esteban Ocon,839,31,Haas F1 Team,36,11,1:35.475,95475
+Oliver Bearman,860,87,Haas F1 Team,36,12,1:35.829,95829
+Fernando Alonso,4,14,Aston Martin,36,13,1:35.760,95760
+Pierre Gasly,842,10,Alpine F1 Team,36,14,1:36.945,96945
+Yuki Tsunoda,852,22,Red Bull,36,15,1:35.623,95623
+Franco Colapinto,861,43,Alpine F1 Team,36,16,1:35.980,95980
+Liam Lawson,859,30,RB F1 Team,36,17,1:35.526,95526
+Max Verstappen,830,1,Red Bull,37,1,1:34.200,94200
+Lando Norris,846,4,McLaren,37,2,1:34.216,94216
+George Russell,847,63,Mercedes,37,3,1:35.070,95070
+Andrea Kimi Antonelli,863,12,Mercedes,37,4,1:35.159,95159
+Oscar Piastri,857,81,McLaren,37,5,1:34.743,94743
+Charles Leclerc,844,16,Ferrari,37,6,1:34.674,94674
+Carlos Sainz,832,55,Williams,37,7,1:34.746,94746
+Isack Hadjar,865,6,RB F1 Team,37,8,1:35.359,95359
+Nico Hülkenberg,807,27,Sauber,37,9,1:35.362,95362
+Lewis Hamilton,1,44,Ferrari,37,10,1:35.569,95569
+Esteban Ocon,839,31,Haas F1 Team,37,11,1:35.339,95339
+Oliver Bearman,860,87,Haas F1 Team,37,12,1:35.855,95855
+Fernando Alonso,4,14,Aston Martin,37,13,1:35.893,95893
+Pierre Gasly,842,10,Alpine F1 Team,37,14,1:36.698,96698
+Yuki Tsunoda,852,22,Red Bull,37,15,1:35.612,95612
+Franco Colapinto,861,43,Alpine F1 Team,37,16,1:35.974,95974
+Liam Lawson,859,30,RB F1 Team,37,17,1:35.868,95868
+Max Verstappen,830,1,Red Bull,38,1,1:34.371,94371
+Lando Norris,846,4,McLaren,38,2,1:34.209,94209
+George Russell,847,63,Mercedes,38,3,1:35.197,95197
+Andrea Kimi Antonelli,863,12,Mercedes,38,4,1:35.433,95433
+Oscar Piastri,857,81,McLaren,38,5,1:35.581,95581
+Charles Leclerc,844,16,Ferrari,38,6,1:34.404,94404
+Carlos Sainz,832,55,Williams,38,7,1:34.692,94692
+Isack Hadjar,865,6,RB F1 Team,38,8,1:34.931,94931
+Nico Hülkenberg,807,27,Sauber,38,9,1:35.425,95425
+Lewis Hamilton,1,44,Ferrari,38,10,1:35.345,95345
+Esteban Ocon,839,31,Haas F1 Team,38,11,1:35.261,95261
+Oliver Bearman,860,87,Haas F1 Team,38,12,1:36.120,96120
+Fernando Alonso,4,14,Aston Martin,38,13,1:35.874,95874
+Pierre Gasly,842,10,Alpine F1 Team,38,14,1:36.724,96724
+Yuki Tsunoda,852,22,Red Bull,38,15,1:35.568,95568
+Franco Colapinto,861,43,Alpine F1 Team,38,16,1:35.780,95780
+Liam Lawson,859,30,RB F1 Team,38,17,1:35.855,95855
+Max Verstappen,830,1,Red Bull,39,1,1:34.192,94192
+Lando Norris,846,4,McLaren,39,2,1:34.348,94348
+George Russell,847,63,Mercedes,39,3,1:35.327,95327
+Andrea Kimi Antonelli,863,12,Mercedes,39,4,1:35.026,95026
+Oscar Piastri,857,81,McLaren,39,5,1:34.965,94965
+Charles Leclerc,844,16,Ferrari,39,6,1:35.393,95393
+Carlos Sainz,832,55,Williams,39,7,1:34.637,94637
+Isack Hadjar,865,6,RB F1 Team,39,8,1:35.376,95376
+Nico Hülkenberg,807,27,Sauber,39,9,1:35.078,95078
+Lewis Hamilton,1,44,Ferrari,39,10,1:35.186,95186
+Esteban Ocon,839,31,Haas F1 Team,39,11,1:35.343,95343
+Oliver Bearman,860,87,Haas F1 Team,39,12,1:35.874,95874
+Fernando Alonso,4,14,Aston Martin,39,13,1:36.138,96138
+Pierre Gasly,842,10,Alpine F1 Team,39,14,1:36.475,96475
+Yuki Tsunoda,852,22,Red Bull,39,15,1:35.436,95436
+Franco Colapinto,861,43,Alpine F1 Team,39,16,1:36.346,96346
+Liam Lawson,859,30,RB F1 Team,39,17,1:35.970,95970
+Max Verstappen,830,1,Red Bull,40,1,1:34.030,94030
+Lando Norris,846,4,McLaren,40,2,1:34.399,94399
+George Russell,847,63,Mercedes,40,3,1:35.681,95681
+Andrea Kimi Antonelli,863,12,Mercedes,40,4,1:34.415,94415
+Oscar Piastri,857,81,McLaren,40,5,1:34.570,94570
+Charles Leclerc,844,16,Ferrari,40,6,1:34.763,94763
+Carlos Sainz,832,55,Williams,40,7,1:34.795,94795
+Isack Hadjar,865,6,RB F1 Team,40,8,1:35.243,95243
+Nico Hülkenberg,807,27,Sauber,40,9,1:34.784,94784
+Lewis Hamilton,1,44,Ferrari,40,10,1:35.178,95178
+Esteban Ocon,839,31,Haas F1 Team,40,11,1:35.332,95332
+Oliver Bearman,860,87,Haas F1 Team,40,12,1:35.917,95917
+Fernando Alonso,4,14,Aston Martin,40,13,1:35.850,95850
+Pierre Gasly,842,10,Alpine F1 Team,40,14,1:36.338,96338
+Yuki Tsunoda,852,22,Red Bull,40,15,1:35.505,95505
+Liam Lawson,859,30,RB F1 Team,40,16,1:36.420,96420
+Franco Colapinto,861,43,Alpine F1 Team,40,17,1:37.949,97949
+Max Verstappen,830,1,Red Bull,41,1,1:34.093,94093
+Lando Norris,846,4,McLaren,41,2,1:33.965,93965
+George Russell,847,63,Mercedes,41,3,1:35.442,95442
+Andrea Kimi Antonelli,863,12,Mercedes,41,4,1:34.756,94756
+Oscar Piastri,857,81,McLaren,41,5,1:34.643,94643
+Charles Leclerc,844,16,Ferrari,41,6,1:34.430,94430
+Carlos Sainz,832,55,Williams,41,7,1:34.707,94707
+Isack Hadjar,865,6,RB F1 Team,41,8,1:35.082,95082
+Nico Hülkenberg,807,27,Sauber,41,9,1:34.827,94827
+Lewis Hamilton,1,44,Ferrari,41,10,1:35.127,95127
+Esteban Ocon,839,31,Haas F1 Team,41,11,1:35.484,95484
+Oliver Bearman,860,87,Haas F1 Team,41,12,1:35.720,95720
+Fernando Alonso,4,14,Aston Martin,41,13,1:35.629,95629
+Pierre Gasly,842,10,Alpine F1 Team,41,14,1:36.039,96039
+Yuki Tsunoda,852,22,Red Bull,41,15,1:35.472,95472
+Liam Lawson,859,30,RB F1 Team,41,16,1:35.824,95824
+Franco Colapinto,861,43,Alpine F1 Team,41,17,1:36.391,96391
+Max Verstappen,830,1,Red Bull,42,1,1:34.133,94133
+Lando Norris,846,4,McLaren,42,2,1:34.081,94081
+George Russell,847,63,Mercedes,42,3,1:35.062,95062
+Andrea Kimi Antonelli,863,12,Mercedes,42,4,1:34.531,94531
+Oscar Piastri,857,81,McLaren,42,5,1:34.641,94641
+Charles Leclerc,844,16,Ferrari,42,6,1:34.661,94661
+Carlos Sainz,832,55,Williams,42,7,1:34.496,94496
+Isack Hadjar,865,6,RB F1 Team,42,8,1:35.069,95069
+Nico Hülkenberg,807,27,Sauber,42,9,1:34.860,94860
+Lewis Hamilton,1,44,Ferrari,42,10,1:35.149,95149
+Esteban Ocon,839,31,Haas F1 Team,42,11,1:35.341,95341
+Oliver Bearman,860,87,Haas F1 Team,42,12,1:35.510,95510
+Fernando Alonso,4,14,Aston Martin,42,13,1:35.803,95803
+Pierre Gasly,842,10,Alpine F1 Team,42,14,1:36.053,96053
+Yuki Tsunoda,852,22,Red Bull,42,15,1:35.573,95573
+Liam Lawson,859,30,RB F1 Team,42,16,1:35.695,95695
+Franco Colapinto,861,43,Alpine F1 Team,42,17,1:35.861,95861
+Max Verstappen,830,1,Red Bull,43,1,1:34.026,94026
+Lando Norris,846,4,McLaren,43,2,1:34.271,94271
+George Russell,847,63,Mercedes,43,3,1:35.249,95249
+Andrea Kimi Antonelli,863,12,Mercedes,43,4,1:34.629,94629
+Oscar Piastri,857,81,McLaren,43,5,1:34.499,94499
+Charles Leclerc,844,16,Ferrari,43,6,1:34.304,94304
+Carlos Sainz,832,55,Williams,43,7,1:34.511,94511
+Isack Hadjar,865,6,RB F1 Team,43,8,1:35.102,95102
+Nico Hülkenberg,807,27,Sauber,43,9,1:34.925,94925
+Lewis Hamilton,1,44,Ferrari,43,10,1:35.437,95437
+Esteban Ocon,839,31,Haas F1 Team,43,11,1:35.282,95282
+Oliver Bearman,860,87,Haas F1 Team,43,12,1:35.501,95501
+Fernando Alonso,4,14,Aston Martin,43,13,1:36.276,96276
+Pierre Gasly,842,10,Alpine F1 Team,43,14,1:35.934,95934
+Yuki Tsunoda,852,22,Red Bull,43,15,1:35.605,95605
+Liam Lawson,859,30,RB F1 Team,43,16,1:35.644,95644
+Franco Colapinto,861,43,Alpine F1 Team,43,17,1:36.321,96321
+Max Verstappen,830,1,Red Bull,44,1,1:34.470,94470
+Lando Norris,846,4,McLaren,44,2,1:34.435,94435
+George Russell,847,63,Mercedes,44,3,1:35.256,95256
+Andrea Kimi Antonelli,863,12,Mercedes,44,4,1:34.382,94382
+Oscar Piastri,857,81,McLaren,44,5,1:34.512,94512
+Charles Leclerc,844,16,Ferrari,44,6,1:34.965,94965
+Carlos Sainz,832,55,Williams,44,7,1:34.722,94722
+Isack Hadjar,865,6,RB F1 Team,44,8,1:34.883,94883
+Nico Hülkenberg,807,27,Sauber,44,9,1:34.823,94823
+Lewis Hamilton,1,44,Ferrari,44,10,1:35.751,95751
+Esteban Ocon,839,31,Haas F1 Team,44,11,1:35.017,95017
+Oliver Bearman,860,87,Haas F1 Team,44,12,1:35.397,95397
+Fernando Alonso,4,14,Aston Martin,44,13,1:36.726,96726
+Pierre Gasly,842,10,Alpine F1 Team,44,14,1:35.674,95674
+Yuki Tsunoda,852,22,Red Bull,44,15,1:35.728,95728
+Liam Lawson,859,30,RB F1 Team,44,16,1:35.458,95458
+Franco Colapinto,861,43,Alpine F1 Team,44,17,1:36.024,96024
+Max Verstappen,830,1,Red Bull,45,1,1:34.169,94169
+Lando Norris,846,4,McLaren,45,2,1:34.179,94179
+George Russell,847,63,Mercedes,45,3,1:35.345,95345
+Andrea Kimi Antonelli,863,12,Mercedes,45,4,1:34.228,94228
+Oscar Piastri,857,81,McLaren,45,5,1:34.548,94548
+Charles Leclerc,844,16,Ferrari,45,6,1:34.458,94458
+Carlos Sainz,832,55,Williams,45,7,1:34.739,94739
+Isack Hadjar,865,6,RB F1 Team,45,8,1:35.045,95045
+Nico Hülkenberg,807,27,Sauber,45,9,1:34.805,94805
+Lewis Hamilton,1,44,Ferrari,45,10,1:35.995,95995
+Esteban Ocon,839,31,Haas F1 Team,45,11,1:34.833,94833
+Oliver Bearman,860,87,Haas F1 Team,45,12,1:35.333,95333
+Fernando Alonso,4,14,Aston Martin,45,13,1:37.175,97175
+Yuki Tsunoda,852,22,Red Bull,45,14,1:35.617,95617
+Pierre Gasly,842,10,Alpine F1 Team,45,15,1:36.430,96430
+Liam Lawson,859,30,RB F1 Team,45,16,1:35.230,95230
+Franco Colapinto,861,43,Alpine F1 Team,45,17,1:37.217,97217
+Max Verstappen,830,1,Red Bull,46,1,1:34.017,94017
+Lando Norris,846,4,McLaren,46,2,1:35.534,95534
+George Russell,847,63,Mercedes,46,3,1:35.482,95482
+Andrea Kimi Antonelli,863,12,Mercedes,46,4,1:34.329,94329
+Oscar Piastri,857,81,McLaren,46,5,1:34.588,94588
+Charles Leclerc,844,16,Ferrari,46,6,1:34.636,94636
+Carlos Sainz,832,55,Williams,46,7,1:34.717,94717
+Isack Hadjar,865,6,RB F1 Team,46,8,1:34.897,94897
+Nico Hülkenberg,807,27,Sauber,46,9,1:34.817,94817
+Lewis Hamilton,1,44,Ferrari,46,10,1:34.773,94773
+Esteban Ocon,839,31,Haas F1 Team,46,11,1:34.847,94847
+Oliver Bearman,860,87,Haas F1 Team,46,12,1:35.605,95605
+Fernando Alonso,4,14,Aston Martin,46,13,1:36.938,96938
+Yuki Tsunoda,852,22,Red Bull,46,14,1:36.298,96298
+Pierre Gasly,842,10,Alpine F1 Team,46,15,1:36.993,96993
+Liam Lawson,859,30,RB F1 Team,46,16,1:35.077,95077
+Franco Colapinto,861,43,Alpine F1 Team,46,17,1:36.080,96080
+Max Verstappen,830,1,Red Bull,47,1,1:33.895,93895
+Lando Norris,846,4,McLaren,47,2,1:36.128,96128
+George Russell,847,63,Mercedes,47,3,1:35.144,95144
+Andrea Kimi Antonelli,863,12,Mercedes,47,4,1:34.331,94331
+Oscar Piastri,857,81,McLaren,47,5,1:34.086,94086
+Charles Leclerc,844,16,Ferrari,47,6,1:34.778,94778
+Carlos Sainz,832,55,Williams,47,7,1:34.873,94873
+Isack Hadjar,865,6,RB F1 Team,47,8,1:34.904,94904
+Nico Hülkenberg,807,27,Sauber,47,9,1:34.713,94713
+Lewis Hamilton,1,44,Ferrari,47,10,1:34.940,94940
+Esteban Ocon,839,31,Haas F1 Team,47,11,1:34.604,94604
+Oliver Bearman,860,87,Haas F1 Team,47,12,1:35.473,95473
+Fernando Alonso,4,14,Aston Martin,47,13,1:37.367,97367
+Yuki Tsunoda,852,22,Red Bull,47,14,1:35.187,95187
+Pierre Gasly,842,10,Alpine F1 Team,47,15,1:36.502,96502
+Liam Lawson,859,30,RB F1 Team,47,16,1:34.837,94837
+Franco Colapinto,861,43,Alpine F1 Team,47,17,1:35.985,95985
+Max Verstappen,830,1,Red Bull,48,1,1:34.122,94122
+Lando Norris,846,4,McLaren,48,2,1:37.702,97702
+George Russell,847,63,Mercedes,48,3,1:35.338,95338
+Andrea Kimi Antonelli,863,12,Mercedes,48,4,1:33.998,93998
+Oscar Piastri,857,81,McLaren,48,5,1:34.165,94165
+Charles Leclerc,844,16,Ferrari,48,6,1:35.090,95090
+Carlos Sainz,832,55,Williams,48,7,1:34.908,94908
+Isack Hadjar,865,6,RB F1 Team,48,8,1:34.876,94876
+Nico Hülkenberg,807,27,Sauber,48,9,1:34.676,94676
+Lewis Hamilton,1,44,Ferrari,48,10,1:34.885,94885
+Esteban Ocon,839,31,Haas F1 Team,48,11,1:34.557,94557
+Oliver Bearman,860,87,Haas F1 Team,48,12,1:35.094,95094
+Fernando Alonso,4,14,Aston Martin,48,13,1:37.508,97508
+Yuki Tsunoda,852,22,Red Bull,48,14,1:34.984,94984
+Pierre Gasly,842,10,Alpine F1 Team,48,15,1:35.979,95979
+Liam Lawson,859,30,RB F1 Team,48,16,1:37.240,97240
+Franco Colapinto,861,43,Alpine F1 Team,48,17,1:35.902,95902
+Max Verstappen,830,1,Red Bull,49,1,1:34.093,94093
+Lando Norris,846,4,McLaren,49,2,1:37.734,97734
+George Russell,847,63,Mercedes,49,3,1:34.991,94991
+Andrea Kimi Antonelli,863,12,Mercedes,49,4,1:34.042,94042
+Oscar Piastri,857,81,McLaren,49,5,1:34.466,94466
+Charles Leclerc,844,16,Ferrari,49,6,1:34.990,94990
+Carlos Sainz,832,55,Williams,49,7,1:35.212,95212
+Isack Hadjar,865,6,RB F1 Team,49,8,1:34.807,94807
+Nico Hülkenberg,807,27,Sauber,49,9,1:34.592,94592
+Lewis Hamilton,1,44,Ferrari,49,10,1:34.553,94553
+Esteban Ocon,839,31,Haas F1 Team,49,11,1:34.608,94608
+Oliver Bearman,860,87,Haas F1 Team,49,12,1:36.453,96453
+Fernando Alonso,4,14,Aston Martin,49,13,1:37.152,97152
+Yuki Tsunoda,852,22,Red Bull,49,14,1:34.967,94967
+Pierre Gasly,842,10,Alpine F1 Team,49,15,1:35.950,95950
+Liam Lawson,859,30,RB F1 Team,49,16,1:34.902,94902
+Franco Colapinto,861,43,Alpine F1 Team,49,17,1:35.836,95836
+Max Verstappen,830,1,Red Bull,50,1,1:33.365,93365
+Lando Norris,846,4,McLaren,50,2,1:37.187,97187
+George Russell,847,63,Mercedes,50,3,1:34.592,94592
+Andrea Kimi Antonelli,863,12,Mercedes,50,4,1:34.068,94068
+Oscar Piastri,857,81,McLaren,50,5,1:34.661,94661
+Charles Leclerc,844,16,Ferrari,50,6,1:34.669,94669
+Carlos Sainz,832,55,Williams,50,7,1:34.876,94876
+Isack Hadjar,865,6,RB F1 Team,50,8,1:34.620,94620
+Nico Hülkenberg,807,27,Sauber,50,9,1:35.172,95172
+Lewis Hamilton,1,44,Ferrari,50,10,1:34.700,94700
+Esteban Ocon,839,31,Haas F1 Team,50,11,1:34.734,94734
+Oliver Bearman,860,87,Haas F1 Team,50,12,1:34.519,94519
+Fernando Alonso,4,14,Aston Martin,50,13,1:38.065,98065
+Yuki Tsunoda,852,22,Red Bull,50,14,1:35.176,95176
+Pierre Gasly,842,10,Alpine F1 Team,50,15,1:35.730,95730

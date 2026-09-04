@@ -1,0 +1,42 @@
+race_id,name,date,track,track_miles,scheduled_laps,scheduled_miles,actual_laps,actual_miles,points_race,caution_laps
+4907,2020 Cup Series Season Finale 500,2020-11-08T13:00:00-08:00,Phoenix Raceway,1.00,312,312,312,312,True,27
+4905,2020 Cup Series Xfinity 500,2020-11-01T14:00:00-08:00,Martinsville Speedway,0.53,500,263,500,263,True,83
+4906,2020 Cup Series Autotrader EchoPark Automotive 500,2020-10-25T14:30:00-07:00,Texas Motor Speedway,1.50,334,501,334,501,True,47
+4904,2020 Cup Series Hollywood Casino 400,2020-10-18T13:30:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,31
+4901,2020 Cup Series Bank of America ROVAL 400,2020-10-11T14:30:00-07:00,Charlotte Motor Speedway Road Course,2.28,109,248,109,252,True,16
+4903,2020 Cup Series YellaWood 500,2020-10-04T13:00:00-07:00,Talladega Superspeedway,2.66,188,500,200,532,True,54
+4899,2020 Cup Series South Point 400,2020-09-27T16:00:00-07:00,Las Vegas Motor Speedway,1.50,267,400,268,402,True,36
+4896,2020 Cup Series Bass Pro Shops NRA Night Race,2020-09-19T19:30:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,50
+4900,2020 Cup Series Federated Auto Parts 400,2020-09-12T19:30:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,21
+4897,2020 Cup Series Cook Out Southern 500,2020-09-06T18:00:00-07:00,Darlington Raceway,1.37,367,501,367,501,True,34
+4890,2020 Cup Series Coke Zero Sugar 400,2020-08-29T19:30:00-07:00,Daytona International Speedway,2.50,160,400,164,410,True,21
+4902,2020 Cup Series Drydene 311 (2),2020-08-23T16:00:00-07:00,Dover International Speedway,1.00,311,311,311,311,True,40
+4993,2020 Cup Series Drydene 311 (1),2020-08-22T16:00:00-07:00,Dover International Speedway,1.00,311,311,311,311,True,21
+4894,2020 Cup Series Go Bowling 235 at the DAYTONA Road Course,2020-08-16T15:00:00-07:00,Daytona International Speedway Road Course,3.55,65,231,65,231,True,7
+4895,2020 Cup Series Consumers Energy 400,2020-08-09T16:30:00-07:00,Michigan International Speedway,2.00,156,312,156,312,True,24
+4992,2020 Cup Series FireKeepers Casino 400,2020-08-08T16:00:00-07:00,Michigan International Speedway,2.00,156,312,161,322,True,43
+4892,2020 Cup Series Foxwoods Resort Casino 301,2020-08-02T15:00:00-07:00,New Hampshire Motor Speedway,1.06,301,318,301,318,True,52
+4986,2020 Cup Series Super Start Batteries 400 Presented by O'Reilly Auto Parts,2020-07-23T18:30:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,47
+4985,2020 Cup Series O'Reilly Auto Parts 500,2020-07-19T14:00:00-07:00,Texas Motor Speedway,1.50,334,501,334,501,True,45
+4984,2020 Cup Series NASCAR All-Star Race,2020-07-15T20:30:00-07:00,Bristol Motor Speedway,0.53,140,74,140,74,True,13
+4983,2020 Cup Series NASCAR All-Star Open,2020-07-15T19:00:00-07:00,Bristol Motor Speedway,0.53,85,45,85,45,True,18
+4891,2020 Cup Series Quaker State 400 Presented by Walmart,2020-07-12T14:30:00-07:00,Kentucky Speedway,1.50,267,400,267,400,True,42
+4898,2020 Cup Series Big Machine Hand Sanitizer 400 Powered by Big Machine Records,2020-07-05T16:00:00-07:00,Indianapolis Motor Speedway,2.50,160,400,161,402,True,43
+4893,2020 Cup Series Pocono 350,2020-06-28T16:00:00-07:00,Pocono Raceway,2.50,140,350,140,350,True,32
+4886,2020 Cup Series Pocono Organics 325 in partnership with Rodale Institute,2020-06-27T15:30:00-07:00,Pocono Raceway,2.50,130,325,130,325,True,21
+4975,2020 Cup Series GEICO 500,2020-06-22T15:00:00-07:00,Talladega Superspeedway,2.66,188,500,191,508,True,33
+4974,2020 Cup Series Dixie Vodka 400,2020-06-14T15:30:00-07:00,Homestead-Miami Speedway,1.50,267,400,267,400,True,27
+4973,2020 Cup Series Blue-Emu Maximum Pain Relief 500,2020-06-10T19:00:00-07:00,Martinsville Speedway,0.53,500,263,500,263,True,52
+4972,2020 Cup Series Folds of Honor QuikTrip 500,2020-06-07T15:00:00-07:00,Atlanta Motor Speedway,1.54,325,500,325,500,True,24
+4971,2020 Cup Series Food City presents the Supermarket Heroes 500,2020-05-31T15:30:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,102
+4969,2020 Cup Series Alsco Uniforms 500,2020-05-28T20:00:00-07:00,Charlotte Motor Speedway,1.49,208,310,208,312,True,37
+4885,2020 Cup Series Coca-Cola 600,2020-05-24T18:00:00-07:00,Charlotte Motor Speedway,1.50,400,600,405,607,True,52
+4968,2020 Cup Series Toyota 500,2020-05-20T19:30:00-07:00,Darlington Raceway,1.36,228,310,208,284,True,54
+4967,2020 Cup Series The Real Heroes 400,2020-05-17T15:30:00-07:00,Darlington Raceway,1.37,293,400,293,400,True,57
+4874,2020 Cup Series FanShield 500,2020-03-08T12:30:00-07:00,Phoenix Raceway,1.00,312,312,316,316,True,73
+4875,2020 Cup Series Auto Club 400,2020-03-01T12:30:00-08:00,Auto Club Speedway,2.00,200,400,200,400,True,13
+4873,2020 Cup Series Pennzoil 400 presented by Jiffy Lube,2020-02-23T12:30:00-08:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,37
+4871,2020 Cup Series DAYTONA 500,2020-02-16T14:30:00-08:00,Daytona International Speedway,2.50,200,500,209,522,True,39
+4870,2020 Cup Series Bluegreen Vacations Duel 2 at DAYTONA,2020-02-13T20:45:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,5
+4869,2020 Cup Series Bluegreen Vacations Duel 1 at DAYTONA,2020-02-13T19:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,7
+4868,2020 Cup Series Busch Clash at DAYTONA,2020-02-09T15:00:00-08:00,Daytona International Speedway,2.50,75,187,88,220,True,21

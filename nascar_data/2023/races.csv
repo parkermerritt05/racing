@@ -1,0 +1,42 @@
+race_id,name,date,track,track_miles,scheduled_laps,scheduled_miles,actual_laps,actual_miles,points_race,caution_laps
+5309,2023 Cup Series NASCAR Cup Series Championship,2023-11-05T13:00:00-08:00,Phoenix Raceway,1.00,312,312,312,312,True,27
+5308,2023 Cup Series Xfinity 500,2023-10-29T14:00:00-07:00,Martinsville Speedway,0.53,500,263,500,263,True,61
+5307,2023 Cup Series 4EVER 400 Presented by Mobil 1,2023-10-22T14:30:00-07:00,Homestead-Miami Speedway,1.50,267,400,267,400,True,35
+5306,2023 Cup Series South Point 400,2023-10-15T11:30:00-07:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,36
+5305,2023 Cup Series Bank of America ROVAL 400,2023-10-08T14:00:00-07:00,Charlotte Motor Speedway Road Course,2.32,109,252,109,252,True,18
+5304,2023 Cup Series YellaWood 500,2023-10-01T13:00:00-07:00,Talladega Superspeedway,2.66,188,500,188,500,True,19
+5303,2023 Cup Series AutoTrader EchoPark Automotive 400,2023-09-24T14:30:00-07:00,Texas Motor Speedway,1.50,267,400,267,400,True,55
+5302,2023 Cup Series Bass Pro Shops Night Race,2023-09-16T19:30:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,53
+5301,2023 Cup Series Hollywood Casino 400,2023-09-10T14:00:00-07:00,Kansas Speedway,1.50,267,400,268,402,True,45
+5300,2023 Cup Series Cook Out Southern 500,2023-09-03T18:00:00-07:00,Darlington Raceway,1.37,367,501,367,501,True,51
+5299,2023 Cup Series Coke Zero Sugar 400,2023-08-26T19:00:00-07:00,Daytona International Speedway,2.50,160,400,163,407,True,18
+5298,2023 Cup Series Go Bowling at The Glen,2023-08-20T15:00:00-07:00,Watkins Glen International,2.45,90,220,90,220,True,4
+5295,2023 Cup Series Verizon 200 at the Brickyard,2023-08-13T14:30:00-07:00,Indianapolis Motor Speedway Road Course,2.44,82,200,82,200,True,3
+5296,2023 Cup Series FireKeepers Casino 400,2023-08-06T14:30:00-07:00,Michigan International Speedway,2.00,200,400,200,400,True,43
+5297,2023 Cup Series Cook Out 400,2023-07-30T15:00:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,21
+5294,2023 Cup Series HighPoint.com 400,2023-07-23T14:30:00-07:00,Pocono Raceway,2.50,160,400,160,400,True,44
+5293,2023 Cup Series Crayon 301,2023-07-17T12:00:00-07:00,New Hampshire Motor Speedway,1.06,301,318,301,318,True,41
+5292,2023 Cup Series Quaker State 400 available at Walmart,2023-07-09T19:00:00-07:00,Atlanta Motor Speedway,1.54,260,400,185,284,True,43
+5291,2023 Cup Series Grant Park 220,2023-07-02T17:30:00-07:00,Chicago Street Race,2.20,100,220,78,171,True,21
+5290,2023 Cup Series Ally 400,2023-06-25T19:00:00-07:00,Nashville Superspeedway,1.33,300,399,300,399,True,24
+5289,2023 Cup Series Toyota / Save Mart 350,2023-06-11T15:30:00-07:00,Sonoma Raceway,1.99,110,218,110,218,True,6
+5288,2023 Cup Series Enjoy Illinois 300 presented by TicketSmarter,2023-06-04T15:30:00-07:00,World Wide Technology Raceway,1.25,240,300,243,303,True,67
+5287,2023 Cup Series Coca-Cola 600,2023-05-29T15:00:00-07:00,Charlotte Motor Speedway,1.50,400,600,400,600,True,83
+5286,2023 Cup Series NASCAR All-Star Race,2023-05-21T20:00:00-07:00,North Wilkesboro Speedway,0.63,200,125,200,125,True,13
+5285,2023 Cup Series NASCAR All-Star Open,2023-05-21T17:30:00-07:00,North Wilkesboro Speedway,0.63,100,62,100,62,True,18
+5283,2023 Cup Series Goodyear 400,2023-05-14T15:00:00-07:00,Darlington Raceway,1.37,293,400,295,402,True,47
+5284,2023 Cup Series AdventHealth 400,2023-05-07T15:00:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,57
+5282,2023 Cup Series Würth 400,2023-05-01T12:00:00-07:00,Dover Motor Speedway,1.00,400,400,400,400,True,46
+5281,2023 Cup Series GEICO 500,2023-04-23T15:00:00-07:00,Talladega Superspeedway,2.66,188,500,196,521,True,34
+5275,2023 Cup Series NOCO 400,2023-04-16T15:00:00-07:00,Martinsville Speedway,0.53,400,210,400,210,True,50
+5280,2023 Cup Series Food City Dirt Race,2023-04-09T19:00:00-07:00,Bristol Motor Speedway Dirt,0.50,250,125,250,125,True,73
+5274,2023 Cup Series Toyota Owners 400,2023-04-02T15:30:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,54
+5273,2023 Cup Series EchoPark Automotive Grand Prix,2023-03-26T15:30:00-07:00,Circuit of The Americas,3.41,68,231,75,256,True,17
+5272,2023 Cup Series Ambetter Health 400,2023-03-19T15:00:00-07:00,Atlanta Motor Speedway,1.54,260,400,260,400,True,34
+5271,2023 Cup Series United Rentals Work United 500,2023-03-12T15:30:00-07:00,Phoenix Raceway,1.00,312,312,317,317,True,35
+5270,2023 Cup Series Pennzoil 400 presented by Jiffy Lube,2023-03-05T15:30:00-08:00,Las Vegas Motor Speedway,1.50,267,400,271,406,True,26
+5269,2023 Cup Series Pala Casino 400,2023-02-26T15:30:00-08:00,Auto Club Speedway,2.00,200,400,200,400,True,38
+5268,2023 Cup Series DAYTONA 500,2023-02-19T14:30:00-08:00,Daytona International Speedway,2.50,200,500,212,530,True,38
+5267,2023 Cup Series Bluegreen Vacations Duel 2 at DAYTONA,2023-02-16T21:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,9
+5266,2023 Cup Series Bluegreen Vacations Duel 1 at DAYTONA,2023-02-16T19:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,0
+5259,2023 Cup Series Busch Light Clash at The Coliseum,2023-02-05T20:00:00-08:00,Los Angeles Memorial Coliseum,0.25,150,37,150,37,True,16

@@ -1,0 +1,42 @@
+race_id,name,date,track,track_miles,scheduled_laps,scheduled_miles,actual_laps,actual_miles,points_race,caution_laps
+5183,2022 Cup Series NASCAR Cup Series Championship,2022-11-06T13:00:00-08:00,Phoenix Raceway,1.00,312,312,312,312,True,39
+5182,2022 Cup Series Xfinity 500,2022-10-30T14:00:00-07:00,Martinsville Speedway,0.53,500,263,500,263,True,53
+5181,2022 Cup Series Dixie Vodka 400,2022-10-23T14:30:00-07:00,Homestead-Miami Speedway,1.50,267,400,267,400,True,30
+5180,2022 Cup Series South Point 400,2022-10-16T14:30:00-07:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,42
+5179,2022 Cup Series Bank of America ROVAL 400,2022-10-09T14:00:00-07:00,Charlotte Motor Speedway Road Course,2.32,109,252,112,259,True,10
+5178,2022 Cup Series YellaWood 500,2022-10-02T13:00:00-07:00,Talladega Superspeedway,2.66,188,500,188,500,True,25
+5177,2022 Cup Series AutoTrader EchoPark Automotive 500,2022-09-25T15:30:00-07:00,Texas Motor Speedway,1.50,334,500,334,501,True,91
+5176,2022 Cup Series Bass Pro Shops Night Race,2022-09-17T19:30:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,80
+5175,2022 Cup Series Hollywood Casino 400 Presented by Barstool Sportsbook,2022-09-11T14:00:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,43
+5174,2022 Cup Series Cook Out Southern 500,2022-09-04T18:00:00-07:00,Darlington Raceway,1.37,367,501,367,501,True,58
+5173,2022 Cup Series Coke Zero Sugar 400,2022-08-28T10:00:00-07:00,Daytona International Speedway,2.50,160,400,160,400,True,30
+5172,2022 Cup Series Go Bowling at The Glen,2022-08-21T15:00:00-07:00,Watkins Glen International,2.45,90,220,90,220,True,11
+5171,2022 Cup Series Federated Auto Parts 400,2022-08-14T15:00:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,28
+5170,2022 Cup Series FireKeepers Casino 400,2022-08-07T15:00:00-07:00,Michigan International Speedway,2.00,200,400,200,400,True,36
+5169,2022 Cup Series Verizon 200 at the Brickyard,2022-07-31T14:30:00-07:00,Indianapolis Motor Speedway Road Course,2.44,82,200,86,209,True,15
+5168,2022 Cup Series M&M's Fan Appreciation 400,2022-07-24T15:00:00-07:00,Pocono Raceway,2.50,160,400,160,400,True,37
+5167,2022 Cup Series Ambetter 301,2022-07-17T15:00:00-07:00,New Hampshire Motor Speedway,1.06,301,318,301,318,True,52
+5166,2022 Cup Series Quaker State 400 Presented by Walmart,2022-07-10T15:00:00-07:00,Atlanta Motor Speedway,1.54,260,400,260,400,True,64
+5165,2022 Cup Series Kwik Trip 250 presented by JOCKEY Made in America,2022-07-03T14:00:00-07:00,Road America,4.03,62,250,62,250,True,2
+5164,2022 Cup Series Ally 400,2022-06-26T16:00:00-07:00,Nashville Superspeedway,1.33,300,399,300,399,True,57
+5163,2022 Cup Series Toyota / Save Mart 350,2022-06-12T13:00:00-07:00,Sonoma Raceway,1.99,110,218,110,218,True,14
+5162,2022 Cup Series Enjoy Illinois 300 presented by TicketSmarter,2022-06-05T15:30:00-07:00,World Wide Technology Raceway,1.25,240,300,245,306,True,53
+5161,2022 Cup Series Coca-Cola 600,2022-05-29T18:00:00-07:00,Charlotte Motor Speedway,1.50,400,600,413,619,True,90
+5160,2022 Cup Series NASCAR All-Star Race,2022-05-22T19:00:00-07:00,Texas Motor Speedway,1.50,125,187,140,210,True,31
+5159,2022 Cup Series NASCAR All-Star Open,2022-05-22T16:30:00-07:00,Texas Motor Speedway,1.50,50,75,50,75,True,8
+5158,2022 Cup Series AdventHealth 400,2022-05-15T14:00:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,47
+5157,2022 Cup Series Goodyear 400,2022-05-08T15:30:00-07:00,Darlington Raceway,1.37,293,400,293,400,True,47
+5156,2022 Cup Series DuraMAX Drydene 400 presented by RelaDyne,2022-05-01T15:00:00-07:00,Dover Motor Speedway,1.00,400,400,400,400,True,75
+5155,2022 Cup Series GEICO 500,2022-04-24T14:00:00-07:00,Talladega Superspeedway,2.66,188,500,188,500,True,28
+5154,2022 Cup Series Food City Dirt Race,2022-04-17T19:00:00-07:00,Bristol Motor Speedway Dirt,0.50,250,125,250,125,True,82
+5153,2022 Cup Series Blue-Emu Maximum Pain Relief 400,2022-04-09T19:30:00-07:00,Martinsville Speedway,0.53,400,210,403,211,True,36
+5152,2022 Cup Series Toyota Owners 400,2022-04-03T15:30:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,35
+5151,2022 Cup Series EchoPark Automotive Grand Prix,2022-03-27T14:30:00-07:00,Circuit of The Americas,3.41,68,231,69,236,True,13
+5150,2022 Cup Series Folds of Honor QuikTrip 500,2022-03-20T15:00:00-07:00,Atlanta Motor Speedway,1.54,325,500,325,500,True,65
+5149,2022 Cup Series Ruoff Mortgage 500,2022-03-13T15:30:00-07:00,Phoenix Raceway,1.00,312,312,312,312,True,52
+5148,2022 Cup Series Pennzoil 400 presented by Jiffy Lube,2022-03-06T12:30:00-08:00,Las Vegas Motor Speedway,1.50,267,400,274,411,True,60
+5147,2022 Cup Series Wise Power 400,2022-02-27T12:30:00-08:00,Auto Club Speedway,2.00,200,400,200,400,True,59
+5146,2022 Cup Series DAYTONA 500,2022-02-20T14:30:00-08:00,Daytona International Speedway,2.50,200,500,201,502,True,37
+5145,2022 Cup Series Bluegreen Vacations Duel 2 at DAYTONA,2022-02-17T21:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,1
+5144,2022 Cup Series Bluegreen Vacations Duel 1 at DAYTONA,2022-02-17T19:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,0
+5143,2022 Cup Series Busch Light Clash at The Coliseum,2022-02-06T15:00:00-08:00,Los Angeles Memorial Coliseum,0.25,150,37,150,37,True,5

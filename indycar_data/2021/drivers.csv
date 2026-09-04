@@ -1,0 +1,417 @@
+race_id,driver_id,driver,car_number,team,start,finish,finish_status,points,laps,laps_led,times_led,fastest_lap_speed,avg_lap_speed,pit_stops
+5289,4931,Alex Palou,10,Chip Ganassi Racing,3,1,Running,53,90,56,3,121.939,110.025,2
+5289,3667,Will Power,12,Team Penske,4,2,Running,41,90,4,2,122.103,110.018,2
+5289,3628,Scott Dixon,9,Chip Ganassi Racing,5,3,Running,35,90,,,122.242,109.976,2
+5289,4559,Pato O'Ward,5,Arrow McLaren,1,4,Running,34,90,25,3,123.918,109.96,3
+5289,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,16,5,Running,31,90,4,2,123.164,109.851,3
+5289,4614,Rinus VeeKay,21,ECR,14,6,Running,29,90,1,1,123.216,109.8,4
+5289,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,18,7,Running,26,90,,,122.12,109.721,3
+5289,4905,Marcus Ericsson,8,Chip Ganassi Racing,6,8,Running,24,90,,,121.963,109.699,2
+5289,4587,Alexander Rossi,27,Andretti Autosport,2,9,Running,22,90,,,122.88,109.692,3
+5289,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,7,10,Running,20,90,,,121.695,109.297,2
+5289,4505,Jack Harvey,60,Meyer Shank Racing,11,11,Running,19,90,,,122.057,109.217,3
+5289,4276,Simon Pagenaud,22,Team Penske,15,12,Running,18,90,,,121.717,109.074,3
+5289,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,19,13,Running,17,90,,,122.453,108.969,3
+5289,4932,Scott McLaughlin,3,Team Penske,12,14,Running,16,90,,,122.137,108.962,3
+5289,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,13,15,Running,15,90,,,121.532,108.924,3
+5289,4218,Conor Daly,20,ECR,10,16,Running,14,90,,,121.491,108.913,3
+5289,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,24,17,Running,13,89,,,121.754,108.408,3
+5289,4416,Dalton Kellett,4,A.J. Foyt Enterprises,23,18,Running,12,89,,,120.676,107.803,4
+5289,4934,Jimmie Johnson,48,Chip Ganassi Racing,21,19,Running,11,87,,,120.98,105.791,3
+5289,4558,Max Chilton,59,Carlin,20,20,Running,10,86,,,120.826,104.78,5
+5289,4588,Felix Rosenqvist,7,Arrow McLaren,22,21,Contact,9,62,,,122.121,87.086,4
+5289,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,9,22,Contact,8,25,,,120.878,41.051,2
+5289,4215,Josef Newgarden,2,Team Penske,8,23,Contact,7,0,,,,0.0,0
+5289,3645,Ryan Hunter-Reay,28,Andretti Autosport,17,24,Contact,6,0,,,,0.0,0
+5360,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,1,1,Running,54,100,97,2,105.131,96.552,2
+5360,4215,Josef Newgarden,2,Team Penske,3,2,Running,40,100,,,105.029,96.516,2
+5360,4276,Simon Pagenaud,22,Team Penske,4,3,Running,36,100,1,1,105.108,96.464,2
+5360,4505,Jack Harvey,60,Meyer Shank Racing,2,4,Running,32,100,,,104.675,96.436,2
+5360,3628,Scott Dixon,9,Chip Ganassi Racing,8,5,Running,30,100,,,104.669,96.423,2
+5360,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,15,6,Running,28,100,,,104.682,96.384,2
+5360,4905,Marcus Ericsson,8,Chip Ganassi Racing,16,7,Running,26,100,,,105.013,96.381,2
+5360,3667,Will Power,12,Team Penske,20,8,Running,24,100,,,104.749,96.362,3
+5360,4614,Rinus VeeKay,21,ECR,7,9,Running,22,100,,,104.565,96.355,2
+5360,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,5,10,Running,20,100,,,104.561,96.322,2
+5360,4932,Scott McLaughlin,3,Team Penske,14,11,Running,19,100,,,105.147,96.3,3
+5360,4588,Felix Rosenqvist,7,Arrow McLaren,17,12,Running,18,100,,,104.616,96.286,3
+5360,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,18,13,Running,17,100,,,104.158,96.226,3
+5360,3645,Ryan Hunter-Reay,28,Andretti Autosport,13,14,Running,16,100,,,104.064,96.206,3
+5360,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,9,15,Running,15,100,,,104.462,96.197,3
+5360,4218,Conor Daly,20,ECR,19,16,Running,14,100,,,104.896,95.864,5
+5360,4931,Alex Palou,10,Chip Ganassi Racing,10,17,Running,14,99,2,1,105.44,95.589,2
+5360,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,12,18,Running,12,99,,,104.253,95.2,3
+5360,4559,Pato O'Ward,5,Arrow McLaren,6,19,Running,11,99,,,104.58,95.143,3
+5360,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,21,20,Running,10,99,,,104.008,94.922,5
+5360,4587,Alexander Rossi,27,Andretti Autosport,11,21,Running,9,98,,,104.416,94.233,3
+5360,4934,Jimmie Johnson,48,Chip Ganassi Racing,23,22,Running,8,95,,,103.317,91.016,3
+5360,4416,Dalton Kellett,4,A.J. Foyt Enterprises,24,23,Off Course,7,67,,,103.279,97.901,2
+5360,4558,Max Chilton,59,Carlin,22,24,Mechanical,6,18,,,102.875,76.4,1
+5368,3628,Scott Dixon,9,Chip Ganassi Racing,3,1,Running,53,212,206,2,218.414,173.036,3
+5368,4932,Scott McLaughlin,3,Team Penske,15,2,Running,40,212,,,215.983,173.028,3
+5368,4559,Pato O'Ward,5,Arrow McLaren,11,3,Running,35,212,,,216.819,172.987,3
+5368,4931,Alex Palou,10,Chip Ganassi Racing,1,4,Running,33,212,6,2,216.759,172.958,3
+5368,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,13,5,Running,30,212,,,217.391,172.856,4
+5368,4215,Josef Newgarden,2,Team Penske,10,6,Running,28,212,,,215.861,172.821,3
+5368,4505,Jack Harvey,60,Meyer Shank Racing,6,7,Running,26,212,,,218.437,172.804,3
+5368,4587,Alexander Rossi,27,Andretti Autosport,16,8,Running,24,212,,,217.066,172.775,3
+5368,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,12,9,Running,22,212,,,216.864,172.762,4
+5368,4276,Simon Pagenaud,22,Team Penske,5,10,Running,20,212,,,215.933,172.752,3
+5368,3648,Tony Kanaan,48,Chip Ganassi Racing,23,11,Running,19,212,,,216.843,172.709,3
+5368,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,19,12,Running,18,212,,,215.208,172.694,3
+5368,4588,Felix Rosenqvist,7,Arrow McLaren,18,13,Running,17,212,,,217.364,172.684,3
+5368,3667,Will Power,12,Team Penske,2,14,Running,16,212,,,215.576,172.645,3
+5368,4882,Pietro Fittipaldi,51,Dale Coyne Racing with RWR,14,15,Running,15,212,,,214.811,172.626,3
+5368,3645,Ryan Hunter-Reay,28,Andretti Autosport,21,16,Running,14,212,,,218.005,172.56,3
+5368,3620,Ed Carpenter,20,ECR,17,17,Running,13,212,,,216.009,172.495,3
+5368,4416,Dalton Kellett,4,A.J. Foyt Enterprises,22,18,Running,12,212,,,213.545,172.385,3
+5368,4905,Marcus Ericsson,8,Chip Ganassi Racing,9,19,Running,11,211,,,219.098,171.797,3
+5368,4614,Rinus VeeKay,21,ECR,8,20,Running,10,211,,,214.886,171.658,3
+5368,4218,Conor Daly,59,Carlin,24,21,Running,9,211,,,214.394,171.535,3
+5368,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,4,22,Mechanical,8,190,,,216.629,168.649,3
+5368,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,20,23,Contact,7,158,,,213.93,179.981,2
+5368,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,7,24,Contact,6,55,,,214.471,207.574,0
+5367,4559,Pato O'Ward,5,Arrow McLaren,4,1,Running,51,248,25,2,215.546,169.36,16
+5367,4215,Josef Newgarden,2,Team Penske,6,2,Running,41,248,25,2,214.813,169.332,16
+5367,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,9,3,Running,36,248,13,1,215.948,169.234,16
+5367,3628,Scott Dixon,9,Chip Ganassi Racing,1,4,Running,35,248,163,3,215.895,169.225,16
+5367,4511,Colton Herta,26,Andretti Autosport,10,5,Running,30,248,,,215.384,169.218,16
+5367,4276,Simon Pagenaud,22,Team Penske,8,6,Running,28,248,,,216.274,169.204,16
+5367,4931,Alex Palou,10,Chip Ganassi Racing,2,7,Running,27,248,3,1,217.352,169.174,16
+5367,4932,Scott McLaughlin,3,Team Penske,7,8,Running,24,248,,,214.258,169.095,16
+5367,4614,Rinus VeeKay,21,ECR,12,9,Running,23,248,5,1,215.045,169.077,17
+5367,3645,Ryan Hunter-Reay,28,Andretti Autosport,21,10,Running,20,248,,,214.522,169.035,17
+5367,3620,Ed Carpenter,20,ECR,19,11,Running,20,248,1,1,215.114,169.019,17
+5367,4905,Marcus Ericsson,8,Chip Ganassi Racing,13,12,Running,18,248,,,217.078,169.002,18
+5367,3667,Will Power,12,Team Penske,3,13,Running,18,248,1,1,215.514,168.964,16
+5367,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,11,14,Running,17,247,12,1,216.333,168.26,17
+5367,3648,Tony Kanaan,48,Chip Ganassi Racing,20,15,Running,15,246,,,215.608,167.686,17
+5367,4588,Felix Rosenqvist,7,Arrow McLaren,17,16,Running,14,246,,,216.92,167.63,19
+5367,4505,Jack Harvey,60,Meyer Shank Racing,5,17,Mechanical,13,115,,,215.641,160.655,14
+5367,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,22,18,Mechanical,12,30,,,206.934,43.8,15
+5367,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,14,19,Contact,11,0,,,,0.0,0
+5367,4587,Alexander Rossi,27,Andretti Autosport,15,20,Contact,10,0,,,,0.0,0
+5367,4882,Pietro Fittipaldi,51,Dale Coyne Racing with RWR,16,21,Contact,9,0,,,,0.0,0
+5367,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,18,22,Contact,8,0,,,,0.0,0
+5367,4416,Dalton Kellett,4,A.J. Foyt Enterprises,23,23,Contact,7,0,,,,0.0,0
+5367,4218,Conor Daly,59,Carlin,24,24,Contact,6,0,,,,0.0,0
+5366,4614,Rinus VeeKay,21,ECR,7,1,Running,51,85,33,2,123.883,116.096,3
+5366,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,1,2,Running,44,85,44,3,123.813,116.007,3
+5366,4931,Alex Palou,10,Chip Ganassi Racing,4,3,Running,36,85,1,1,123.535,115.825,3
+5366,4215,Josef Newgarden,2,Team Penske,2,4,Running,32,85,,,123.044,115.764,3
+5366,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,11,5,Running,30,85,,,122.09,115.611,4
+5366,4276,Simon Pagenaud,22,Team Penske,10,6,Running,28,85,,,122.313,115.595,3
+5366,4587,Alexander Rossi,27,Andretti Autosport,14,7,Running,26,85,,,122.433,115.499,3
+5366,4932,Scott McLaughlin,3,Team Penske,5,8,Running,24,85,,,122.438,115.446,3
+5366,3628,Scott Dixon,9,Chip Ganassi Racing,16,9,Running,23,85,3,2,122.444,115.435,4
+5366,4905,Marcus Ericsson,8,Chip Ganassi Racing,15,10,Running,20,85,,,122.778,115.428,3
+5366,3667,Will Power,12,Team Penske,12,11,Running,19,85,,,122.809,115.382,3
+5366,3645,Ryan Hunter-Reay,28,Andretti Autosport,19,12,Running,19,85,4,1,122.367,115.371,3
+5366,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,8,13,Running,17,85,,,122.615,115.323,3
+5366,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,9,14,Running,16,85,,,122.361,115.31,3
+5366,4559,Pato O'Ward,5,Arrow McLaren,18,15,Running,15,85,,,122.247,115.297,4
+5366,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,17,16,Running,14,85,,,122.368,115.289,3
+5366,4588,Felix Rosenqvist,7,Arrow McLaren,13,17,Running,13,85,,,122.719,115.282,3
+5366,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,22,18,Running,12,85,,,122.168,114.931,3
+5366,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,20,19,Running,11,84,,,122.109,114.6,4
+5366,4416,Dalton Kellett,4,A.J. Foyt Enterprises,24,20,Running,10,84,,,122.233,114.41,3
+5366,4002,Juan Pablo Montoya,86,Arrow McLaren,25,21,Running,9,84,,,121.543,114.367,3
+5366,4144,Charlie Kimball,11,A.J. Foyt Enterprises,21,22,Running,8,84,,,121.694,114.3,3
+5366,4505,Jack Harvey,60,Meyer Shank Racing,3,23,Running,7,84,,,123.064,113.57,5
+5366,4934,Jimmie Johnson,48,Chip Ganassi Racing,23,24,Running,6,84,,,120.946,113.492,3
+5366,4218,Conor Daly,20,ECR,6,25,Contact,5,50,,,123.157,81.78,3
+5365,3622,Helio Castroneves,06,Meyer Shank w/ Curb-Agajanian,8,1,Running,103,200,20,7,224.5,190.69,5
+5365,4931,Alex Palou,10,Chip Ganassi Racing,6,2,Running,85,200,35,6,225.931,190.68,5
+5365,4276,Simon Pagenaud,22,Team Penske,26,3,Running,71,200,3,1,224.338,190.679,6
+5365,4559,Pato O'Ward,5,Arrow McLaren,12,4,Running,65,200,17,4,224.345,190.671,5
+5365,3620,Ed Carpenter,20,ECR,4,5,Running,66,200,,,224.283,190.665,5
+5365,4897,Santino Ferrucci,45,Rahal Letterman Lanigan Racing,23,6,Running,57,200,2,1,227.345,190.507,6
+5365,4247,Sage Karam,24,Dreyer & Reinbold Racing,31,7,Running,53,200,2,1,223.965,190.419,5
+5365,4614,Rinus VeeKay,21,ECR,3,8,Running,56,200,32,3,224.537,190.403,5
+5365,4002,Juan Pablo Montoya,86,Arrow McLaren,24,9,Running,44,200,,,225.095,190.39,5
+5365,3648,Tony Kanaan,48,Chip Ganassi Racing,5,10,Running,45,200,,,225.491,190.379,7
+5365,4905,Marcus Ericsson,8,Chip Ganassi Racing,9,11,Running,39,200,,,224.071,190.357,6
+5365,4215,Josef Newgarden,2,Team Penske,21,12,Running,36,200,,,223.357,190.241,5
+5365,4218,Conor Daly,47,ECR,19,13,Running,37,200,40,2,223.549,190.233,5
+5365,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,15,14,Running,33,200,7,2,224.299,190.221,5
+5365,3736,JR Hildebrand,1,A.J. Foyt Enterprises,22,15,Running,30,200,,,223.849,190.216,7
+5365,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,2,16,Running,37,200,13,3,224.083,190.11,5
+5365,3628,Scott Dixon,9,Chip Ganassi Racing,1,17,Running,36,200,7,2,223.468,189.913,6
+5365,4505,Jack Harvey,60,Meyer Shank Racing,20,18,Running,24,200,,,224.719,189.883,6
+5365,3608,Marco Andretti,98,Andretti Herta w/ Marco & Curb-Agajanian,25,19,Running,22,200,,,225.439,189.879,6
+5365,4932,Scott McLaughlin,3,Team Penske,17,20,Running,20,200,,,223.184,189.869,8
+5365,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,16,21,Running,18,200,,,223.553,189.869,5
+5365,3645,Ryan Hunter-Reay,28,Andretti Autosport,7,22,Running,19,200,,,224.39,189.854,6
+5365,4416,Dalton Kellett,4,A.J. Foyt Enterprises,30,23,Running,14,199,,,222.024,189.612,6
+5365,4558,Max Chilton,59,Carlin,29,24,Running,12,199,,,221.87,189.417,8
+5365,4882,Pietro Fittipaldi,51,Dale Coyne Racing with RWR,13,25,Running,10,199,,,222.463,189.308,6
+5365,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,27,26,Running,10,199,,,223.383,189.229,6
+5365,4588,Felix Rosenqvist,7,Arrow McLaren,14,27,Running,11,199,14,2,224.462,189.213,8
+5365,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,11,28,Running,10,199,,,223.667,188.997,6
+5365,4587,Alexander Rossi,27,Andretti Autosport,10,29,Running,10,198,,,223.104,188.358,10
+5365,3667,Will Power,12,Team Penske,32,30,Running,10,197,,,225.053,187.554,6
+5365,3813,Simona De Silvestro,16,Paretta Autosport,33,31,Contact,10,169,,,222.571,179.592,4
+5365,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,18,32,Contact,11,118,8,2,223.846,189.894,3
+5365,3803,Stefan Wilson,25,Andretti Autosport,28,33,Contact,10,32,,,219.997,215.08,1
+5287,4905,Marcus Ericsson,8,Chip Ganassi Racing,15,1,Running,51,70,5,1,109.584,93.509,4
+5287,4614,Rinus VeeKay,21,ECR,12,2,Running,40,70,,,109.404,93.483,5
+5287,4559,Pato O'Ward,5,Arrow McLaren,1,3,Running,37,70,3,2,109.647,93.48,5
+5287,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,16,4,Running,32,70,,,109.652,93.388,4
+5287,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,20,5,Running,31,70,4,1,109.184,93.369,4
+5287,4897,Santino Ferrucci,45,Rahal Letterman Lanigan Racing,21,6,Running,28,70,,,109.09,93.367,4
+5287,4587,Alexander Rossi,27,Andretti Autosport,2,7,Running,27,70,2,1,108.918,93.356,5
+5287,3628,Scott Dixon,9,Chip Ganassi Racing,11,8,Running,25,70,16,1,109.81,93.348,4
+5287,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,4,9,Running,23,70,2,1,109.322,93.333,4
+5287,4215,Josef Newgarden,2,Team Penske,5,10,Running,20,70,,,110.381,93.324,6
+5287,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,10,11,Running,19,70,,,109.168,93.308,5
+5287,4276,Simon Pagenaud,22,Team Penske,9,12,Running,18,70,,,109.519,93.305,4
+5287,4218,Conor Daly,20,ECR,17,13,Running,17,70,,,108.698,93.291,5
+5287,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,6,14,Running,16,70,,,109.211,93.272,5
+5287,4931,Alex Palou,10,Chip Ganassi Racing,25,15,Running,15,70,,,108.966,93.254,4
+5287,4505,Jack Harvey,60,Meyer Shank Racing,19,16,Running,14,70,,,108.995,93.239,5
+5287,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,13,17,Running,13,70,,,108.932,93.229,4
+5287,4416,Dalton Kellett,4,A.J. Foyt Enterprises,24,18,Running,12,69,,,106.434,91.838,4
+5287,4932,Scott McLaughlin,3,Team Penske,23,19,Running,11,67,,,108.123,89.197,8
+5287,3667,Will Power,12,Team Penske,7,20,Running,13,67,37,3,110.05,88.954,10
+5287,3645,Ryan Hunter-Reay,28,Andretti Autosport,8,21,Running,9,65,,,109.724,86.566,6
+5287,4558,Max Chilton,59,Carlin,18,22,Running,8,65,,,108.257,86.554,5
+5287,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,3,23,Contact,8,63,1,1,108.92,96.122,5
+5287,4934,Jimmie Johnson,48,Chip Ganassi Racing,22,24,Mechanical,6,49,,,107.678,66.159,4
+5287,4588,Felix Rosenqvist,7,Arrow McLaren,14,25,Contact,5,23,,,108.111,103.04,1
+5288,4559,Pato O'Ward,5,Arrow McLaren,16,1,Running,51,70,3,1,109.729,97.227,2
+5288,4215,Josef Newgarden,2,Team Penske,1,2,Running,44,70,67,1,110.666,97.12,2
+5288,4931,Alex Palou,10,Chip Ganassi Racing,4,3,Running,35,70,,,110.732,97.117,2
+5288,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,2,4,Running,32,70,,,110.815,97.115,2
+5288,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,9,5,Running,30,70,,,110.302,97.105,2
+5288,3667,Will Power,12,Team Penske,20,6,Running,28,70,,,110.407,97.093,2
+5288,3628,Scott Dixon,9,Chip Ganassi Racing,6,7,Running,26,70,,,110.719,97.087,2
+5288,4276,Simon Pagenaud,22,Team Penske,10,8,Running,24,70,,,109.562,97.083,2
+5288,4905,Marcus Ericsson,8,Chip Ganassi Racing,22,9,Running,22,70,,,110.022,97.076,3
+5288,4897,Santino Ferrucci,45,Rahal Letterman Lanigan Racing,12,10,Running,20,70,,,109.228,97.057,2
+5288,3645,Ryan Hunter-Reay,28,Andretti Autosport,17,11,Running,19,70,,,109.669,97.052,2
+5288,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,19,12,Running,18,70,,,109.715,97.043,3
+5288,4587,Alexander Rossi,27,Andretti Autosport,7,13,Running,17,70,,,109.252,97.001,2
+5288,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,14,14,Running,16,70,,,109.546,96.989,2
+5288,4218,Conor Daly,20,ECR,8,15,Running,15,70,,,109.867,96.986,3
+5288,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,13,16,Running,14,70,,,109.218,96.984,3
+5288,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,11,17,Running,13,70,,,108.729,96.971,3
+5288,4614,Rinus VeeKay,21,ECR,3,18,Running,12,70,,,109.886,96.959,4
+5288,4505,Jack Harvey,60,Meyer Shank Racing,18,19,Running,11,69,,,109.734,95.559,5
+5288,4932,Scott McLaughlin,3,Team Penske,21,20,Running,10,69,,,109.231,95.449,4
+5288,4934,Jimmie Johnson,48,Chip Ganassi Racing,25,21,Running,9,69,,,108.998,95.31,4
+5288,4558,Max Chilton,59,Carlin,15,22,Running,8,68,,,109.446,94.144,5
+5288,4416,Dalton Kellett,4,A.J. Foyt Enterprises,24,23,Running,7,61,,,108.58,84.413,4
+5288,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,5,24,Mechanical,6,57,,,110.034,97.218,5
+5288,4616,Oliver Askew,7,Arrow McLaren,23,25,Mechanical,5,46,,,109.459,100.095,4
+5369,4931,Alex Palou,10,Chip Ganassi Racing,5,1,Running,51,55,5,3,133.103,119.424,3
+5369,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,2,2,Running,40,55,,,132.592,119.39,3
+5369,3667,Will Power,12,Team Penske,4,3,Running,35,55,,,132.223,119.37,3
+5369,3628,Scott Dixon,9,Chip Ganassi Racing,13,4,Running,33,55,1,1,132.488,119.354,3
+5369,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,7,5,Running,30,55,,,132.562,119.339,3
+5369,4905,Marcus Ericsson,8,Chip Ganassi Racing,18,6,Running,28,55,,,132.597,119.331,3
+5369,4587,Alexander Rossi,27,Andretti Autosport,9,7,Running,26,55,,,132.015,119.285,3
+5369,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,20,8,Running,25,55,2,1,131.697,119.282,4
+5369,4559,Pato O'Ward,5,Arrow McLaren,10,9,Running,22,55,,,132.273,119.262,3
+5369,4558,Max Chilton,59,Carlin,22,10,Running,21,55,7,1,132.044,119.256,4
+5369,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,14,11,Running,19,55,,,132.091,119.248,3
+5369,4616,Oliver Askew,21,ECR,16,12,Running,19,55,2,1,131.544,119.221,4
+5369,3645,Ryan Hunter-Reay,28,Andretti Autosport,8,13,Running,17,55,,,132.195,119.21,3
+5369,4932,Scott McLaughlin,3,Team Penske,17,14,Running,16,55,,,131.706,119.205,3
+5369,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,19,15,Running,15,55,,,132.257,119.174,3
+5369,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,11,16,Running,14,55,,,132.237,119.171,5
+5369,4505,Jack Harvey,60,Meyer Shank Racing,3,17,Running,13,55,,,132.4,119.145,3
+5369,4276,Simon Pagenaud,22,Team Penske,6,18,Running,12,55,,,131.763,119.129,4
+5369,4936,Cody Ware,52,Dale Coyne Racing with RWR,25,19,Running,11,55,,,131.03,119.12,3
+5369,4218,Conor Daly,20,ECR,15,20,Running,10,55,,,131.302,119.11,3
+5369,4215,Josef Newgarden,2,Team Penske,1,21,Running,13,55,32,4,132.99,117.817,3
+5369,4934,Jimmie Johnson,48,Chip Ganassi Racing,23,22,Running,8,54,,,130.851,116.953,4
+5369,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,12,23,Off Course,7,50,,,131.814,119.502,3
+5369,4937,Kevin Magnussen,7,Arrow McLaren,21,24,Off Course,7,33,6,1,131.358,119.018,3
+5369,4416,Dalton Kellett,4,A.J. Foyt Enterprises,24,25,Mechanical,5,19,,,130.431,104.854,2
+5363,4215,Josef Newgarden,2,Team Penske,1,1,Running,54,80,73,3,117.828,108.405,2
+5363,4905,Marcus Ericsson,8,Chip Ganassi Racing,3,2,Running,41,80,2,1,117.097,108.389,2
+5363,4931,Alex Palou,10,Chip Ganassi Racing,7,3,Running,35,80,,,116.891,108.004,2
+5363,3628,Scott Dixon,9,Chip Ganassi Racing,5,4,Running,32,80,,,116.808,107.823,2
+5363,4587,Alexander Rossi,27,Andretti Autosport,6,5,Running,30,80,,,117.017,107.809,2
+5363,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,8,6,Running,28,80,,,117.228,107.792,2
+5363,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,18,7,Running,26,80,,,116.856,107.773,2
+5363,4559,Pato O'Ward,5,Arrow McLaren,20,8,Running,24,80,,,116.878,107.763,2
+5363,4897,Santino Ferrucci,45,Rahal Letterman Lanigan Racing,22,9,Running,22,80,,,116.89,107.758,2
+5363,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,19,10,Running,20,80,,,116.604,107.503,2
+5363,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,12,11,Running,19,80,,,116.301,107.473,2
+5363,4932,Scott McLaughlin,3,Team Penske,14,12,Running,18,80,,,116.389,107.466,2
+5363,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,2,13,Running,18,80,5,2,117.598,107.387,3
+5363,4276,Simon Pagenaud,22,Team Penske,15,14,Running,16,80,,,116.145,107.36,2
+5363,4218,Conor Daly,20,ECR,24,15,Running,15,80,,,116.872,107.352,2
+5363,4614,Rinus VeeKay,21,ECR,11,16,Running,14,80,,,116.197,107.338,2
+5363,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,9,17,Running,13,80,,,117.291,107.198,3
+5363,4558,Max Chilton,59,Carlin,17,18,Running,12,80,,,116.726,107.189,3
+5363,4505,Jack Harvey,60,Meyer Shank Racing,23,19,Running,11,80,,,118.264,107.181,3
+5363,4611,Ryan Norman,52,Dale Coyne Racing with RWR,26,20,Running,10,79,,,116.636,106.553,3
+5363,4416,Dalton Kellett,4,A.J. Foyt Enterprises,21,21,Running,9,79,,,116.303,106.265,2
+5363,4934,Jimmie Johnson,48,Chip Ganassi Racing,25,22,Running,8,79,,,115.541,105.875,4
+5363,4588,Felix Rosenqvist,7,Arrow McLaren,13,23,Running,7,78,,,118.042,105.009,5
+5363,3645,Ryan Hunter-Reay,28,Andretti Autosport,10,24,Running,6,78,,,117.426,104.492,4
+5363,3667,Will Power,12,Team Penske,4,25,Contact,5,3,,,82.496,71.483,0
+5363,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,16,26,Contact,5,3,,,84.354,70.754,0
+5362,4905,Marcus Ericsson,8,Chip Ganassi Racing,18,1,Running,51,80,37,2,98.627,72.607,7
+5362,3628,Scott Dixon,9,Chip Ganassi Racing,2,2,Running,40,80,,,98.369,72.593,4
+5362,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,10,3,Running,35,80,,,97.642,72.586,4
+5362,3645,Ryan Hunter-Reay,28,Andretti Autosport,14,4,Running,32,80,,,97.595,72.582,4
+5362,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,13,5,Running,30,80,,,97.702,72.571,4
+5362,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,26,6,Running,28,80,,,97.221,72.565,5
+5362,4931,Alex Palou,10,Chip Ganassi Racing,9,7,Running,26,80,,,97.391,72.558,4
+5362,4588,Felix Rosenqvist,7,Arrow McLaren,4,8,Running,24,80,,,97.707,72.555,4
+5362,3622,Helio Castroneves,06,Meyer Shank Racing,15,9,Running,22,80,,,97.247,72.547,4
+5362,4215,Josef Newgarden,2,Team Penske,12,10,Running,20,80,,,97.808,72.541,4
+5362,4897,Santino Ferrucci,45,Rahal Letterman Lanigan Racing,17,11,Running,19,80,,,97.378,72.533,6
+5362,4218,Conor Daly,20,ECR,20,12,Running,18,80,,,97.179,72.53,4
+5362,4559,Pato O'Ward,5,Arrow McLaren,8,13,Running,17,80,,,98.907,72.527,7
+5362,3667,Will Power,12,Team Penske,11,14,Running,16,80,,,97.629,72.523,6
+5362,4505,Jack Harvey,60,Meyer Shank Racing,6,15,Running,15,80,,,97.957,72.51,4
+5362,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,5,16,Running,15,80,4,1,97.984,72.5,5
+5362,4587,Alexander Rossi,27,Andretti Autosport,3,17,Running,13,80,,,98.616,72.463,5
+5362,4558,Max Chilton,59,Carlin,21,18,Running,12,80,,,96.563,72.391,8
+5362,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,1,19,Contact,15,74,39,2,99.074,72.913,3
+5362,4936,Cody Ware,52,Dale Coyne Racing with RWR,27,20,Contact,10,70,,,95.368,70.14,3
+5362,4276,Simon Pagenaud,22,Team Penske,7,21,Contact,9,68,,,97.276,68.731,3
+5362,4932,Scott McLaughlin,3,Team Penske,23,22,Running,8,67,,,98.379,60.693,6
+5362,4416,Dalton Kellett,4,A.J. Foyt Enterprises,19,23,Contact,7,37,,,96.382,64.371,5
+5362,4614,Rinus VeeKay,21,ECR,22,24,Contact,6,24,,,96.801,34.578,2
+5362,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,24,25,Contact,5,19,,,96.809,62.282,0
+5362,4934,Jimmie Johnson,48,Chip Ganassi Racing,25,26,Contact,5,18,,,96.091,71.296,1
+5362,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,16,27,Contact,5,5,,,69.329,30.503,0
+5364,3667,Will Power,12,Team Penske,2,1,Running,53,85,56,3,122.474,113.458,3
+5364,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,3,2,Running,40,85,,,120.96,113.438,3
+5364,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,5,3,Running,36,85,2,2,121.222,113.417,3
+5364,4587,Alexander Rossi,27,Andretti Autosport,10,4,Running,32,85,,,121.198,113.398,3
+5364,4559,Pato O'Ward,5,Arrow McLaren,1,5,Running,32,85,16,2,120.908,113.387,3
+5364,4505,Jack Harvey,60,Meyer Shank Racing,7,6,Running,28,85,,,121.28,113.366,3
+5364,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,16,7,Running,26,85,,,121.173,113.357,3
+5364,4215,Josef Newgarden,2,Team Penske,20,8,Running,25,85,2,1,120.771,113.35,3
+5364,4905,Marcus Ericsson,8,Chip Ganassi Racing,11,9,Running,22,85,,,121.189,113.337,3
+5364,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,15,10,Running,20,85,,,120.98,113.321,3
+5364,4218,Conor Daly,20,ECR,8,11,Running,19,85,,,121.331,113.297,3
+5364,4938,Christian Lundgaard,45,Rahal Letterman Lanigan Racing,4,12,Running,19,85,2,1,120.495,113.288,3
+5364,4588,Felix Rosenqvist,7,Arrow McLaren,19,13,Running,17,85,,,120.81,113.275,3
+5364,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,17,14,Running,16,85,,,120.824,113.249,3
+5364,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,14,15,Running,15,85,,,120.628,113.241,3
+5364,4276,Simon Pagenaud,22,Team Penske,12,16,Running,15,85,7,3,120.734,113.175,3
+5364,3628,Scott Dixon,9,Chip Ganassi Racing,26,17,Running,13,85,,,120.907,113.162,3
+5364,3645,Ryan Hunter-Reay,28,Andretti Autosport,13,18,Running,12,85,,,121.017,113.16,3
+5364,4934,Jimmie Johnson,48,Chip Ganassi Racing,22,19,Running,11,85,,,120.775,113.145,3
+5364,4558,Max Chilton,59,Carlin,18,20,Running,10,85,,,120.207,113.135,3
+5364,3622,Helio Castroneves,06,Meyer Shank Racing,23,21,Running,9,85,,,120.511,113.122,3
+5364,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,24,22,Running,8,85,,,120.099,113.099,3
+5364,4932,Scott McLaughlin,3,Team Penske,21,23,Running,7,85,,,120.661,113.096,3
+5364,4614,Rinus VeeKay,21,ECR,9,24,Running,6,85,,,121.169,113.071,3
+5364,4936,Cody Ware,52,Dale Coyne Racing with RWR,27,25,Running,5,83,,,118.833,110.345,4
+5364,4416,Dalton Kellett,4,A.J. Foyt Enterprises,28,26,Running,5,81,,,117.951,107.56,4
+5364,4931,Alex Palou,10,Chip Ganassi Racing,6,27,Mechanical,5,67,,,121.768,117.063,3
+5364,4442,RC Enerson,75,Top Gun Racing,25,28,Mechanical,5,12,,,117.579,66.262,2
+5361,4215,Josef Newgarden,2,Team Penske,3,1,Running,53,260,138,4,172.854,135.245,3
+5361,4559,Pato O'Ward,5,Arrow McLaren,5,2,Running,41,260,1,1,173.117,135.237,3
+5361,3667,Will Power,12,Team Penske,1,3,Running,37,260,1,1,172.364,135.154,3
+5361,4932,Scott McLaughlin,3,Team Penske,11,4,Running,32,260,,,172.201,135.141,3
+5361,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,18,5,Running,31,260,18,3,171.346,135.124,4
+5361,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,16,6,Running,28,260,,,174.42,135.116,4
+5361,3645,Ryan Hunter-Reay,28,Andretti Autosport,13,7,Running,26,260,,,172.306,135.026,4
+5361,4276,Simon Pagenaud,22,Team Penske,4,8,Running,25,260,1,1,171.04,135.003,7
+5361,4905,Marcus Ericsson,8,Chip Ganassi Racing,6,9,Running,22,260,,,170.834,134.953,3
+5361,4505,Jack Harvey,60,Meyer Shank Racing,15,10,Running,20,260,,,170.93,134.932,3
+5361,4218,Conor Daly,59,Carlin,20,11,Running,19,260,,,172.533,134.901,4
+5361,4416,Dalton Kellett,4,A.J. Foyt Enterprises,24,12,Running,18,260,,,170.813,134.863,5
+5361,3648,Tony Kanaan,48,Chip Ganassi Racing,17,13,Running,17,260,,,171.255,134.827,4
+5361,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,14,14,Running,16,259,,,172.59,134.615,4
+5361,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,19,15,Running,15,243,,,171.768,129.615,8
+5361,4588,Felix Rosenqvist,7,Arrow McLaren,10,16,Mechanical,14,211,,,170.045,124.804,4
+5361,4587,Alexander Rossi,27,Andretti Autosport,7,17,Contact,13,200,,,172.711,132.686,3
+5361,4511,Colton Herta,26,Andretti Autosport,2,18,Mechanical,13,185,101,2,172.621,130.572,3
+5361,3628,Scott Dixon,9,Chip Ganassi Racing,8,19,Contact,11,100,,,170.456,66.236,2
+5361,4931,Alex Palou,10,Chip Ganassi Racing,21,20,Contact,10,64,,,169.166,110.382,1
+5361,4614,Rinus VeeKay,21,ECR,23,21,Contact,9,64,,,170.01,110.379,1
+5361,3620,Ed Carpenter,20,ECR,22,22,Contact,8,54,,,167.715,116.386,2
+5361,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,9,23,Contact,7,4,,,161.454,34.254,1
+5361,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,12,24,Contact,6,2,,,160.697,155.793,0
+5296,4931,Alex Palou,10,Chip Ganassi Racing,1,1,Running,52,110,29,3,117.19,102.011,3
+5296,4587,Alexander Rossi,27,Andretti Autosport,2,2,Running,40,110,,,117.134,101.994,3
+5296,3628,Scott Dixon,9,Chip Ganassi Racing,3,3,Running,36,110,4,2,117.29,101.951,3
+5296,4505,Jack Harvey,60,Meyer Shank Racing,20,4,Running,33,110,5,2,116.583,101.901,2
+5296,4215,Josef Newgarden,2,Team Penske,18,5,Running,30,110,,,116.509,101.891,2
+5296,4588,Felix Rosenqvist,7,Arrow McLaren,4,6,Running,28,110,,,116.564,101.886,3
+5296,4905,Marcus Ericsson,8,Chip Ganassi Racing,10,7,Running,27,110,1,1,116.244,101.873,3
+5296,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,6,8,Running,24,110,,,116.454,101.847,3
+5296,4932,Scott McLaughlin,3,Team Penske,15,9,Running,23,110,5,1,117.733,101.825,3
+5296,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,5,10,Running,23,110,36,2,116.66,101.777,2
+5296,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,8,11,Running,20,110,2,1,116.136,101.768,2
+5296,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,26,12,Running,18,110,,,115.821,101.761,2
+5296,3667,Will Power,12,Team Penske,14,13,Running,17,110,,,116.764,101.746,7
+5296,4559,Pato O'Ward,5,Arrow McLaren,7,14,Running,17,110,28,1,116.678,101.733,3
+5296,3645,Ryan Hunter-Reay,28,Andretti Autosport,27,15,Running,15,110,,,117.199,101.67,3
+5296,4218,Conor Daly,20,ECR,16,16,Running,14,110,,,116.799,101.646,3
+5296,4614,Rinus VeeKay,21,ECR,25,17,Running,13,110,,,117.822,101.585,3
+5296,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,12,18,Running,12,110,,,116.732,101.579,3
+5296,4558,Max Chilton,59,Carlin,11,19,Running,11,110,,,116.768,101.567,3
+5296,4934,Jimmie Johnson,48,Chip Ganassi Racing,22,20,Running,10,110,,,116.497,101.562,4
+5296,4276,Simon Pagenaud,22,Team Penske,23,21,Running,9,109,,,117.199,100.617,3
+5296,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,21,22,Running,8,95,,,118.954,87.703,5
+5296,3622,Helio Castroneves,06,Meyer Shank Racing,17,23,Running,7,91,,,117.952,83.936,4
+5296,4616,Oliver Askew,45,Rahal Letterman Lanigan Racing,9,24,Contact,6,89,,,115.764,100.48,3
+5296,4939,Callum Ilott,77,Juncos Hollinger Racing,19,25,Mechanical,5,77,,,116.87,79.353,4
+5296,4416,Dalton Kellett,4,A.J. Foyt Enterprises,24,26,Mechanical,5,50,,,116.362,99.23,1
+5296,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,13,27,Contact,5,1,,,,1.79,0
+5354,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,1,1,Running,54,95,91,3,109.479,104.114,3
+5354,4931,Alex Palou,10,Chip Ganassi Racing,4,2,Running,40,95,,,110.21,104.086,3
+5354,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,13,3,Running,36,95,4,2,109.562,104.061,3
+5354,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,12,4,Running,32,95,,,108.67,103.918,3
+5354,4559,Pato O'Ward,5,Arrow McLaren,6,5,Running,30,95,,,108.969,103.765,3
+5354,4905,Marcus Ericsson,8,Chip Ganassi Racing,7,6,Running,28,95,,,108.925,103.712,3
+5354,4215,Josef Newgarden,2,Team Penske,17,7,Running,26,95,,,110.242,103.694,4
+5354,4276,Simon Pagenaud,22,Team Penske,9,8,Running,24,95,,,108.643,103.685,3
+5354,4616,Oliver Askew,45,Rahal Letterman Lanigan Racing,5,9,Running,22,95,,,108.262,103.656,3
+5354,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,14,10,Running,20,95,,,107.794,103.438,3
+5354,3645,Ryan Hunter-Reay,28,Andretti Autosport,19,11,Running,19,95,,,109.056,103.171,3
+5354,4932,Scott McLaughlin,3,Team Penske,16,12,Running,18,95,,,109.126,103.083,3
+5354,3628,Scott Dixon,9,Chip Ganassi Racing,8,13,Running,17,95,,,108.662,103.043,3
+5354,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,21,14,Running,16,94,,,107.112,102.892,3
+5354,4505,Jack Harvey,60,Meyer Shank Racing,20,15,Running,15,94,,,107.893,102.854,3
+5354,4218,Conor Daly,20,ECR,18,16,Running,14,94,,,108.344,102.849,3
+5354,4934,Jimmie Johnson,48,Chip Ganassi Racing,25,17,Running,13,94,,,108.49,102.774,4
+5354,4614,Rinus VeeKay,21,ECR,24,18,Running,12,94,,,109.632,102.695,5
+5354,4588,Felix Rosenqvist,7,Arrow McLaren,15,19,Running,11,94,,,108.645,102.651,4
+5354,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,11,20,Running,10,94,,,108.375,102.588,4
+5354,4558,Max Chilton,59,Carlin,10,21,Running,9,94,,,108.2,102.561,4
+5354,4939,Callum Ilott,77,Juncos Hollinger Racing,26,22,Running,8,94,,,108.485,102.341,5
+5354,4416,Dalton Kellett,4,A.J. Foyt Enterprises,27,23,Running,7,94,,,108.572,102.217,3
+5354,3622,Helio Castroneves,06,Meyer Shank Racing,22,24,Running,6,94,,,109.055,102.209,4
+5354,4587,Alexander Rossi,27,Andretti Autosport,2,25,Running,5,93,,,107.208,101.797,3
+5354,3667,Will Power,12,Team Penske,3,26,Running,5,93,,,109.089,100.988,3
+5354,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,23,27,Mechanical,5,83,,,108.107,94.414,4
+5283,4511,Colton Herta,26,Andretti Global w/ Curb-Agajanian,14,1,Running,53,85,43,2,101.813,91.935,2
+5283,4215,Josef Newgarden,2,Team Penske,1,2,Running,42,85,18,1,101.673,91.927,2
+5283,3628,Scott Dixon,9,Chip Ganassi Racing,2,3,Running,36,85,1,1,101.58,91.92,2
+5283,4931,Alex Palou,10,Chip Ganassi Racing,10,4,Running,32,85,,,101.618,91.901,2
+5283,4276,Simon Pagenaud,22,Team Penske,4,5,Running,30,85,,,101.804,91.891,2
+5283,4587,Alexander Rossi,27,Andretti Autosport,15,6,Running,28,85,,,101.358,91.869,2
+5283,4505,Jack Harvey,60,Meyer Shank Racing,25,7,Running,27,85,1,1,101.449,91.846,2
+5283,4021,Sebastien Bourdais,14,A.J. Foyt Enterprises,22,8,Running,24,85,,,101.288,91.822,2
+5283,3811,Takuma Sato,30,Rahal Letterman Lanigan Racing,16,9,Running,22,85,,,101.297,91.786,2
+5283,3667,Will Power,12,Team Penske,12,10,Running,20,85,,,101.529,91.775,2
+5283,4932,Scott McLaughlin,3,Team Penske,13,11,Running,19,85,,,102.018,91.762,2
+5283,4542,Ed Jones,18,Dale Coyne Racing with Vasser-Sullivan,9,12,Running,18,85,,,100.972,91.558,3
+5283,4588,Felix Rosenqvist,7,Arrow McLaren,5,13,Running,17,85,,,101.535,91.552,2
+5283,4216,James Hinchcliffe,29,Andretti Steinbrenner Autosport,7,14,Running,16,85,,,100.902,91.544,2
+5283,4558,Max Chilton,59,Carlin,23,15,Running,15,85,,,100.758,91.515,3
+5283,3668,Graham Rahal,15,Rahal Letterman Lanigan Racing,19,16,Running,15,85,4,1,102.09,91.511,3
+5283,4934,Jimmie Johnson,48,Chip Ganassi Racing,27,17,Running,13,85,,,100.551,91.5,3
+5283,4144,Charlie Kimball,11,A.J. Foyt Enterprises,20,18,Running,12,85,,,100.809,91.486,2
+5283,4416,Dalton Kellett,4,A.J. Foyt Enterprises,26,19,Running,11,85,,,100.815,91.486,2
+5283,3622,Helio Castroneves,06,Meyer Shank Racing,3,20,Running,11,85,15,1,101.832,91.479,2
+5283,4218,Conor Daly,20,ECR,21,21,Running,9,84,,,101.907,90.174,3
+5283,4616,Oliver Askew,45,Rahal Letterman Lanigan Racing,28,22,Running,9,83,3,1,100.896,89.276,5
+5283,3645,Ryan Hunter-Reay,28,Andretti Autosport,11,23,Running,7,83,,,101.658,89.221,5
+5283,4935,Romain Grosjean,51,Dale Coyne Racing with RWR,6,24,Contact,6,75,,,101.622,86.993,3
+5283,4614,Rinus VeeKay,21,ECR,24,25,Mechanical,5,48,,,100.155,57.919,2
+5283,4939,Callum Ilott,77,Juncos Hollinger Racing,18,26,Mechanical,5,47,,,100.488,79.963,1
+5283,4559,Pato O'Ward,5,Arrow McLaren,8,27,Contact,5,43,,,102.469,50.573,3
+5283,4905,Marcus Ericsson,8,Chip Ganassi Racing,17,28,Contact,5,25,,,100.609,87.878,1

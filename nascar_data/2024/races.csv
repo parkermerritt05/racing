@@ -1,0 +1,42 @@
+race_id,name,date,track,track_miles,scheduled_laps,scheduled_miles,actual_laps,actual_miles,points_race,caution_laps
+5428,2024 Cup Series NASCAR Cup Series Championship,2024-11-10T15:00:00-08:00,Phoenix Raceway,1.00,312,312,312,312,True,33
+5427,2024 Cup Series XFINITY 500,2024-11-03T14:00:00-08:00,Martinsville Speedway,0.53,500,263,500,263,True,66
+5426,2024 Cup Series Straight Talk Wireless 400,2024-10-27T14:30:00-07:00,Homestead-Miami Speedway,1.50,267,400,267,400,True,30
+5425,2024 Cup Series South Point 400,2024-10-20T14:30:00-07:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,32
+5424,2024 Cup Series Bank of America ROVAL 400,2024-10-13T14:00:00-07:00,Charlotte Motor Speedway Road Course,2.32,109,252,109,252,True,13
+5423,2024 Cup Series YellaWood 500,2024-10-06T14:00:00-07:00,Talladega Superspeedway,2.66,188,500,195,518,True,24
+5420,2024 Cup Series Hollywood Casino 400 Presented by ESPN Bet,2024-09-29T15:00:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,47
+5421,2024 Cup Series Bass Pro Shops Night Race,2024-09-21T19:00:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,36
+5417,2024 Cup Series Go Bowling at The Glen,2024-09-15T15:00:00-07:00,Watkins Glen International,2.45,90,220,92,225,True,21
+5411,2024 Cup Series Quaker State 400 Available at Walmart,2024-09-08T15:00:00-07:00,Atlanta Motor Speedway,1.54,260,400,266,409,True,44
+5419,2024 Cup Series Cook Out Southern 500,2024-09-01T18:00:00-07:00,Darlington Raceway,1.37,367,501,367,501,True,39
+5418,2024 Cup Series Coke Zero Sugar 400,2024-08-24T19:30:00-07:00,Daytona International Speedway,2.50,160,400,164,410,True,34
+5415,2024 Cup Series FireKeepers Casino 400,2024-08-18T14:30:00-07:00,Michigan International Speedway,2.00,200,400,206,412,True,41
+5414,2024 Cup Series Cook Out 400,2024-08-11T18:00:00-07:00,Richmond Raceway,0.75,400,300,408,306,True,26
+5416,2024 Cup Series Brickyard 400 Presented by PPG,2024-07-21T14:30:00-07:00,Indianapolis Motor Speedway,2.50,160,400,167,417,True,34
+5413,2024 Cup Series The Great American Getaway 400 Presented by VisitPA.com,2024-07-14T14:30:00-07:00,Pocono Raceway,2.50,160,400,160,400,True,34
+5410,2024 Cup Series Grant Park 165,2024-07-07T16:30:00-07:00,Chicago Street Race,2.20,75,165,58,127,True,19
+5409,2024 Cup Series Ally 400,2024-06-30T15:30:00-07:00,Nashville Superspeedway,1.33,300,399,331,440,True,79
+5412,2024 Cup Series USA TODAY 301,2024-06-23T14:30:00-07:00,New Hampshire Motor Speedway,1.06,301,318,305,322,True,85
+5386,2024 Cup Series Iowa Corn 350 Powered by Ethanol,2024-06-16T19:00:00-07:00,Iowa Speedway,0.88,350,306,350,306,True,49
+5408,2024 Cup Series Toyota / Save Mart 350,2024-06-09T15:30:00-07:00,Sonoma Raceway,1.99,110,218,110,218,True,22
+5407,2024 Cup Series Enjoy Illinois 300,2024-06-02T15:30:00-07:00,World Wide Technology Raceway,1.25,240,300,240,300,True,32
+5406,2024 Cup Series Coca-Cola 600,2024-05-26T18:00:00-07:00,Charlotte Motor Speedway,1.50,400,600,249,373,True,46
+5405,2024 Cup Series NASCAR All-Star Race,2024-05-19T20:00:00-07:00,North Wilkesboro Speedway,0.63,200,125,200,125,True,27
+5404,2024 Cup Series NASCAR All-Star Open,2024-05-19T17:30:00-07:00,North Wilkesboro Speedway,0.63,100,62,100,62,True,11
+5401,2024 Cup Series Goodyear 400,2024-05-12T15:00:00-07:00,Darlington Raceway,1.37,293,400,293,400,True,38
+5400,2024 Cup Series AdventHealth 400,2024-05-05T15:00:00-07:00,Kansas Speedway,1.50,267,400,268,402,True,43
+5399,2024 Cup Series Würth 400,2024-04-28T14:00:00-07:00,Dover Motor Speedway,1.00,400,400,400,400,True,42
+5398,2024 Cup Series GEICO 500,2024-04-21T15:00:00-07:00,Talladega Superspeedway,2.66,188,500,188,500,True,21
+5422,2024 Cup Series Autotrader EchoPark Automotive 400,2024-04-14T15:30:00-07:00,Texas Motor Speedway,1.50,267,400,276,414,True,72
+5397,2024 Cup Series Cook Out 400,2024-04-07T15:00:00-07:00,Martinsville Speedway,0.53,400,210,415,218,True,51
+5391,2024 Cup Series Toyota Owners 400,2024-03-31T19:00:00-07:00,Richmond Raceway,0.75,400,300,407,305,True,54
+5390,2024 Cup Series EchoPark Automotive Grand Prix,2024-03-24T15:30:00-07:00,Circuit of The Americas,3.41,68,231,68,232,True,4
+5392,2024 Cup Series Food City 500,2024-03-17T15:30:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,98
+5388,2024 Cup Series Shriners Children’s 500,2024-03-10T15:30:00-07:00,Phoenix Raceway,1.00,312,312,312,312,True,40
+5387,2024 Cup Series Pennzoil 400 presented by Jiffy Lube,2024-03-03T15:30:00-08:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,35
+5389,2024 Cup Series Ambetter Health 400,2024-02-25T15:00:00-08:00,Atlanta Motor Speedway,1.54,260,400,260,400,True,65
+5385,2024 Cup Series DAYTONA 500,2024-02-19T16:00:00-08:00,Daytona International Speedway,2.50,200,500,199,500,True,20
+5383,2024 Cup Series Bluegreen Vacations Duel 1 at DAYTONA,2024-02-15T19:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,4
+5384,2024 Cup Series Bluegreen Vacations Duel 2 at DAYTONA,2024-02-15T19:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,4
+5376,2024 Cup Series Busch Light Clash at The Coliseum,2024-02-04T17:00:00-08:00,Los Angeles Memorial Coliseum,0.25,150,37,151,37,True,7

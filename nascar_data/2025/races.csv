@@ -1,0 +1,42 @@
+race_id,name,date,track,track_miles,scheduled_laps,scheduled_miles,actual_laps,actual_miles,points_race,caution_laps
+5585,2025 Cup Series NASCAR Cup Series Championship,2025-11-02T15:00:00-08:00,Phoenix Raceway,1.00,312,312,319,319,True,65
+5584,2025 Cup Series Xfinity 500,2025-10-26T14:00:00-07:00,Martinsville Speedway,0.53,500,263,500,263,True,78
+5580,2025 Cup Series YellaWood 500,2025-10-19T14:00:00-07:00,Talladega Superspeedway,2.66,188,500,193,513,True,28
+5582,2025 Cup Series South Point 400,2025-10-12T17:30:00-07:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,32
+5581,2025 Cup Series Bank of America ROVAL 400,2025-10-05T15:00:00-07:00,Charlotte Motor Speedway Road Course,2.28,109,248,109,248,True,10
+5579,2025 Cup Series Hollywood Casino 400 Presented by ESPN BET,2025-09-28T15:00:00-07:00,Kansas Speedway,1.50,267,400,273,409,True,48
+5567,2025 Cup Series Mobil 1 301,2025-09-21T14:00:00-07:00,New Hampshire Motor Speedway,1.06,301,318,301,318,True,45
+5578,2025 Cup Series Bass Pro Shops Night Race,2025-09-13T19:30:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,137
+5564,2025 Cup Series Enjoy Illinois 300,2025-09-07T15:00:00-07:00,World Wide Technology Raceway,1.25,240,300,240,300,True,52
+5575,2025 Cup Series Cook Out Southern 500,2025-08-31T18:00:00-07:00,Darlington Raceway,1.37,367,501,367,501,True,37
+5574,2025 Cup Series Coke Zero Sugar 400,2025-08-23T19:30:00-07:00,Daytona International Speedway,2.50,160,400,160,400,True,39
+5572,2025 Cup Series Cook Out 400,2025-08-16T19:30:00-07:00,Richmond Raceway,0.75,400,300,400,300,True,44
+5577,2025 Cup Series Go Bowling at The Glen,2025-08-10T14:00:00-07:00,Watkins Glen International,2.45,90,220,90,220,True,8
+5566,2025 Cup Series Iowa Corn 350 Powered by Ethanol,2025-08-03T15:30:00-07:00,Iowa Speedway,0.88,350,306,350,306,True,72
+5571,2025 Cup Series Brickyard 400,2025-07-27T14:00:00-07:00,Indianapolis Motor Speedway,2.50,160,400,168,420,True,28
+5556,2025 Cup Series Autotrader EchoPark Automotive 400,2025-07-20T14:00:00-07:00,Dover Motor Speedway,1.00,400,400,407,407,True,50
+5565,2025 Cup Series Toyota / Save Mart 350,2025-07-13T15:30:00-07:00,Sonoma Raceway,1.99,110,218,110,218,True,17
+5569,2025 Cup Series Grant Park 165,2025-07-06T14:00:00-07:00,Chicago Street Race,2.20,75,165,75,165,True,15
+5576,2025 Cup Series Quaker State 400 Available at Walmart,2025-06-28T19:00:00-07:00,Atlanta Motor Speedway,1.54,260,400,260,400,True,68
+5570,2025 Cup Series The Great American Getaway 400 Presented by VISITPA.COM,2025-06-22T14:00:00-07:00,Pocono Raceway,2.50,160,400,160,400,True,31
+5552,2025 Cup Series Viva Mexico 250,2025-06-15T15:00:00-07:00,Autódromo Hermanos Rodríguez,2.42,100,242,100,251,True,16
+5573,2025 Cup Series FireKeepers Casino 400,2025-06-08T14:00:00-07:00,Michigan International Speedway,2.00,200,400,200,400,True,33
+5568,2025 Cup Series Cracker Barrel 400,2025-06-01T19:00:00-07:00,Nashville Superspeedway,1.33,300,399,300,399,True,35
+5563,2025 Cup Series Coca-Cola 600,2025-05-25T18:00:00-07:00,Charlotte Motor Speedway,1.50,400,600,400,600,True,52
+5562,2025 Cup Series NASCAR All-Star Race,2025-05-18T20:00:00-07:00,North Wilkesboro Speedway,0.63,250,156,250,156,True,32
+5561,2025 Cup Series NASCAR All-Star Open,2025-05-18T17:30:00-07:00,North Wilkesboro Speedway,0.63,100,62,100,62,True,12
+5557,2025 Cup Series AdventHealth 400,2025-05-11T15:00:00-07:00,Kansas Speedway,1.50,267,400,267,400,True,37
+5554,2025 Cup Series Würth 400 presented by LIQUI MOLY,2025-05-04T14:30:00-07:00,Texas Motor Speedway,1.50,267,400,271,406,True,73
+5555,2025 Cup Series Jack Link's 500,2025-04-27T15:00:00-07:00,Talladega Superspeedway,2.66,188,500,188,500,True,22
+5550,2025 Cup Series Food City 500,2025-04-13T15:00:00-07:00,Bristol Motor Speedway,0.53,500,266,500,266,True,40
+5558,2025 Cup Series Goodyear 400,2025-04-06T15:00:00-07:00,Darlington Raceway,1.37,293,400,297,405,True,45
+5553,2025 Cup Series Cook Out 400,2025-03-30T15:00:00-07:00,Martinsville Speedway,0.53,400,210,400,210,True,86
+5583,2025 Cup Series Straight Talk Wireless 400,2025-03-23T15:00:00-07:00,Homestead-Miami Speedway,1.50,267,400,267,400,True,27
+5548,2025 Cup Series Pennzoil 400 presented by Jiffy Lube,2025-03-16T15:30:00-07:00,Las Vegas Motor Speedway,1.50,267,400,267,400,True,53
+5549,2025 Cup Series Shriners Children's 500,2025-03-09T15:30:00-07:00,Phoenix Raceway,1.00,312,312,312,312,True,73
+5551,2025 Cup Series EchoPark Automotive Grand Prix,2025-03-02T15:30:00-08:00,Circuit of The Americas,2.40,95,228,95,228,True,15
+5547,2025 Cup Series Ambetter Health 400,2025-02-23T15:00:00-08:00,Atlanta Motor Speedway,1.54,260,400,266,409,True,63
+5546,2025 Cup Series DAYTONA 500,2025-02-16T14:30:00-08:00,Daytona International Speedway,2.50,200,500,201,502,True,47
+5545,2025 Cup Series Duel 2 at DAYTONA,2025-02-13T20:45:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,6
+5544,2025 Cup Series Duel 1 at DAYTONA,2025-02-13T19:00:00-08:00,Daytona International Speedway,2.50,60,150,60,150,True,15
+5543,2025 Cup Series Cook Out Clash at Bowman Gray,2025-02-02T20:00:00-08:00,Bowman Gray Stadium,0.25,200,50,200,50,True,7

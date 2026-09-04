@@ -1,0 +1,10 @@
+.DS_Store
+.cache/
+
+qualifying_vs_race_analysis/clean_lap_data.csv
+qualifying_vs_race_analysis/lap_level_relative_pace.csv
+
+RaceIndyCar_Intro.html
+RaceIndyCar_Intro.quarto_ipynb
+RaceIndyCar_Intro.quarto_ipynb_1
+RaceIndyCar_Intro_files/

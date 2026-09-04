@@ -1,0 +1,1275 @@
+driver_name,driver_id,car_number,constructor,lap_number,running_position,lap_time,lap_time_ms
+Lewis Hamilton,1,44,Mercedes,1,1,1:25.855,85855
+Max Verstappen,830,33,Red Bull,1,2,1:27.347,87347
+Lance Stroll,840,18,Racing Point,1,3,1:28.830,88830
+Valtteri Bottas,822,77,Mercedes,1,4,1:29.434,89434
+Sergio Pérez,815,11,Racing Point,1,5,1:30.347,90347
+Alexander Albon,848,23,Red Bull,1,6,1:31.211,91211
+Carlos Sainz,832,55,McLaren,1,7,1:32.118,92118
+Pierre Gasly,842,10,AlphaTauri,1,8,1:32.988,92988
+Charles Leclerc,844,16,Ferrari,1,9,1:33.402,93402
+Lando Norris,846,4,McLaren,1,10,1:34.173,94173
+Sebastian Vettel,20,5,Ferrari,1,11,1:34.707,94707
+Daniel Ricciardo,817,3,Renault,1,12,1:35.089,95089
+Daniil Kvyat,826,26,AlphaTauri,1,13,1:35.427,95427
+Kevin Magnussen,825,20,Haas F1 Team,1,14,1:36.577,96577
+Kimi Räikkönen,8,7,Alfa Romeo,1,15,1:37.063,97063
+Esteban Ocon,839,31,Renault,1,16,1:37.691,97691
+Romain Grosjean,154,8,Haas F1 Team,1,17,1:38.499,98499
+George Russell,847,63,Williams,1,18,1:38.758,98758
+Antonio Giovinazzi,841,99,Alfa Romeo,1,19,1:39.048,99048
+Nicholas Latifi,849,6,Williams,1,20,1:39.559,99559
+Lewis Hamilton,1,44,Mercedes,2,1,1:24.630,84630
+Max Verstappen,830,33,Red Bull,2,2,1:24.754,84754
+Lance Stroll,840,18,Racing Point,2,3,1:25.189,85189
+Valtteri Bottas,822,77,Mercedes,2,4,1:25.062,85062
+Sergio Pérez,815,11,Racing Point,2,5,1:25.147,85147
+Alexander Albon,848,23,Red Bull,2,6,1:25.396,85396
+Carlos Sainz,832,55,McLaren,2,7,1:25.935,85935
+Pierre Gasly,842,10,AlphaTauri,2,8,1:26.105,86105
+Charles Leclerc,844,16,Ferrari,2,9,1:26.359,86359
+Lando Norris,846,4,McLaren,2,10,1:26.682,86682
+Sebastian Vettel,20,5,Ferrari,2,11,1:26.962,86962
+Daniil Kvyat,826,26,AlphaTauri,2,12,1:27.108,87108
+Daniel Ricciardo,817,3,Renault,2,13,1:28.222,88222
+Kevin Magnussen,825,20,Haas F1 Team,2,14,1:27.659,87659
+Kimi Räikkönen,8,7,Alfa Romeo,2,15,1:27.754,87754
+Esteban Ocon,839,31,Renault,2,16,1:27.756,87756
+Romain Grosjean,154,8,Haas F1 Team,2,17,1:27.730,87730
+George Russell,847,63,Williams,2,18,1:28.166,88166
+Antonio Giovinazzi,841,99,Alfa Romeo,2,19,1:28.572,88572
+Nicholas Latifi,849,6,Williams,2,20,1:29.197,89197
+Lewis Hamilton,1,44,Mercedes,3,1,1:25.037,85037
+Max Verstappen,830,33,Red Bull,3,2,1:24.835,84835
+Lance Stroll,840,18,Racing Point,3,3,1:24.823,84823
+Valtteri Bottas,822,77,Mercedes,3,4,1:24.948,84948
+Sergio Pérez,815,11,Racing Point,3,5,1:25.131,85131
+Alexander Albon,848,23,Red Bull,3,6,1:25.241,85241
+Carlos Sainz,832,55,McLaren,3,7,1:25.719,85719
+Pierre Gasly,842,10,AlphaTauri,3,8,1:25.558,85558
+Charles Leclerc,844,16,Ferrari,3,9,1:25.640,85640
+Lando Norris,846,4,McLaren,3,10,1:26.038,86038
+Sebastian Vettel,20,5,Ferrari,3,11,1:25.960,85960
+Daniil Kvyat,826,26,AlphaTauri,3,12,1:25.954,85954
+Daniel Ricciardo,817,3,Renault,3,13,1:26.157,86157
+Kevin Magnussen,825,20,Haas F1 Team,3,14,1:26.534,86534
+Kimi Räikkönen,8,7,Alfa Romeo,3,15,1:26.782,86782
+Esteban Ocon,839,31,Renault,3,16,1:27.062,87062
+Romain Grosjean,154,8,Haas F1 Team,3,17,1:27.276,87276
+George Russell,847,63,Williams,3,18,1:27.264,87264
+Antonio Giovinazzi,841,99,Alfa Romeo,3,19,1:27.417,87417
+Nicholas Latifi,849,6,Williams,3,20,1:27.177,87177
+Lewis Hamilton,1,44,Mercedes,4,1,1:24.679,84679
+Max Verstappen,830,33,Red Bull,4,2,1:24.596,84596
+Lance Stroll,840,18,Racing Point,4,3,1:25.410,85410
+Valtteri Bottas,822,77,Mercedes,4,4,1:25.258,85258
+Sergio Pérez,815,11,Racing Point,4,5,1:25.283,85283
+Alexander Albon,848,23,Red Bull,4,6,1:25.230,85230
+Carlos Sainz,832,55,McLaren,4,7,1:25.309,85309
+Pierre Gasly,842,10,AlphaTauri,4,8,1:25.436,85436
+Charles Leclerc,844,16,Ferrari,4,9,1:25.322,85322
+Lando Norris,846,4,McLaren,4,10,1:25.593,85593
+Sebastian Vettel,20,5,Ferrari,4,11,1:25.915,85915
+Daniil Kvyat,826,26,AlphaTauri,4,12,1:25.718,85718
+Daniel Ricciardo,817,3,Renault,4,13,1:25.905,85905
+Kevin Magnussen,825,20,Haas F1 Team,4,14,1:25.872,85872
+Kimi Räikkönen,8,7,Alfa Romeo,4,15,1:25.754,85754
+Esteban Ocon,839,31,Renault,4,16,1:26.003,86003
+Romain Grosjean,154,8,Haas F1 Team,4,17,1:26.333,86333
+George Russell,847,63,Williams,4,18,1:26.168,86168
+Antonio Giovinazzi,841,99,Alfa Romeo,4,19,1:26.551,86551
+Nicholas Latifi,849,6,Williams,4,20,1:27.476,87476
+Lewis Hamilton,1,44,Mercedes,5,1,1:24.370,84370
+Max Verstappen,830,33,Red Bull,5,2,1:24.621,84621
+Valtteri Bottas,822,77,Mercedes,5,3,1:23.796,83796
+Lance Stroll,840,18,Racing Point,5,4,1:26.029,86029
+Sergio Pérez,815,11,Racing Point,5,5,1:25.103,85103
+Alexander Albon,848,23,Red Bull,5,6,1:25.347,85347
+Carlos Sainz,832,55,McLaren,5,7,1:25.497,85497
+Pierre Gasly,842,10,AlphaTauri,5,8,1:25.661,85661
+Charles Leclerc,844,16,Ferrari,5,9,1:25.967,85967
+Lando Norris,846,4,McLaren,5,10,1:25.967,85967
+Sebastian Vettel,20,5,Ferrari,5,11,1:26.459,86459
+Daniil Kvyat,826,26,AlphaTauri,5,12,1:26.721,86721
+Daniel Ricciardo,817,3,Renault,5,13,1:26.598,86598
+Kevin Magnussen,825,20,Haas F1 Team,5,14,1:26.146,86146
+Kimi Räikkönen,8,7,Alfa Romeo,5,15,1:26.228,86228
+Esteban Ocon,839,31,Renault,5,16,1:26.246,86246
+George Russell,847,63,Williams,5,17,1:25.663,85663
+Romain Grosjean,154,8,Haas F1 Team,5,18,1:27.526,87526
+Antonio Giovinazzi,841,99,Alfa Romeo,5,19,1:26.812,86812
+Nicholas Latifi,849,6,Williams,5,20,1:27.348,87348
+Lewis Hamilton,1,44,Mercedes,6,1,1:24.247,84247
+Max Verstappen,830,33,Red Bull,6,2,1:24.325,84325
+Valtteri Bottas,822,77,Mercedes,6,3,1:24.187,84187
+Lance Stroll,840,18,Racing Point,6,4,1:24.850,84850
+Sergio Pérez,815,11,Racing Point,6,5,1:25.522,85522
+Alexander Albon,848,23,Red Bull,6,6,1:25.181,85181
+Carlos Sainz,832,55,McLaren,6,7,1:25.400,85400
+Pierre Gasly,842,10,AlphaTauri,6,8,1:25.235,85235
+Charles Leclerc,844,16,Ferrari,6,9,1:25.211,85211
+Lando Norris,846,4,McLaren,6,10,1:26.065,86065
+Sebastian Vettel,20,5,Ferrari,6,11,1:25.719,85719
+Daniil Kvyat,826,26,AlphaTauri,6,12,1:25.668,85668
+Daniel Ricciardo,817,3,Renault,6,13,1:25.747,85747
+Kevin Magnussen,825,20,Haas F1 Team,6,14,1:26.010,86010
+Kimi Räikkönen,8,7,Alfa Romeo,6,15,1:26.104,86104
+Esteban Ocon,839,31,Renault,6,16,1:26.062,86062
+George Russell,847,63,Williams,6,17,1:26.025,86025
+Romain Grosjean,154,8,Haas F1 Team,6,18,1:26.346,86346
+Antonio Giovinazzi,841,99,Alfa Romeo,6,19,1:26.529,86529
+Nicholas Latifi,849,6,Williams,6,20,1:27.676,87676
+Lewis Hamilton,1,44,Mercedes,7,1,1:24.278,84278
+Max Verstappen,830,33,Red Bull,7,2,1:24.193,84193
+Valtteri Bottas,822,77,Mercedes,7,3,1:23.981,83981
+Lance Stroll,840,18,Racing Point,7,4,1:24.979,84979
+Sergio Pérez,815,11,Racing Point,7,5,1:25.243,85243
+Alexander Albon,848,23,Red Bull,7,6,1:24.986,84986
+Carlos Sainz,832,55,McLaren,7,7,1:25.198,85198
+Pierre Gasly,842,10,AlphaTauri,7,8,1:25.259,85259
+Charles Leclerc,844,16,Ferrari,7,9,1:25.418,85418
+Lando Norris,846,4,McLaren,7,10,1:25.453,85453
+Sebastian Vettel,20,5,Ferrari,7,11,1:25.326,85326
+Daniil Kvyat,826,26,AlphaTauri,7,12,1:25.483,85483
+Daniel Ricciardo,817,3,Renault,7,13,1:25.818,85818
+Kevin Magnussen,825,20,Haas F1 Team,7,14,1:25.985,85985
+Kimi Räikkönen,8,7,Alfa Romeo,7,15,1:25.983,85983
+Esteban Ocon,839,31,Renault,7,16,1:26.085,86085
+George Russell,847,63,Williams,7,17,1:26.163,86163
+Romain Grosjean,154,8,Haas F1 Team,7,18,1:26.635,86635
+Antonio Giovinazzi,841,99,Alfa Romeo,7,19,1:26.295,86295
+Nicholas Latifi,849,6,Williams,7,20,1:26.775,86775
+Lewis Hamilton,1,44,Mercedes,8,1,1:24.108,84108
+Max Verstappen,830,33,Red Bull,8,2,1:24.192,84192
+Valtteri Bottas,822,77,Mercedes,8,3,1:24.266,84266
+Lance Stroll,840,18,Racing Point,8,4,1:24.623,84623
+Sergio Pérez,815,11,Racing Point,8,5,1:24.605,84605
+Alexander Albon,848,23,Red Bull,8,6,1:24.631,84631
+Carlos Sainz,832,55,McLaren,8,7,1:24.807,84807
+Pierre Gasly,842,10,AlphaTauri,8,8,1:25.035,85035
+Charles Leclerc,844,16,Ferrari,8,9,1:25.228,85228
+Lando Norris,846,4,McLaren,8,10,1:25.436,85436
+Sebastian Vettel,20,5,Ferrari,8,11,1:25.600,85600
+Daniil Kvyat,826,26,AlphaTauri,8,12,1:25.448,85448
+Daniel Ricciardo,817,3,Renault,8,13,1:25.949,85949
+Kevin Magnussen,825,20,Haas F1 Team,8,14,1:26.126,86126
+Kimi Räikkönen,8,7,Alfa Romeo,8,15,1:26.085,86085
+Esteban Ocon,839,31,Renault,8,16,1:26.015,86015
+George Russell,847,63,Williams,8,17,1:26.147,86147
+Romain Grosjean,154,8,Haas F1 Team,8,18,1:26.377,86377
+Antonio Giovinazzi,841,99,Alfa Romeo,8,19,1:26.397,86397
+Nicholas Latifi,849,6,Williams,8,20,1:26.210,86210
+Lewis Hamilton,1,44,Mercedes,9,1,1:24.526,84526
+Max Verstappen,830,33,Red Bull,9,2,1:24.132,84132
+Valtteri Bottas,822,77,Mercedes,9,3,1:24.191,84191
+Lance Stroll,840,18,Racing Point,9,4,1:24.819,84819
+Sergio Pérez,815,11,Racing Point,9,5,1:24.723,84723
+Alexander Albon,848,23,Red Bull,9,6,1:24.749,84749
+Carlos Sainz,832,55,McLaren,9,7,1:24.917,84917
+Pierre Gasly,842,10,AlphaTauri,9,8,1:25.018,85018
+Charles Leclerc,844,16,Ferrari,9,9,1:25.309,85309
+Lando Norris,846,4,McLaren,9,10,1:25.374,85374
+Sebastian Vettel,20,5,Ferrari,9,11,1:25.227,85227
+Daniil Kvyat,826,26,AlphaTauri,9,12,1:25.387,85387
+Daniel Ricciardo,817,3,Renault,9,13,1:26.006,86006
+Kevin Magnussen,825,20,Haas F1 Team,9,14,1:25.944,85944
+Kimi Räikkönen,8,7,Alfa Romeo,9,15,1:25.876,85876
+Esteban Ocon,839,31,Renault,9,16,1:25.914,85914
+George Russell,847,63,Williams,9,17,1:26.308,86308
+Romain Grosjean,154,8,Haas F1 Team,9,18,1:25.818,85818
+Antonio Giovinazzi,841,99,Alfa Romeo,9,19,1:26.061,86061
+Nicholas Latifi,849,6,Williams,9,20,1:26.467,86467
+Lewis Hamilton,1,44,Mercedes,10,1,1:23.618,83618
+Max Verstappen,830,33,Red Bull,10,2,1:23.990,83990
+Valtteri Bottas,822,77,Mercedes,10,3,1:24.035,84035
+Lance Stroll,840,18,Racing Point,10,4,1:24.745,84745
+Sergio Pérez,815,11,Racing Point,10,5,1:24.748,84748
+Alexander Albon,848,23,Red Bull,10,6,1:24.995,84995
+Carlos Sainz,832,55,McLaren,10,7,1:25.174,85174
+Pierre Gasly,842,10,AlphaTauri,10,8,1:25.160,85160
+Charles Leclerc,844,16,Ferrari,10,9,1:25.105,85105
+Lando Norris,846,4,McLaren,10,10,1:25.422,85422
+Sebastian Vettel,20,5,Ferrari,10,11,1:25.530,85530
+Daniil Kvyat,826,26,AlphaTauri,10,12,1:25.808,85808
+Daniel Ricciardo,817,3,Renault,10,13,1:25.632,85632
+Kevin Magnussen,825,20,Haas F1 Team,10,14,1:25.929,85929
+Kimi Räikkönen,8,7,Alfa Romeo,10,15,1:26.069,86069
+Esteban Ocon,839,31,Renault,10,16,1:25.926,85926
+George Russell,847,63,Williams,10,17,1:26.112,86112
+Romain Grosjean,154,8,Haas F1 Team,10,18,1:25.921,85921
+Antonio Giovinazzi,841,99,Alfa Romeo,10,19,1:26.236,86236
+Nicholas Latifi,849,6,Williams,10,20,1:26.808,86808
+Lewis Hamilton,1,44,Mercedes,11,1,1:23.238,83238
+Max Verstappen,830,33,Red Bull,11,2,1:23.623,83623
+Valtteri Bottas,822,77,Mercedes,11,3,1:23.590,83590
+Lance Stroll,840,18,Racing Point,11,4,1:24.917,84917
+Sergio Pérez,815,11,Racing Point,11,5,1:24.895,84895
+Alexander Albon,848,23,Red Bull,11,6,1:25.653,85653
+Carlos Sainz,832,55,McLaren,11,7,1:25.172,85172
+Pierre Gasly,842,10,AlphaTauri,11,8,1:25.070,85070
+Charles Leclerc,844,16,Ferrari,11,9,1:25.075,85075
+Lando Norris,846,4,McLaren,11,10,1:25.173,85173
+Sebastian Vettel,20,5,Ferrari,11,11,1:25.462,85462
+Daniil Kvyat,826,26,AlphaTauri,11,12,1:25.165,85165
+Daniel Ricciardo,817,3,Renault,11,13,1:25.350,85350
+Kevin Magnussen,825,20,Haas F1 Team,11,14,1:25.566,85566
+Kimi Räikkönen,8,7,Alfa Romeo,11,15,1:25.713,85713
+Esteban Ocon,839,31,Renault,11,16,1:25.742,85742
+George Russell,847,63,Williams,11,17,1:26.061,86061
+Romain Grosjean,154,8,Haas F1 Team,11,18,1:26.252,86252
+Antonio Giovinazzi,841,99,Alfa Romeo,11,19,1:26.182,86182
+Nicholas Latifi,849,6,Williams,11,20,1:26.626,86626
+Lewis Hamilton,1,44,Mercedes,12,1,1:23.067,83067
+Max Verstappen,830,33,Red Bull,12,2,1:23.541,83541
+Valtteri Bottas,822,77,Mercedes,12,3,1:23.449,83449
+Lance Stroll,840,18,Racing Point,12,4,1:24.928,84928
+Sergio Pérez,815,11,Racing Point,12,5,1:25.016,85016
+Alexander Albon,848,23,Red Bull,12,6,1:25.421,85421
+Carlos Sainz,832,55,McLaren,12,7,1:25.217,85217
+Pierre Gasly,842,10,AlphaTauri,12,8,1:25.267,85267
+Charles Leclerc,844,16,Ferrari,12,9,1:24.932,84932
+Lando Norris,846,4,McLaren,12,10,1:25.361,85361
+Sebastian Vettel,20,5,Ferrari,12,11,1:25.393,85393
+Daniil Kvyat,826,26,AlphaTauri,12,12,1:25.243,85243
+Daniel Ricciardo,817,3,Renault,12,13,1:25.060,85060
+Kevin Magnussen,825,20,Haas F1 Team,12,14,1:25.743,85743
+Kimi Räikkönen,8,7,Alfa Romeo,12,15,1:25.619,85619
+Esteban Ocon,839,31,Renault,12,16,1:25.643,85643
+George Russell,847,63,Williams,12,17,1:25.828,85828
+Romain Grosjean,154,8,Haas F1 Team,12,18,1:25.830,85830
+Antonio Giovinazzi,841,99,Alfa Romeo,12,19,1:26.115,86115
+Nicholas Latifi,849,6,Williams,12,20,1:26.325,86325
+Lewis Hamilton,1,44,Mercedes,13,1,1:22.767,82767
+Max Verstappen,830,33,Red Bull,13,2,1:23.473,83473
+Valtteri Bottas,822,77,Mercedes,13,3,1:23.727,83727
+Lance Stroll,840,18,Racing Point,13,4,1:25.234,85234
+Sergio Pérez,815,11,Racing Point,13,5,1:25.139,85139
+Alexander Albon,848,23,Red Bull,13,6,1:25.276,85276
+Carlos Sainz,832,55,McLaren,13,7,1:25.397,85397
+Pierre Gasly,842,10,AlphaTauri,13,8,1:25.528,85528
+Charles Leclerc,844,16,Ferrari,13,9,1:25.489,85489
+Lando Norris,846,4,McLaren,13,10,1:25.263,85263
+Sebastian Vettel,20,5,Ferrari,13,11,1:25.479,85479
+Daniil Kvyat,826,26,AlphaTauri,13,12,1:25.420,85420
+Daniel Ricciardo,817,3,Renault,13,13,1:25.458,85458
+Kevin Magnussen,825,20,Haas F1 Team,13,14,1:25.934,85934
+Kimi Räikkönen,8,7,Alfa Romeo,13,15,1:25.768,85768
+Esteban Ocon,839,31,Renault,13,16,1:25.814,85814
+George Russell,847,63,Williams,13,17,1:26.111,86111
+Romain Grosjean,154,8,Haas F1 Team,13,18,1:26.015,86015
+Antonio Giovinazzi,841,99,Alfa Romeo,13,19,1:25.990,85990
+Nicholas Latifi,849,6,Williams,13,20,1:26.067,86067
+Lewis Hamilton,1,44,Mercedes,14,1,1:23.197,83197
+Max Verstappen,830,33,Red Bull,14,2,1:23.422,83422
+Valtteri Bottas,822,77,Mercedes,14,3,1:23.655,83655
+Lance Stroll,840,18,Racing Point,14,4,1:25.254,85254
+Sergio Pérez,815,11,Racing Point,14,5,1:25.156,85156
+Alexander Albon,848,23,Red Bull,14,6,1:25.350,85350
+Carlos Sainz,832,55,McLaren,14,7,1:25.184,85184
+Pierre Gasly,842,10,AlphaTauri,14,8,1:25.362,85362
+Charles Leclerc,844,16,Ferrari,14,9,1:25.774,85774
+Lando Norris,846,4,McLaren,14,10,1:25.041,85041
+Sebastian Vettel,20,5,Ferrari,14,11,1:25.395,85395
+Daniil Kvyat,826,26,AlphaTauri,14,12,1:25.532,85532
+Daniel Ricciardo,817,3,Renault,14,13,1:25.601,85601
+Kevin Magnussen,825,20,Haas F1 Team,14,14,1:26.026,86026
+Kimi Räikkönen,8,7,Alfa Romeo,14,15,1:26.218,86218
+Esteban Ocon,839,31,Renault,14,16,1:25.917,85917
+George Russell,847,63,Williams,14,17,1:26.309,86309
+Romain Grosjean,154,8,Haas F1 Team,14,18,1:25.999,85999
+Antonio Giovinazzi,841,99,Alfa Romeo,14,19,1:26.159,86159
+Nicholas Latifi,849,6,Williams,14,20,1:26.150,86150
+Lewis Hamilton,1,44,Mercedes,15,1,1:23.095,83095
+Max Verstappen,830,33,Red Bull,15,2,1:23.759,83759
+Valtteri Bottas,822,77,Mercedes,15,3,1:23.690,83690
+Lance Stroll,840,18,Racing Point,15,4,1:25.039,85039
+Sergio Pérez,815,11,Racing Point,15,5,1:25.289,85289
+Alexander Albon,848,23,Red Bull,15,6,1:25.469,85469
+Carlos Sainz,832,55,McLaren,15,7,1:25.174,85174
+Pierre Gasly,842,10,AlphaTauri,15,8,1:25.224,85224
+Charles Leclerc,844,16,Ferrari,15,9,1:25.289,85289
+Lando Norris,846,4,McLaren,15,10,1:25.249,85249
+Sebastian Vettel,20,5,Ferrari,15,11,1:25.185,85185
+Daniil Kvyat,826,26,AlphaTauri,15,12,1:25.249,85249
+Daniel Ricciardo,817,3,Renault,15,13,1:25.804,85804
+Kevin Magnussen,825,20,Haas F1 Team,15,14,1:25.898,85898
+Kimi Räikkönen,8,7,Alfa Romeo,15,15,1:25.842,85842
+Esteban Ocon,839,31,Renault,15,16,1:25.685,85685
+George Russell,847,63,Williams,15,17,1:25.609,85609
+Romain Grosjean,154,8,Haas F1 Team,15,18,1:26.037,86037
+Antonio Giovinazzi,841,99,Alfa Romeo,15,19,1:26.019,86019
+Nicholas Latifi,849,6,Williams,15,20,1:26.112,86112
+Lewis Hamilton,1,44,Mercedes,16,1,1:23.216,83216
+Max Verstappen,830,33,Red Bull,16,2,1:23.568,83568
+Valtteri Bottas,822,77,Mercedes,16,3,1:23.700,83700
+Lance Stroll,840,18,Racing Point,16,4,1:24.996,84996
+Sergio Pérez,815,11,Racing Point,16,5,1:25.122,85122
+Alexander Albon,848,23,Red Bull,16,6,1:25.634,85634
+Carlos Sainz,832,55,McLaren,16,7,1:25.025,85025
+Pierre Gasly,842,10,AlphaTauri,16,8,1:25.100,85100
+Charles Leclerc,844,16,Ferrari,16,9,1:24.873,84873
+Lando Norris,846,4,McLaren,16,10,1:24.939,84939
+Sebastian Vettel,20,5,Ferrari,16,11,1:25.084,85084
+Daniil Kvyat,826,26,AlphaTauri,16,12,1:25.635,85635
+Daniel Ricciardo,817,3,Renault,16,13,1:25.492,85492
+Kevin Magnussen,825,20,Haas F1 Team,16,14,1:25.702,85702
+Kimi Räikkönen,8,7,Alfa Romeo,16,15,1:25.965,85965
+Esteban Ocon,839,31,Renault,16,16,1:26.126,86126
+George Russell,847,63,Williams,16,17,1:25.839,85839
+Romain Grosjean,154,8,Haas F1 Team,16,18,1:26.133,86133
+Antonio Giovinazzi,841,99,Alfa Romeo,16,19,1:26.203,86203
+Nicholas Latifi,849,6,Williams,16,20,1:25.820,85820
+Lewis Hamilton,1,44,Mercedes,17,1,1:23.366,83366
+Max Verstappen,830,33,Red Bull,17,2,1:23.761,83761
+Valtteri Bottas,822,77,Mercedes,17,3,1:23.907,83907
+Lance Stroll,840,18,Racing Point,17,4,1:25.112,85112
+Sergio Pérez,815,11,Racing Point,17,5,1:25.360,85360
+Carlos Sainz,832,55,McLaren,17,6,1:25.415,85415
+Pierre Gasly,842,10,AlphaTauri,17,7,1:25.101,85101
+Alexander Albon,848,23,Red Bull,17,8,1:29.223,89223
+Charles Leclerc,844,16,Ferrari,17,9,1:25.014,85014
+Lando Norris,846,4,McLaren,17,10,1:24.752,84752
+Sebastian Vettel,20,5,Ferrari,17,11,1:25.107,85107
+Daniil Kvyat,826,26,AlphaTauri,17,12,1:25.703,85703
+Daniel Ricciardo,817,3,Renault,17,13,1:25.443,85443
+Kevin Magnussen,825,20,Haas F1 Team,17,14,1:25.554,85554
+Kimi Räikkönen,8,7,Alfa Romeo,17,15,1:25.511,85511
+Esteban Ocon,839,31,Renault,17,16,1:25.532,85532
+George Russell,847,63,Williams,17,17,1:25.699,85699
+Romain Grosjean,154,8,Haas F1 Team,17,18,1:25.962,85962
+Antonio Giovinazzi,841,99,Alfa Romeo,17,19,1:26.227,86227
+Nicholas Latifi,849,6,Williams,17,20,1:25.911,85911
+Lewis Hamilton,1,44,Mercedes,18,1,1:23.406,83406
+Max Verstappen,830,33,Red Bull,18,2,1:24.089,84089
+Valtteri Bottas,822,77,Mercedes,18,3,1:24.026,84026
+Lance Stroll,840,18,Racing Point,18,4,1:25.383,85383
+Sergio Pérez,815,11,Racing Point,18,5,1:25.323,85323
+Carlos Sainz,832,55,McLaren,18,6,1:25.019,85019
+Pierre Gasly,842,10,AlphaTauri,18,7,1:25.539,85539
+Charles Leclerc,844,16,Ferrari,18,8,1:25.423,85423
+Lando Norris,846,4,McLaren,18,9,1:25.214,85214
+Sebastian Vettel,20,5,Ferrari,18,10,1:25.529,85529
+Daniil Kvyat,826,26,AlphaTauri,18,11,1:25.740,85740
+Daniel Ricciardo,817,3,Renault,18,12,1:25.359,85359
+Kevin Magnussen,825,20,Haas F1 Team,18,13,1:25.839,85839
+Kimi Räikkönen,8,7,Alfa Romeo,18,14,1:26.170,86170
+Esteban Ocon,839,31,Renault,18,15,1:25.812,85812
+Alexander Albon,848,23,Red Bull,18,16,1:43.239,103239
+George Russell,847,63,Williams,18,17,1:26.506,86506
+Romain Grosjean,154,8,Haas F1 Team,18,18,1:26.398,86398
+Antonio Giovinazzi,841,99,Alfa Romeo,18,19,1:26.143,86143
+Nicholas Latifi,849,6,Williams,18,20,1:26.048,86048
+Lewis Hamilton,1,44,Mercedes,19,1,1:23.505,83505
+Max Verstappen,830,33,Red Bull,19,2,1:23.971,83971
+Valtteri Bottas,822,77,Mercedes,19,3,1:23.726,83726
+Lance Stroll,840,18,Racing Point,19,4,1:25.483,85483
+Sergio Pérez,815,11,Racing Point,19,5,1:25.205,85205
+Carlos Sainz,832,55,McLaren,19,6,1:25.157,85157
+Pierre Gasly,842,10,AlphaTauri,19,7,1:25.257,85257
+Charles Leclerc,844,16,Ferrari,19,8,1:24.983,84983
+Lando Norris,846,4,McLaren,19,9,1:25.011,85011
+Sebastian Vettel,20,5,Ferrari,19,10,1:25.373,85373
+Daniil Kvyat,826,26,AlphaTauri,19,11,1:25.630,85630
+Daniel Ricciardo,817,3,Renault,19,12,1:25.123,85123
+Kevin Magnussen,825,20,Haas F1 Team,19,13,1:25.845,85845
+Kimi Räikkönen,8,7,Alfa Romeo,19,14,1:26.364,86364
+Esteban Ocon,839,31,Renault,19,15,1:26.351,86351
+Alexander Albon,848,23,Red Bull,19,16,1:26.070,86070
+Romain Grosjean,154,8,Haas F1 Team,19,17,1:26.001,86001
+George Russell,847,63,Williams,19,18,1:29.470,89470
+Antonio Giovinazzi,841,99,Alfa Romeo,19,19,1:26.496,86496
+Nicholas Latifi,849,6,Williams,19,20,1:26.108,86108
+Lewis Hamilton,1,44,Mercedes,20,1,1:23.394,83394
+Max Verstappen,830,33,Red Bull,20,2,1:24.579,84579
+Valtteri Bottas,822,77,Mercedes,20,3,1:24.063,84063
+Lance Stroll,840,18,Racing Point,20,4,1:25.389,85389
+Sergio Pérez,815,11,Racing Point,20,5,1:25.392,85392
+Carlos Sainz,832,55,McLaren,20,6,1:25.468,85468
+Pierre Gasly,842,10,AlphaTauri,20,7,1:25.816,85816
+Charles Leclerc,844,16,Ferrari,20,8,1:25.573,85573
+Lando Norris,846,4,McLaren,20,9,1:24.916,84916
+Sebastian Vettel,20,5,Ferrari,20,10,1:25.512,85512
+Daniil Kvyat,826,26,AlphaTauri,20,11,1:26.056,86056
+Daniel Ricciardo,817,3,Renault,20,12,1:25.553,85553
+Kevin Magnussen,825,20,Haas F1 Team,20,13,1:25.794,85794
+Esteban Ocon,839,31,Renault,20,14,1:25.429,85429
+Alexander Albon,848,23,Red Bull,20,15,1:25.605,85605
+Kimi Räikkönen,8,7,Alfa Romeo,20,16,1:32.154,92154
+Romain Grosjean,154,8,Haas F1 Team,20,17,1:26.162,86162
+Antonio Giovinazzi,841,99,Alfa Romeo,20,18,1:26.609,86609
+Nicholas Latifi,849,6,Williams,20,19,1:26.014,86014
+George Russell,847,63,Williams,20,20,1:42.091,102091
+Lewis Hamilton,1,44,Mercedes,21,1,1:23.410,83410
+Valtteri Bottas,822,77,Mercedes,21,2,1:24.474,84474
+Max Verstappen,830,33,Red Bull,21,3,1:28.176,88176
+Lance Stroll,840,18,Racing Point,21,4,1:25.647,85647
+Sergio Pérez,815,11,Racing Point,21,5,1:25.635,85635
+Carlos Sainz,832,55,McLaren,21,6,1:25.693,85693
+Charles Leclerc,844,16,Ferrari,21,7,1:26.542,86542
+Pierre Gasly,842,10,AlphaTauri,21,8,1:29.741,89741
+Lando Norris,846,4,McLaren,21,9,1:29.205,89205
+Sebastian Vettel,20,5,Ferrari,21,10,1:25.849,85849
+Daniel Ricciardo,817,3,Renault,21,11,1:26.115,86115
+Daniil Kvyat,826,26,AlphaTauri,21,12,1:30.029,90029
+Kevin Magnussen,825,20,Haas F1 Team,21,13,1:25.854,85854
+Esteban Ocon,839,31,Renault,21,14,1:25.170,85170
+Alexander Albon,848,23,Red Bull,21,15,1:25.185,85185
+Romain Grosjean,154,8,Haas F1 Team,21,16,1:26.031,86031
+Nicholas Latifi,849,6,Williams,21,17,1:26.284,86284
+Antonio Giovinazzi,841,99,Alfa Romeo,21,18,1:30.247,90247
+George Russell,847,63,Williams,21,19,1:23.576,83576
+Kimi Räikkönen,8,7,Alfa Romeo,21,20,1:42.682,102682
+Lewis Hamilton,1,44,Mercedes,22,1,1:23.699,83699
+Valtteri Bottas,822,77,Mercedes,22,2,1:24.337,84337
+Max Verstappen,830,33,Red Bull,22,3,1:40.705,100705
+Lance Stroll,840,18,Racing Point,22,4,1:26.239,86239
+Sergio Pérez,815,11,Racing Point,22,5,1:25.873,85873
+Charles Leclerc,844,16,Ferrari,22,6,1:24.914,84914
+Carlos Sainz,832,55,McLaren,22,7,1:29.347,89347
+Sebastian Vettel,20,5,Ferrari,22,8,1:25.985,85985
+Daniel Ricciardo,817,3,Renault,22,9,1:24.630,84630
+Kevin Magnussen,825,20,Haas F1 Team,22,10,1:25.901,85901
+Esteban Ocon,839,31,Renault,22,11,1:25.400,85400
+Alexander Albon,848,23,Red Bull,22,12,1:25.335,85335
+Pierre Gasly,842,10,AlphaTauri,22,13,1:42.503,102503
+Lando Norris,846,4,McLaren,22,14,1:42.686,102686
+Romain Grosjean,154,8,Haas F1 Team,22,15,1:26.972,86972
+Nicholas Latifi,849,6,Williams,22,16,1:26.415,86415
+Daniil Kvyat,826,26,AlphaTauri,22,17,1:44.714,104714
+George Russell,847,63,Williams,22,18,1:23.916,83916
+Kimi Räikkönen,8,7,Alfa Romeo,22,19,1:23.417,83417
+Antonio Giovinazzi,841,99,Alfa Romeo,22,20,1:42.797,102797
+Lewis Hamilton,1,44,Mercedes,23,1,1:27.175,87175
+Valtteri Bottas,822,77,Mercedes,23,2,1:28.170,88170
+Max Verstappen,830,33,Red Bull,23,3,1:22.959,82959
+Lance Stroll,840,18,Racing Point,23,4,1:25.248,85248
+Sergio Pérez,815,11,Racing Point,23,5,1:25.734,85734
+Charles Leclerc,844,16,Ferrari,23,6,1:25.188,85188
+Sebastian Vettel,20,5,Ferrari,23,7,1:25.614,85614
+Daniel Ricciardo,817,3,Renault,23,8,1:25.137,85137
+Kevin Magnussen,825,20,Haas F1 Team,23,9,1:25.832,85832
+Esteban Ocon,839,31,Renault,23,10,1:25.619,85619
+Alexander Albon,848,23,Red Bull,23,11,1:25.304,85304
+Carlos Sainz,832,55,McLaren,23,12,1:43.207,103207
+Pierre Gasly,842,10,AlphaTauri,23,13,1:24.741,84741
+Lando Norris,846,4,McLaren,23,14,1:24.810,84810
+Romain Grosjean,154,8,Haas F1 Team,23,15,1:26.063,86063
+Daniil Kvyat,826,26,AlphaTauri,23,16,1:23.233,83233
+Nicholas Latifi,849,6,Williams,23,17,1:27.576,87576
+George Russell,847,63,Williams,23,18,1:24.064,84064
+Kimi Räikkönen,8,7,Alfa Romeo,23,19,1:23.929,83929
+Antonio Giovinazzi,841,99,Alfa Romeo,23,20,1:23.614,83614
+Lewis Hamilton,1,44,Mercedes,24,1,1:44.038,104038
+Max Verstappen,830,33,Red Bull,24,2,1:23.582,83582
+Valtteri Bottas,822,77,Mercedes,24,3,1:40.605,100605
+Lance Stroll,840,18,Racing Point,24,4,1:26.104,86104
+Sergio Pérez,815,11,Racing Point,24,5,1:25.524,85524
+Charles Leclerc,844,16,Ferrari,24,6,1:24.961,84961
+Sebastian Vettel,20,5,Ferrari,24,7,1:25.479,85479
+Daniel Ricciardo,817,3,Renault,24,8,1:25.005,85005
+Kevin Magnussen,825,20,Haas F1 Team,24,9,1:25.749,85749
+Esteban Ocon,839,31,Renault,24,10,1:25.892,85892
+Alexander Albon,848,23,Red Bull,24,11,1:25.947,85947
+Carlos Sainz,832,55,McLaren,24,12,1:25.591,85591
+Pierre Gasly,842,10,AlphaTauri,24,13,1:25.358,85358
+Lando Norris,846,4,McLaren,24,14,1:25.247,85247
+Romain Grosjean,154,8,Haas F1 Team,24,15,1:25.936,85936
+Daniil Kvyat,826,26,AlphaTauri,24,16,1:23.987,83987
+Nicholas Latifi,849,6,Williams,24,17,1:27.235,87235
+George Russell,847,63,Williams,24,18,1:25.805,85805
+Kimi Räikkönen,8,7,Alfa Romeo,24,19,1:25.260,85260
+Antonio Giovinazzi,841,99,Alfa Romeo,24,20,1:23.946,83946
+Lewis Hamilton,1,44,Mercedes,25,1,1:23.845,83845
+Max Verstappen,830,33,Red Bull,25,2,1:23.624,83624
+Valtteri Bottas,822,77,Mercedes,25,3,1:22.021,82021
+Lance Stroll,840,18,Racing Point,25,4,1:25.665,85665
+Sergio Pérez,815,11,Racing Point,25,5,1:25.965,85965
+Charles Leclerc,844,16,Ferrari,25,6,1:25.098,85098
+Sebastian Vettel,20,5,Ferrari,25,7,1:25.627,85627
+Daniel Ricciardo,817,3,Renault,25,8,1:25.214,85214
+Kevin Magnussen,825,20,Haas F1 Team,25,9,1:25.575,85575
+Esteban Ocon,839,31,Renault,25,10,1:25.427,85427
+Alexander Albon,848,23,Red Bull,25,11,1:25.388,85388
+Carlos Sainz,832,55,McLaren,25,12,1:25.527,85527
+Pierre Gasly,842,10,AlphaTauri,25,13,1:25.181,85181
+Lando Norris,846,4,McLaren,25,14,1:24.992,84992
+Romain Grosjean,154,8,Haas F1 Team,25,15,1:26.193,86193
+Daniil Kvyat,826,26,AlphaTauri,25,16,1:24.676,84676
+George Russell,847,63,Williams,25,17,1:24.729,84729
+Nicholas Latifi,849,6,Williams,25,18,1:27.954,87954
+Kimi Räikkönen,8,7,Alfa Romeo,25,19,1:27.322,87322
+Antonio Giovinazzi,841,99,Alfa Romeo,25,20,1:24.157,84157
+Lewis Hamilton,1,44,Mercedes,26,1,1:23.659,83659
+Max Verstappen,830,33,Red Bull,26,2,1:23.644,83644
+Valtteri Bottas,822,77,Mercedes,26,3,1:22.991,82991
+Lance Stroll,840,18,Racing Point,26,4,1:26.470,86470
+Sergio Pérez,815,11,Racing Point,26,5,1:26.186,86186
+Charles Leclerc,844,16,Ferrari,26,6,1:25.363,85363
+Sebastian Vettel,20,5,Ferrari,26,7,1:25.612,85612
+Daniel Ricciardo,817,3,Renault,26,8,1:25.269,85269
+Kevin Magnussen,825,20,Haas F1 Team,26,9,1:25.596,85596
+Esteban Ocon,839,31,Renault,26,10,1:25.641,85641
+Alexander Albon,848,23,Red Bull,26,11,1:25.679,85679
+Carlos Sainz,832,55,McLaren,26,12,1:25.684,85684
+Pierre Gasly,842,10,AlphaTauri,26,13,1:25.624,85624
+Lando Norris,846,4,McLaren,26,14,1:25.447,85447
+Daniil Kvyat,826,26,AlphaTauri,26,15,1:24.096,84096
+Romain Grosjean,154,8,Haas F1 Team,26,16,1:27.252,87252
+George Russell,847,63,Williams,26,17,1:25.444,85444
+Kimi Räikkönen,8,7,Alfa Romeo,26,18,1:24.158,84158
+Nicholas Latifi,849,6,Williams,26,19,1:28.389,88389
+Antonio Giovinazzi,841,99,Alfa Romeo,26,20,1:24.603,84603
+Lewis Hamilton,1,44,Mercedes,27,1,1:23.670,83670
+Max Verstappen,830,33,Red Bull,27,2,1:23.227,83227
+Valtteri Bottas,822,77,Mercedes,27,3,1:23.253,83253
+Sergio Pérez,815,11,Racing Point,27,4,1:26.376,86376
+Lance Stroll,840,18,Racing Point,27,5,1:30.159,90159
+Charles Leclerc,844,16,Ferrari,27,6,1:25.712,85712
+Sebastian Vettel,20,5,Ferrari,27,7,1:25.811,85811
+Daniel Ricciardo,817,3,Renault,27,8,1:25.474,85474
+Kevin Magnussen,825,20,Haas F1 Team,27,9,1:25.770,85770
+Esteban Ocon,839,31,Renault,27,10,1:25.627,85627
+Alexander Albon,848,23,Red Bull,27,11,1:25.619,85619
+Carlos Sainz,832,55,McLaren,27,12,1:25.550,85550
+Pierre Gasly,842,10,AlphaTauri,27,13,1:25.689,85689
+Lando Norris,846,4,McLaren,27,14,1:25.455,85455
+Daniil Kvyat,826,26,AlphaTauri,27,15,1:24.007,84007
+Romain Grosjean,154,8,Haas F1 Team,27,16,1:26.035,86035
+George Russell,847,63,Williams,27,17,1:25.047,85047
+Kimi Räikkönen,8,7,Alfa Romeo,27,18,1:24.619,84619
+Nicholas Latifi,849,6,Williams,27,19,1:27.915,87915
+Antonio Giovinazzi,841,99,Alfa Romeo,27,20,1:26.594,86594
+Lewis Hamilton,1,44,Mercedes,28,1,1:23.275,83275
+Max Verstappen,830,33,Red Bull,28,2,1:23.491,83491
+Valtteri Bottas,822,77,Mercedes,28,3,1:23.310,83310
+Sergio Pérez,815,11,Racing Point,28,4,1:25.317,85317
+Charles Leclerc,844,16,Ferrari,28,5,1:25.728,85728
+Sebastian Vettel,20,5,Ferrari,28,6,1:26.157,86157
+Daniel Ricciardo,817,3,Renault,28,7,1:25.594,85594
+Lance Stroll,840,18,Racing Point,28,8,1:43.759,103759
+Esteban Ocon,839,31,Renault,28,9,1:25.135,85135
+Alexander Albon,848,23,Red Bull,28,10,1:25.459,85459
+Carlos Sainz,832,55,McLaren,28,11,1:25.504,85504
+Pierre Gasly,842,10,AlphaTauri,28,12,1:27.302,87302
+Lando Norris,846,4,McLaren,28,13,1:26.499,86499
+Daniil Kvyat,826,26,AlphaTauri,28,14,1:24.316,84316
+Kevin Magnussen,825,20,Haas F1 Team,28,15,1:33.003,93003
+Romain Grosjean,154,8,Haas F1 Team,28,16,1:26.681,86681
+George Russell,847,63,Williams,28,17,1:24.956,84956
+Kimi Räikkönen,8,7,Alfa Romeo,28,18,1:24.575,84575
+Antonio Giovinazzi,841,99,Alfa Romeo,28,19,1:24.395,84395
+Nicholas Latifi,849,6,Williams,28,20,1:32.945,92945
+Lewis Hamilton,1,44,Mercedes,29,1,1:23.688,83688
+Max Verstappen,830,33,Red Bull,29,2,1:23.367,83367
+Valtteri Bottas,822,77,Mercedes,29,3,1:23.304,83304
+Sergio Pérez,815,11,Racing Point,29,4,1:29.245,89245
+Charles Leclerc,844,16,Ferrari,29,5,1:29.966,89966
+Daniel Ricciardo,817,3,Renault,29,6,1:27.145,87145
+Sebastian Vettel,20,5,Ferrari,29,7,1:30.602,90602
+Lance Stroll,840,18,Racing Point,29,8,1:24.230,84230
+Esteban Ocon,839,31,Renault,29,9,1:25.390,85390
+Carlos Sainz,832,55,McLaren,29,10,1:24.259,84259
+Alexander Albon,848,23,Red Bull,29,11,1:26.442,86442
+Pierre Gasly,842,10,AlphaTauri,29,12,1:24.110,84110
+Lando Norris,846,4,McLaren,29,13,1:24.859,84859
+Daniil Kvyat,826,26,AlphaTauri,29,14,1:24.328,84328
+Romain Grosjean,154,8,Haas F1 Team,29,15,1:26.034,86034
+George Russell,847,63,Williams,29,16,1:24.753,84753
+Kimi Räikkönen,8,7,Alfa Romeo,29,17,1:24.810,84810
+Antonio Giovinazzi,841,99,Alfa Romeo,29,18,1:24.637,84637
+Kevin Magnussen,825,20,Haas F1 Team,29,19,1:45.827,105827
+Nicholas Latifi,849,6,Williams,29,20,1:42.684,102684
+Lewis Hamilton,1,44,Mercedes,30,1,1:23.343,83343
+Max Verstappen,830,33,Red Bull,30,2,1:23.353,83353
+Valtteri Bottas,822,77,Mercedes,30,3,1:23.591,83591
+Daniel Ricciardo,817,3,Renault,30,4,1:25.040,85040
+Lance Stroll,840,18,Racing Point,30,5,1:24.573,84573
+Carlos Sainz,832,55,McLaren,30,6,1:23.325,83325
+Sergio Pérez,815,11,Racing Point,30,7,1:43.044,103044
+Esteban Ocon,839,31,Renault,30,8,1:26.752,86752
+Alexander Albon,848,23,Red Bull,30,9,1:25.401,85401
+Pierre Gasly,842,10,AlphaTauri,30,10,1:25.370,85370
+Lando Norris,846,4,McLaren,30,11,1:25.015,85015
+Charles Leclerc,844,16,Ferrari,30,12,1:43.130,103130
+Daniil Kvyat,826,26,AlphaTauri,30,13,1:25.896,85896
+Sebastian Vettel,20,5,Ferrari,30,14,1:42.640,102640
+Romain Grosjean,154,8,Haas F1 Team,30,15,1:27.232,87232
+George Russell,847,63,Williams,30,16,1:25.460,85460
+Kimi Räikkönen,8,7,Alfa Romeo,30,17,1:25.156,85156
+Antonio Giovinazzi,841,99,Alfa Romeo,30,18,1:24.386,84386
+Kevin Magnussen,825,20,Haas F1 Team,30,19,1:23.846,83846
+Nicholas Latifi,849,6,Williams,30,20,1:22.825,82825
+Lewis Hamilton,1,44,Mercedes,31,1,1:23.007,83007
+Max Verstappen,830,33,Red Bull,31,2,1:23.201,83201
+Valtteri Bottas,822,77,Mercedes,31,3,1:23.615,83615
+Daniel Ricciardo,817,3,Renault,31,4,1:25.455,85455
+Lance Stroll,840,18,Racing Point,31,5,1:24.486,84486
+Sergio Pérez,815,11,Racing Point,31,6,1:22.574,82574
+Carlos Sainz,832,55,McLaren,31,7,1:25.197,85197
+Esteban Ocon,839,31,Renault,31,8,1:25.221,85221
+Alexander Albon,848,23,Red Bull,31,9,1:25.182,85182
+Pierre Gasly,842,10,AlphaTauri,31,10,1:25.226,85226
+Lando Norris,846,4,McLaren,31,11,1:25.085,85085
+Charles Leclerc,844,16,Ferrari,31,12,1:24.894,84894
+Daniil Kvyat,826,26,AlphaTauri,31,13,1:24.861,84861
+Sebastian Vettel,20,5,Ferrari,31,14,1:24.034,84034
+George Russell,847,63,Williams,31,15,1:24.840,84840
+Romain Grosjean,154,8,Haas F1 Team,31,16,1:28.150,88150
+Kimi Räikkönen,8,7,Alfa Romeo,31,17,1:27.329,87329
+Antonio Giovinazzi,841,99,Alfa Romeo,31,18,1:24.710,84710
+Kevin Magnussen,825,20,Haas F1 Team,31,19,1:24.319,84319
+Nicholas Latifi,849,6,Williams,31,20,1:23.461,83461
+Lewis Hamilton,1,44,Mercedes,32,1,1:23.102,83102
+Max Verstappen,830,33,Red Bull,32,2,1:23.269,83269
+Valtteri Bottas,822,77,Mercedes,32,3,1:23.425,83425
+Daniel Ricciardo,817,3,Renault,32,4,1:25.482,85482
+Lance Stroll,840,18,Racing Point,32,5,1:24.203,84203
+Sergio Pérez,815,11,Racing Point,32,6,1:25.050,85050
+Carlos Sainz,832,55,McLaren,32,7,1:24.370,84370
+Esteban Ocon,839,31,Renault,32,8,1:25.348,85348
+Alexander Albon,848,23,Red Bull,32,9,1:25.271,85271
+Pierre Gasly,842,10,AlphaTauri,32,10,1:25.221,85221
+Lando Norris,846,4,McLaren,32,11,1:25.189,85189
+Charles Leclerc,844,16,Ferrari,32,12,1:25.198,85198
+Daniil Kvyat,826,26,AlphaTauri,32,13,1:25.112,85112
+Sebastian Vettel,20,5,Ferrari,32,14,1:24.197,84197
+George Russell,847,63,Williams,32,15,1:25.051,85051
+Kimi Räikkönen,8,7,Alfa Romeo,32,16,1:23.791,83791
+Antonio Giovinazzi,841,99,Alfa Romeo,32,17,1:24.589,84589
+Kevin Magnussen,825,20,Haas F1 Team,32,18,1:24.439,84439
+Romain Grosjean,154,8,Haas F1 Team,32,19,1:31.836,91836
+Nicholas Latifi,849,6,Williams,32,20,1:24.172,84172
+Lewis Hamilton,1,44,Mercedes,33,1,1:23.002,83002
+Max Verstappen,830,33,Red Bull,33,2,1:23.106,83106
+Valtteri Bottas,822,77,Mercedes,33,3,1:23.430,83430
+Daniel Ricciardo,817,3,Renault,33,4,1:25.185,85185
+Lance Stroll,840,18,Racing Point,33,5,1:24.688,84688
+Sergio Pérez,815,11,Racing Point,33,6,1:24.669,84669
+Carlos Sainz,832,55,McLaren,33,7,1:24.582,84582
+Alexander Albon,848,23,Red Bull,33,8,1:23.688,83688
+Esteban Ocon,839,31,Renault,33,9,1:26.587,86587
+Pierre Gasly,842,10,AlphaTauri,33,10,1:25.779,85779
+Lando Norris,846,4,McLaren,33,11,1:25.686,85686
+Charles Leclerc,844,16,Ferrari,33,12,1:25.567,85567
+Daniil Kvyat,826,26,AlphaTauri,33,13,1:25.177,85177
+Sebastian Vettel,20,5,Ferrari,33,14,1:24.495,84495
+George Russell,847,63,Williams,33,15,1:24.893,84893
+Kimi Räikkönen,8,7,Alfa Romeo,33,16,1:24.480,84480
+Antonio Giovinazzi,841,99,Alfa Romeo,33,17,1:24.105,84105
+Kevin Magnussen,825,20,Haas F1 Team,33,18,1:24.282,84282
+Romain Grosjean,154,8,Haas F1 Team,33,19,1:44.068,104068
+Nicholas Latifi,849,6,Williams,33,20,1:25.634,85634
+Lewis Hamilton,1,44,Mercedes,34,1,1:22.658,82658
+Max Verstappen,830,33,Red Bull,34,2,1:23.113,83113
+Valtteri Bottas,822,77,Mercedes,34,3,1:22.800,82800
+Daniel Ricciardo,817,3,Renault,34,4,1:25.299,85299
+Lance Stroll,840,18,Racing Point,34,5,1:24.533,84533
+Sergio Pérez,815,11,Racing Point,34,6,1:24.567,84567
+Carlos Sainz,832,55,McLaren,34,7,1:24.681,84681
+Alexander Albon,848,23,Red Bull,34,8,1:24.770,84770
+Pierre Gasly,842,10,AlphaTauri,34,9,1:24.031,84031
+Lando Norris,846,4,McLaren,34,10,1:26.507,86507
+Charles Leclerc,844,16,Ferrari,34,11,1:26.774,86774
+Daniil Kvyat,826,26,AlphaTauri,34,12,1:26.504,86504
+Esteban Ocon,839,31,Renault,34,13,1:30.189,90189
+Sebastian Vettel,20,5,Ferrari,34,14,1:25.133,85133
+George Russell,847,63,Williams,34,15,1:24.859,84859
+Kimi Räikkönen,8,7,Alfa Romeo,34,16,1:24.525,84525
+Antonio Giovinazzi,841,99,Alfa Romeo,34,17,1:24.661,84661
+Kevin Magnussen,825,20,Haas F1 Team,34,18,1:24.688,84688
+Romain Grosjean,154,8,Haas F1 Team,34,19,1:23.361,83361
+Nicholas Latifi,849,6,Williams,34,20,1:24.634,84634
+Lewis Hamilton,1,44,Mercedes,35,1,1:22.948,82948
+Max Verstappen,830,33,Red Bull,35,2,1:22.896,82896
+Valtteri Bottas,822,77,Mercedes,35,3,1:22.781,82781
+Lance Stroll,840,18,Racing Point,35,4,1:24.164,84164
+Sergio Pérez,815,11,Racing Point,35,5,1:25.129,85129
+Carlos Sainz,832,55,McLaren,35,6,1:24.878,84878
+Daniel Ricciardo,817,3,Renault,35,7,1:29.972,89972
+Alexander Albon,848,23,Red Bull,35,8,1:24.945,84945
+Pierre Gasly,842,10,AlphaTauri,35,9,1:24.307,84307
+Lando Norris,846,4,McLaren,35,10,1:23.330,83330
+Charles Leclerc,844,16,Ferrari,35,11,1:23.968,83968
+Daniil Kvyat,826,26,AlphaTauri,35,12,1:24.867,84867
+Sebastian Vettel,20,5,Ferrari,35,13,1:24.515,84515
+Kimi Räikkönen,8,7,Alfa Romeo,35,14,1:24.963,84963
+George Russell,847,63,Williams,35,15,1:27.956,87956
+Antonio Giovinazzi,841,99,Alfa Romeo,35,16,1:26.546,86546
+Kevin Magnussen,825,20,Haas F1 Team,35,17,1:25.963,85963
+Esteban Ocon,839,31,Renault,35,18,1:44.840,104840
+Romain Grosjean,154,8,Haas F1 Team,35,19,1:23.569,83569
+Nicholas Latifi,849,6,Williams,35,20,1:24.405,84405
+Lewis Hamilton,1,44,Mercedes,36,1,1:22.440,82440
+Max Verstappen,830,33,Red Bull,36,2,1:23.548,83548
+Valtteri Bottas,822,77,Mercedes,36,3,1:23.440,83440
+Lance Stroll,840,18,Racing Point,36,4,1:24.478,84478
+Sergio Pérez,815,11,Racing Point,36,5,1:24.355,84355
+Carlos Sainz,832,55,McLaren,36,6,1:24.677,84677
+Alexander Albon,848,23,Red Bull,36,7,1:24.196,84196
+Pierre Gasly,842,10,AlphaTauri,36,8,1:24.147,84147
+Lando Norris,846,4,McLaren,36,9,1:23.644,83644
+Daniil Kvyat,826,26,AlphaTauri,36,10,1:24.704,84704
+Sebastian Vettel,20,5,Ferrari,36,11,1:24.298,84298
+Daniel Ricciardo,817,3,Renault,36,12,1:44.384,104384
+Kimi Räikkönen,8,7,Alfa Romeo,36,13,1:26.454,86454
+Antonio Giovinazzi,841,99,Alfa Romeo,36,14,1:24.876,84876
+Kevin Magnussen,825,20,Haas F1 Team,36,15,1:24.755,84755
+Esteban Ocon,839,31,Renault,36,16,1:26.429,86429
+George Russell,847,63,Williams,36,17,1:40.624,100624
+Romain Grosjean,154,8,Haas F1 Team,36,18,1:24.344,84344
+Nicholas Latifi,849,6,Williams,36,19,1:24.335,84335
+Charles Leclerc,844,16,Ferrari,36,20,2:12.577,132577
+Lewis Hamilton,1,44,Mercedes,37,1,1:22.826,82826
+Max Verstappen,830,33,Red Bull,37,2,1:23.478,83478
+Valtteri Bottas,822,77,Mercedes,37,3,1:23.866,83866
+Lance Stroll,840,18,Racing Point,37,4,1:24.293,84293
+Sergio Pérez,815,11,Racing Point,37,5,1:24.097,84097
+Carlos Sainz,832,55,McLaren,37,6,1:24.157,84157
+Alexander Albon,848,23,Red Bull,37,7,1:24.201,84201
+Pierre Gasly,842,10,AlphaTauri,37,8,1:23.850,83850
+Lando Norris,846,4,McLaren,37,9,1:23.734,83734
+Daniil Kvyat,826,26,AlphaTauri,37,10,1:23.772,83772
+Sebastian Vettel,20,5,Ferrari,37,11,1:24.130,84130
+Daniel Ricciardo,817,3,Renault,37,12,1:26.655,86655
+Kimi Räikkönen,8,7,Alfa Romeo,37,13,1:26.951,86951
+Antonio Giovinazzi,841,99,Alfa Romeo,37,14,1:24.795,84795
+Kevin Magnussen,825,20,Haas F1 Team,37,15,1:26.708,86708
+Esteban Ocon,839,31,Renault,37,16,1:24.746,84746
+George Russell,847,63,Williams,37,17,1:22.503,82503
+Romain Grosjean,154,8,Haas F1 Team,37,18,1:23.340,83340
+Nicholas Latifi,849,6,Williams,37,19,1:24.077,84077
+Charles Leclerc,844,16,Ferrari,37,20,1:33.153,93153
+Lewis Hamilton,1,44,Mercedes,38,1,1:22.502,82502
+Max Verstappen,830,33,Red Bull,38,2,1:24.038,84038
+Valtteri Bottas,822,77,Mercedes,38,3,1:23.524,83524
+Lance Stroll,840,18,Racing Point,38,4,1:24.935,84935
+Sergio Pérez,815,11,Racing Point,38,5,1:24.447,84447
+Carlos Sainz,832,55,McLaren,38,6,1:24.381,84381
+Alexander Albon,848,23,Red Bull,38,7,1:24.257,84257
+Pierre Gasly,842,10,AlphaTauri,38,8,1:24.159,84159
+Lando Norris,846,4,McLaren,38,9,1:24.038,84038
+Daniil Kvyat,826,26,AlphaTauri,38,10,1:23.692,83692
+Sebastian Vettel,20,5,Ferrari,38,11,1:24.019,84019
+Daniel Ricciardo,817,3,Renault,38,12,1:25.005,85005
+Kimi Räikkönen,8,7,Alfa Romeo,38,13,1:25.133,85133
+Antonio Giovinazzi,841,99,Alfa Romeo,38,14,1:25.099,85099
+Kevin Magnussen,825,20,Haas F1 Team,38,15,1:25.565,85565
+Esteban Ocon,839,31,Renault,38,16,1:24.692,84692
+George Russell,847,63,Williams,38,17,1:23.157,83157
+Romain Grosjean,154,8,Haas F1 Team,38,18,1:23.619,83619
+Nicholas Latifi,849,6,Williams,38,19,1:24.496,84496
+Charles Leclerc,844,16,Ferrari,38,20,1:27.517,87517
+Lewis Hamilton,1,44,Mercedes,39,1,1:22.273,82273
+Max Verstappen,830,33,Red Bull,39,2,1:23.775,83775
+Valtteri Bottas,822,77,Mercedes,39,3,1:23.136,83136
+Lance Stroll,840,18,Racing Point,39,4,1:24.413,84413
+Sergio Pérez,815,11,Racing Point,39,5,1:24.310,84310
+Carlos Sainz,832,55,McLaren,39,6,1:24.422,84422
+Pierre Gasly,842,10,AlphaTauri,39,7,1:24.630,84630
+Lando Norris,846,4,McLaren,39,8,1:24.047,84047
+Alexander Albon,848,23,Red Bull,39,9,1:27.959,87959
+Daniil Kvyat,826,26,AlphaTauri,39,10,1:23.652,83652
+Sebastian Vettel,20,5,Ferrari,39,11,1:23.755,83755
+Daniel Ricciardo,817,3,Renault,39,12,1:24.897,84897
+Kimi Räikkönen,8,7,Alfa Romeo,39,13,1:25.031,85031
+Antonio Giovinazzi,841,99,Alfa Romeo,39,14,1:27.331,87331
+Kevin Magnussen,825,20,Haas F1 Team,39,15,1:24.546,84546
+Esteban Ocon,839,31,Renault,39,16,1:24.524,84524
+George Russell,847,63,Williams,39,17,1:24.738,84738
+Romain Grosjean,154,8,Haas F1 Team,39,18,1:23.509,83509
+Nicholas Latifi,849,6,Williams,39,19,1:24.621,84621
+Lewis Hamilton,1,44,Mercedes,40,1,1:22.213,82213
+Max Verstappen,830,33,Red Bull,40,2,1:23.096,83096
+Valtteri Bottas,822,77,Mercedes,40,3,1:23.265,83265
+Lance Stroll,840,18,Racing Point,40,4,1:24.452,84452
+Sergio Pérez,815,11,Racing Point,40,5,1:24.351,84351
+Carlos Sainz,832,55,McLaren,40,6,1:24.256,84256
+Pierre Gasly,842,10,AlphaTauri,40,7,1:23.082,83082
+Lando Norris,846,4,McLaren,40,8,1:23.563,83563
+Daniil Kvyat,826,26,AlphaTauri,40,9,1:24.177,84177
+Sebastian Vettel,20,5,Ferrari,40,10,1:23.764,83764
+Alexander Albon,848,23,Red Bull,40,11,1:40.933,100933
+Daniel Ricciardo,817,3,Renault,40,12,1:28.239,88239
+Kimi Räikkönen,8,7,Alfa Romeo,40,13,1:27.871,87871
+Antonio Giovinazzi,841,99,Alfa Romeo,40,14,1:24.985,84985
+Kevin Magnussen,825,20,Haas F1 Team,40,15,1:24.848,84848
+Esteban Ocon,839,31,Renault,40,16,1:24.817,84817
+George Russell,847,63,Williams,40,17,1:25.260,85260
+Romain Grosjean,154,8,Haas F1 Team,40,18,1:23.714,83714
+Nicholas Latifi,849,6,Williams,40,19,1:23.981,83981
+Lewis Hamilton,1,44,Mercedes,41,1,1:22.438,82438
+Valtteri Bottas,822,77,Mercedes,41,2,1:23.334,83334
+Max Verstappen,830,33,Red Bull,41,3,1:26.019,86019
+Lance Stroll,840,18,Racing Point,41,4,1:24.376,84376
+Sergio Pérez,815,11,Racing Point,41,5,1:24.464,84464
+Pierre Gasly,842,10,AlphaTauri,41,6,1:24.041,84041
+Carlos Sainz,832,55,McLaren,41,7,1:27.582,87582
+Lando Norris,846,4,McLaren,41,8,1:24.031,84031
+Daniil Kvyat,826,26,AlphaTauri,41,9,1:24.260,84260
+Sebastian Vettel,20,5,Ferrari,41,10,1:24.031,84031
+Alexander Albon,848,23,Red Bull,41,11,1:22.194,82194
+Daniel Ricciardo,817,3,Renault,41,12,1:24.306,84306
+Kimi Räikkönen,8,7,Alfa Romeo,41,13,1:25.351,85351
+Kevin Magnussen,825,20,Haas F1 Team,41,14,1:24.969,84969
+Antonio Giovinazzi,841,99,Alfa Romeo,41,15,1:27.515,87515
+Esteban Ocon,839,31,Renault,41,16,1:25.503,85503
+George Russell,847,63,Williams,41,17,1:24.938,84938
+Romain Grosjean,154,8,Haas F1 Team,41,18,1:23.837,83837
+Nicholas Latifi,849,6,Williams,41,19,1:24.459,84459
+Lewis Hamilton,1,44,Mercedes,42,1,1:22.305,82305
+Valtteri Bottas,822,77,Mercedes,42,2,1:21.857,81857
+Max Verstappen,830,33,Red Bull,42,3,1:39.927,99927
+Sergio Pérez,815,11,Racing Point,42,4,1:24.691,84691
+Lance Stroll,840,18,Racing Point,42,5,1:27.852,87852
+Lando Norris,846,4,McLaren,42,6,1:24.037,84037
+Pierre Gasly,842,10,AlphaTauri,42,7,1:27.358,87358
+Daniil Kvyat,826,26,AlphaTauri,42,8,1:24.370,84370
+Sebastian Vettel,20,5,Ferrari,42,9,1:26.151,86151
+Carlos Sainz,832,55,McLaren,42,10,1:41.000,101000
+Alexander Albon,848,23,Red Bull,42,11,1:24.393,84393
+Daniel Ricciardo,817,3,Renault,42,12,1:24.610,84610
+Kimi Räikkönen,8,7,Alfa Romeo,42,13,1:25.333,85333
+Kevin Magnussen,825,20,Haas F1 Team,42,14,1:24.731,84731
+Antonio Giovinazzi,841,99,Alfa Romeo,42,15,1:25.121,85121
+Esteban Ocon,839,31,Renault,42,16,1:25.019,85019
+George Russell,847,63,Williams,42,17,1:24.701,84701
+Romain Grosjean,154,8,Haas F1 Team,42,18,1:23.877,83877
+Nicholas Latifi,849,6,Williams,42,19,1:24.403,84403
+Lewis Hamilton,1,44,Mercedes,43,1,1:22.129,82129
+Valtteri Bottas,822,77,Mercedes,43,2,1:22.532,82532
+Max Verstappen,830,33,Red Bull,43,3,1:22.221,82221
+Sergio Pérez,815,11,Racing Point,43,4,1:24.581,84581
+Lando Norris,846,4,McLaren,43,5,1:23.111,83111
+Daniil Kvyat,826,26,AlphaTauri,43,6,1:24.211,84211
+Sebastian Vettel,20,5,Ferrari,43,7,1:23.462,83462
+Lance Stroll,840,18,Racing Point,43,8,1:40.974,100974
+Carlos Sainz,832,55,McLaren,43,9,1:23.129,83129
+Alexander Albon,848,23,Red Bull,43,10,1:23.007,83007
+Pierre Gasly,842,10,AlphaTauri,43,11,1:42.245,102245
+Daniel Ricciardo,817,3,Renault,43,12,1:24.493,84493
+Kimi Räikkönen,8,7,Alfa Romeo,43,13,1:25.342,85342
+Kevin Magnussen,825,20,Haas F1 Team,43,14,1:25.034,85034
+Antonio Giovinazzi,841,99,Alfa Romeo,43,15,1:25.078,85078
+Esteban Ocon,839,31,Renault,43,16,1:25.015,85015
+George Russell,847,63,Williams,43,17,1:25.461,85461
+Romain Grosjean,154,8,Haas F1 Team,43,18,1:25.595,85595
+Nicholas Latifi,849,6,Williams,43,19,1:24.540,84540
+Lewis Hamilton,1,44,Mercedes,44,1,1:22.141,82141
+Valtteri Bottas,822,77,Mercedes,44,2,1:22.526,82526
+Max Verstappen,830,33,Red Bull,44,3,1:21.919,81919
+Sergio Pérez,815,11,Racing Point,44,4,1:24.326,84326
+Lando Norris,846,4,McLaren,44,5,1:26.714,86714
+Daniil Kvyat,826,26,AlphaTauri,44,6,1:25.774,85774
+Sebastian Vettel,20,5,Ferrari,44,7,1:23.975,83975
+Lance Stroll,840,18,Racing Point,44,8,1:23.259,83259
+Carlos Sainz,832,55,McLaren,44,9,1:23.799,83799
+Alexander Albon,848,23,Red Bull,44,10,1:23.466,83466
+Pierre Gasly,842,10,AlphaTauri,44,11,1:22.543,82543
+Daniel Ricciardo,817,3,Renault,44,12,1:23.990,83990
+Kevin Magnussen,825,20,Haas F1 Team,44,13,1:25.383,85383
+Antonio Giovinazzi,841,99,Alfa Romeo,44,14,1:25.259,85259
+Kimi Räikkönen,8,7,Alfa Romeo,44,15,1:29.319,89319
+Esteban Ocon,839,31,Renault,44,16,1:25.600,85600
+George Russell,847,63,Williams,44,17,1:26.257,86257
+Romain Grosjean,154,8,Haas F1 Team,44,18,1:24.409,84409
+Nicholas Latifi,849,6,Williams,44,19,1:25.052,85052
+Lewis Hamilton,1,44,Mercedes,45,1,1:21.539,81539
+Valtteri Bottas,822,77,Mercedes,45,2,1:23.206,83206
+Max Verstappen,830,33,Red Bull,45,3,1:23.114,83114
+Sergio Pérez,815,11,Racing Point,45,4,1:23.885,83885
+Sebastian Vettel,20,5,Ferrari,45,5,1:24.115,84115
+Daniil Kvyat,826,26,AlphaTauri,45,6,1:28.586,88586
+Lance Stroll,840,18,Racing Point,45,7,1:23.084,83084
+Carlos Sainz,832,55,McLaren,45,8,1:23.323,83323
+Alexander Albon,848,23,Red Bull,45,9,1:25.256,85256
+Pierre Gasly,842,10,AlphaTauri,45,10,1:23.544,83544
+Lando Norris,846,4,McLaren,45,11,1:41.429,101429
+Daniel Ricciardo,817,3,Renault,45,12,1:24.263,84263
+Kevin Magnussen,825,20,Haas F1 Team,45,13,1:24.010,84010
+Esteban Ocon,839,31,Renault,45,14,1:26.222,86222
+George Russell,847,63,Williams,45,15,1:25.058,85058
+Romain Grosjean,154,8,Haas F1 Team,45,16,1:24.657,84657
+Antonio Giovinazzi,841,99,Alfa Romeo,45,17,1:30.045,90045
+Nicholas Latifi,849,6,Williams,45,18,1:23.911,83911
+Kimi Räikkönen,8,7,Alfa Romeo,45,19,1:41.351,101351
+Lewis Hamilton,1,44,Mercedes,46,1,1:22.064,82064
+Valtteri Bottas,822,77,Mercedes,46,2,1:22.821,82821
+Max Verstappen,830,33,Red Bull,46,3,1:22.100,82100
+Sergio Pérez,815,11,Racing Point,46,4,1:24.518,84518
+Sebastian Vettel,20,5,Ferrari,46,5,1:23.581,83581
+Lance Stroll,840,18,Racing Point,46,6,1:23.162,83162
+Carlos Sainz,832,55,McLaren,46,7,1:23.455,83455
+Alexander Albon,848,23,Red Bull,46,8,1:23.431,83431
+Pierre Gasly,842,10,AlphaTauri,46,9,1:23.637,83637
+Lando Norris,846,4,McLaren,46,10,1:23.404,83404
+Daniel Ricciardo,817,3,Renault,46,11,1:23.446,83446
+Daniil Kvyat,826,26,AlphaTauri,46,12,1:41.148,101148
+Kevin Magnussen,825,20,Haas F1 Team,46,13,1:25.846,85846
+Esteban Ocon,839,31,Renault,46,14,1:23.775,83775
+George Russell,847,63,Williams,46,15,1:23.843,83843
+Romain Grosjean,154,8,Haas F1 Team,46,16,1:24.599,84599
+Nicholas Latifi,849,6,Williams,46,17,1:23.794,83794
+Kimi Räikkönen,8,7,Alfa Romeo,46,18,1:22.191,82191
+Antonio Giovinazzi,841,99,Alfa Romeo,46,19,1:40.982,100982
+Lewis Hamilton,1,44,Mercedes,47,1,1:22.149,82149
+Valtteri Bottas,822,77,Mercedes,47,2,1:23.068,83068
+Max Verstappen,830,33,Red Bull,47,3,1:22.609,82609
+Sergio Pérez,815,11,Racing Point,47,4,1:24.813,84813
+Sebastian Vettel,20,5,Ferrari,47,5,1:23.226,83226
+Lance Stroll,840,18,Racing Point,47,6,1:23.188,83188
+Carlos Sainz,832,55,McLaren,47,7,1:23.142,83142
+Alexander Albon,848,23,Red Bull,47,8,1:23.563,83563
+Pierre Gasly,842,10,AlphaTauri,47,9,1:23.330,83330
+Lando Norris,846,4,McLaren,47,10,1:23.401,83401
+Daniel Ricciardo,817,3,Renault,47,11,1:23.625,83625
+Daniil Kvyat,826,26,AlphaTauri,47,12,1:22.336,82336
+Kevin Magnussen,825,20,Haas F1 Team,47,13,1:24.253,84253
+Esteban Ocon,839,31,Renault,47,14,1:23.871,83871
+George Russell,847,63,Williams,47,15,1:24.522,84522
+Romain Grosjean,154,8,Haas F1 Team,47,16,1:23.851,83851
+Nicholas Latifi,849,6,Williams,47,17,1:23.699,83699
+Kimi Räikkönen,8,7,Alfa Romeo,47,18,1:21.888,81888
+Antonio Giovinazzi,841,99,Alfa Romeo,47,19,1:21.801,81801
+Lewis Hamilton,1,44,Mercedes,48,1,1:23.063,83063
+Valtteri Bottas,822,77,Mercedes,48,2,1:26.658,86658
+Max Verstappen,830,33,Red Bull,48,3,1:21.851,81851
+Sergio Pérez,815,11,Racing Point,48,4,1:25.244,85244
+Sebastian Vettel,20,5,Ferrari,48,5,1:22.707,82707
+Lance Stroll,840,18,Racing Point,48,6,1:22.699,82699
+Carlos Sainz,832,55,McLaren,48,7,1:23.564,83564
+Alexander Albon,848,23,Red Bull,48,8,1:22.776,82776
+Pierre Gasly,842,10,AlphaTauri,48,9,1:23.356,83356
+Lando Norris,846,4,McLaren,48,10,1:23.417,83417
+Daniel Ricciardo,817,3,Renault,48,11,1:23.025,83025
+Daniil Kvyat,826,26,AlphaTauri,48,12,1:22.476,82476
+Kevin Magnussen,825,20,Haas F1 Team,48,13,1:23.956,83956
+Esteban Ocon,839,31,Renault,48,14,1:24.401,84401
+George Russell,847,63,Williams,48,15,1:24.294,84294
+Romain Grosjean,154,8,Haas F1 Team,48,16,1:24.338,84338
+Nicholas Latifi,849,6,Williams,48,17,1:25.181,85181
+Kimi Räikkönen,8,7,Alfa Romeo,48,18,1:23.112,83112
+Antonio Giovinazzi,841,99,Alfa Romeo,48,19,1:22.614,82614
+Lewis Hamilton,1,44,Mercedes,49,1,1:21.954,81954
+Max Verstappen,830,33,Red Bull,49,2,1:21.732,81732
+Valtteri Bottas,822,77,Mercedes,49,3,1:41.004,101004
+Sergio Pérez,815,11,Racing Point,49,4,1:24.020,84020
+Sebastian Vettel,20,5,Ferrari,49,5,1:23.510,83510
+Lance Stroll,840,18,Racing Point,49,6,1:23.471,83471
+Carlos Sainz,832,55,McLaren,49,7,1:23.089,83089
+Alexander Albon,848,23,Red Bull,49,8,1:22.994,82994
+Pierre Gasly,842,10,AlphaTauri,49,9,1:23.098,83098
+Lando Norris,846,4,McLaren,49,10,1:23.232,83232
+Daniel Ricciardo,817,3,Renault,49,11,1:22.976,82976
+Daniil Kvyat,826,26,AlphaTauri,49,12,1:22.977,82977
+Kevin Magnussen,825,20,Haas F1 Team,49,13,1:25.495,85495
+Esteban Ocon,839,31,Renault,49,14,1:23.991,83991
+George Russell,847,63,Williams,49,15,1:24.016,84016
+Romain Grosjean,154,8,Haas F1 Team,49,16,1:24.178,84178
+Kimi Räikkönen,8,7,Alfa Romeo,49,17,1:22.382,82382
+Antonio Giovinazzi,841,99,Alfa Romeo,49,18,1:22.460,82460
+Nicholas Latifi,849,6,Williams,49,19,1:29.352,89352
+Lewis Hamilton,1,44,Mercedes,50,1,1:24.990,84990
+Max Verstappen,830,33,Red Bull,50,2,1:21.911,81911
+Valtteri Bottas,822,77,Mercedes,50,3,1:21.897,81897
+Sergio Pérez,815,11,Racing Point,50,4,1:23.904,83904
+Sebastian Vettel,20,5,Ferrari,50,5,1:23.319,83319
+Lance Stroll,840,18,Racing Point,50,6,1:23.027,83027
+Carlos Sainz,832,55,McLaren,50,7,1:23.211,83211
+Alexander Albon,848,23,Red Bull,50,8,1:23.059,83059
+Pierre Gasly,842,10,AlphaTauri,50,9,1:23.838,83838
+Lando Norris,846,4,McLaren,50,10,1:23.979,83979
+Daniel Ricciardo,817,3,Renault,50,11,1:22.843,82843
+Daniil Kvyat,826,26,AlphaTauri,50,12,1:23.435,83435
+Kevin Magnussen,825,20,Haas F1 Team,50,13,1:23.935,83935
+Esteban Ocon,839,31,Renault,50,14,1:23.579,83579
+George Russell,847,63,Williams,50,15,1:24.058,84058
+Romain Grosjean,154,8,Haas F1 Team,50,16,1:23.880,83880
+Kimi Räikkönen,8,7,Alfa Romeo,50,17,1:23.247,83247
+Antonio Giovinazzi,841,99,Alfa Romeo,50,18,1:22.719,82719
+Nicholas Latifi,849,6,Williams,50,19,1:41.488,101488
+Lewis Hamilton,1,44,Mercedes,51,1,1:40.359,100359
+Max Verstappen,830,33,Red Bull,51,2,1:22.406,82406
+Valtteri Bottas,822,77,Mercedes,51,3,1:21.885,81885
+Sergio Pérez,815,11,Racing Point,51,4,1:23.772,83772
+Sebastian Vettel,20,5,Ferrari,51,5,1:23.467,83467
+Lance Stroll,840,18,Racing Point,51,6,1:23.201,83201
+Carlos Sainz,832,55,McLaren,51,7,1:24.418,84418
+Alexander Albon,848,23,Red Bull,51,8,1:23.402,83402
+Pierre Gasly,842,10,AlphaTauri,51,9,1:22.931,82931
+Lando Norris,846,4,McLaren,51,10,1:22.894,82894
+Daniel Ricciardo,817,3,Renault,51,11,1:22.464,82464
+Daniil Kvyat,826,26,AlphaTauri,51,12,1:23.896,83896
+Kevin Magnussen,825,20,Haas F1 Team,51,13,1:23.883,83883
+Esteban Ocon,839,31,Renault,51,14,1:23.491,83491
+George Russell,847,63,Williams,51,15,1:23.775,83775
+Romain Grosjean,154,8,Haas F1 Team,51,16,1:24.878,84878
+Kimi Räikkönen,8,7,Alfa Romeo,51,17,1:22.927,82927
+Antonio Giovinazzi,841,99,Alfa Romeo,51,18,1:22.663,82663
+Nicholas Latifi,849,6,Williams,51,19,1:22.384,82384
+Lewis Hamilton,1,44,Mercedes,52,1,1:20.274,80274
+Max Verstappen,830,33,Red Bull,52,2,1:21.562,81562
+Valtteri Bottas,822,77,Mercedes,52,3,1:21.616,81616
+Sergio Pérez,815,11,Racing Point,52,4,1:24.055,84055
+Sebastian Vettel,20,5,Ferrari,52,5,1:23.356,83356
+Lance Stroll,840,18,Racing Point,52,6,1:22.825,82825
+Carlos Sainz,832,55,McLaren,52,7,1:22.824,82824
+Alexander Albon,848,23,Red Bull,52,8,1:22.939,82939
+Pierre Gasly,842,10,AlphaTauri,52,9,1:22.599,82599
+Lando Norris,846,4,McLaren,52,10,1:23.175,83175
+Daniel Ricciardo,817,3,Renault,52,11,1:24.511,84511
+Daniil Kvyat,826,26,AlphaTauri,52,12,1:22.879,82879
+Kevin Magnussen,825,20,Haas F1 Team,52,13,1:23.944,83944
+Esteban Ocon,839,31,Renault,52,14,1:23.708,83708
+George Russell,847,63,Williams,52,15,1:24.008,84008
+Romain Grosjean,154,8,Haas F1 Team,52,16,1:23.721,83721
+Kimi Räikkönen,8,7,Alfa Romeo,52,17,1:22.924,82924
+Antonio Giovinazzi,841,99,Alfa Romeo,52,18,1:23.133,83133
+Nicholas Latifi,849,6,Williams,52,19,1:23.014,83014
+Lewis Hamilton,1,44,Mercedes,53,1,1:20.892,80892
+Max Verstappen,830,33,Red Bull,53,2,1:21.477,81477
+Valtteri Bottas,822,77,Mercedes,53,3,1:21.698,81698
+Sergio Pérez,815,11,Racing Point,53,4,1:23.363,83363
+Sebastian Vettel,20,5,Ferrari,53,5,1:25.144,85144
+Lance Stroll,840,18,Racing Point,53,6,1:24.425,84425
+Carlos Sainz,832,55,McLaren,53,7,1:23.001,83001
+Alexander Albon,848,23,Red Bull,53,8,1:23.053,83053
+Pierre Gasly,842,10,AlphaTauri,53,9,1:22.911,82911
+Lando Norris,846,4,McLaren,53,10,1:23.131,83131
+Daniel Ricciardo,817,3,Renault,53,11,1:22.515,82515
+Daniil Kvyat,826,26,AlphaTauri,53,12,1:22.740,82740
+Kevin Magnussen,825,20,Haas F1 Team,53,13,1:23.999,83999
+Esteban Ocon,839,31,Renault,53,14,1:23.962,83962
+George Russell,847,63,Williams,53,15,1:24.424,84424
+Romain Grosjean,154,8,Haas F1 Team,53,16,1:23.543,83543
+Kimi Räikkönen,8,7,Alfa Romeo,53,17,1:22.921,82921
+Antonio Giovinazzi,841,99,Alfa Romeo,53,18,1:23.104,83104
+Nicholas Latifi,849,6,Williams,53,19,1:22.937,82937
+Lewis Hamilton,1,44,Mercedes,54,1,1:20.901,80901
+Max Verstappen,830,33,Red Bull,54,2,1:21.485,81485
+Valtteri Bottas,822,77,Mercedes,54,3,1:21.765,81765
+Sergio Pérez,815,11,Racing Point,54,4,1:23.044,83044
+Sebastian Vettel,20,5,Ferrari,54,5,1:23.434,83434
+Lance Stroll,840,18,Racing Point,54,6,1:22.914,82914
+Carlos Sainz,832,55,McLaren,54,7,1:22.848,82848
+Alexander Albon,848,23,Red Bull,54,8,1:23.389,83389
+Pierre Gasly,842,10,AlphaTauri,54,9,1:23.164,83164
+Lando Norris,846,4,McLaren,54,10,1:22.682,82682
+Daniel Ricciardo,817,3,Renault,54,11,1:22.595,82595
+Daniil Kvyat,826,26,AlphaTauri,54,12,1:23.042,83042
+Kevin Magnussen,825,20,Haas F1 Team,54,13,1:23.758,83758
+Esteban Ocon,839,31,Renault,54,14,1:23.426,83426
+George Russell,847,63,Williams,54,15,1:23.863,83863
+Romain Grosjean,154,8,Haas F1 Team,54,16,1:24.251,84251
+Kimi Räikkönen,8,7,Alfa Romeo,54,17,1:23.360,83360
+Antonio Giovinazzi,841,99,Alfa Romeo,54,18,1:23.201,83201
+Nicholas Latifi,849,6,Williams,54,19,1:22.882,82882
+Lewis Hamilton,1,44,Mercedes,55,1,1:21.220,81220
+Max Verstappen,830,33,Red Bull,55,2,1:21.852,81852
+Valtteri Bottas,822,77,Mercedes,55,3,1:21.541,81541
+Sergio Pérez,815,11,Racing Point,55,4,1:23.072,83072
+Sebastian Vettel,20,5,Ferrari,55,5,1:23.760,83760
+Lance Stroll,840,18,Racing Point,55,6,1:23.235,83235
+Carlos Sainz,832,55,McLaren,55,7,1:22.803,82803
+Alexander Albon,848,23,Red Bull,55,8,1:23.149,83149
+Pierre Gasly,842,10,AlphaTauri,55,9,1:22.898,82898
+Lando Norris,846,4,McLaren,55,10,1:24.977,84977
+Daniel Ricciardo,817,3,Renault,55,11,1:22.816,82816
+Daniil Kvyat,826,26,AlphaTauri,55,12,1:24.640,84640
+Kevin Magnussen,825,20,Haas F1 Team,55,13,1:24.227,84227
+Esteban Ocon,839,31,Renault,55,14,1:23.937,83937
+George Russell,847,63,Williams,55,15,1:24.245,84245
+Kimi Räikkönen,8,7,Alfa Romeo,55,16,1:23.444,83444
+Romain Grosjean,154,8,Haas F1 Team,55,17,1:25.197,85197
+Antonio Giovinazzi,841,99,Alfa Romeo,55,18,1:22.961,82961
+Nicholas Latifi,849,6,Williams,55,19,1:22.901,82901
+Lewis Hamilton,1,44,Mercedes,56,1,1:21.446,81446
+Max Verstappen,830,33,Red Bull,56,2,1:21.638,81638
+Valtteri Bottas,822,77,Mercedes,56,3,1:21.666,81666
+Sergio Pérez,815,11,Racing Point,56,4,1:25.184,85184
+Lance Stroll,840,18,Racing Point,56,5,1:22.024,82024
+Sebastian Vettel,20,5,Ferrari,56,6,1:24.557,84557
+Carlos Sainz,832,55,McLaren,56,7,1:22.941,82941
+Alexander Albon,848,23,Red Bull,56,8,1:23.162,83162
+Pierre Gasly,842,10,AlphaTauri,56,9,1:25.021,85021
+Lando Norris,846,4,McLaren,56,10,1:22.392,82392
+Daniel Ricciardo,817,3,Renault,56,11,1:22.795,82795
+Daniil Kvyat,826,26,AlphaTauri,56,12,1:22.644,82644
+Esteban Ocon,839,31,Renault,56,13,1:23.674,83674
+Kevin Magnussen,825,20,Haas F1 Team,56,14,1:25.883,85883
+George Russell,847,63,Williams,56,15,1:24.022,84022
+Kimi Räikkönen,8,7,Alfa Romeo,56,16,1:23.641,83641
+Romain Grosjean,154,8,Haas F1 Team,56,17,1:23.739,83739
+Antonio Giovinazzi,841,99,Alfa Romeo,56,18,1:23.198,83198
+Nicholas Latifi,849,6,Williams,56,19,1:23.194,83194
+Lewis Hamilton,1,44,Mercedes,57,1,1:21.498,81498
+Max Verstappen,830,33,Red Bull,57,2,1:22.045,82045
+Valtteri Bottas,822,77,Mercedes,57,3,1:21.698,81698
+Sergio Pérez,815,11,Racing Point,57,4,1:22.988,82988
+Lance Stroll,840,18,Racing Point,57,5,1:22.736,82736
+Sebastian Vettel,20,5,Ferrari,57,6,1:23.560,83560
+Carlos Sainz,832,55,McLaren,57,7,1:23.086,83086
+Alexander Albon,848,23,Red Bull,57,8,1:25.165,85165
+Pierre Gasly,842,10,AlphaTauri,57,9,1:22.914,82914
+Lando Norris,846,4,McLaren,57,10,1:23.203,83203
+Daniel Ricciardo,817,3,Renault,57,11,1:24.810,84810
+Daniil Kvyat,826,26,AlphaTauri,57,12,1:22.993,82993
+Esteban Ocon,839,31,Renault,57,13,1:22.820,82820
+Kevin Magnussen,825,20,Haas F1 Team,57,14,1:24.075,84075
+George Russell,847,63,Williams,57,15,1:25.274,85274
+Kimi Räikkönen,8,7,Alfa Romeo,57,16,1:25.165,85165
+Romain Grosjean,154,8,Haas F1 Team,57,17,1:24.637,84637
+Antonio Giovinazzi,841,99,Alfa Romeo,57,18,1:23.166,83166
+Nicholas Latifi,849,6,Williams,57,19,1:22.590,82590
+Lewis Hamilton,1,44,Mercedes,58,1,1:21.379,81379
+Max Verstappen,830,33,Red Bull,58,2,1:21.779,81779
+Valtteri Bottas,822,77,Mercedes,58,3,1:21.713,81713
+Sergio Pérez,815,11,Racing Point,58,4,1:22.515,82515
+Lance Stroll,840,18,Racing Point,58,5,1:22.406,82406
+Sebastian Vettel,20,5,Ferrari,58,6,1:23.695,83695
+Carlos Sainz,832,55,McLaren,58,7,1:23.522,83522
+Alexander Albon,848,23,Red Bull,58,8,1:22.966,82966
+Pierre Gasly,842,10,AlphaTauri,58,9,1:23.372,83372
+Lando Norris,846,4,McLaren,58,10,1:23.529,83529
+Daniel Ricciardo,817,3,Renault,58,11,1:22.760,82760
+Daniil Kvyat,826,26,AlphaTauri,58,12,1:22.823,82823
+Esteban Ocon,839,31,Renault,58,13,1:23.239,83239
+Kevin Magnussen,825,20,Haas F1 Team,58,14,1:24.267,84267
+Kimi Räikkönen,8,7,Alfa Romeo,58,15,1:22.047,82047
+George Russell,847,63,Williams,58,16,1:25.234,85234
+Romain Grosjean,154,8,Haas F1 Team,58,17,1:24.757,84757
+Antonio Giovinazzi,841,99,Alfa Romeo,58,18,1:23.572,83572
+Nicholas Latifi,849,6,Williams,58,19,1:22.741,82741
+Lewis Hamilton,1,44,Mercedes,59,1,1:20.964,80964
+Max Verstappen,830,33,Red Bull,59,2,1:21.570,81570
+Valtteri Bottas,822,77,Mercedes,59,3,1:21.754,81754
+Sergio Pérez,815,11,Racing Point,59,4,1:22.952,82952
+Lance Stroll,840,18,Racing Point,59,5,1:22.355,82355
+Carlos Sainz,832,55,McLaren,59,6,1:21.771,81771
+Sebastian Vettel,20,5,Ferrari,59,7,1:25.977,85977
+Alexander Albon,848,23,Red Bull,59,8,1:23.124,83124
+Pierre Gasly,842,10,AlphaTauri,59,9,1:23.478,83478
+Lando Norris,846,4,McLaren,59,10,1:24.952,84952
+Daniel Ricciardo,817,3,Renault,59,11,1:22.944,82944
+Daniil Kvyat,826,26,AlphaTauri,59,12,1:22.815,82815
+Esteban Ocon,839,31,Renault,59,13,1:23.025,83025
+Kevin Magnussen,825,20,Haas F1 Team,59,14,1:24.382,84382
+Kimi Räikkönen,8,7,Alfa Romeo,59,15,1:23.088,83088
+George Russell,847,63,Williams,59,16,1:24.412,84412
+Antonio Giovinazzi,841,99,Alfa Romeo,59,17,1:23.844,83844
+Romain Grosjean,154,8,Haas F1 Team,59,18,1:26.454,86454
+Nicholas Latifi,849,6,Williams,59,19,1:22.491,82491
+Lewis Hamilton,1,44,Mercedes,60,1,1:21.223,81223
+Max Verstappen,830,33,Red Bull,60,2,1:22.184,82184
+Valtteri Bottas,822,77,Mercedes,60,3,1:21.821,81821
+Sergio Pérez,815,11,Racing Point,60,4,1:23.169,83169
+Lance Stroll,840,18,Racing Point,60,5,1:22.639,82639
+Carlos Sainz,832,55,McLaren,60,6,1:22.595,82595
+Sebastian Vettel,20,5,Ferrari,60,7,1:24.140,84140
+Alexander Albon,848,23,Red Bull,60,8,1:23.558,83558
+Pierre Gasly,842,10,AlphaTauri,60,9,1:24.873,84873
+Lando Norris,846,4,McLaren,60,10,1:23.014,83014
+Daniel Ricciardo,817,3,Renault,60,11,1:22.861,82861
+Daniil Kvyat,826,26,AlphaTauri,60,12,1:22.873,82873
+Esteban Ocon,839,31,Renault,60,13,1:23.023,83023
+Kimi Räikkönen,8,7,Alfa Romeo,60,14,1:22.025,82025
+Kevin Magnussen,825,20,Haas F1 Team,60,15,1:25.281,85281
+George Russell,847,63,Williams,60,16,1:24.478,84478
+Antonio Giovinazzi,841,99,Alfa Romeo,60,17,1:23.931,83931
+Romain Grosjean,154,8,Haas F1 Team,60,18,1:24.419,84419
+Nicholas Latifi,849,6,Williams,60,19,1:22.030,82030
+Lewis Hamilton,1,44,Mercedes,61,1,1:21.397,81397
+Max Verstappen,830,33,Red Bull,61,2,1:21.904,81904
+Valtteri Bottas,822,77,Mercedes,61,3,1:21.934,81934
+Sergio Pérez,815,11,Racing Point,61,4,1:22.735,82735
+Lance Stroll,840,18,Racing Point,61,5,1:22.356,82356
+Carlos Sainz,832,55,McLaren,61,6,1:24.513,84513
+Sebastian Vettel,20,5,Ferrari,61,7,1:24.033,84033
+Alexander Albon,848,23,Red Bull,61,8,1:24.826,84826
+Pierre Gasly,842,10,AlphaTauri,61,9,1:23.789,83789
+Lando Norris,846,4,McLaren,61,10,1:23.869,83869
+Daniel Ricciardo,817,3,Renault,61,11,1:22.701,82701
+Daniil Kvyat,826,26,AlphaTauri,61,12,1:22.695,82695
+Esteban Ocon,839,31,Renault,61,13,1:22.823,82823
+Kimi Räikkönen,8,7,Alfa Romeo,61,14,1:22.422,82422
+Kevin Magnussen,825,20,Haas F1 Team,61,15,1:24.066,84066
+Antonio Giovinazzi,841,99,Alfa Romeo,61,16,1:22.504,82504
+George Russell,847,63,Williams,61,17,1:25.649,85649
+Romain Grosjean,154,8,Haas F1 Team,61,18,1:24.274,84274
+Nicholas Latifi,849,6,Williams,61,19,1:22.422,82422
+Lewis Hamilton,1,44,Mercedes,62,1,1:20.975,80975
+Max Verstappen,830,33,Red Bull,62,2,1:21.486,81486
+Valtteri Bottas,822,77,Mercedes,62,3,1:22.383,82383
+Sergio Pérez,815,11,Racing Point,62,4,1:23.119,83119
+Lance Stroll,840,18,Racing Point,62,5,1:22.482,82482
+Carlos Sainz,832,55,McLaren,62,6,1:22.057,82057
+Sebastian Vettel,20,5,Ferrari,62,7,1:24.787,84787
+Alexander Albon,848,23,Red Bull,62,8,1:23.983,83983
+Pierre Gasly,842,10,AlphaTauri,62,9,1:23.571,83571
+Lando Norris,846,4,McLaren,62,10,1:23.503,83503
+Daniel Ricciardo,817,3,Renault,62,11,1:23.710,83710
+Daniil Kvyat,826,26,AlphaTauri,62,12,1:23.103,83103
+Esteban Ocon,839,31,Renault,62,13,1:22.786,82786
+Kimi Räikkönen,8,7,Alfa Romeo,62,14,1:22.687,82687
+Kevin Magnussen,825,20,Haas F1 Team,62,15,1:24.008,84008
+Antonio Giovinazzi,841,99,Alfa Romeo,62,16,1:23.060,83060
+George Russell,847,63,Williams,62,17,1:24.923,84923
+Nicholas Latifi,849,6,Williams,62,18,1:22.909,82909
+Romain Grosjean,154,8,Haas F1 Team,62,19,1:33.951,93951
+Lewis Hamilton,1,44,Mercedes,63,1,1:19.822,79822
+Max Verstappen,830,33,Red Bull,63,2,1:21.709,81709
+Valtteri Bottas,822,77,Mercedes,63,3,1:19.750,79750
+Sergio Pérez,815,11,Racing Point,63,4,1:23.152,83152
+Lance Stroll,840,18,Racing Point,63,5,1:22.797,82797
+Carlos Sainz,832,55,McLaren,63,6,1:22.438,82438
+Sebastian Vettel,20,5,Ferrari,63,7,1:24.111,84111
+Alexander Albon,848,23,Red Bull,63,8,1:23.998,83998
+Pierre Gasly,842,10,AlphaTauri,63,9,1:23.468,83468
+Lando Norris,846,4,McLaren,63,10,1:23.310,83310
+Daniel Ricciardo,817,3,Renault,63,11,1:23.123,83123
+Daniil Kvyat,826,26,AlphaTauri,63,12,1:23.250,83250
+Esteban Ocon,839,31,Renault,63,13,1:22.764,82764
+Kimi Räikkönen,8,7,Alfa Romeo,63,14,1:22.858,82858
+Kevin Magnussen,825,20,Haas F1 Team,63,15,1:23.837,83837
+Antonio Giovinazzi,841,99,Alfa Romeo,63,16,1:23.251,83251
+George Russell,847,63,Williams,63,17,1:24.724,84724
+Nicholas Latifi,849,6,Williams,63,18,1:23.479,83479
+Romain Grosjean,154,8,Haas F1 Team,63,19,1:54.308,114308
+Lewis Hamilton,1,44,Mercedes,64,1,1:20.872,80872
+Max Verstappen,830,33,Red Bull,64,2,1:22.144,82144
+Valtteri Bottas,822,77,Mercedes,64,3,1:25.147,85147
+Sergio Pérez,815,11,Racing Point,64,4,1:23.141,83141
+Lance Stroll,840,18,Racing Point,64,5,1:23.177,83177
+Carlos Sainz,832,55,McLaren,64,6,1:22.817,82817
+Sebastian Vettel,20,5,Ferrari,64,7,1:24.407,84407
+Alexander Albon,848,23,Red Bull,64,8,1:24.319,84319
+Pierre Gasly,842,10,AlphaTauri,64,9,1:24.302,84302
+Lando Norris,846,4,McLaren,64,10,1:24.447,84447
+Daniel Ricciardo,817,3,Renault,64,11,1:24.095,84095
+Daniil Kvyat,826,26,AlphaTauri,64,12,1:23.559,83559
+Esteban Ocon,839,31,Renault,64,13,1:23.122,83122
+Kimi Räikkönen,8,7,Alfa Romeo,64,14,1:22.983,82983
+Kevin Magnussen,825,20,Haas F1 Team,64,15,1:23.474,83474
+Antonio Giovinazzi,841,99,Alfa Romeo,64,16,1:23.160,83160
+George Russell,847,63,Williams,64,17,1:24.890,84890
+Nicholas Latifi,849,6,Williams,64,18,1:25.532,85532
+Romain Grosjean,154,8,Haas F1 Team,64,19,1:20.409,80409
+Lewis Hamilton,1,44,Mercedes,65,1,1:20.847,80847
+Max Verstappen,830,33,Red Bull,65,2,1:22.764,82764
+Valtteri Bottas,822,77,Mercedes,65,3,1:40.545,100545
+Sergio Pérez,815,11,Racing Point,65,4,1:23.560,83560
+Lance Stroll,840,18,Racing Point,65,5,1:23.289,83289
+Carlos Sainz,832,55,McLaren,65,6,1:22.527,82527
+Sebastian Vettel,20,5,Ferrari,65,7,1:24.668,84668
+Alexander Albon,848,23,Red Bull,65,8,1:24.768,84768
+Pierre Gasly,842,10,AlphaTauri,65,9,1:24.546,84546
+Lando Norris,846,4,McLaren,65,10,1:24.161,84161
+Daniel Ricciardo,817,3,Renault,65,11,1:24.306,84306
+Daniil Kvyat,826,26,AlphaTauri,65,12,1:24.578,84578
+Esteban Ocon,839,31,Renault,65,13,1:22.174,82174
+Kimi Räikkönen,8,7,Alfa Romeo,65,14,1:23.196,83196
+Kevin Magnussen,825,20,Haas F1 Team,65,15,1:23.925,83925
+Antonio Giovinazzi,841,99,Alfa Romeo,65,16,1:23.593,83593
+George Russell,847,63,Williams,65,17,1:25.659,85659
+Lewis Hamilton,1,44,Mercedes,66,1,1:22.066,82066
+Max Verstappen,830,33,Red Bull,66,2,1:23.629,83629
+Valtteri Bottas,822,77,Mercedes,66,3,1:18.183,78183
